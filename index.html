@@ -86,6 +86,7 @@
     line-height: 1.5; opacity: 0;
     transition: opacity .8s;
     text-shadow: 0 1px 4px rgba(0,0,0,0.6);
+    z-index: 10;
   }
   .text-fragment.loaded { opacity: 1; }
 </style>
@@ -566,8 +567,9 @@ function splitSentences(text){
 }
 
 async function fetchFragments(files, prismWord, count){
-  if(!files || files.length===0) return [];
+  if(!files || files.length===0){ console.warn('fetchFragments: no files provided'); return []; }
 
+  console.log('fetchFragments: searching', files.length, 'files for "'+prismWord+'"');
   const word = prismWord.toLowerCase();
   const candidates  = [];
   const allSentences = [];
@@ -575,8 +577,9 @@ async function fetchFragments(files, prismWord, count){
   for(const file of files){
     try {
       const r = await fetch(file);
-      if(!r.ok) continue;
+      if(!r.ok){ console.warn('fetchFragments: failed to load', file, r.status); continue; }
       const sentences = splitSentences(await r.text());
+      console.log('fetchFragments: loaded', file, '-', sentences.length, 'sentences');
 
       sentences.forEach((s,j)=>{
         allSentences.push(s);
@@ -585,16 +588,18 @@ async function fetchFragments(files, prismWord, count){
         }
       });
     } catch(e){
-      console.warn('Could not load', file);
+      console.warn('Could not load', file, e);
     }
   }
 
+  console.log('fetchFragments: found', candidates.length, 'candidates,', allSentences.length, 'total sentences');
   const pool = candidates.length>0 ? candidates : allSentences;
   const result = [];
   const available = shuffle([...pool]);
   for(let i=0; i<count && i<available.length; i++){
     result.push(available[i]);
   }
+  console.log('fetchFragments: returning', result.length, 'fragments:', result);
   return result;
 }
 
