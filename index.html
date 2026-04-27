@@ -572,17 +572,19 @@ function splitSentences(text){
 async function fetchFragments(files, prismWord, count){
   if(!files || files.length===0){ console.warn('fetchFragments: no files provided'); return []; }
 
-  console.log('fetchFragments: searching', files.length, 'files for "'+prismWord+'"');
+  // randomly sample 20 files for speed
+  const sample = shuffle([...files]).slice(0, 20);
+  console.log('fetchFragments: searching', sample.length, 'random files for "'+prismWord+'"');
+
   const word = prismWord.toLowerCase();
   const candidates  = [];
   const allSentences = [];
 
-  for(const file of files){
+  for(const file of sample){
     try {
       const r = await fetch(file);
       if(!r.ok){ console.warn('fetchFragments: failed to load', file, r.status); continue; }
       const sentences = splitSentences(await r.text());
-      console.log('fetchFragments: loaded', file, '-', sentences.length, 'sentences');
 
       sentences.forEach((s,j)=>{
         allSentences.push(s);
