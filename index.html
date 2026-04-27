@@ -71,7 +71,6 @@
   #bg-image.loaded { opacity: 1; }
   .small-img {
     position: absolute;
-    max-width: 12.5vw;
     height: auto;
     display: block;
     opacity: 0;
@@ -507,30 +506,34 @@ function buildCollage(){
   }
 
   // shuffle sizes so each reload assigns them randomly
-  const sizes = shuffle(['12.5vw', '18.75vw', '37.5vw']);
+  const sizeVw = shuffle([12.5, 18.75, 37.5]);
+  const pxSizes = sizeVw.map(v => Math.round(window.innerWidth * v / 100));
 
-  // generate 3 random non-overlapping positions
-  const CW = window.innerWidth, CH = window.innerHeight;
-  const placed = [];
   const rem = all.length>1 ? shuffle(all).slice(1,4) : [];
   const colors = ['#2d2d6b','#4a1942','#0d3d29'];
+  const placed = [];
 
   for(let i=0;i<3;i++){
     const img = document.createElement('img');
     img.className = 'small-img';
-    img.style.maxWidth = sizes[i];
+    img.style.maxWidth = sizeVw[i]+'vw';
 
-    // pick random position, avoid overlaps
-    let px=60, py=60;
-    for(let attempt=0; attempt<30; attempt++){
-      const tx = 60 + Math.random() * (CW - 200);
-      const ty = 100 + Math.random() * (CH - 300);
-      const overlaps = placed.some(b=>
-        Math.abs(tx-b.x)<200 && Math.abs(ty-b.y)<150
-      );
+    const imgW = pxSizes[i];
+    const imgH = imgW * 0.7; // estimate height for overlap calc
+    const OVERLAP = 10; // allow only 10px overlap
+
+    let px = 60, py = 100;
+    for(let attempt=0; attempt<50; attempt++){
+      const tx = 60 + Math.random() * (window.innerWidth - imgW - 120);
+      const ty = 100 + Math.random() * (window.innerHeight - imgH - 250);
+      const overlaps = placed.some(b=>{
+        const overlapX = Math.min(tx+imgW, b.x+b.w) - Math.max(tx, b.x);
+        const overlapY = Math.min(ty+imgH, b.y+b.h) - Math.max(ty, b.y);
+        return overlapX > OVERLAP && overlapY > OVERLAP;
+      });
       if(!overlaps){ px=tx; py=ty; break; }
     }
-    placed.push({x:px, y:py});
+    placed.push({x:px, y:py, w:imgW, h:imgH});
     img.style.left = px+'px';
     img.style.top  = py+'px';
 
