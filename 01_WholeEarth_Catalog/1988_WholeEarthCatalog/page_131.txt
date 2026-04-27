@@ -1,0 +1,151 @@
+Cheapest 
+Synthesizers 
+Information free from: Yamaha 
+Music Corporation, Digital Musical 
+Instrument Division, P. O. Box 
+6600, Buena Park, CA 90622: 714/ 
+522-9011; Casio Corporation, 15 
+Gardner Road, Fairfield, NJ 07006; 
+201/575-7400. Prices are 
+approximate. 
+The standing rule of thumb in 
+electronic music is that having 
+many really cheap synthesizers 
+is better than having a single 
+expensive one. Richness and 
+diversity in sound comes by the 
+different ways in which each 
+synthesizer computes a signal. 
+Yamaha uses FM (as in the 
+radio broadcast) for its synthe- 
+sizing function. Casio uses a 
+choppy digital process. Others 
+use an “additive” algorithm. 
+Take a multitude of sources, 
+blend them together, and you'll 
+get sound textured in the way 
+real-life sounds are — impure, 
+uneven, rich. 
+Combining sound generators, 
+there’s no reason to have a 
+keyboard on each, so the 
+cheapest synthesizer module doesn't. It is the 
+Yamaha TX81Z (about $400), roughly the size of a 
+hardback book. Some music stores that cater to 
+electronic musicians have these keyboardless 
+units stacked on the floor. Composers walk out 
+with three or four of them. Each one they add is 
+another layer of grain in their music fabric. 
+To use them you'll need at least one synth with a 
+keyboard and the usual MIDI paraphernalia. The 
+by-now-old standard at the low end is the Casio 
+CZ-101 for around $300. It has a mini-keyboard 
+which feels cramped, but you can link it to a hi-fi 
+Roland D-50 
+Suggested retail $2095 (but available for much less at 
+many independent music stores); Catalog free from: 
+RolandCorp US, 7200 Dominion Circle, Los Angeles, CA 
+90040; 213/685-5141 
+Roland must have asked musicians exactly what 
+they wanted in a synthesizer because the D-50 just 
+about has it all: the ability to create new and differ- 
+ent sounds, the realism of a sampler, 
+built-in effects like Chorus, EQ and 
+reverb, and a responsive keyboard. 
+The D-50 uses an innovative Linear/ 
+Algorithmic (LA) synthesizer to pro- 
+duce warm, analog-type tones; the D- 
+50 also carries 100 sampled sounds in 
+its memory; you can combine these 
+with your synthesized sounds, or use 
+them to construct realistic-sounding 
+samples. The D-50 is also easy to use 
+(although you might not know it from 
+tape deck and revel in a variety of built-in sounds. 
+If touch sensitivity is important (the harder you hit 
+the keys the louder the sound is) you'll have to get 
+a velocity-sensitive keyboard. Currently the Casio 
+CZ-1 ($600) is a good choice. The next step up 
+from that is a used Yamaha DX-7 (about $1,000; 
+used DX-7II’s are still relatively rare and so a bit 
+more expensive), the music industry workhorse. An 
+alternative option for a professional tool is to com- 
+bine the CZ-1 with the nifty TX81Z box. You get 
+two flavors of sound generation (FM and digital) for 
+better variety. 
+—Kevin Kelly and Ramon Sender Barayon 
+looking at the owner's manual). Unlike FM synthe- 
+sis, as on Yamaha’s DX-7, the D-50’s LA synthesis 
+allows you to create the sounds you have in mind, 
+quickly and predictably. If you’re looking for a per- 
+formance synthesizer that sounds good, 
+is easy to 
+use, and offers a wealth of resources for program- 
+ming new sounds, the D-50 may be just the right 
+instrument for you. 
+— Paul Blankinship 
+SYNTHESIZERS 127 
+MIDI for Musicians 
+Craig Anderton 
+1986; 105 pp. 
+$14.95 
+($16.45 postpaid) from: 
+Music Sales Corp. 
+Distribution Center 
+P. O. Box 572 
+Chester, NY 10918 
+212/254-2100 
+or Whole Earth Access 
+Electronic technology has recently given musicians 
+several powerful tools: synthesizers, sound sam- 
+plers, sequencers, and editors (devices which 
+store sequences of sounds and give the musician 
+the power to delete or add notes or parts, to play 
+passages at various speeds, to change the order 
+of parts, and write compositions in step time and 
+play them back in real time. However, for many 
+years each manufacturer had a different standard. 
+A Yamaha sequencer, for example, might not work 
+properly to sequence a part played on a Roland 
+synthesizer. In order to allow various musical in- 
+struments and computers to work with each other 
+regardless of the manufacturer, a standard format 
+was developed called MIDI, Musical Instrument 
+Digital Interface. This is a brand new technology 
+(it’s only been around since 1983). It gives musi- 
+cians tremendous power to compose and record. 
+This is the book that best explains what MID] is 
+and does. 
+— Rob Griffith 
+5 
+Due to the rapid rate of technological change, instru- 
+ments often became obsolete within a few months after 
+their introduction. Eventually keyboard players were 
+almost afraid to buy anything because they felt that a 
+newer, better version would be introduced soon. Al- 
+though MIDI hasn’t put an end to this problem, it has 
+certainly helped extend the useful life of a piece of 
+equipment by making it compatible with newer devices. 
+Scanning Delays 
+Some keyboard players can notice slight timing 
+errors when they play a computer-controlled key- 
+board; in other words, the timing just isn’t as “tight” 
+as they would like. But as mentioned in the body of 
+the text, the entire scan takes less than a milli- 
+second 
+. 
+. 
+. so what’s the problem? 
+Delays can occur because of what the com- 
+puter does between scans. During this time it is 
+monitoring the MIDI data, perhaps calculating 
+envelope shapes, sending messages to a display, and 
+so on. As a result, successive scans may be separ- 
+ated by as much as 15 milliseconds. Most instru- 
+ments seem to do a scan around every 10 ms or so, 
+which is not an objectionable delay by any means. 
+MALE XLR 
+FEMALE XLR 
+FRONT VIEW 
+XLR CONNECTOR PIN NUMBERING 
+

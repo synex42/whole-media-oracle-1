@@ -1,0 +1,248 @@
+74 
+TELECONFERENCING 
+Minitel Report 
+by Robert Horvitz 
+WHEN THE FRENCH GOVERNMENT said it in- 
+tended to set up an electronic text and graphical infor- 
+mation system accessible nationwide through 
+phonelines by giving a free terminal to anyone willing 
+to do without a yearly paper phonebook, experts snick- 
+ered. The French had a reputation for art, topless 
+beaches, formal gardens, and poodles —not for high- 
+tech innovation. Attempts to mass-market such systems 
+in more “advanced” countries had all gone sour, and the 
+data format France adopted was incompatible with those 
+used elsewhere. It looked like a sure fiasco. 
+But now that Le Minitel has grown into the most suc- 
+cessful videotex system anywhere, the snickering’s 
+stopped: everyone’s too busy trying to figure out how to 
+adapt its winning ways. 
+The free terminals, the handiness of a free electronic 
+“phonebook” with automated search and list capabili- 
+ties, and the convenience of centralized billing for all 
+Minitel services that aren’t free, led to quick and wide 
+acceptance, even by those with no taste for technology. 
+The fact that the first-generation terminals had virtually 
+no memory encouraged news sources and businesses to 
+put information online, because users had to call back 
+each time they needed to look something up, getting 
+billed each time. 
+Then, sexy-chat “messageries” caught on in a big way, 
+with strangers flirting pseudonymously with each other 
+in the privacy of their own homes. These are still popu- 
+lar, but they really just paved the way for more diverse 
+and practical services, such as teleconferencing, elec- 
+tronic publishing and banking, teleshopping, electronic 
+mail, travel reservations, etc. Over 5,000 services are 
+now available, with more being added every day. More 
+sophisticated (and costly) terminals with memory and 
+color screens, and Minitel emulation packages for per- 
+sonal computers, are rapidly replacing the little freebies 
+that primed the pump. With over 3 million registered 
+users in France, Minitel is now spreading to other coun- 
+tries — though nearly all the services offered still as- 
+sume fluency in French. 
+For information on access from the US, call MinitelNet 
+Service at 800/822-6638; from Canada, call 212/307- 
+5510. As of mid-1988, six hours of access from the US 
+costs $150 ($25/hour). MinitelNet also sells terminal 
+emulation software for Macintosh and PC-type comput- 
+ers ($49 - $99). 
+Link-Up 
+Loraine Page, Editor 
+$22/year 
+(11 issues) from: 
+Learned Information, Inc. 
+| 
+143 Old Marlton Pike 
+Medford, NJ 08055 
+609/654-6266 
+A tabloid with personal writing that keeps track of 
+new computer networks, information services, 
+terminal software, and anything else you need to 
+telecommunicate effectively via personal computer. 
+Some articles pick a topic (investing, psychology, 
+detective work, religion) and describe everything 
+online that’s related. Link-Up is also beginning to 
+cover some of the legal and social ramifications of 
+the new telecom technology. 
+— Art Kleiner 
+¢ 
+The University of the Pacific’s School of Pharmacy offers 
+doctors and psychiatrists drug information via a private 
+service, Drug.Info, on Source Telecomputing. The 
+University’s staff reviews most major publications to 
+provide an up-to-the-minute digest of important drug 
+developments. You can quickly scan articles and choose 
+those that appear most significant to your practice. You 
+can then forward the article to your associates via elec- 
+tronic mail. 
+5 
+Before you decide to meet a CompuServer or attend a 
+CompuServe CB party in some faraway city, check out 
+the pix in the CB database. If you are using Compu- 
+Serve's Vidtex communications software, you can down- 
+load and print digitized pictures of other CompuServers. 
+To get into the database, you send CompuServe a good, 
+sharp 5" x 7" or 8" x 10" black and white photo of your 
+head and shoulders. 
+The Complete Handbook of 
+Personal Computer 
+Communications 
+Alfred Glossbrenner 
+1985; 512 pp. 
+$14.95 
+($16.45 postpaid) from: 
+St. Martin's Press 
+175 Fifth Avenue 
+New York, NY 10010 
+800/221-7945 
+or Whole Earth Access 
+Only book you need. All the lore on how to set up 
+your computer for networking, find the particular 
+networks you need, and connect your computer to 
+someone else’s typesetting equipment or directly 
+into another computer. Now in its extensively re- 
+vised second edition, this book resounds with en- 
+thusiasm and clarity. 
+— Art Kleiner 
+o 
+Industry newsletters of the sort found 
+on NewsNet are really more like private, 
+Nowe 
+ake 
+expert consultations. Most contain “the 
+Nee 
+\ 
+# 88: DR. QUAGALEER 
+(macbeth) 
+inside dope” on what's going on ina 
+1\ 
+\ 
+particular field. And most can tell you 
+; 
+what's likely to take place six months 
+\ 
+from now, what your competition is 
+\ 
+\ 
+doing, how national and world events 
+\ 
+\ 
+are likely to affect the industry as a 
+\ 
+\I 
+whole, and so on. In many cases there 
+\ 
+\\ 
+will also be commentary and analysis, 
+a 
+interviews with key people, advice, tips, 
+and other information — all of it gath- 
+\ the 
+ered, selected, and filtered through the 
+haat 
+expertise and experience of the 
+oh 
+\ 
+newsletter’s creator or editor. 
+\l 
+caged 
+\l 
+\ 
+is 
+/ehLGOUN. 
+(ie ee) 
+(aan 
+FidoNet 
+Information free from: IFNA (International FidoNet 
+Association, P. O. Box 41142, St. Louis, MO 63141; 
+314/576-4067 (voice) 
+FidoNet is sort of a poorman’s/homegrown Usenet, 
+a loose network of bulletin boards that use Fido 
+compatible software to download data from one 
+system to another. The downloading is usually 
+done at night when phone rates are low; after- 
+wards a user on any BBS connected to FidoNet 
+can read messages from other users on other 
+BBSs. A user can also send messages to any 
+other user on the larger network. It’s a way to 
+connect many 
+local community networks into an ad 
+hoc meta-network. The process is called echomail, 
+and besides sending individual messages, there 
+are always several echomail conferences to partici- 
+pate in. FidoNet isn’t the prettiest system in the 
+world, but the emphasis here is on information 
+exchange, not techno-flash. 
+— Richard Kadrey 
+This is the kind of information the general press will 
+never carry. ... More than 80 percent of all newsletters 
+on the NewsNet system are transmitted directly to the 
+company’s Prime computers from the personal comput- 
+ers and communicating word processors of their crea- 
+tors. As a result, you can be reading a newsletter within 
+hours of the time it left its creator's floppy disk. 
+One of the important features offered by a system like 
+MCI Mail is the option to have your message printed out 
+and delivered by U. S. mail. This is important because it 
+lets you send letters to people who do not have access 
+to a personal computer. 
+Wed, May 25, 
+'88 
+(08:52) 
+22 lines 
+Wal] 
+\ 
+\ 
+\ 
+is 
+AN 
+\I 
+\ 
+i ON 
+\ 
+| 
+\ 
+\ us| 
+\ 
+for 
+\ 
+sings 
+\ 
+bird 
+| sings 
+\ 
+\caged | 
+he 
+\ 
+| in 
+Ny 
+Net 
+sitting 
+\ 
+| 
+polly 
+\ 
+(aN 
+[PS 
+\ 
+rey 
+NO cl 
+\ 
+| 
+\ 
+pretty\ 
+| 
+\ 
+Nel 
+\ 
+\ 
+\such 
+\ 
+aA 
+\ 
+‘ 
+\ 
+Visual poetry from the WELL's online poetry conference. 
+

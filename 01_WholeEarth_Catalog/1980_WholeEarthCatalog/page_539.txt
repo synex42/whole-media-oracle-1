@@ -1,0 +1,291 @@
+Robotics Age 
+Robots are creeping into the world so stea/thily that most 
+people still aren’t aware how many 
+exist (thousands) or 
+how intriguing they can be, particularly for the home- 
+brew tinkerer with access to both a machine shop and a 
+microcomputer. 
+There’s a lot to tinker with — artificial 
+intelligence, simulated senses, and the mechanical chal- 
+lenge of building an arm that will move only as far as 
+you want it to and no further. By our stereotyped sci- 
+fi standards robots are simple-minded but still potentially 
+useful — both to large corporations and small workshops 
+with repetitive or dangerous jobs. (Auto companies are 
+beginning to use $20,000 industrial robots to weld cars 
+— they look /ike giant hairdryers, move with the jerky 
+grace of the old “Lost in Space” robot, and work ina 
+cloud of shooting sparks. Models made by independents 
+are less threatening and more interesting.) 
+The books weve seen on robots and robotics are out-of- 
+date or fluff; but Robotics Age is current 
+and solid. 
+/t’s 
+for people who make their own. 
+Even in its reports on 
+heavy industry it pays attention to the low-budget 
+applications of high- 
+budget ideas. 
+To a casual 
+observer, the possibilities 
+and implications of this 
+technology are, well, 
+riveting. 
+—Art Kleiner 
+Robotics Age 
+Hugh Bartel, Editor 
+$8.50 /year (4 issues) 
+from: 
+Robotics Age 
+P.O. Box 801 
+La Canada, CA 91011 
+System Incoherence 
+by Marc Le Brun 
+Computer systems are environments, or, if you prefer, 
+ecologies. They have a past and a future, functional 
+niches, finite resources and many other properties asso- 
+ciated with complicated systems which occur in nature. 
+Yet, few installations take this fact into account as a 
+general policy. Asa 
+result the systems are subject to the 
+same sorts of degeneration caused by neglect (or out-and- 
+out rapacity) as their more organic counterparts. 
+A typical (and costly) result of this is that it takes at least 
+as much effort to instantiate a process on the system as it 
+did to produce the original solution design in the first 
+place. I am not referring to the usual tooling costs incurred 
+in any engineering venture, but the unnecessary aggrava- 
+tion caused by attempting to use a polluted resource. 
+Ultimately, I suppose, the blame for this lies with con- 
+ventional attitudes towards the world around us, but in 
+the short range I believe it is because system “health” 
+is never budgeted for, which in turn is because it is not 
+perceived as a “real” property of the system, even though 
+it can account for tremendous losses in time and efficiency. 
+Installations are in general enslaved to the past and irre- 
+sponsible of the future. An all too common scenario goes 
+like this: (1) Project A writes some software, completely 
+with self-use in mind. The software is not “clean,” but 
+was only intended to “do the job,” and has various 
+strange and peculiar side-effects, which however, are of 
+no concern to Project A. (2) After a while Project B 
+develops a need for some similar software and to “‘cut 
+costs” uses Project A’s. The side-effects, while incon- 
+University publications lists 
+Much of the most far-ahead computer science work is 
+done at a few universities. 
+To find out what’s going on 
+without becoming a student (which may be inconvenient, 
+difficult, boring, or unnecessary), you can read the 
+reports published by their computer centers. Separating 
+the wheat from chaff when you order may be a problem, 
+but the paper titles are explicit and the listings are some- 
+times annotated. 
+The two best schools to write to are 
+MIT and Stanford. 
+—Art Kleiner 
+[Suggested by Marc Le Brun] 
+Stanford Department 
+of Computer Science 
+MIT Laboratory for 
+Computer Science 
+Technical Report List 
+Bibliography 
+and Technical Memo- 
+randa List 
+free from: 
+; 
+[7 
+tment o 
+free from: 
+ne 
+Computer Science 
+Publications Office 
+Stanford University 
+Stanford, CA 94305 
+Massachusetts Institute 
+of Technology 
+Laboratory for 
+Computer Science 
+545 Technology Square 
+Cambridge, MA 02139 
+DAN 
+O'NEILL 
+The MiniMover 5 tabletop arm is a unique instrument 
+that attaches as a manipulative device to an inexpensive 
+personal computer. 
+It enables individuals or groups — 
+such as schools and technical-interest clubs — to acquire 
+“hands-on” experience with computer controlled 
+automation, artificial intelligence, and robotics. The 
+MiniMover 5 may be used for such applications as: 
+1) computer games, in which the arm moves game pieces 
+on command: 2) computerized construction, in which 
+building components may be arranged into a wide variety 
+of configurations or mathematically programmed designs; 
+3) computer assembly, simulating automated factories 
+of the future; 4) computer art, using graphic instruments 
+such as paint brushes, felt tip pens, etc. directly. 
+Further information on the MiniMover 5 can be obtained 
+from Microbot, 1259 El Camino Real, Ste 200, Menlo 
+Park, CA 94025. 
+e 
+Mr. Taft told Robotics Age that Milton Bradley is 
+currently spending over $600,000 per year for research 
+on robot- and computer-related products. (This is roughly 
+comparable to the entire NASA robotics research 
+budget — ed.) 
+All this should be important news to Robotics Age 
+readers. As the toy industry, already past masters at 
+producing inexpensive mechanisms, discovers the vast 
+potentials of robotics, we can expect to see an increasing 
+array of cheap, practical devices suitable for computer 
+interfacing, providing an attractive alternative to 
+time-consuming hand-built iterms and expensive com- 
+mercial equipment. 
+One final note — Mr. Taft tells us that Milton Bradley 
+licenses the designs of about half of the devices it uses 
+in its toys from outside sources, so you may want to 
+send them that unique new sensor you've built! 
+venient, are easily managed. (3) ProjectsC, D,E... 
+follow suit and soon the software has become The Soft- 
+ware. 
+(4) Finally, Project Z comes along. Project Z is 
+fantastic, worthwhile, very useful and promises great 
+things for the future except for one thing: the side-effects 
+from The Software are pure poison to it — and the system 
+has developed its first allergy. On older and larger systems 
+every new project is like “Project Z,” there’s always some 
+major or minor implementation conflict. 
+I once did some low-key work on a system that had to 
+meet some “crash priorities” and was under tremendous 
+pressure to justify its continued existence. The main 
+systems group began to modify key portions of the soft- 
+ware to expedite their job and help meet deadlines. 
+Less than vital projects had to fend for themselves as 
+various parts of the system ceased to function reliably. 
+Eventually of course,they painted themselves into a 
+corner, since their own software began to fail, and the 
+system had poisoned itself with the metabolic by- 
+products of its own too-rapid growth. 
+I believe that this kind of nonsense may be greatly 
+reduced by a little planning at the start, and in particular, 
+budgeting for the maintenance of system health. Systems 
+do get old and cranky and die of course, but a lifetime of 
+“sickness” is another thing entirely. 
+= 
+TAP 
+This ten-year-old newsletter for telecommunications 
+junkies is still the best source of information on the 
+hidden byways of the telephone and other communica- 
+tions networks. 
+It’s expanded its focus since the old 
+make-phone-calls-for-free days; now it covers computers, 
+telex, cable TV, and the postal system. 
+Use it at your 
+own risk; most of it is written under pen names. 
+But 
+that doesn’t make it any less fascinating to read. 
+—Art Kleiner 
+TAP 
+$5 /10 issues from: 
+TAP 
+Room 603 
+147 West 42nd Street 
+New York, NY 10036 
+Cybernetics for the Modern Mind 
+Computers grew out of information theory and cyber- 
+netics, grew so fast the origins (and fundamentals) some- 
+how got left behind. 
+“History” around computers 
+means last year. 
+| will bet that’s a shallowness error, 
+that deeper experimentation and sounder future sense 
+would come from a thorough grounding in the pre-micro 
+basics and exciting origin story of this particular 
+Captain Marvel. 
+A British color-graphic 
+candy box, this book 
+does nicely as a compleat 
+guide for the compleat 
+idiot. 
+(Genius is made of 
+routinely asking idiot 
+questions; genius has no 
+shame whatever.) 
+—SB 
+Cybernetics for the 
+Modern Mind 
+Walter R. Fuchs 
+1968, 1971; 357 pp. 
+OUT OF PRINT 
+Macmillan 
+Publishing Company 
+Get this book 
+back in print! 
+The first codification 
+attempt of the little 
+fairy-tale king turned out 
+to be ambiguous. 
+Raising 
+his right hand three times 
+in succession could be 
+interpreted as ‘‘three 
+times roast,” or “‘roast”’ 
+followed by ‘‘cake,”” 
+or “‘cake”’ followed 
+by “roast.” 
+I] Cybernetic Frontiers 
+Computer people usually hate anything journalistic that’s 
+written about them. One measure of this book’s value is 
+that they still remember it with affection. 
+The book 
+opens two worlds to the casually interested — the world 
+of hard-core computer hackers (explored in 1972 but 
+still true to life) and the world of Gregory Bateson’s 
+cybernetic thought (explored in 1973 but agelessly 
+informative). 
+The book was written by Stewart Brand, 
+who’s my boss, but | liked it before | started working 
+here. Bargain priced. 
+—Art Kleiner 
+Il Cybernetic 
+Frontiers 
+Stewart Brand 
+1974; 95 pp. 
+$2 postpaid from: 
+The CoEvolution 
+Quarterly 
+P.O. Box 428 
+Sausalito, CA 94966 
+Legends abound from early ARPA days, full of freedom 
+and weirdness. 
+Here’s one of many from Project MAC 
+(Multiple Access Computer) days. Alan Kay: ‘They had 
+a thing on the PDP-1 called ‘The Unknown Glitch: 
+[“Glitch’’ — a kink, a less-than-fatal but irritating 
+fuck-up]. They used to program the thing either in direct 
+machine code, direct octal, or in DDT. 
+In the early days 
+it was a paper-tape machine. 
+It was painful to assemble 
+stuff, so they never listed out the programs. The pro- 
+grams and stuff just lived in there, just raw seething octal 
+code. And one of the guys wrote a program called ‘The 
+Unknown Glitch,’ which at random intervals would wake 
+up, print out | AM THE UNKNOWN GLITCH. CATCH 
+ME IF YOU CAN, and then it would relocate itself some- 
+where else in core memory, set a clock interrupt, and go 
+back to sleep. There was no way to find it.” 
+| 
+THE RISING SUN 
+NEIGHBORHOOD NEWSLETTER 
+* Probably it turns out that having a miracle 
+- happen to you is 
+just like having anything else 
+: happen — might be great, might be awful, might 
+- be OK but ill timed, but there it is — it happened 
+: and you have to cope with it, 
+COMMUNICATIONS 
+COMPUTER AGE 537 
+

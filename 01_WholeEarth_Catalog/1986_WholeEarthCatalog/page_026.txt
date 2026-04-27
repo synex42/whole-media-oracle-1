@@ -1,0 +1,191 @@
+24 
+WHOLE SYSTEMS 
+CYBERNETICS 
+ESSE 
+a 
+EST 
+SSS 
+TE 
+ST 
+0° °°° YBERNETICS IS THE DISCIPLINE of whole systems thinking. For a field of such importance 
+~ 
+it is shocking there are so few introductory books. The ones here, like the Bateson books on p. 
+i. 
+22, introduce the cybernetic frame of mind. They instill habits of minds that lead to on-going 
+®eeee 
+health effectiveness in all your dealings becuase they become self-adjusting. A whole system 
+Systemantics 
+John Gall 
+1986; 297 pp. 
+Write for price to: 
+The General 
+Systemantics Press 
+3200 West Liberty, Suite A 
+Ann Arbor, MI 48103-9794 
+or Whole Earth Access 
+The Recursive 
+Universe 
+William Poundstone 
+1985; 252 pp. 
+$7.95 
+($8.95 postpaid) from: 
+Contemporary Books 
+180 North Michigan Ave. 
+Chicago, IL 60601 
+or Whole Earth Access 
+An Introduction 
+to General 
+Systems Thinking 
+Gerald M. Weinberg 
+1975; 279 pp. 
+$42.95 
+postpaid from: 
+John Wiley & Sons 
+Order Dept. 
+1 Wiley Drive 
+Somerset, NJ 08873 
+or Whole Earth Access 
+is a living system is a learning system. 
+—Stewart Brand 
+ES 
+I 
+AS 
+ST SST 
+I SS 
+SS 
+TS 
+Systemantics 
+The pun in the title carries the important message that 
+systems have “‘antics’” — they act up, misbehave, and 
+have their own mind. The author is having fun with a ser- 
+ious subject, deciding rightly that a sense of humor and 
+paradox are the only means to approach large systems. 
+His insights come in the form of marvelously succinct rules 
+of thumb, in the spirit of Murphy’s Law and the Peter Prin- 
+ciple. This book made me 1) not worry about understand- 
+ing a colossal system — you can’t, 2) realize you CAN 
+change a system — by starting a new one, and 3) flee 
+from starting new systems — they don’t go away. 
+—Kevin Kelly 
+We begin at the beginning, with the Fundamental 
+Theorem: New systems mean new problems. 
+The system always kicks back — Systems get in the way — 
+or, in slightly more elegant language: Systems tend to 
+oppose their own proper functions. 
+e 
+Systems tend to malfunction conspicuously just after their 
+greatest triumph. Toynbee explains this effect by pointing 
+out the strong tendency to apply a previously successful 
+strategy to the new challenge. The army is now fully 
+prepared to fight the previous war. 
+e 
+A complex system that works is invariably found to have 
+evolved from a simple system that worked. The parallel 
+proposition also appears to be true: A complex system 
+designed from scratch never works and cannot be made 
+to work. You have to start over, beginning with a work- 
+ing simple system. 
+SS 
+a 
+TS 
+Ta 
+SRS 
+SRI 
+The Recursive Universe « Life 
+You are God in the game of Life, a computer game. Let 
+there be a grid. And you create all in it. You design not 
+only the creatures but the rules of their universe. Let the 
+cells live (a black dot) or die (emptiness) in each genera- 
+tion. And then there is time, a thousand generations a 
+minute. Let there be graphic patterns of your cells’ growth, 
+as they pulse in expansion, or flicker into extinction. Their 
+destiny is fixed by the original premises that you, God, 
+choose. Mathematically there is no way to tell where 
+the system is going until you try it. That you can TRY 
+it is heavenly. 
+Invented in 1970 by mathematician John Conway, Life 
+is no longer played as a mere game. Run on large main- 
+frame computers, this game, and others like it, have proved 
+to be a fertile field of scientific research, the first hands-on 
+cybernetics laboratory. (The discipline is called Cellular 
+Automata.) Some of the curious results and startling im- 
+plications of running these simple worlds are clearly 
+presented in The Recursive Universe. To be a part-time 
+God yourself, you only need a home version of Life, which 
+is available in the public domain for Apple, IBM and 
+Macintosh computers. 
+—Kevin Kelly 
+Life 
+$8 (1BM PC) 
+John Conway 
+Public Domain: 
+21 
+5 (Macintosh) 
+Software Copying Co. 
+@ 
+33 Gold Street, #13 
+10 (Apple Ile) 
+New York, NY 10038 
+When Life was first introduced, three of the biggest 
+questions Life players wondered about were these: Is 
+there any general way of telling what a pattern will do? 
+Can any pattern grow without limit (so that the number 
+of live cells keeps getting bigger and bigger)? Do all pat- 
+An Eater Eats a Glider 
+(Ja 
+Another eater 
+terns eventually settle down into a stable object or group 
+of objects? 
+Actually, Conway chose the rules of 
+Life just so that these sorts of ques- 
+tions would be hard to answer. 
+[One kind of pattern] does not even 
+have itself for a predecessor. It is an 
+unstable pattern with no predeces- 
+sors. The only way it can possibly 
+turn up on the Life screen is for 
+someone to use it as a starting con- 
+figuration. The name for such a 
+configuration is a ‘“Garden-of- 
+Eden” pattern. 
+© @ 
+eee 
+C00008 
+08 
+A Garden-of-Eden 
+Pattern 
+This is a pattern with no past. It can 
+never appear in Life except in the 
+initial state. 
+SLL 
+IL 
+I 
+SE ET COLTS 
+IED 
+An Introduction to 
+General Systems Thinking 
+Viewed from just about any perspective this book is an 
+exemplary introduction to a complex subject. The fascina- 
+ting observations are well organized and are stated in 
+a consciously informal tone. Thoughtful questions for 
+research and additional readings are provided for those 
+who want to go beyond the scope of the book. Over a 
+hundred wide-ranging quotes add to the fun. 
+—William Courington 
+® 
+Discriminating too many states is what we have previously 
+called undergeneralization. The popular image of science 
+envisions the scientist making the maximally precise 
+measurements as a basis for his theories, but, in practice, 
+scientists are lucky that measurements are not overly 
+precise. Newton based his Law of Universal Gravitation 
+on the elliptical orbits of Kepler, but Kepler abstracted 
+these ellipses from the observations of Tycho Brahe. Had 
+those observations been a bit more precise (as precise as 
+we now can make) the orbits would not have been seen 
+as ellipses, and Newton’s work would have been much 
+more difficult. With more precise observations, the 
+simplifications we discussed in Chapter 1 would have 
+been left for Newton to make explicitly — thus 
+immensely compounding his difficulties. 
+

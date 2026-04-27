@@ -1,0 +1,150 @@
+138 MAPMAKING 
+Mapmaking 
+by Don Ryan 
+A measure of the difficulty of progress in cartography is 
+the out-of-printness of two of these texts. Their market 
+is limited to academe and a small interface with com- 
+merce and government. The costs of production are dis- 
+proportionate: High quality reproduction of already 
+printed maps is technically difficult, therefore costly; 
+the generation of hundreds of entirely new illustrations 
+~ 
+is even more so. 
+Slow, conservative evolution within a proven market 
+had kept the third book alive. What has suffered is the 
+growth of knowledge and advancement of the art. 
+Find these books in a large public or university library. 
+Semiology of Graphics 
+University of Wisconsin Press 
+OUT OF PRINT 
+“Semiology” means the “language of signs,” and 
+it’s significant that semiology originated within the 
+same circle of french sociologists to which this 
+book’s author, Jacques Bertin, belongs. 
+This book is mother-lode of the theory of technical 
+graphics. But it is written in the tone of one artist 
+speaking to another. That is, technical graphics are 
+treated as a legitimate art-form, to which standards 
+of clarity, form, and balance are to be applied. 
+Every mapmaker and computer graphics jockey 
+will find useful material in this book. 
+— Robert G. Flower 
+lowing figures: 
+30° west; 
+1952); 
+“ 
+Examples of Several Oblique Planispheres 
+Along with Brisemeister’s equivalent projection (figure 12, 
+page 293), several oblique projections are given in the fol- 
+11—Guillaume Postel’s compromise projection. This is 
+similar to the projection in figure 6, with the axis 
+through the Pacific Ocean (J. Strohl); 
+12—‘’Atlantis” projection, Mollweide’s equivalent projec- 
+tion, where the main axis corresponds to the meridian 
+13—projection with regional compromise (J. Bertin, 1953), 
+in which the compromise is no longer homogeneous, 
+but is modified for a larger deformation of the oceans, 
+to give a lesser deformation of the continents; 
+14—azimuthal equidistant projection, centered on Khar- 
+toum; this is like the projection in figure 10, centered 
+to group the set of the continents, including the South 
+Pole, in the zone of least deformation; 
+15—split projection with regional compromise (J. Bertin, 
+16—projection with regional compromise achieved by jux- 
+taposition of azimuthals (J. Bertin, 1954). 
+Mapping Information 
+Abt Books 
+OUT OF PRINT 
+This is the book for one entering thematic cartogra- 
+phy in a serious way (this subset of the field ex- 
+cludes maps of general interest such as topo- 
+graphic maps or road maps, to deal with special 
+subjects such as economic or scientific data, in- 
+cluding non-physical events and totally abstract or 
+hypothetical matters). 
+By assuming that the beginning cartographer al- 
+ready knows several ways to make a mark ona 
+piece of paper — including via computer, if his or 
+her pencil is broken (Fisher founded the pioneering 
+Harvard Laboratory of Computer Graphics) the 
+author frees the book of the necessity of describing 
+penpoints and typesetters and reproduction tech- 
+nology which will be obsolete by the time the book 
+enters its second printing. In essence, the book 
+becomes timeless. 
+The chapter on using color is the only case | have 
+ever seen where the verbal and diagrammatic 
+description — in black and white — is sufficiently 
+lucid that color is not needed on the pages. The 
+rest of the book is as clear. 
+A monumental work, essential in its theory. A vis- 
+ual feast, full of transparent layers of beautifully- 
+defined content. Ultimately desirable. No wonder 
+it’s out of print. 
+— Don Ryan 
+Consider the 
+problem of 
+superimposing 
+eleven adminis- 
+trative systems 
+(economic 
+regions, social 
+security, work in- 
+spection, postal 
+regions, military 
+regions, regional 
+planning areas, 
+etc.) that were 
+obtained from a 
+preparatory 
+survey for the determination of administrative regions. The various 
+departmental boundaries can thus include from one to eleven 
+regional boundaries. 
+An engagingly written and clearly illustrated, very 
+valuable book. A companion volume, covering 
+general reference maps would make a world- 
+beating set. | want them both. Please? 
+— Don Ryan 
+Elements of Cartography 
+(Fifth Edition) 
+Arthur Robinson 
+1984; 448 pp. 
+$45.45 
+($47.40 postpaid) from: 
+John Wiley & Sons 
+1 Wiley Drive 
+Somerset, NJ 08875 
+201/469-4400 
+or Whole Earth Access 
+The great, grey tome of my college years has 
+grown greater through many editions but is still not 
+the single sufficient source I'd like it to be. 
+The book first appeared in 1953, concentrating on 
+history, design, and time-proven technique. Since 
+then it has grown by accretion — like a hailstone 
+— picking up layers here and there: remote sens- 
+ing in the 60’s and layers of computer applications 
+in the 70’s and early 1980's. Unfortunately, the 
+busy layout of the book emphasizes the diversity of 
+its origins rather than the cohesiveness of its 
+theme. It is, frankly, uninspiring. A book about a 
+visual craft or science just ought to look better. 
+Too much space has been devoted to ephemeral 
+technology. Large sections have been made obso- 
+lete by evolution in the printing industry or the 
+ongoing revolution in micro-computing. This cover- 
+age should have been left to the books and maga- 
+zines in those areas (see pages 140-150) to which, 
+by the way, no reference is made. 
+Despite the shortness of art and deficiencies of 
+organization, however, the core of academic car- 
+tography is adequately served. | would wish for 
+some influence from outside that circle and eventu- 
+ally a total revision of illustration and layout. 
+— Don Ryan 
+The watercourse of the Loire upriver from the Forez plain. This is 
+progressively reduced in scale. The photographic reduction make the 
+loops of the river disappear progressively, beginning with the small- 
+est ones. The deisgner has the choice between the disappearance of 
+the smallest loops or their preservation by amplification. 
+

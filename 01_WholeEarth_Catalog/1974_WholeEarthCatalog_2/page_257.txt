@@ -1,0 +1,289 @@
+icles from Scientific American add up to an ideal 
+prrodu ti on to computers, how they came about and how 
+—SB 
+[Suggested by Bob Albrecht] 
+cai Computers and 
+ane 
+Computers and 
+Computation 
+Introductions by 
+_ Robert R. Fenichel 
+and 
+Joseph Weizenbaum 
+1971; 283pp. 
+$4.95 postpaid 
+from: 
+W.H. Freeman 
+and Co. 
+660 Market St. 
+San Francisco, CA 
+94104 
+Hlead-mounted display at the University of Utah employs a 
+visplay processor similar to that used for the aircraft carrier 
+lequence. Two miniature cathode ray tubes are built into 
+he goggles. A mechanical linkage tells the computer where 
+he viewer is looking at each instant. The display processor 
+nstantaneously supplies the correct image for each head 
+bosition. The viewer is free to look anywhere in a 360- 
+legree circle and can look up and down through an angle 
+fabout 45 degrees. 
+Two samples of what he sees are shown 
+t the right. The objects grow larger or smaller and move 
+ith relation to one another as the observer moves around. 
+ach chapter alone would be a credit to any author. 
+Together 
+ey could form a “magnum opus.” But for Knuth it’s but 
+folume | of a proposed seven volume series! Volumes 
+(Seminumerical Methods) and /// (Sorting and Searching) 
+ave already been published. And like Volume I, they have 
+ickly become the authoritative references on their 
+spective, more specialized subjects. 
+1 
+—Larry Birenbaum 
+undamental Algorithms from: 
+donald E. Knuth 
+Addison-Wesley Pub. Co., Inc 
+968; 634pp. 
+Reading, MA 01867 
+19.50 postpaid 
+or Whole Earth 
+et us try to compare the concept of an algorithm with that 
+f a cookbook recipe: A recipe presumably has the qualities 
+f finiteness (although it is said that a watched pot never 
+oils), input (eggs, flour, etc.) and output (TV dinner, etc.) 
+ut notoriously lacks definiteness. There are frequent cases 
+which the definiteness is. missing, e.g., “Add a dash of 
+alt."’ A “dash”’ is defined as ‘‘less than 1/8 teaspoon” 
+alt is perhaps well enough defined; but where should the 
+alt be added (on top, side, etc.)? Instructions like ‘‘toss 
+ghtly until mixture is crumbly,’’ “warm cognac in small 
+aucepan,”’ etc., are quite adequate as explanations to a 
+ained cook, perhaps, but an algorithm must be specified 
+D such a degree that even a computer can follow the 
+irections. Still, a computer programmer can learn much 
+ly studying a good recipe book. 
+(In fact, the author has 
+arely resisted the temptation to name the present volume 
+he 
+Programmer's Cookbook."’ Perhaps someday he will 
+a book called ‘Algorithms for the Kitchen."’) 
+Principles of Systems 
+Personally | prefer strictly conceptual cybernetics, where 
+you hear loose language such as “‘An increasing number of 
+old maids gives rise to more domestic cats, which decrease 
+the number of rats, which lowers the incidence of bubonic 
+plague by some amount.” Forrester can teach you to use 
+numbers around those verbs and get some use out of a 
+computer—— as he did with the admirable book Limits to 
+Growth. (Pg. 464) Student workbook included with text. 
+—SB 
+princaPles 
+OF 
+SYSTEMS 
+by 
+W. Forrester 
+Joy 
+Principles of Systems 
+Jay W. Forrester 
+1968 
+aie wha 
+$8.00 postpaid 
+9! 
+Chapters 1 ou 
+from: 
+Wright-Allen Press, Inc.. 
+238 Main St. 
+Cambridge, MA 02142 
+ants 
+it tenet 
+PrekienioarY ee 
+or Whole Earth 
+seg 
+Sar 
+is 
+eae 
+Principles of Interactive Computer Graphics 
+Here it is... the first book that tells you most of what you 
+need to know to get started in computer graphics. Before 
+you dig into this book, though, you need to know something 
+about trigonometry, coordinate geometry and matrix algebra 
+plus a modest understanding of both high-level and assembly 
+language programming. 
+The book consists of 5 parts plus a giant bibliography (319 
+references) and a bunch of appendices. 
+e 
+Hardware for displaying computer graphics. 
+. 
+. how to 
+dsiplay points and vectors ona CRT... an instruction 
+set for programming simple pictures. 
+e 
+Ways to generate codes to make pictures. .. match for 
+making 2-dimensional transformations on pictures. 
+. 
+. 
+translation, rotation, shrinking, expanding, distorting 
+images. 
+e 
+Devices for pointing at, positioning, adding, deleting 
+images on the CRT... the light pen, the joystick, the 
+mouse... tablets for entering graphical stuff. . 
+. 
+e 
+Displaying 3D images on a 2D screen. .. perspective. 
+. 
+. 
+mathematical transformations. .. hidden line and 
+hidden surface problems. 
+. 
+. shading. 
+e 
+Languages for doing computer graphics. 
+. 
+. features of 
+languages, design of languages, need for high-level 
+graphics languages. 
+. 
+. survey of high-level languages for 
+computer graphics—— ALGOL 60, PL1, FORTRAN, 
+DIAL, SAIL, ELAP, EULER and others. 
+. 
+. components 
+of a complete graphics system. 
+. Plus appendices on things like vectors and matrices, 
+homogeneous coordinate techniques, instructions for a 
+small computer, the SAIL language, hidden line algorithms 
+and choosing a display system. 
+—Bob Albrecht 
+Principles of Interactive 
+Computer Graphics 
+William Newman and 
+‘Robert Sproull, Richard 
+F. Dojny, Ed. 
+1973; 607pp. 
+$17.50 Postpaid 
+from: 
+McGraw Hill, Inc. 
+Princeton Road 
+Hightstown, NJ 08502 
+Manchester Rd. 
+Manchester, MO 63011 
+8171 Redwood Highway 
+Novato, CA 94947 
+ge = 
+yd 1S 
+ha 
+‘COMPUTER SCIENCE 
+ee 
+he 
+leat 
+Lane 8. 
+We Ta ae ae 
+beast 
+Design of Man-Computer Dialogues 
+This book gives a very thorough overview of the kinds of 
+human-computer interactive systems and languages available. 
+The table of contents shows that the book (which is mostly 
+examples of such systems/languages, with a moderate 
+amount of philosophy and psychology added) is divided and 
+subdivided well, so you shouldn't have any trouble finding 
+your area of specialty and digging right in. The references 
+seem to be for those systems used as examples. 
+Martin writes for the industry audience, in particular the 
+people who're deciding what type of computer storage 
+and retrieval system to build/buy. 
+There’s not a large amount of detail on how such systems are 
+built. 
+It’s mostly the outlines and general considerations that 
+are given. 
+/ came across a few sections that | thought were fun, like: 
+e 
+an excellent introduction to APL (an unusual and 
+fascinating computer language) 
+e 
+at least two conversations with ELIZA, the computer 
+program that impersonates a rogerian psychoanalyst 
+e 
+several excellent chapters on what to remember 
+while you’re designing your own system 
+e 
+a fictitious cable TV hookup that connects you toa 
+travel agency’s computer where, for free, you can 
+preview likely (or just plain flight-of-fancy) vacation 
+spots. 
+—Dave Kaufman 
+[Suggested by Bob Albrecht] 
+Design of Man- 
+Computer Dialogues 
+James Martin 
+1973; 559pp. 
+$1 5.95 postpaid 
+from: 
+Prentice-Hall, Inc. 
+Box 500 
+Englewood Cliffs, 
+NJ 07632 
+Box 18501 
+Salt Lake City, 
+UT 84118 
+or Whole Earth 
+The ease with which the patients accepted the computer's 
+questioning surprised the investigating team. There were 
+few, if any, signs of anxiety or uncertainty. Questioned 
+about the experience afterwards, none of the patients said 
+that he found it unpleasant or annoying. Many compared 
+the computer favorably to the live consultant, describing it 
+as “‘polite,"’ “friendly,” and “‘understandable.”” 
+In one 
+similar application, designed to establish a personality profile 
+of the patient, it was even difficult to persuade old ladies 
+to leave the terminal; nobody had taken that much interest 
+in them in years! 
+Computerworld 
+How do you keep up with computer science? Read 
+Computerworld week/y. New products, new applications, 
+new companies, mergers, failures. The Wall Street Journal 
+of the computer industry. Standard newspaper mosaic 
+format and reporting, with columnists, editorial page, in- 
+depth serialized features, and articles of general interest. 
+Computers and People 
+This periodical is the closest thing to being the Scientific 
+American of the computer-oriented press. Apparently 
+well researched articles on broad spectrum of topics: 
+Technical (hardware and software), social, educational, 
+political. 
+It’s a magazine with a conscience. Computers & 
+People (formerly titled Computers and Automation) is heavy 
+on social comment and humanistic uses of computers. 
+Every 
+August issue focuses on Computer Art and every March issue 
+on Computer in Education. 
+—Jerry Brown 
+[Suggested by Bob Albrecht] 
+Computerworld 
+from: 
+$12/year 
+Computerworld 
+F 
+: 
+Circulation Dept. 
+published weekly 
+797 Washingten St. 
+Newton, MA 02160 
+Computers and People __ from: 
+Edmund C. Berkeley, ed. 
+Berkeley Enterprises, Inc. 
+815 Washington St. 
+Newtonville, MA 02161 
+One year (excluding the Computer Directory 
+and Buyers Guide) 12 issues, U.S. only: $11.50 
+(monthly) 
+One year (including the Computer Directory and 
+Buyers Guide) 13 issues, U.S. only: $23.50 
+705° 
+SN
+MA 
+WOD
+Fu
+oy 
+

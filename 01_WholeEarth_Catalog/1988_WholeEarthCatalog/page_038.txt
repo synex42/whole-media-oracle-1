@@ -1,0 +1,228 @@
+34 
+FOREIGN LANGUAGE WORD PROCESSORS 
+Chinese Word Processors 
+Kuo Chiao Chinese Characters: Version 1.0. $174 
+postpaid from Key International, 834 Henderson Ave., 
+Sunnyvale, CA 94056; 408/247-6220 
+TianMa: Version 2.06. $615 postpaid from Pacific Rim 
+Connections, 3030 Atwater Drive, Burlingame, CA 
+94010; 415/699-0911 
+FeiMa: S version $200; regular version $400; SE version 
+$590, all postpaid from Unisource Software, 23 East 
+Street, Cambridge, MA 02141; 617/477-8383 
+The complexities of Chinese have been married to 
+the conveniences of personal computers. Of sev- 
+eral Chinese software programs | know about, the 
+Kuo Chiao program is the most affordable ($174). 
+It allows four methods of entering words as charac- 
+ters: 1) by Pinyin (Roman letters); 2) by Chinese 
+phonetics; 3) by radical and stroke order; and 4) by 
+creating your own. Each way gives you 10,000 full- 
+blooded Chinese characters (or newfangled simpli- 
+fied ones) ready to be word processed, left to right 
+Linguists’ Software 
+Catalog free from: Linguists’ Software, 925 Hendley 
+Lane, Edmonds, WA 98020; 206-775-1130 
+Japanese Language Services 
+Catalog free from: Japanese Language Services, 
+Software Department, 186 Lincoln Street, Boston, MA 
+02111; 617/338-2211 
+If you’ve been beating your head against the wall 
+trying to find Macintosh-based word processing 
+software in languages like Russian, Arabic, or 
+Korean, here are two companies that will save a lot 
+of wear and tear on your skull. Linguists’ 
+Software specializes in European, Russian, Near 
+and Far Eastern languages. Besides common 
+tongues like Spanish, German, and French, Lin- 
+guists’ Software carries modern and ancient 
+Greek, Coptic, Hebrew, Egyptian Hieroglyphics, 
+Arabic and Farsi, Akkadian, Cyrillic, Chinese, 
+Kanji, Kana, Korean, and Thai. Their TECH and 
+LaserTECH packages feature mathematical and 
+scientific symbols. The documentation that accom- 
+panies their programs is pretty lame, but if you 
+have some Macintosh experience you should be 
+able to get the system up and running quickly 
+anyway. Most 
+of their soft- 
+ware average 
+TEKMNTPpO Mapecel. 
+between $80 
+and $100. 
+IdlaS Agus Ino Shd osto 
+Examples of fonts 
+in Linguists’ 
+Software’s 
+MacSemitic Coptic 
+Devanagari. 
+or up to down. Runs on an IBM compatible with a 
+graphics card. 
+Far more elegant is the program TianMa (Heavenly 
+Horse). It has similar input methods, but does 
+sophisticated word analysis in which it will select 
+the proper character based on the other words in a 
+phrase. This semi-intelligence requires massive 
+memory, so it comes with a dedicated RAM card 
+for the IBM PC. You'll still need a graphics card. It 
+will manipulate 9,000 characters, traditional or 
+simplified. Costs $615. 
+The most graphic heavyweight Chinese word proc- 
+essor runs on the Macintosh. Called FeiMa (Flying 
+Horse), the program boasts the usual way of enter- 
+ing characters as well as two others: pick one out 
+of a scrolling dictionary, or type in the English word 
+and it will translate. The graphic superiority comes 
+at the price of a smaller glossary. The Mac Plus 
+version ($400) comes with 2,400 words (enough to 
+write a newspaper story), with an additional 3,080 
+words in the hard-disc version ($590). You can get 
+Japanese Language 
+Services carries a num- 
+ber of Linguists’ 
+Software packages. 
+They also offer online 
+Japanese clip art and 
+calligraphy programs, as 
+well as Japanese lan- 
+guage-based computers 
+and software such as 
+the Japanese version of 
+Lotus 1-2-3 and JAM, a 
+text program that lets 
+you create Japanese 
+characters in many 
+Macintosh applications. 
+Software prices range 
+from $50 to $400, but 
+most packages are be- 
+to get: 
+é 
+SE 
+ee 
+[ 
+tw [29 fe ce fe Ee ee a a | 
+e 
+eles Bais a 
+| 
+ee Gale aalo. a ee | 
+Rew 
+Raid Cale ee 
+sles 
+bl S Pale. 
+Caps Lok 
+Caps 
+Lok 
+o 
+Ba 
+bl 
+FA 
+B Fe 
+ba 
+z}\u Fa 
+ey 
+Hw 
+ks 
+Fe EA 
+« 
+SE, Il 
+= 
+TEE 
+a 
+| 
+|| 
+cyrittie 
+sovrer | 
+SOME 
+Mey 
+<a 
+4 
+ae 
+aa 
+z 
+¢ o= with the option key Se (@) type 
+*, 
++ 
++ 
+type: 
+gea gee gei geo geu oeE gna gnA gnn gnN gno gnO ga Ge oi Go gugGa 
++e: [ BARB RAR, MRE. 
+RES, a A 
+caucus Said: 
+"When friends come froa afar, 
+it is a pleasant thing. 
+: 
+- When you review what you have learned: 
+it is also a pleasant thing." 
+An original Confucian proverb and its English translation using the 
+TianMa program. Surrounding this review is the desktop screen of 
+the ZhongWen Chinese operating system on the Macintosh. 
+a limited version that allows only Pinyin entry of 
+2,400 words for $200. 
+Apple has recently written a Chinese operating 
+system for the Macintosh. It serves as a foundation 
+for any kind of software program (spreadsheets, 
+file managers, games and, of course, word proces- 
+sors) that might want to speak Chinese. Called 
+ZhongWen (Chinese for "Chinese"), it is currently 
+available only from Hong Kong or Taiwan Apple 
+distributors. 
+— Kevin Kelly 
+release option and type o. This gives: 
+nip 
+ONS 
+oO 
+d 
+= Automatic 
+80 and 
+100. 
+to get: 
+@ 
+ine 
+ge 
+tf 
+Vaum 
+ie] 
+© 
+Backspacing 
+tween $ 
+$ 
+type: 
+gua gue gui guo guu guy guA guO au oa Pie Pil Pio giu 
+Dice) 
+— Richard Kadrey 
+A standard Soviet Cyrillic keyboard layout in Linguists’ Software’s LaserCyrillic program. With Laser- 
+Cyrillic, you can also work in other Cyrillic-based keyboard layouts, including Serbian/Macedonian and 
+Ukranian. 
+MacARABIC & FARSI 
+Automatic contextualization & ligature formation. Urdu and 
+Bidirectional word processing. 
+$79.95 
+funya% foro Juoja Nooo Jui 
+rucoaaS Kma cuaia duam Kun 
+neve 
+Semere t= 5 cal 
+Getad wae Waacatita 
+POANRVAINNAT 
+YY ATATEDX)TH 
+El 
+Ep Pe tip 
+9 
+Malay characters. Useable with most Macintosh programs. Best on Macintosh Plus. Vowel + compound 
+vowel overstrikes. Arabic Interface System, 2 PostScript.+ 2 fonts for English systems. Cursor reliable 
+in MacDraw but often not in MacWnite™ & Microsoft® Word™ (features limited). 
+LaserWriter sample: 
+o7r0- 
+4 
+0 
+we gale coast! Gad! Ll e 
+cual ¥5 agile Ssiaiall 
+MacHEBREW 
+SHDRS 
+SuperHebrew 12,18,24,36 screen & Imagewriter fonts for LaserHebrew plus modern Israeli keyboard 
+layout + Jerusalem 10,12, 20,24 pt. font. 
+SINT Mg) OYDUT Ms Cry NT TPENTD 
+Se 
+wnanyn XI wywsn Dn xin 
+WRN WIINA yy wv OM 
+

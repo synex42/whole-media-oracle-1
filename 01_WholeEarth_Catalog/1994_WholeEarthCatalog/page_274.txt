@@ -1,0 +1,274 @@
+Abbe Don archives four generations on CD-ROM. 
+Communications 
+210 
+Family } 
+Media 
+and pS 
+ak 
+Photo CD 
+s a child, | spent many weekends 
+A 
+listening to my great-grandmother 
+tell stories while she taught me to 
+make traditional Jewish foods. As an adult, 
+| have used those family storytelling expen- 
+ences as a context for creating interactive 
+media. | recently began putting my family 
+photographs onto Photo CD, a special CD 
+format developed by Kodak for storing 
+negatives or slides. Photo CDs run on 
+many different types of CD-ROM players 
+with Photo CD capability. | can take a 
+Photo CD from my Macintosh, play it on 
+my father's Windows machine, then head 
+to my grandmother's house and play it on 
+a Kodak Photo CD Player attached to her 
+television. And images on Photo CD ex- 
+pand the possibilities for storytelling and 
+multimedia playfulness. 
+You don't have to be an expert to begin 
+the process. You can put up to 100 im- 
+ages on one Photo CD. Obtain slides or 
+negatives of your favorite family pictures. 
+(Honzontal images match the aspect ratio 
+of the computer and television screens; 
+vertical pictures will appear sideways un- 
+less you pay extra to have them rotated.) 
+Many local Kodak photo finishers can put 
+your negatives or slides on Photo CD. Ser- 
+vice bureaus that specialize in Photo CD 
+and related services often have lower 
+prices (I use Palmer Photographic in Sacra- 
+mento, CA: 916/441-3305). The cost 
+ranges from 90 cents to $2 per image, de- 
+pending on how many images are in your 
+order and the scan quality you choose. 
+“Consumer quality” is more than ad- 
+equate, unless you plan to do extensive, 
+high-resolution printing. 
+You now have a reliable archival medium. 
+Whether the pictures are on a computer 
+screen or television, they often act as cata- 
+lysts for reminiscing and passing on stories 
+when the family gathers to view them. 
+The following ideas, based on Macintosh 
+software, suggest some possibilities for a 
+foray into digital media creation. 
+Digital Greeting Cards: An advantage of 
+digital images is that you can easily cut, 
+copy, paste, and rearrange images without 
+damaging the onginals| Each Photo CD in- 
+cludes an application called Slide Show 
+Viewer. You can view each image from the 
+CD sequentially, at a size of 160 x 120 
+pixels. From Slide Show Viewer, you can 
+open a picture with applications such as 
+Adobe Photoshop. Once the image is 
+open, you can resize it, change the colors, 
+ddd text, or collage it with other pictures. 
+Make a collage of family photographs, add 
+d greeting, and save the file onto a floppy 
+disk. Take it to a service bureau and print 
+your annual holiday greeting card on pho- 
+tographic paper. 
+MAKING FAMILY MEDIA 
+Digital Family Album: Using a paint pro- 
+gram, create a template for a digital family 
+album that can be viewed on screen or 
+printed. You can tell a story through artful 
+sequencing of the images. Play with the 
+placement of pictures to juxtapose each 
+sibling at various rites of passage, such as 
+first steps, graduation or wedding. 
+Collecting Oral Stories: Sit with your 
+favorite family storyteller and look at the 
+pictures on screen. Use the built-in micro- 
+phone with audio-capture software (the 
+audio palette that comes with HyperCard, 
+or the capture feature in Adobe Premiere). 
+Kid Pix and Adobe Premiere let you make 
+slide shows with accompanying audio sto- 
+nies and save them to your hard drive as 
+QuickTime movies. As you view the slide 
+show, prompt reticent family members to 
+share their versions of 
+the stories. 
+Interactive Family Stories: Kodak has de- 
+veloped another format called Photo CD 
+Portfolio Disc. With it, you can assemble 
+your family history, complete with pictures, 
+stories, and music, onto a cross-platform 
+CD package. Kodak's Create-It software, a 
+separate application, is designed to sim- 
+plify the authoring process for end-users, 
+though it has a clumsy interface and still 
+requires familiarity with the structuring of 
+interactive presentations. After assembling 
+your media and linking them in Create-It, 
+take all your media files and the Create-It 
+scripts to a local Sir Speedy Service Bureau 
+to have the Photo CD Portfolio disc made. 
+Some Sir Speedy franchises also offer pro- 
+duction assistance and handholding, but 
+the prices for this added service fluctuate 
+wildly. Watch for prices to drop and for 
+more flexible tools to emerge. -Abbe Don 
+Kodak Photo CD: Kodak Information 
+Center, 343 State Street, Rochester, NY 
+14650; 800/242-2424, International 71 6/ 
+724-1021, fax 716/781-5986. 
+Sir Speedy: Call 800/854-8297 for the 
+shop nearest you. 
+KidPix Il: $39.95 ($43.95 postpaid). 
+Broderbund Software/Customer Service, 
+PO Box 6125, Novato, CA 94948-6125; 
+800/521-6263. 
+Create-It Photo CD Presentation 
+Software: Requires System 7 or higher, 8- 
+bit or 24-bit color monitor, 8 MB RAM rec- 
+ommended, Kodak Photo CD-compatible 
+CD-ROM XA drive. $219. Eastman Kodak 
+Company, 343 State Street, Rochester, NY 
+14650; 800/866-5533. 
+Adobe PhotoShop 2.5: Suggested retail 
+price $895; CD-ROM edition $995. 
+Adobe Premier 3.0: Suggested retail 
+price $795. 
+Both from Adobe Systems Inc., 1585 
+Charleston Road, PO Box 7900, Mountain 
+View, CA 94039; 800/833-6687. 
+Demystifying Multimedia 
+This comprehensive book lives up to its 
+title by focusing on the design and de- 
+velopment process, rather than on spe- 
+cific technologies. Illustrated case studies 
+and interviews with seasoned producers 
+serve as mini-apprenticeships, sharing 
+insights that might otherwise take years 
+to leam through trial and error. 
+Pay close attention to the Design and 
+Prototype chapter, regardless of the 
+scale of your project — people too of- 
+ten assume ‘there is too little time and 
+money to spend on prototyping and 
+move too quickly to production before 
+they've adequately thought out their 
+needs.” Check out the Roles section for 
+a sense of 
+how your current skills apply 
+to multimedia. The Projects chapter 
+succinctly describes the elements of 
+common multimedia formats. 
+The book's structural elements — 
+pithy margin notes and quotes, cross- 
+referencing, navigation bars, and iconic 
+summaries — are themselves a case 
+study in interactive design. -AD 
+e 
+The greater the level of interactivity, that is, 
+the greater the audience involvement and 
+control, the greater the effort required to 
+design and produce a multimedia product. 
+The level of interactivity also gauges com- 
+plexity when estimating project duration 
+and cost. Levels of interactivity include pas- 
+sive, interactive or adaptive. 
+Passive multimedia are presented in a linear 
+manner like a slide show or videotape. 
+Interactive multimedia allow users to con- 
+trol the action and chart a personal course 
+through the content. 
+Adaptive multimedia are at the highest level 
+of interactivity. They allow users to enter 
+their own content and control how it is used. 
+This content can be original text, illustrations, 
+sound, video, commentary on content already 
+in the project, or a new sequence or arrange- 
+ment of the existing content. 
+e 
+Shaping the design for a multimedia project 
+begins with an outpouring of ideas and cre- 
+ative exploration of possibilities. The real 
+strength of development is in collaboration, 
+and begins with brainstorming. Brainstorm- 
+ing is a dynamic process of generating ideas 
+without judgment or constraint. The pur- 
+pose of brainstorming is to open the spigot 
+of creativity for everyone involved in the 
+project: managers, artists, production staff, 
+potential users, clients (if there are any). A 
+good brainstorming session results in a col- 
+lection of ideas and solutions that become 
+the basis for designs and their prototypes. 
+e 
+Design and Prototype Tips 
+* It is much easier to make changes in the 
+prototype stage than in the production stage. 
+* A design on paper is not enough. Most 
+multimedia products require a working 
+prototype or model for everyone to under- 
+stand. 
+* Don't spend a large amount of money until 
+you know exactly what you are going to build. 
+* Don’t get so attached to an idea or technique 
+that you lose sight of the project’s purpose. 
+* Allow team members creative autonomy but 
+figure out ways for them to work together. 
++ User test early and often. 
+aE IA 
+MUTED 
+saa 
+fe 
+Mav's 
+Demystifyng Multimedia 
+(A Guide for Multimedia Developers from 
+Apple Computer, Inc.) 
+Ken Fromm & Nathan Shedroff, Editors. 
+1993; 284 pp. 
+$30 ($33 postpaid); order #T1115LLA. 
+APDA/Apple Computer, Inc., PO Box 319, 
+Buffalo, NY 14207; 800/282-2732 (interna- 
+tional calls: 716/871-6555), fax 716/871-6511 
+Below are handy icons representing some of 
+the topics covered in the book. 
+Topics with specific 
+relevance to 
+animators. 
+Topics with specific 
+relevance to 
+video professionals. 
+co] 
+L 
+Topics with specific 
+relevance to 
+information designers, 
+interface designers, 
+or programmers. 
+Topics with specific 
+relevance to 
+interactive education.. 
+Ss 
+Topics with specific 
+relevance to 
+writers, editors, and 
+researchers. 
+Orner Great Resources 
+| Photograph To Remember/Fotografio 
+Para Recordar: Pedro Meyer. Macintosh or 
+Windows versions. The Voyager Company (see 
+p. 269). An intimate portrait of photographer 
+Pedro Meyer's parents as they confront their 
+own mortality. 
+A Celebration of American Family 
+Folklore: Steven J. Zeitlin, Amy J. Kotkin & Holly 
+Cutting Baker. 1982, 1992, Yellow Moon Press. A 
+wonderful collection of American family folklore, 
+with an excellent section on collecting your own. 
+Guide to Genealogy Software: Donna 
+Przecha & Joan Lowrey. 1993, Genealogical Pub- 
+lishing Company. The most comprehensive re- 
+view of genealogy software available for 
+Macintosh, Windows and DOS, including 
+shareware and commercial programs as well as 
+an overview of discussion groups around the net. 
+

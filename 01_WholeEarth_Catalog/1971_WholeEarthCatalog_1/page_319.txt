@@ -1,0 +1,263 @@
+a wo ‘Id governed primaril ‘by the i 
+world governed primarily by 
+Thought, society, economics, media, evolution 
+The two main entries to understanding in this realm are 
+~ 
+Norbert Wiener (see pp. 16 & 307) and Ashby. 
+Wiener’s books are wider, more inspiring. Ashby is more 
+thorough. 
+_sB 
+[Suggested by Dave Evans] 
+An Introduction to Cybernetics 
+W. Ross Ashby 
+1958; 295 pp. 
+$3.95 postpaid 
+from: 
+Barnes & Noble, Inc. 
+105 Fifth Ave. 
+New York, N.Y. 10003 
+or WHOLE EARTH CATALOG 
+$2.16 postpaid from Blackwells, p. 2. 
+of) 
+tinuously along th 
+thus show more or less of ‘‘wholeness’’. 
+e 
+This earth contained carbon and other necessary elements, and it Is 
+a fact that many combinations of carbon, nitrogen, and a few others 
+are self-reproducing. 
+It follows that though the state of ‘‘being 
+lifeless’’ is almost.a state of equilibrium, yet this equilibrium is 
+unstable, a single deviation from it being sufficient to start a 
+trajectory that deviates more and more from the ‘lifeless’ state. 
+What we see today in the biological world are these ‘autocata- 
+lytic’ processes showing all the peculiarities that have been 
+imposed on them by two thousand million years of elimination 
+of those forms that cannot survive. 
+The organisms we see today are deeply marked by the selective 
+action of two thousand million years’ attrition. Any form in any 
+way defective in its power of survival has been eliminated; and 
+today the features of almost every form bear the marks of being 
+adapted to ensure survival rather than any other possible outcome. 
+Eyes, roots, cilia, shells and claws are so fashioned as to maximise 
+the chance of survival. And when we study the brain we are again 
+studying a means to survival. 
+he 
+& 
+sc, 
+from 
+the 
+source 
+‘0 
+the essential 
+variable 
+to interpose somet 
+simple passive block to the disturbances. Such is the tor 
+shell, which reduces a variety of impacts, blows, bites, etc. to 
+negligible disturbance of the sensitive tissues within. 
+In the sam 
+class are the tree’s bark, the seal’s coat of blubber, and the human 
+skull. 
+Y 
+At the other extreme from this static defence is the defence by 
+"3 pack; y 
+skilled counter-action——the defence that gets information about 
+_ 
+the disturbance to come, prepares for its arrival, and then meets the 
+disturbance, which may be complex and mobile, with a defence that 
+is equally complex and mobile. 
+This is the defence of the fencer, in 
+| 
+some deadly duel, who wears no armour and who trusts to his skill 
+_ 
+. 
+in parrying. This is the defence used mostly by the higher organisms, 
+who have developed a nervous system precisely for the carrying out 
+of this method. 
+| 
+a, 
+What is an amplifier? An amplifier, in general, is a device that, if 
+given a little of something, will emit a lot of it. A sound-amplifier, 
+i 
+if given a little sound (into a microphone) will emit a lot of sound. 
+And a money-amplifier would be a device that, if given a little 
+money, would emit a lot. 
+Such devices work by having available a generous reservoir of 
+what is to be emitted, and then using the input to act as 
+controller to the flow from the reservoir. 
+Information 
+The September 1966 issue of Scientific American was 
+devoted entirely to the new technology of information. Now 
+available as a paperbound book, it is the best introduction 
+we’ve seen to computer science. Articles include: ‘Computer 
+we 
+Logic and Memory”, 
+“Computer Inputs and Outputs”, 
+“Systems Analysis and Programming”, “Time-sharing on 
+Computers”, “The Transmission of Computer Data”, “The 
+Uses of Computers in Technology”, 
+in Organizations”, “The Uses of Computers in Education”, 
+“Information Storage and Retrieval”, and “Artificial 
+Intelligence”. 
+2 
+_SB 
+from: 
+W. H. Freeman & Company 
+660 Market Street 
+$2.50 postpaid 
+San Francisco, CA 94104 
+Information 
+1966; 218 pp. 
+or WHOLE EARTH CATALOG 
+The computer is almost exactly what man is not. 
+It is capable of 
+paying undivided attention to unlimited detail; it is immune to 
+distraction, precise and reliable; it can carry out the most intricate 
+and lengthy calculation with ease, without a flaw and in much less 
+than a millionth of the time that would be required by its human 
+counterpart. 
+It is emotionless,or so we suppose, 
+It suffers neither 
+boredom nor fatique. 
+!t needs to be told only once; thereafter it 
+remembers perfectly until it is told to forget, whereupon it forgets 
+instantly and absolutely. 
+4 
+Critical Path Method 
+Most construction I’ve been around was under conditions of 
+“The rains are due next week” or “lf we don’t get the dome 
+covered by the first snow, we've blown it for the winter.” 
+Time pressure. At the miraculously complete and on-time 
+Expo 67 in Montreal the magic ingredient was CPM—— 
+Critical Path Method. 
+It’s the analysis of what must be done 
+in sequence (foundation, then floor) and what can be done 
+concurrently (while the foundation is being dug in, the girls _ 
+can cut the roof panels). 
+The maximum necessary sequence 
+— 
+is your minimum construction time, and is the critical path. 
+Any delays on it slow down the whole operation. A clear 
+CPM map, using now-standard symbols, can vastly simplify 
+coordination. 
+The technique is useful for any group oper- 
+ation that’s time-bound. 
+This book is the briefest: clearest 
+on CPM. 
+—SB 
+Critical Path Method 
+from: 
+A. T. ArmstrongWright 
+Humanities Press, Inc. 
+1969; 113 pp. 
+303 Park Avenue South 
+New York, N. Y. 10010 
+$3.00 postpaid 
+or WHOLE EARTH CATALOG 
+The Uses of Computers 
+‘ 
+SELENTIN 
+(MERION 
+Momshe 
+A comprehensive review of the 
+extraordinary new technology of 
+Information 
+Simulated waterfall spills over the edge of a cliff and splashes into a 
+pool in this computer experiment performed by John P. Shannon at 
+the Los Alamos Scientific Laboratory as part of a study of dynamic 
+behavior of fluids with the aid of numerical models. 
+BA 
+BA 
+CONSTRUCT 
+DOOR 
+| 
+Al 
+CONSTRUCT 
+PAN 
+UNITS 
+ae 
+WALL_UNITS 
+CONSTRUCT ROOF 
+UNITS 
+In the above example, the required time for completing the project 
+is 25 days and the project end-event time is calculated as ‘‘day 25". 
+Assume that the owner is anxious to complete the garage before a 
+new car is delivered on ‘‘day 15”, it will thus be necessary to reduce 
+the critical path by 10 days if this scheduled date is to be achieved. 
+In this case it may be a simple matter of doubling the labour on 
+activity 1—3 ‘‘Construct wall units’’ in the hope of reducing the 
+duration by 10 days. 
+For example of CPM in use, see p. 300. 
+Systems Thinking 
+Well, this should be in “Understanding Whole Systems”. 
+It’s 
+4 
+an excellent introduction to systems theory. 
+/t’s here so you 
+can connect it up with cybernetics and your own bodily and 
+social open-system functioning. 
+In the light of systems thinking 
+statements like “He not busy being born is busy dying” have 
+precise truth. 
+—SB 
+i
+Systems Thinking 
+F. E. Emery, ed. 
+1969; 398 pp. 
+$2.45 postpaid 
+from: 
+Penguin Books, Inc. 
+7110 Ambassador Rd 
+Baltimore, Md. 21207 
+3984 55th St. 
+New York, N.Y. 10019 
+or WHOLE EARTH CATALOG 
+In physics, the theory of open systems leads to fundamentally new 
+principles. 
+It is indeed the more general theory, the restriction of 
+kinetics and thermodynamics to closed systems concerning only a 
+rather special case. 
+In biology, it first of all accounts for many charac- 
+teristics of living systems that have appeared to be in contradiction to 
+the laws of physics, and have been considered hitherto as vitalistic 
+features. Second, the consideration of organisms as open systems yields 
+quantitative laws of important biological phenomena. 
+It is events rather than things which are structured, so that social 
+structure is a dynamic rather than a static concept. 
+Activities are 
+structured so that they comprise a unity in their completion or closure. 
+A simple linear stimulus-response exchange between two people would 
+not constitute social structure. To create structure, the responses of 
+A would have to elicit B’s reactions in such a manner that the responses 
+. 
+of the latter would stimulate A to further responses. 
+But the rim of his cup finds his mouth in there somewhere and 
+he drinks. 
+And then he wipes his mouth and drinks again. 
+e 
+“I'm awake.” 
+e 
+Emmit raises 
+e 
+Emmit lifts his head, like a bird alerted. 
+He raises his bearded head and looks at his nephew in the big 
+bed across the room. 
+e 
+re 
+He looks. 
+For a long time he looks, and doesn’t speak. 
+But then he lifts his cup in a neat salute and says you had a right 
+smart of sleep, old bud. How long 
+e 
+How long have | been sleeping? D.R. asks. 
+e 
+About a day. 
+e 
+Then silence. Do | remember coming here? 
+_ 
+Information 
+Communications 
+i 
+2e 
+a 
+im 
+

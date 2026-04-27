@@ -1,0 +1,316 @@
+22 Whole Systems 
+COMPUTATION 
+small idea: “All things can be expressed as 
+sequential events.” You could approximate 
+anything with a computer if you could slice 
+it thinly enough and put it back together 
+fast enough. For truly complex problems, 
+you would need a faster sequential computer. 
+Parallel computing acknowledges that 
+reality is not linear. Everything is not quan- 
+tifiable. By linking many microprocessors 
+for simultaneous operation, this technique 
+enables computers to move beyond num- 
+bers. Conventional wisdom says that the 
+radical decentralization of computing 
+power is d natural and permanent path. 
+Predictions of home-based virtual reality, 
+integrated media, and spaceless electronic 
+offices all assume that end users will con- 
+trol the processing. The book's final essay 
+questions parallel computing and technol- 
+ogy predictions as a group, pointing out 
+the junkyard of grand prophecies and self- 
+serving forecasts; at the same time, the es- 
+say offers intelligent and pragmatic tech- 
+nology forecasts that in themselves are 
+worth the book's price. —John Sumser 
+A New Era in Computation 
+N. Metropolis & Gian-Carlo Rota, Editors. 
+1993; 241 pp. ISBN 0-262-63154-7 
+$13.95 ($16.95 postpaid) from The MIT 
+Press/Order Dept., 55 Hayward Street, 
+Cambridge, MA 02142; 800/356-0343 
+e 
+Complex adaptive systems are so 
+intricate that there is little hope of a 
+coherent theory without the controlled 
+experiments that a massively parallel 
+computer makes possible. At the same 
+time, in an era this complex, experiments 
+unguided by an appropriate theoretical 
+framework usually amount to little more 
+than “watching the pot boil.” Sustained 
+progress outside the guidelines of a 
+theory is as unlikely as attempting mod- 
+ern experimental physics outside the 
+framework of theoretical physics. After 
+all, no system currently under investi- 
+gation in physics is as complex as a 
+full-fledged complex adaptive system. 
+We need experiments to inform theory, 
+but without theory all is Jost. 
+e 
+New techniques are invariably applied 
+first to older, well-understood problems. 
+But the real future of the methodology 
+lies in applications where traditional 
+methods have not been successful at all: 
+phenomena for which no fundamental 
+partial differential equations have been 
+discovered, only patchwork descriptions. 
+Many of these exist in disciplines now 
+considered soft sciences. | have in mind 
+large-scale economic models, sociological 
+schemes, molecular cell dynamics, and 
+the like. 
+Tae ehMOtO “eee 
+oo eter? 
+veer uel vees, 
+tC 
+ey 1 ee 
+Senne ac,0.0,0np peer? 
+weovue 
+eas 
+ae SOC sakenn: voor 
+or 
+eda, 
+WET) 
+CLS ie 
+‘ 
+e 
+- 
+4 
+oo 
+en C1 On Oe 
+0.09 0 
+° 
+3% 
+Ca 
+>ere,® 
+o ert, 
+« 
+Fy 
+= 
+> 
+. 
+{* 
+eetieine “eer eue® ss 
+e 
+fs 
+. 
+Pad Sete" ee cs 0 Serra 
+Se, 
+° 
+'e 
+eas 
+2 
+es 
+oe *Pt°ee 6 oe ePene® he 
+= 
+Care ih = ke a . 
+Se Seaesestete 
+© ee ete °° 
+The fact that one can take the origin of motion 
+either at the inmost center or at the very top of 
+the sphere leads one to think that there may be 
+some great mystery hidden in these true and 
+wonderful results, a mystery related to the cre- 
+ation of the universe (which is said to be spher- 
+ical in shape), and related also to the seat of the 
+first cause [prima causa). 
+In these systems complexity is usually 
+both emergent and Byzantine. This 
+means that organized extended struc- 
+tures evolve and dominate a system, and 
+the structures themselves are so com- 
+plex that, when first seen, they produce 
+a sense of beauty followed by a deep 
+feeling of unease. One instinctively real- 
+izes that the analytic tools that worked 
+so well in the past are going to be of 
+little use. We will call such large nonlin- 
+ear systems with emergent and Byzantine 
+behavior monster systems. The typical fu- 
+ture applications for lattice gas/cellular 
+automation formalisms and machines will 
+be in the search for workable models of 
+important systems for which no such 
+models are currently known. 
+Light 
+Comparison between the organization of 
+biological and silicon retinae. 
+Above, diagram showing a close-up of a tiny 
+region on the retina that illustrates several 
+prominent cell types. Below, diagram of the 
+silicon retina showing the resistive network 
+similar in its function to the array of horizon- 
+tal cells in the retina: a single pixel element is 
+illustrated in the circular window. 
+K PIRES 
+ae 
+La 
+OOO OO000 
+Ortner Great Resources 
+Computerization & Controversy: Value 
+Conflicts & Social Choices. Charles Dunlop & 
+Rob Kling, Editors. 1991, Academic Press. 
+Global Network 
+Are computers appropriate technology? The 
+computer industry savages the environment 
+to make a product that can see the world 
+only as numbers. Computers use rare ele- 
+ments, involve toxic chemicals, and consume 
+energy. 
+On the other hand, computers are powerful 
+tools in the hands of ecologists, activists, sci- 
+entists, and planners. Meaningful scientific 
+progress on environmental problems requires 
+the modeling and monitoring capacity of the 
+world's ever-growing computing power. 
+Do the benefits of computer technology out- 
+weigh the costs? Worldwatch Institute is par- 
+ticularly well positioned to approach this key 
+question with the necessary nonpartisanship. 
+Their scholarship, science, and journalism 
+have won them an impeccable reputation, 
+and the Institute's reports on global environ- 
+mental crises qualify them as skeptics re- 
+garding technologies that others embrace 
+enthusiastically. 
+Author John Young weighs the ecological 
+benefits of modeling and monitoring against 
+the environmental degradation caused by 
+computer manufacturing. He looks at the 
+numbers of tons of paper and pollutants 
+and the energy costs, examines the ways 
+computers have become essential to sus- 
+tainable economies in developing countries, 
+and shows the possibility of a path to “glo- 
+bal thinking.” Computers alone won't solve 
+our problems, But we might have reached 
+the point where our problems are too com- 
+plex, too global, too pressing to tackle them 
+without computers. —John Sumser 
+e 
+The capacity of the computer to help us 
+bridge the critical gap between information 
+and knowledge is illustrated by the re- 
+cent history of climate science. Scientists 
+have theorized since 1896 that emissions 
+of carbon dioxide from the burning of 
+fossil fuels could warm the global atmo- 
+sphere. Their concerns grew in the fif- 
+ties, sixties and seventies, as increasing 
+atmospheric concentrations of carbon di- 
+oxide and other gases were documented. 
+It was not until the early 1980s, how- 
+ever—when computers sufficiently pow- 
+erful for modeling the complex behavior 
+of the atmosphere became available— 
+that they were able to test their theo- 
+ries. Supercomputers at such centers as 
+the Geophysical Fluid Dynamics Labora- 
+tory in Princeton, New Jersey, and the 
+Goddard Institute of Space Studies in 
+New York, have been programmed to 
+simulate the effects of increased green- 
+house gas concentrations on the global 
+climate. In minutes, they perform calcula- 
+tions that would take an unaided scientist 
+a lifetime or more. 
+e 
+The most intriguing fact about comput- 
+ers is that they vastly increase our ability 
+to control. In this, they have so far fol- 
+lowed the pattern of all human history, 
+as each new technology has been turned 
+by its users to the control of nature or 
+other people, rather than of their own 
+increasingly unsustainable behavior. 
+Global Network 
+q 
+(Computers in a 
+I; 
+a 
+Sustainable Society) 
+| oo 
+John Young, 1993; 57 pp. 
+Comp, Sl 
+ISBN 1|-878071-17-3 
+zi 
+$5 postpaid from 
+es 
+Worldwatch Institute, 
+cv] 
+1776 Massachusetts 
+Wy 
+= i 
+Avenue NW, Washing- 
+ton, DC 20036-1904 
+Mirror Worlds 
+Imagine that you have the power to fly 
+above a city, to swoop down every street 
+and alley, in and out of windows, through 
+the doorways of every public building. 
+Imagine having access to all the informa- 
+tion pertaining to, or hidden within, those 
+physical structures, the ability to scan the 
+blueprints for those buildings you pass by, 
+and the power to peek at the financial ac- 
+counts of those businesses you see and to 
+monitor traffic flow and energy and re- 
+source use. “Mirror Worlds” are online, 
+updatable, 3-D geographic information 
+systems that will provide instantaneous, 
+accurate images of cities, bureaucracies — 
+any complex system that can be graphed 
+or pictured. 
+The first real Mirror World probably will be 
+in Singapore, where the government is con- 
+verting all its databases into GIS and in- 
+stalling a complete fiber optic communica- 
+tion system. A Singapore Mirror World 
+raises questions about the dark side of 
+such a technology, questions that | wish 
+the author had explored in depth. 
+Imagine what a secret police could do 
+with a Mirror World where the city 
+watches the citizens. Realtime models 
+could become invaluable tools for 
+managing the complexities of twenty- 
+first century metropolises. Or they 
+could be nightmares. Best we think 
+about them now. —George P. Mokray 
+e 
+You can use the Mirror World’s archival 
+propensities to discover the history or 
+background of anything that concerns 
+you. What has the zoning board been 
+doing lately? How did the school board 
+membership get to be this way, what is 
+the history of a particular piece of pend- 
+ing legislation — what was the whole city 
+like, this time last year? Last decade? 
+Merely run the thing backwards through 
+time, using your history key and the 
+time-travel-velocity knob. You can re- 
+store this whole dense, multi-layered im- 
+age-world to any point in its past. You’re 
+not guaranteed to get the whole picture 
+in every detail; some details may have 
+been forgotten. By and large, though, you 
+can explore the past in the same way you 
+explore the present, and make some at- 
+tempt to figure out how we got here. 
+Mirror Worlds 
+(or The Day Software Put 
+the Universe in a Shoebox) 
+David Gelernter, 1992; 236 
+pp. ISBN 0-19-507906-X 
+$12.95 ($14.95 postpaid) 
+from Oxford University 
+Press/Order Dept., 2001 
+Evans Road, Cary, NC 
+27513; 800/451-7556 
+

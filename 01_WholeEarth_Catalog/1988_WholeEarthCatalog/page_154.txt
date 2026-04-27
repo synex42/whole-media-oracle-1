@@ -1,0 +1,134 @@
+150 CAD 
+AutoCAD 
+$300-$2,750 from: Autodesk, Inc., 2320 Marinship Way, 
+Sausalito, CA 94965; 415/331-0356 
+Ideal uses for computer graphics: jobs that de- 
+mand constant alterations, pictures constructed 
+with numerical precision, and designs that make 
+use of repeating patterns. 
+The best computer aided design (CAD) program 
+for personal computers: AutoCAD. 
+One typical application for this well-proven pro- 
+gram would be to render a manufacturing sketch of 
+windmill, down to the thousandths of a inch. Or 
+draw a project assembled out of standard compo- 
+nents. Then when you are just about finished, 
+amend the whole drawing, re-sizing it where 
+needed, to fit a substituted smaller part. Ughhh. 
+Get me my computer slave. 
+Or computer genii. The newest increment of Au- 
+toCAD (Release10) elevates it to the status of 
+Master Draftsman. Fully powered with 3D rotation, 
+it can draw with bewitched perspective. It lets you 
+rapidly depict convoluted objects from various 
+angles at engineer precision, a chore that is tortu- 
+ous punishment with pencils. Weird machine parts, 
+CADENCE 
+Dave Baceski, ed., $34.95/yr. (12 issues) from Ariel 
+Communications, 12710 Research Blvd.,Suite 250, 
+Austin, TX 78759; 512/250-1700 
+The CAD/CAM Journal 
+Shawn Hopwood, ed., $20/yr. (6 issues) from Koncepts 
+Graphic Images Inc., 16 Beaver Street, New York, NY 
+10004; 212/425-4441 
+Periodicals, not books, are where you keep up with 
+stones rolling downhill as fast as computer as- 
+sisted design is. As is often the case in truly van- 
+guard fields, the advertisements can be more 
+useful than whimpy editorial filler, which is mostly 
+what is in these two. 
+CAD/CAM is “For The Macintosh Professional”. 
+That last word will give you an idea of where their 
+heart is— 
+corporations. But the Mac is where you 
+want to be as it takes over the design field, particu- 
+Generic CADD 
+$99.95 to $345.95 for IBM or compatibles, 512K, 
+graphics card, mouse needed. Hard disk, color 
+monitor, math coprocessor recommended. From 
+Generic Software, 8763 148th Ave. N.E., Redmond, 
+WA 98052; 206/885-5307 
+The brown paper bag version of CAD. While its 
+abbreviated capabilities are impressive, and 
+cheap, it still needs the expensive add ons 
+(graphic card and mouse) high price spreads 
+need. Generic CADD comes in ascending 
+grades. The plainest ($100) is not much more 
+than a fancy drafting program. Level 3 ($200) 
+will get you through respectably complicated 
+ornate architecture, com- 
+plexly layered floor plans. 
+CAD programs in gen- 
+eral, and AutoCAD in 
+particular, are so uncan- 
+nily articulate that | would 
+use them as an imagin- 
+ing tool alone. 
+AutoCAD has endeared 
+itself to legions of profes- 
+sional engineers and 
+architects because it can 
+be clothed in one of 
+thousands of specialized 
+templates. These guild 
+templates tailor 
+AutoCAD’s talents to a 
+specific task, say plotting 
+the layout of the electrical 
+| 
+system in a factory, or 
+designing toothed gears. 
+A client's residence drawn by a Chicago architecture firm, using AutoCAD. 
+Techies love these “verti- 
+cal applications” because 
+they short-cut a lot of the grunt work of design, 
+tosh II, or IBM PC versions (you'll need a hard disk 
+redesign, redesign. 
+and supercharging). But it is a true tool. It moves 
+you from can’t to can. 
+This program ain’t cheap. It’s $3,000 for the Macin- 
+— Kevin Kelly 
+" 
+@ 
+File 
+Edit 
+Help 
+larly in the small shop. CADENCE is 
+for “Using AutoCAD in the Professional 
+Expand C?-2:6809 PartsLayout 85% 
+Environment”. There’s that word again. 
+This is the best rendezvous point to 
+meet up with hundreds of specialized 
+AutoCAD applications and user groups 
+thereof. The real power of AutoCAD is 
+in these user-developed templates, 
+and in the practical stories of how 
+“professionals” converted to the true- 
+belief of small computer CAD. 
+— Kevin Kelly 
+Douglas Electronic’s new package Professional 
+Layout assists electrical engineers design the ever- 
+: 
+increasingly complex layouts of printed circuit 
+boards. Wiring the connections is mind-boggling 
+complicated. Professional Layout implements an 
+autorouting procedure. This example shows a 
+file that is 85% complete. The autoroute pass will stop when it is 91% complete, about the best a 
+machine can do. The engineer will have to figure out the rest. 
+— The CAD/CAM Journal 
+een
+ed
+floor plans. Generic CADD 3D ($350) brings 
+you three dimensional modelling and surface 
+shading if you try extra hard (the manual 
+doesn’t help much). It’s price doesn’t seem low- 
+rent until you compare it to $3,000. What you 
+get is your basic peanut butter and jelly CADD 
+— no frills, no promises, take it or leave it. 
+— Kevin Kelly 
+Generic 3.D Solids is a true 3-Dimensional modeler which 
+defines solids through faces, vertices, and edges. This method is 
+inherently more powerful than other approaches. Even if you are 
+new to 3.D drawing, you can produce intricate solid or wireframe 
+models. 
+

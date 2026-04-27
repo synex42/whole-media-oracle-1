@@ -1,0 +1,194 @@
+ProTools and the Digidesign Family of Products 
+Digidesign markets to both profes- 
+sional and casual users of digital-audio 
+technology, making it easy for 
+Macintosh users to get started with 
+sharp digital tools at value prices. 
+Many music, multimedia, and radio 
+producers employ the low-end digital 
+products listed here for independent 
+work in the “project studio” (spare 
+bedroom); they're also showing up in 
+bigger shops where multiple worksta- 
+tions are needed for routine editing 
+chores but fancy features aren't re- 
+quired on every machine. 
+For marketing reasons, the affordable 
+gear and the pricier stuff 
+do not mix 
+and match — but as time goes by, 
+professional features tend to migrate 
+down to the cheaper sets. 
+Audiomedia II is a circuit board card 
+the user installs inside the Mac. It's got 
+D/A and A/D converters, digital-signal 
+processing (DSP) power, and two 
+channels of audio inputs and outputs. 
+This card comes bundled with an ex- 
+cellent editing software package, 
+Sound Designer Il, the same environ- 
+ment used to edit CDs and network 
+radio productions on the no-compro- 
+mise ProTools workstation (see below). 
+It has a practical playlist-style format 
+for manipulating mono or stereo 
+tracks and a strong palette of DSP 
+features: graphic and parametric EQ, 
+pitch and time shift, compression, 
+sample rate conversion. SDII files are 
+in a standard format that can be 
+shared easily with other Digidesign 
+products and with MIDI packages 
+(such as Studiovision). The digital in/ 
+out is a major improvement over the 
+original product: digital files of the 
+highest quality may now be loaded in 
+from any digital device equipped with 
+better A/D converters, and then ma- 
+nipulated as a file without any sacri- 
+fice in audio quality. Audiomedia |! will 
+accept some of the new plug-in mod- 
+ules from third-party vendors, but it 
+doesn't have the horsepower or con- 
+nectivity to work with the more ad- 
+vanced products coming out. For the 
+digital beginner who already has a 
+Mac, Audiomedia Il is a wise choice at 
+$1,295. 
+To mix multiple tracks, the natural 
+choice is DECK I! from OSC. The origi- 
+nal DECK was a toy, but DECK II is a 
+remarkably powerful and easy-to-use 
+workspace that bears a striking re- 
+semblance to the costlier ProTools. 
+That's no accident, as the core soft- 
+ware features were designed by the 
+same team. With Audiomedia Il, 
+DECK Il, and a high-quality DAT, a 
+producer can make some serious re- 
+cordings for distribution on CD, CD- 
+ROM, video games, radio, or 
+audiobooks. At $399, DECK Il is the 
+radical alternative to the high-priced 
+spread. 
+Because it is a software-only business, 
+OSC has adapted its products to run 
+on the Apple Macintosh Quadra AV 
+without the need for a DSP card such 
+as Audiomedia II. The AV plus DECK 
+is now the hot choice for anyone who 
+needs digital and a more powerful 
+Mac. The bonus is that AVs open the 
+door to QuickTime video, voice recog- 
+nition, and other multimedia opportu- 
+nities. The downside is that for now 
+Sound Designer II will not work on the 
+Quadra AV alone. 
+SoundTools II, the fully professional 
+two-track recording and editing system 
+(of which Audiomedia Il is a low-end 
+copy), consists of a two-track DSP 
+card, the two-track Sound Designer Il 
+editing and DSP. software, and the 
+Digidesign Audio Interface, a fully pro- 
+fessional set of digital converters with 
+four channels of balanced XLR inputs 
+and outputs and two channels of pro- 
+fessional AES/EBU digital in/out. 
+Again, DECK Il is a logical choice to 
+supplement this rig, which will likely 
+exceed most everyone's standard of 
+quality for years to come. SoundTools 
+Il is $3,495 and is upgradable to 
+ProTools. 
+, 
+The recent addition of Session 8 to the 
+lineup means that musicians can have 
+an all-in-one package with eight tracks 
+of hardware and software, including 
+optional outboard faders and miclline 
+preamps. For the artist who wants to 
+keep the technology simple, Session 8 
+for the Mac and IBM-compatible PC 
+($3,995) or Session 8 XL for the IBM 
+compatible-PC ($5,995), offer very 
+good quality and lots of tracks. The XL 
+version uses the same Pro Audio Inter- 
+face found on ProTools and Sound De- 
+signer Il. 
+ProTools is Digidesign’s premium hard- 
+ware/software package, designed for 
+hard, constant use, Its strongest fea- 
+tures can be found elsewhere in the 
+family of products (lots of tracks, 
+speed, Pro Audio Interface) but only in 
+ProTools are all the expansion doors 
+wide open. This system will accept all 
+of the drop-in software modules, ex- 
+pands up to thirty two tracks, and 
+most importantly is at the center of a 
+new open platform called the TDM 
+Bus. This is a virtual patchbay within 
+the computer, producers can combine 
+FP 
++5 
+%. &. 
+AW 
+MR 
+a* 
+: 
+ny 
+ee 
+nd a 
+hardware and 
+software elements 
+a la carte in one 
+flexible, expandable, 
+“Virtual” environment. 
+The basic four-chan- 
+nel ProTools system is 
+$4,995. But plug in the 
+Lexicon nuVerb or state- 
+of-the-art Apogee A/D 
+converters, and you've 
+reached the top of the 
+stairway to studio heaven. 
+Plug-in some more cards, 
+some samplers, 
+a DSP Farm 
+(a card of 
+assignable raw DSP 
+processing power), and video- 
+synch interfaces, and ProTools 
+can become the fully 
+customized studio of one's wildest 
+dreams. —Gregg McVicar 
+Digidesign digital audio products: 
+Suggested list prices: ProTools $4995 
+(4-track); SoundTools II $3495; AudioMedia 
+ll $1295; DINR noise reduction software 
+$995; Session 8: Macintosh $3995, IBM 
+compatibles $3995, XL for IBM compatibles 
+$5995. Information from Digidesign, 1360 
+Willow Road, Menlo Park, CA 94025; 
+415/688-0600, 800/333-2137. 
+Deck II: Suggested list price $399. Informa- 
+| 
+tion from OSC, 480 Potrero Avenue, 
+San Francisco, CA 94110; 415/252-0460. 
+| 
+TDM plug-in hardware and software: 
+Information from Apogee Electronics, 
+3435 Ocean Park Boulevard #211, 
+Santa Monica, CA 90405; 310/314-1700. 
+Multiband Dyamics Tool: Suggested 
+list price $399. Information from Jupiter 
+Systems, PO Box 697, Applegate, CA 
+95703; 800/446-2356. 
+nuVerb: Suggested list price $1799. Infor- 
+mation from Lexicon, 100 Beaver Street, 
+Waltham, MA 02154; 617/736-0300. 
+| 
+= 
+—— 
+

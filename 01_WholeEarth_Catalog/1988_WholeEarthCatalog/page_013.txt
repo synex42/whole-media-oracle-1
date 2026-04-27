@@ -1,0 +1,162 @@
+CELLULAR AUTOMATA (CA) 
+9 
+Cell Systems 
+(Versions One and 
+Two); IBM PC. $17; $28 
+for both from: Charles 
+Platt, 594 Broadway, 
+Room 1208, New York, 
+NY 10012 
+Freestyle CAs 
+IBM PC. $10 from: 
+Rudy Rucker, Math 
+Dept., S.J. State Univ. 
+San Jose, CA 95192 
+Charles Platt’s Cell 
+Systems versions 
+One and Two are 
+clever extensions of 
+Rules whose dominance is affected by the master rule. The upper 
+and lower examples represent different master rules. 
+Complex Systems 
+the game of Life 
+Stephen Wolfram; Editor 
+concept. By changing 
+$75/year 
+the simple onscreen parameters, you can create 
+Since this Freestyle CA is a 
+(6 issues) from: 
+_ 
+cell patterns that scroll up your screen like moving 
+closed-system and never 
+Complex Systems 
+ice mountains, strange caverns and cityscapes. 
+loses any information, the 
+Publications, Inc. 
+Cell Systems One lets you create patterns using 4 
+white square acts as a “hole” 
+P.O. Box 6149 
+of 8 available colors. Cell Systems Two doesn’t 
+to remove excess data from 
+Champaign, IL 61821-8149 
+use color graphics, but gives you much more 
+the screen. 
+CE eae 
+flexibility in creating cell patterns, allowing you to 
+enter parameters graphically, with decimals, or 
+esi ie ee 
+A bonafide academic journal, it requires high 
+hexadecimals. 
+into a Cell Systems CA. With 
+mathematical understanding. However, occasional 
+the right formula, the CA can 
+articles are comprehendable by plain-English 
+Freestyle CAs are based on different sets of rules 
+live for tens of thousands of 
+layfolk, and merit attention. The complexity in 
+and so look very different. Patterns like Brian’s 
+generations. 
+question permeates key concepts like distributed 
+learning (honey bees co-operating in a hive), fault- 
+tolerant networks (a downed powerline doesn't 
+topple the electric grid), and local politics in cellular 
+automata worlds (local rules, rather than global 
+order, determine the ecology). 
+— Kevin Kelly 
+[Suggested by Steven Levy] 
+Brain send blocks of “living” creatures skimming 
+across the screen to confront other creatures 
+moving up from the bottom. Sometimes they 
+merge; sometimes they wipe each other out. 
+Interference patterns emerge, like stylized ripples 
+in a cybernetic pool. This is how a computer sees 
+the physical world. Only this is a world where you 
+set up the rules. 
+— Richard Kadrey 
+Cellular Automata 
+Machines 
+Tommaso Toffoli 
+and Norman Margolus 
+things like insects, billiard- 
+ball computers, and much 
+more. If you really under- 
+stand some physical 
+= 
+: 
+3 RS 
+wy 
+De 
+DIP 
+e 
+aX: 
+~ 
+Oo; G Ww 
+$30.00 
+a 
+process, there is a good 
+($32.50 postpaid) from: 
+AN 
+chance that you can model it 
+PERO 
+The MIT Press 
+‘ Rne7 
+as a cellular automaton rule 
+c/o Uniserv Inc. 
+P.O. Box 1034 
+. 
+524 Great Road (Route 119) 
+Littleton, MA 01460 
+® 
+3 
+Oro cent Access 
+‘ 
+; 
+: 
+* 
+#4! 
+Cellular Automata are stylized 
+universes defined by simple 
+rules much like those of a board 
+aS 
+on the CAME. 
+— Rudy Rucker 
+Figure 9.2: Spatial reactions: (a) and (b) use different values of a feedback param- 
+CAM6 Board 
+eter, while (c) is a non-monotonic threshold version of (b). 
+game. They have their own kind 
+Cellular Automata Machines, version 6 (CAM 6) 
+i 
+: 
+of matter which whirls around in 
+are add-on boards which slip into IBM PC clones (PC, 
+locality make them natural models of all physical 
+a space and a time of their own. One can think of an 
+XT, and AT). They go for $1,500. Call or write Systems 
+processes. 
+astounding variety of them. One can actually construct 
+Concepts, 55 Francisco St., San Francisco, CA 94133; 
+them, and watch them evolve. As inexperienced 
+creators, we are not likely to get a very interesting 
+universe on our first try; as individuals, we may have 
+different ideas of what makes a universe interesting, or 
+415/984-1000. 
+Working together in the Information Mechanics 
+Group at MIT, Toffoli and Margolus developed a 
+One of the reasons CAs may be really important is 
+piece of hardware — the CAM6 — and the 
+of what we might want to do with it. In any case, once 
+that they provide a paradigm for the kind of parallel 
+software to drive it. Cellular Automata Machines 
+we've been shown a cellular-automaton universe we'll 
+computers (such as the Connection Machine) 
+describes how to use the CAM6 to generate a wide 
+want to make one ourselves; once we've made one, we 
+which we are now just starting to build. Another 
+range of CA patterns — including the familiar 
+will want to try another one. After having a few, we'll be 
+reason why CAs are important is their essential 
+game of Life, reversible color mandalas, accretion 
+able to custom tailor one for a particular purpose with a 
+properties of 1) parallelism, 2) homogeneity, and 3) __ fractals, crystalization processes, colonies of 
+certain confidence. 
+

@@ -1,0 +1,208 @@
+182 COPYRIGHT 
+OU MAY reproduce this material if your recipients 
+may also reproduce it. 
+Sometime in the last year or so, announcements like the 
+one above were being attached to computer network 
+messages. Unlike communication in the public domain, 
+which anyone can use for whatever commercial pur- 
+pose, share-right limits its benefits to those willing to 
+share the bounty in the same way they received it. Users 
+can take it only if they pass it on with the same promise. 
+As Jack Powers, one of the network riders, says, “I like 
+this idea of rights which travel together with the mer- 
+chandise.” Although share-right was born on the 
+networks, I envision it taking root in other decentral- 
+ized, highly replicating communications, like Xerox 
+publishing, or tape duplicating. Howard Rheingold, a 
+host on The Well, calls it “a self-reproducing word virus 
+that eats intellectual property.” 
+As far as I know, the share-right concept first appeared 
+How to 
+Copyright Software 
+(Everything You 
+Need to Copyright 
+All Types of Computer 
+Programs and Output) 
+M.J. Salone 
+1984; 232 pp. 
+$24.95 
+($27.45 postpaid) from: 
+Nolo Press 
+950 Parker Street 
+Berkeley, CA 94710 
+415/549-1976 
+or Whole Earth Access 
+Laid out in the structured logic of a computer pro- 
+gram, this expert how-to knowledge will unfailingly 
+lead you through the current copyright maze, a hall 
+of mirrors in large part created by the paradoxical 
+nature of software (I can give away a thousand 
+dollar item and still have it). With engineer preci- 
+sion it even covers an all too common error: “Cor- 
+recting a Defective Copyright Notice.” This manual 
+is a smart investment. 
+—KK 
+® 
+If your code makes perfect sense when separated from 
+the existing work, it may qualify as an independent work 
+which you can copyright, even if you don’t own the 
+original program. This is particularly likely to be true if 
+you treat it as an independent work. However, in some 
+circumstances, it might still be a derivative work and thus 
+not entitled to independent protection. This is because 
+the Copyright Act says that one work is derivative of 
+another if it is “based” on it. What the term “based on” 
+means has been left to the courts to define, and they 
+have done so case by case, without establishing any 
+clear guidelines. 
+Place a copyright notice on your work and register it, 
+depositing object code. Object code is probably immune 
+from reverse engineering at the Copyright Office be- 
+cause that office only allows the examination, not the 
+copying, of deposits. In other words, to reverse engineer 
+your object code, a pirate would have to be able to do it 
+in his head while standing in the Copyright Office. 
+6) Share-Right 1988 
+by Kevin Kelly 
+at the junction of USENET and Stargate, two network 
+systems of different politics. USENET, one of the most 
+libertarian networks running, distributes and redistrib- 
+utes messages in an ad hoc style of complete non-own- 
+ership. You don’t post something in USENET without 
+expecting it to be copied all over the country, or the 
+world. Stargate is a privately run network which beams 
+netnews into space by hitching the messages to.an 
+unused area of information transmission in the “blink” 
+between screens on cable TV broadcasts. It would 
+bounce news off a satellite, down to distant pickup sites, 
+and into local computers again. I’Il let Erik Fair, a 
+USENET engineer, tell the rest of the story: 
+“Stargate as originally envisioned was a cheap way to 
+send USENET news everywhere by true broadcast. 
+The Copyright Book 
+(A Practical Guide) 
+William S. Strong 
+1981, 1984; 223 pp. 
+$6.95 
+($9.45 postpaid) from: 
+MIT Press 
+28 Carleton Street 
+Cambridge, MA 02142 
+617/253-5251 
+or Whole Earth Access 
+Not a mere legalistic regurgitation of rules and 
+regulations, this is the best book on copyright 
+principles for my money. With clear insight, imagi- 
+native examples, and hardly a Latin word in sight, 
+the author pierces the thicket of riddles we call 
+copyright. He’s the only one I’ve read willing to 
+tackle thorny issues like parody, private copying, 
+and “librarying” — archiving copies for research. 
+—KK 
+© 
+If copyright is like property in land, infringement is like 
+moving onto someone’s land without permission, chop- 
+ping down trees, mining coal, and stealing water from 
+the well. But, unlike boundaries in land, the boundaries 
+of a copyright are never clearly defined and frequently 
+are not Known until the end of a lawsuit. 
+od 
+Where lies the boundary between copyright and freedom 
+of speech, both of which derive from the Constitution? 
+One’s first answer is to say that although a citizen may 
+be free to speak, he is not entitled to speak his mind in 
+the same words as his neighbor. He is free to speak the 
+idea, if you will, but not the expression. However, when 
+you consider that “expression” can mean an arrange- 
+ment of ideas this answer wears a bit thin. In the end, 
+discussions on this subject are generally reduced to 
+“Well, we know what we mean by free speech, even if 
+we can't put it into words.” 
+Sd 
+So, in full knowledge of the risks, | will undertake to put 
+into words a rule for drawing the line between the First 
+Amendment and copyright. My suggestion is this: use of 
+copyright work is fair to the extent that the user could not 
+otherwise convey or demonstrate his ideas in exercise of 
+his freedom of speech. 
+Unfortunately, the communication legalities were such 
+that they could not claim to be acommon carrier (like. 
+telephone companies), and this led directly into Stargate 
+becoming a subscriber service instead (like a publisher). 
+Stargate has an agreement that prohibits their subscrib- 
+ers from redistributing the articles they get from Star- 
+gate because, of course, it would erode Stargate’s sub- 
+scriber base if they did. 
+“Naturally, this caused a bit of a stink on the net, and 
+the result was the copyright notices which you see on 
+some people’s articles. (‘You can redistribute only if 
+your recipients can’), preventing Stargate from transmit- 
+ting those articles unless their subscribers can.” 
+You, reader, are encouraged to duplicate this message, 
+but only if your readers may also duplicate it. 
+How to Register a Copyright © and 
+Protect Your 
+Creative Work 
+Robert B. Chickering and 
+Susan Hartman 
+1980, 1987; 230 pp. 
+$10.95 postpaid from: 
+Macmillan Publishing Co. 
+Attn.: Mail Order Department 
+Front & Brown Streets 
+Riverside, NJ 08075 
+800/257-5755 
+or Whole Earth Access 
+Which hoops to jump through in the great paper- 
+chase. All the forms are covered, steps one, two, 
+three, four... . 
+—KK 
+Sd 
+When you convert your idea into a fixed form, it is your 
+form of expression — not your concept — that is pro- 
+tected. If it seems unfair that someone can use your 
+ideas, a simple explanation of the reasoning behind the 
+law is that copyright is designed to stimulate, not limit, 
+the development of original works. 
+o 
+Your work is automatically protected by the copyright law 
+from the moment it is created — fixed in a tangible 
+medium — even though you have not registered it with 
+the Copyright Office. You do not have to register a claim 
+to copyright in your work in order to reproduce, distrib- 
+ute, market, transfer ownership, or license your work. 
+HAVE A GOOD 
+Day CopyRtGHT = ganANA SPLIT 
+copy RIGHT 
+OY 
+oo 
+Shur-eyé 
+oC 
+OPyRiGHT 
+e
+ee
+eee
+ae 
+ND 
+SANT A 
+HT 
+wy noon 
+sgoness0 copyRi© 
+eopyRIon™ @er 
+wW 
+14 
+4 
+Toorn prs em 
+SMILE 
+ist
+atl 
+ali
+nt
+pacienc OCEAN 
+ABove averr** 
+CopyRIGHT 
+Copyright 
+° 
+° 
+ANOTHER "NOT- GETTING ~ /T-RIGHT- COPYRIGHT FRIGHT" NIGHT. 
+

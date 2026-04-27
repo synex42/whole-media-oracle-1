@@ -1,0 +1,184 @@
+198 BIG BROTHER 
+Defending Secrets, 
+Sharing Data 
+(New Locks and Keys 
+for Electronic Information) 
+Charles K. Wilk, 
+Project Director 
+1987; 187 pp. 
+$8.50 postpaid 
+Electronic Record 
+Systems and 
+Individual Privacy 
+Fred B. Wood, Project Director 
+1986; 152 pp. 
+$7.50 postpaid 
+Both from: Superintendent of 
+Documents, Government Printing Office, Washington, 
+D.C. 20402-9325; 202/783-3238 
+Privacy is becoming a more important issue than 
+ever as computers take over data storage for the 
+government. By linking databases, it would be 
+possible to trace virtually all of the movements of 
+anybody in the country. These two books, written 
+in aclear, non-technical style, give you the 
+government's own words on topics such as the 
+Privacy Journal 
+(An Independent Monthly on 
+Privacy in a Computer Age) 
+Robert Ellis Smith, Publisher 
+$98/year (12 issues) 
+Special discount rates for 
+students 
+From: 
+Privacy Journal 
+P. O. Box 15300 
+Washington, D.C. 20003 
+202/547-2865 
+From Washington, DC, the Privacy Journal tracks 
+issues like confidentiality of records, lie detector 
+testing, electronic surveillance, inaccurate credit 
+reporting, invasion of privacy suits, and 
+suppression of free speech. This is the only 
+newsletter on privacy issues, and it’s as thoughtful 
+and comprehensive as a newsletter can be. There 
+is a question column, too; if you feel you’ve been 
+harassed or spied on, you can raise your case. 
+The only drawback is its absurdly high price, 
+annoying in any newsletter but downright 
+distressing here since Smith is a champion of 
+privacy rights for the poor. Maybe a local college 
+library would go for it. 
+— Art Kleiner 
+4 
+“Mailing lists don’t hurt anyone. No one gets hurt by 
+mailing lists!” says Robert Sherman, attorney for the 
+Direct Marketing Association, reflecting the position of 
+his association that mail advertising does not create an 
+invasion of privacy. 
+The American public had evidence to the contrary this 
+month, with the national circulation of a story by The 
+New York Times’ David Burnham that the Internal 
+Revenue Service plans to experiment with “lifestyle” 
+demographic mailing lists to detect persons paying 
+inadequate taxes. 
+CRESS Fecerai 
+GE state 
+GER 8 01h Federal ano State 
+as | 
+Private sector 
+(7 Mize puniiciprivate 
+vulnerability of 
+communications 
+systems, federal 
+interpretations of 
+the Privacy Act of 
+1974, as well as 
+trends in policy 
+relating to data 
+protection. If you’re 
+interested in how 
+the government 
+looks at 
+information, these 
+books are a good 
+place to start. 
+— Richard Kadrey 
+[Suggested by 
+Howard Rheingold] 
+Current Database 
+Linkages. 
+= 
+7 
+Zz 
+Consumer 
+iS 
+Dy, 
+invesugators 
+. 
+: 
+4 
+a 
+4 
+si 
+=moloyment 
+agencies 
+‘,OTES: Solid lines =automated excnanges; dotted lines=manual exchanges. 
+SOURCE. The Privacy Journal, April 1984, 9. 5 
+The Rise of the Computer State 
+David Burnham 
+1984; 282 pp. 
+$6.95 
+($7.95 postpaid) from: 
+Random House 
+Attn.: Mail Order Dept. 
+400 Hahn Road 
+Westminster, MD 21157 
+301/848-1900 
+or Whole Earth Access 
+New York Times reporter David Burnham has 
+written a very scary book about the surveillance 
+potentials of a computerized society. Computers 
+make possible what the author says is likely, in 
+fact, already underway: a very high degree of 
+Orwellian tracking of each of us. Justified as effec- 
+tive for fighting criminals and terrorists, the FBI, 
+CIA, NSA, local police and private security agen- 
+cies have already created vast interlocked com- 
+puter networks. You and your organization are 
+probably to be found somewhere in them. What's 
+more, these networks are only half a step (and one 
+or two remaining laws) from being able to interlock 
+their data with your social security file, your tele- 
+phone, your zip code, your IRS records, your em- 
+ployer, your bank accounts, your insurance com- 
+pany, your charge cards and someday, perhaps, 
+your own dear home computer, the one that makes 
+you “free.” Thus far, as the author describes, civil 
+libertarians have held the line against the meshing 
+of all identification into one all-knowing central 
+computer. But technology has a way of fulfilling 
+itself. 
+— Jerry Mander 
+¢ 
+Consider the small but sophisticated computer General 
+Motors has installed in the V8-6-4 model Cadillac auto- 
+mobile. “Your Cadillac,” the 181 owner’s manual boasts, 
+“is equipped with a digital fuel injection system which 
+monitors the exhaust stream with an oxygen sensor. The 
+oxygen sensor signals the control unit to adjust the air- 
+fuel ratio as necessary.” 
+The manual further notes that the “check Engine” light in 
+the instrument panel “is designed to warn you if the 
+system has detected any faults. If the light comes on and 
+stays on while driving, the car should be taken to a 
+Cadillac Dealer as soon as possible for system inspec- 
+tion and maintenance. If the light comes on and goes off, 
+it is an indication that a temporary problem has cleared 
+itself. While it is not as critical that the vehicle be brought 
+in to a dealer for inspection immediately, the dealer may 
+at a later date be able to determine what trouble had 
+occurred and if any maintenance is necessary.” 
+But Electronics Engineering News, a trade publication, 
+discerned another possible motive in the tiny onboard 
+electronic spy: to ascertain owner negligence over war- 
+ranty claims. The publication noted that the computer 
+allowed the dealer to determine how many times the car 
+has been driven faster than 85 miles an hour and also 
+how many times the engine was started after the “Check 
+Engine” message first lit up on the dashboard. 
+¢ 
+The 1980 Office of Technology Assessment sent a 
+questionnaire to the fifty states about how they managed 
+their criminal- history records. One question was 
+whether they checked the accuracy of the records in 
+their files. Four out of five of the forty-nine states an- 
+swering this question responded that they had never 
+conducted record quality audits... 
+. 
+. 
+The astounding finding that only one out of five of the 
+states has ever sought to audit and purge information in 
+their criminal-history files may explain why so many of 
+the records are inaccurate or incomplete. 
+

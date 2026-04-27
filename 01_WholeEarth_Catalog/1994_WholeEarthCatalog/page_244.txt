@@ -1,0 +1,238 @@
+i Taming Technology 
+STREET TECH 
+e asked a diverse group of techies to share their 
+favorite, most indispensable tools, books, catalogs, 
+and mags with us. Here are some of their responses. 
+—Gareth Branwyn 
+Cast of characters: 
+Dany “Xixax” Drennan is the editor 
+of the “tech/art/culture” zine Inquisitor 
+(info: inquisitor@echonyc.com). He 
+likes to hack microcontrollers and 
+other homebrewed devices. 
+Alberto Gaitan is an artist and com- 
+poser who works with Art Attack!, an 
+interactive installation group. Given 
+meager funding, they piece together 
+most of their tech on the super-cheap. 
+Sue Forslev installs computer net- 
+works and maintains workstations. 
+Bob Madderra has been hacking 
+robots since he was seventeen. 
+Mark W. Tilden, the “BEAM robotics 
+guy,” has built the world's first Robot 
+Jurassic Pond; seventy robots of thirty 
+different species interact continuously 
+there, under solar power. 
+Jay Eric Townsend is a garage VR 
+hacker and originator of the Internet's 
+glove-list,” for people interesting in 
+hacking the Mattel Power Glove. 
+Bill Woodcock builds fancy corporate 
+computer networks by day and ‘“chew- 
+ing gum and baling wire” toastemets by 
+night (see “Toastemet” sidebar). He 
+builds these consummate street-tech 
+creatures out of “borrowed, salvaged, 
+reclaimed, recycled, dumpster-dived, 
+and cobbled-together hardware.” 
+Tools: 
+Forslev: My two favorite tools: a pair 
+of chopsticks and a Swiss Army knife. 
+You can open any PC with the knife, 
+and chopsticks are good for removing 
+screws that fall into crevices. 
+Madderra: Digital Logic Probe ($18 
+from Radio Shack), lots of bread- 
+boards (around $10 each from Ra- 
+dio Shack), Linux (free software by 
+ftp-ing from: sunsite.unc.edu) 
+Tilden: The Dremel MINIMITE 2- 
+speed model 750 Cordless Rotary 
+Tool, Lindstrom diagonal cutters, 
+Cresta needlenose pliers — no. 
+3013-S (all from Jensen Tool). 
+Townsend: A Leatherman’s tool 
+(a combination tool with pliers, 
+screwdrivers, and knife — around 
+$40). Mini-Maglite flashlight. A ba- 
+sic digital multimeter (around $30 
+from Radio Shack). 
+Woodcock: Leviton Telecom’s Test- 
+Tone Generator and Inductive 
+Amplifier Probe (about $100 for the 
+pair). Other vendors make similar 
+products, but Leviton’s is the sturdi- 
+est I’ve seen, it’s better looking than 
+most, and they replaced mine over- 
+night (no questions asked) after | 
+fried the amplifier. 
+What |S o Toasternet? 
+Toastemets are private, independent 
+Intemet-connected networks that spring up 
+in basements, closets, wherever there's 
+| space. They are built by individuals, often 
+| using bizarre mixtures of mismatched 
+hardware and software. Prototype high- 
+speed routers and network hardware 
+nestle comfortably among antiquated 
+UNIX hosts built from ten-year-old dis- 
+| carded parts; alpha-test software runs on 
+machines salvaged from junkyards and 
+dumpsters. Macintoshes run ported PC 
+| software; PCs run one-of-a-kind operating 
+systems. Many toasternets seem at first 
+like hellish tangles of junk, unlikely to work 
+at all. Fact is, the intensity of competition, 
+the rate of propagation, and the great vari- 
+ety of methods and combinations have 
+created a form of electronic Darwinism. 
+Software, protocols, and routing algorithms 
+are born, fan out over the net, and disap- 
+pear, prey to faster, more reliable, more 
+portable new generations. Toastemets are 
+a hothouse for technological standards, 
+and we all profit from the resulting 
+hybrid vigor. —Bill Woodcock 
+|) FTP server drive. 2) POP mail spooler. 3) Prototype PPP router being tested. 4) Livingston 
+| Portmaster router. 5) Norris Earphone atop a stack of modems. 6) punchdown blocks. 
+Books: 
+Drennan; Telecom Library Book- 
+store. Everything you could possi- 
+bly want to know about telecom 
+(except what you get from 2600 
+magazine). Any and all books by 
+Forrest M. Mims Ill. 
+Gaitan: Radio Shack’s electronic se- 
+ries. My favorites are Understanding 
+Electronic Control of Automation Sys- 
+tems by Neil M. Schmitt and Rob- 
+ert F. Farwell (T. |. Learning Cen- 
+ter) and Understanding Digital 
+Electronics by Gene McWhorter 
+(Howard W. Sams & Co.). Radio 
+Shack has lots of books for both 
+beginner and expert, covering sub- 
+jects from simple all-purpose cir- 
+cuit diagrams to complete projects. 
+Madderra: Don Lancaster’s Incred- 
+ible Secret Money Machine II reveals 
+(among other things) how to get 
+trade journals and manuals for 
+free. Also check out Lancaster’s 
+“Hardware Hacker” column in the 
+excellent Electronics Now. 
+Tilden: Datamanuals from Texas Instru- 
+ments, Motorola, and National Linear. 
+Townsend: Read everything, from 
+Bare Wire 
+Sleeve 
+Jensen 
+Master 
+Catalog 
+Wire-wrapping provides a positive. uniform 
+electrical connection faster and more eco- 
+nomically than any other method. No noed for 
+soldered contacts. No skill is required to pro- 
+duce perfect wire-wrapped connectors of 
+gas tight” quality. Select the combination of 
+bit and sleeve you need for either a Regular 
+or Modified wrap. All bits and sleeves fil with 
+either the manual or electric OK wire wrap- 
+ping tools described on page 198. See page 
+200 for wire stripper 
+IT’S EASY TO MAKE WIRE WRAPPING CONNECTIONS 
+Step 1 
+INSERTION 
+Step 3 
+TERMINAL 
+INSERTION 
+EC a mye MO 
+crappy old TAB Books to vendors’ 
+product descriptions. Go to used 
+bookstores, libraries, etc. There is 
+no single source of all good info. 
+Of course, nothing beats Usenet as 
+a source of timely information 
+and useful connections. 
+Woodcock: Harry Newton’s ridicu- 
+lously thorough Newton’s Telecom 
+Dictionary is the only place to turn 
+when marketing droids start spout- 
+ing salesspeak and engineers start 
+in with the technojargon. 
+Catalogs: 
+Drennan: All Electronics for new and 
+surplus parts and supplies; Fair Radio 
+Sales Co. for commercial/army surplus. 
+Gaitan: The gearhead’s bible: 
+Grainger’s. They have over 190 
+locations nationwide. The Radio 
+Shack catalog. 
+Tilden: Digikey catalog. 
+Townsend: Radio Shack is your friend. 
+But so are used electronic and junk 
+shops. | buy very little through mail 
+order. Check out your local 
+ham-radio store: not only do hams 
+have a wide body of experience to 
+Step 2 
+WIRE 
+ANCHORING 
+Step 4 
+FINISHED 
+CONNECTION 
+Digi-Key Corporation 
+If there's one electronics catalog you 
+shouldn't be without, it's this fat, juicy 
+bi-monthly. Digi-Key's decent prices, 
+excellent service, same-day shipping, 
+and staggering selection of compo- 
+nents have won the respect and 
+repeat business of electrical engin- HP Ne 
+igi-Key Corporation: 
+701 Brooks 
+7) HTTP server, AURP router, AFP server, PAP spooler. 8) CD drive. 9) mail, FTP, primary 
+| nameserver, shell accounts. 10) news spooling drive. 11) Powerbook serves as a mobile ad- 
+| 
+ministration console, as well as phone book, etc. 12) news and NFS server, secondary nameserver. 
+eers, repair techs, and hobbyists. 
+The catalog gives detailed specs 
+on most items, —GB 
+e 
+Fiber Optic Lab Manual & Lab Kit 
+Features: 7 Experiments * Final Design 
+Project * Fiber Optic Glossary * Research 
+Projects. The Fiber Optic Lab Manual is a 
+complete 60 page technical manual on fiber 
+optics, available alone or with the Lab Kit. 
+It is written in an easy to understand style 
+and fits well with any text or course on 
+fiber optics. All the fundamentals of fiber 
+optic systems are covered in detail. 
+FBIOO-ND (IF-LM1) Lab Manual $7.95 
+Experiments include: Making a Light Pipe 
+* Fiber Cable Transmission * Splices, 
+Connections and Terminations * Speed 
+of Opto-Electric Devices * Fiber Optic 
+Transmitters * Fiber Optic Receiver 
+Design * Making a Star Coupler. FB/0/-ND 
+(IF LMH) Kit with Lab Manual $39.95 
+Via 
+Avenue South, 
+0) 
+PO Box 677, 
+Thief River Falls, 
+&, 
+MN 56701; 
+Hy 800/344-4539. 
+2) 0 
+RF connectors 
+American Science & Surplus: Catalog 
+$1. 3605 Howard Street, Skokie, IL 60076; 
+708/982-0722. Pee Wee Herman might buy 
+hardware here. They carry parts, tools, toys, 
+inexplicable artifacts, from the sublime to the 
+ridiculous. The item descriptions are great. 
+Formerly known (and widely loved) as Jerryco. 
+

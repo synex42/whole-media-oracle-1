@@ -1,0 +1,245 @@
+2) 
+aaa 
+| HAVE A PROBLEM. — 
+Hi Keith, 
+| have a problem and need some consultant help. 
+| want to remove 
+a concrete silo 45’ high and15’ in diameter. 
+It is constructed with 
+precast sections, 1°x2'x3-1/2", no reinforcement, with a tongue and 
+groove on the sides. These sections are staggered up and down 1 inch 
+to interlock them. Steel bands 3-1/2’'x 1/8" circle the tower cover- 
+ing each joint and there are additional bands in the center of each 
+panel for the first 15° of height. The bands are bolted in three sec- 
+tions with 5/8” bolts. There are barns on two sides 25’ away. Also 
+many windows that should remain intact. 
+My first thought was to explosively cut the bolts working from the 
+top down in about 10’ sections, allowing the tower to collapse 
+around its base. 
+| tried cutting 5/8" test bolts with five wraps of 50 
+grain prima cord stacked pyramid fashion. 
+| was able to neck the 
+bolt down somewhat, but! could not cut it. 50 grain was the heavi- 
+est prima cord | could get around here. 
+What would you suggest? My current permit expires August 31. 
+Fred 
+— 1 HAVE A SOLUTION. 
+Fred, 
+Tower demolition is normally carried out by either piecemeal meth- 
+Ods, as you proposed, or more commonly by felling. The latter, in 
+the case of a round tower, involves either the progressive devel op- 
+ment of a notch until it topples, or where directional Control is im- 
+portant, the instantaneous undercutting of 200 degrees of arc leav- 
+ing the remaining 160 degrees intact as ahinge. This is normally 
+done by piercing the 200 degree sector so as to leave it supported on 
+pillars which are then simultaneously destroyed. The reason for this 
+is the normally high wall thickness to diameter ratio found in the 
+base of chimneys etc., which requires the scattering of rather alot 
+of material if the possibility of the thing being partially supported 
+by the muck pile is to be avoided, and, much more important, if the 
+possibility of the round ‘freezing’ is to be eliminated, the ‘compres- 
+sion arch’ layout being particularly susceptible to this. 
+In your case 
+you are dealing with an annulus so this does not apply to the same 
+extent. 
+!t is essential that there be nothing left unbroken though 
+that will not be broken or displaced by whatever fraction of the 
+structure's 40 or so tons bears upon it. 
+Where a structure is banded it is normal to remove the lower bands 
+to assist breakage of the base. 
+In your case this could not be done as 
+the removal of the bands would be liable to collapse the structure 
+without directional control. 
+| take it that there is no lock on the top 
+and bottom of each segment beyond that obtained by the staggering 
+of the heights of the segments. You would have to use your judg- 
+ment on the holding power of such an arrangement. 
+You could then proceed by knocking one of the panels to pieces, 
+{4 oz mudcap in middle) for access and to establish the charge for 
+adequate breakage, followed by either the removal of a few more to 
+make pillars or the immediate firing of a round calculated to leave an 
+effective undercut (i.e. 28 panels the remaining 18 being left as the 
+hinge). Mudcaps should do this OK but if you wanted to be fancy 
+you could play the fool with hydraulic action, explosive in big poly 
+bags of water or a lake inside the silo. Obviously you will have to 
+remove at least one-band, equally obviously the more the better — 
+SO LONG AS THE HINGE IS NOT THEREBY SO WEAKENED 
+THAT IT COLLAPSES BY BUCKLING BEFORE THE THING HAS 
+BEGUN TO TOPPLE. 
+General principles of dropping such structures require that you meet 
+at least one of two conditions. 
+You must ensure when destroying a 
+structure by removal of supporting parts THAT WHEN THE RE- 
+MAINDER LIMITS ON ITS UNDAMAGED PORTION either it is in 
+a negatively stable condition (e.g. C.G. outside base) or that it pos- 
+sesses sufficient kinetic and potential energy to progressively destroy 
+the stressed parts. Otherwise it will sit and look at you a few feet 
+shorter than it was before and you will look, and feel, exceedingly 
+foolish. 
+ow’ 
+HANDYMAN JACK 
+Basically the Handyman Jack is a super heavy duty bumper 
+jack but it bears no resemblence to the inadequate things 
+that Detroit supplies with their inadequate automobiles. It 
+weighs 28 pounds, has a capacity of 3 tons, is four feet tall, 
+and has a lift of three feet. The jack-is guaranteed for 18 
+months, and complete repair parts are available should they 
+ever be required. 
+I’ve used mine for lifting my truck, stretching shrunken plas- 
+tic water pipe, and a number of odd lifting and spreading 
+jobs, and wauldn’t part with it for anything. 
+| paid about 
+$28 for mine a couple of years ago; | don’t know what they 
+might cost now. Sales and information can be had direct 
+from the manufacturer: 
+Harrah Manufacturing Company 
+46 West Spring Street 
+Bloomfield, Indiana 
+[Suggested by Douglas Canning/ 
+WARNING: Beware of handle, or EAT TEETH. 
+To ensure the former you would need ta attack more than one level 
+of panels, but you are limited on that by the need, particularly with 
+pillar tactics, to avoid premature collapse, maintain the integrity of 
+the hinge and limit the weight of explosive employed. 
+|t would likely 
+be better to take positive action to disrupt the bridgeing action of the 
+segments over the next three levels to ensure progression of the col- 
+lapse. 
+ea EXPLOSIVE 
+HOLLOW 
+EXPLOSIVE 
+@ 
+y\ LIGHT ANGL- 
+THIN LAYER 
+OF EXPLOSIVE 
+AROUND GoLT 
+HOLD WITH 
+TAPE 
+Seer ee 
+L 
+A Gor 
+St Ae 
+Ee 
+ey 
+y, rates. uae ee 
+INSTAN TANE 605 
+SHOCK WAVE 
+REFLECTED 
+~\) \A iff iG 
+N 
+RESO a} 
+S7Ts 7 
+Bat 
+EXPLOSIVE 
+ONE 
+SIDE 
+THOCK WAVES 
+op AUT 
+. 
+INTERACT 
+CAP 
+BAERS 
+SR eR 
+To cut the bolts you would need ca. 6 oz charge distributed to cause 
+sheer (fig. 1) or you could experiment with a shaped charge (figs. 2 
+& 3) or ‘diamond charge’ tactics (fig. 4) or attack the heads or nuts 
+(fig. 5). Bear in mind that the segments are locked together and 
+would not just fall off, requiring possibly difficult and hazardous 
+‘scaling’ operations to displace them. 
+Concerning air blast, you are primarily concerned with the ‘scaled 
+distance’. This gives you the overpressure at any distance from any 
+charge given the weight employed and the explosive relation to TNT 
+by inspection from tables published in many books. The scaled dis- 
+tance is found from the formula: 
+Scaled Distance = D/W 
+(D — distance in feet) 
+(W — weight in pounds) 
+You will be concerned with threshold of damage to windows and ears 
+for which the following abstracts should serve: 
+Threshold Damage to 
+Overpressure 
+Scaled Distance (sea level) 
+psi 
+ft/lb 
+Windows 
+1.0 
+50 
+Ears (reflected) 
+2.3 
+30 
+Ears (direct) 
+5.0 
+20 
+Thus for a one pount TNT charge you need to be 50’ from the near- 
+est window, for a two pound, only 64’. Allow 20% extra on the 
+weight for the higher velocity nitroglycerine based and for PETN. 
+Seaanenecse 
+JACK 
+No. 30 Model 
+=e 
+) 
+-~—w @w: 
+— 
+The position is complicated 
+by the effect of reflection. Where this 
+occurs the overpressure 
+is locally amplified, often dramatically. 
+Thus 
+if you stand a few inches from a reflecting surface normal to the in- 
+* 
+cident wave you will experience ca. 210% of the incident overpressure 
+from a plane surface. Where it is in any sense concave the amplifica- 
+tion may be very considerably higher, in the example given in Fig. 6 
+the incident wave was measured at (1) at 17 psi, the reflected at (2) 
+at 700 psi. DON’T SHELTER IN RE-ENTRANT ANGLES!!! 
+© 
+As you will gather from this you have little worry regarding windows 
+with any charge you are likely to want to use for bolt cutting. You 
+_can further minimise risks by opening windows, and claims by care- 
+ful examination for cracked panes BEFORE blasting, Further, shock 
+waves are quite directional, at close quarters highly so, so if the near- 
+est sensitive area is appreciably out of line the overpressure will be 
+greatly reduced. The attenuation round an obstacle is so great that 
+you could probably quite cheerfully fire 50 Ibs on one side of your 
+silo without worrying about a window on the other. 
+Mud packing or surface charging in general, it is well to take care to 
+use the ‘detonation Head’ to best advantage. This is the only useful- 
+ly used explosive in such charges, and should be maximised for eco- 
+nomic and noise reasons. The best example of this is to consider sticks 
+of explosive end on to a metal target. As the length is increased at 
+first the dent depth increases, then, when the length reaches between 
+two and three column diameters, remains constant. 
+In the diagram 
+below the dark shaded cone is the only part which is usefully em- 
+ployed and this is borne out by the fact that a cone of that shape 
+produces an almost identical crater. The moral of all which is that 
+it may pay to recartridge or use without wrapper and mould to an 
+efficient shape and will certainly pay to take care to position the cap 
+so as to get the maximum explosive between the point of initiation 
+and the target. 
+cap 
+TARGET 
+TARGET 
+N.B. Don’t get nitro on skin — wear gloves. 
+N. very B. Ensure good contact between explosives and target. One 
+layer of paper equals approximately 20% loss in efficiency. 
+Keith 
+England 
+(| hope to attempt the silo before the end of August. Results 
+and maybe pictures in next sup. — Fred) 
+; 
+“—"@ 
+Viny! Cements 
+| have been developing a portable, collapsible, insulated 
+shelter in which | have been using a nylon reinforced 
+vinyl requiring a suitable adhesive. 
+| would like to advise the person who refers to himself as 
+the ‘Virginian’ in Pax River, Maryland that Bostik Adhe- 
+sive Specialists, a subsidiary of USM Corp. in Middleton, 
+Mass., produces an excellent adhesive for vinyl. It is re- 
+ferred to as 4067 a nitrile rubber base adhesive and 7130, 
+a synthetic resin base. Both are excellent and are often 
+used industrially for vinyl inflatables. 
+James W. Smith 
+Providence, R.1. 
+

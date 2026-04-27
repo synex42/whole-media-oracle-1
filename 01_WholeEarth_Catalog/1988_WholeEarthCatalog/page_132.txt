@@ -1,0 +1,273 @@
+128 MUSIC SOFTWARE 
+Composer: 
+Version 2.0; copy-protected. $495 
+Performer: 
+Version 2; copy-protected. $395. Both from: Mark 
+of the Unicorn (call 617/576-2760 to find local 
+dealer information) 
+Wouldn't it be lovely to noodle around on a key- 
+board and, when you had a little tune you liked, 
+capture it into a musical score which could be 
+altered or printed out? Or maybe do it 
+the other way around. Noodle around 
+with notes on a score, and then have it 
+played out in sound, perhaps with a full 
+choir of instruments? 
+Two software pieces, working in tan- 
+dem, make this a home job. 
+Composer lets you write out a score, 
+modify it, store it, and print it out via your 
+Macintosh. You can also “monitor” a 
+piece you composed through the Mac’s 
+dinky speaker, which plays a simplified 
+version of the melody. 
+Performer lets you capture the digital 
+footprint of sounds from any MIDI-standard synthe- 
+sizer and send it to Composer to be scored or 
+Music, Computers 
+& Software 
+Bill Stephen, Editor 
+$21/year (12 issues) 
+Music, Computers 
+& Software 
+P.O. Box 625 
+Northport, NY 11768 
+516/673-3241 
+If you’re interested in playing music with synthesiz- 
+ers or samplers, but still think that MIDI is just an 
+ugly dress from the 60’s, then you need this 
+magazine. Music, Computers & Software is a 
+glossy monthly (recently upgraded from their old 
+bi-monthly schedule) devoted to exploring the 
+interface of music and computers, concentrating 
+on how “musicians have embraced technology and 
+made it a very human thing.” 
+Each issue of Music, Computers & Software 
+contains practical information on using MIDI tech- 
+nology, as well as reviews of new electronic music 
+software and hardware. Recent issues have fea- 
+tured detailed surveys of digital samplers, sugges- 
+tions on how to select a PC-compatible music 
+computer and the joys and sorrows of alternate 
+MIDI controllers, such as electric violins and 
+woodwinds. One new benefit to subscribing to 
+Music, Computers & Software is a free member- 
+ship to Compuserve’s computer bulletin board, 
+where the magazine sponsors an ongoing MIDI 
+conference. 
+—Richard Kadrey 
+Rup 
+111/000 : 1:30:00: 
+BY 12/11000 ! 1:30:22: 
+15|2]096 : 1:30:28: 
+27111226 : 1:30:52: 
+36|1]000 : 1:31:10" 
+et 
+46151278 | 
+1:31:31 
+4 
+5712/346 : 1:31:52: 
+wf 
+601/000 : 
+1:31 
+58: 
+stored. Working in reverse, it takes a 
+score from Composer and directs it 
+through the MIDI inlets of any synthe- 
+sizer module, to be played, amplified, or 
+transfigured. 
+In short, if you’re into serious music- 
+making, this is simply the best music- 
+processing software on any computer. 
+? Crash 
+i 
+? Synth Bass Fatten Sound 
+: Strings 
+i 
+i Track 41 
+Bridge 
+—Ramon Sender Barayon 
+: i Introduction 
+First Verse 
+Bouncing Ball 
+Shattering Glass 
+i Add Lead Line 
+Fist on Chin 
+Rubber Burn 
+Last Verse 
+A Performer screen showing the structure and instruments used to 
+record a song. 
+Example One 
+Example One-A 
+= 
+1 
+12 
+24 
+49 
+63 
+69 
+74 
+ONNYNNWNNANGE 
+noe 
+oo 
+F 
+n 
+¢ 
+ST 
+EVNT TIME 
+(4 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+TYP NOTE VEL 
+ON 
+C4 
+57 
+ON 
+C4 
+55 
+ON 
+D4 
+54 
+ON 
+C4 
+64 
+ON 
+E4 
+45 
+ON 
+C5 
+76 
+ON 
+A#4 
+77 
+ON 
+FS 
+63 
+ON 
+DS 
+56 
+ON 
+G4 
+64 
+62 
+Two versions of 
+J.R. Baker’s 
+“Homage To 
+Lizst,” the first in 
+piano notation, the 
+second as code 
+for a Sequencer. 
+All of the literature and hyperbole about sampling seems 
+to center around bit resolution and there’s a simple way 
+to understand it. Imagine the screen of a television set. 
+A close look at the screen will show that it's made up of 
+small dots (pixels). If the dots were twice as big on the 
+same screen, the picture would still be legible, but it’s 
+clarity would be greatly reduced. Conversely, twice the 
+amount of dots as the original would result in a picture of 
+stunning detail. In sampling, instead of pixels we are 
+dealing with computer data; more specifically, bit words. 
+One bit word of information can be 8, 12, 16, or 18 bits 
+long, hence the higher the bit resolution, the more accu- 
+rate the reproduction of the sound sampled. 
+@ File 
+Edit 
+Basics 
+Symbols 
+Variations 
+Extras 
+Groupings 
+Beam 
+: 
+Triplet 
+xR 
+Tuplet... 
+Slur 
+#S 
+Tie 
+eT 
+Crescendo 
+Decrescendo 
+Stems Up 
+RU 
+Stems Down 
+#D 
+8va/8ub 
+15va/15ub 
+Ending... 
+Invisify Rests 
+31 
+Second Slur 
+Grace Note 
+Tremolo... 
+Trill 
+Glissando 
+pathetique > 
+A section of a score entered into a Macintosh through Composer. 
+The Computers & 
+Music Quarterly 
+Report 
+Joe West, Editor 
+$20/year 
+(4 issues) from: 
+Computers & Music 
+1989 Junipero Serra Blvd. 
+Daly City, CA 94014 
+- 415/994-2909 
+Software swallows music, read all about it! Follow 
+the action in this homespun newsletter from a 
+musician crazy about homespun music on per- 
+sonal computers. Use it to keep up in a field that is 
+accelerating faster every second. 
+— Kevin Kelly 
+a 
+System 1 
+Price: $3,000 
+IBM Clone w/640K 2 disk drives 
+Voyetra OP-4001 interface 
+Sequencer Plus 
+Casio CZ-1 synthesizer 
+Yamaha FB-01 module 
+Roland TR505 drum machine 
+Comments 
+This system is awesome compared to what was avail- 
+able in our last issue. The CZ and FB give you 16 Multi- 
+timbral voices and they both sound great. The CZ key- 
+board has velocity and aftertouch to send to the FB and 
+the Roland TR505 has both straight and Latin percus- 
+sion. You have about 100 bucks left over to buy cables 
+with. ... 
+a 
+System 2 
+Price: $5,000 
+Macintosh 512k w/Ext Drive 
+Performer 
+Austin Development interface 
+Oberheim Matrix 6 synthesizer 
+Yamaha TX-7 module 
+Roland JX8 module 
+Yamaha FB-01 module 
+Roland TR707 or Yamaha RX-11 drum machine 
+Casio TB-1 MIDI thru box 
+Comments 
+This is closer to $5500 but | couldn't help myself. This is 
+designed for composition, but could be used quite effec- 
+tively in a performance environment also. The whole 
+system was selected for the ability to take care of just 
+about all sonic requirements. You could scare most 
+movies with this system easily. 
+

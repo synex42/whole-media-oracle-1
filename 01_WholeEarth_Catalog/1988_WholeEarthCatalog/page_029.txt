@@ -1,0 +1,201 @@
+STATISTICS 
+25 
+How to Lie with Statistics 
+° 
+is a zero line at the bottom for comparison. Your ten per cent 
+Darrell Huff 
+ay 
+looks like ten per cent — an upward trend that is substantial but 
+1954, 1973; 142 pp. 
+3 
+perhaps not overwhelming. 
+$2.95 
+c 
+. 
+postpaid from: 
+= 
+That is very well if all you want to do is convey information. But 
+a 
+suppose you wish to win an argument, shock a reader, move 
+him to action, sell him something. For that, this chart lacks 
+schmaltz. Chop off the bottom (fig. 2). 
+National Book Company 
+Keystone Industrial Park 
+Scranton, PA 18512 
+800/233-4830 
+or Whole Earth Access 
+Now that’s more like it. (You've saved paper, too, something to 
+point out if any carping fellow objects to your misleading 
+graphics.) The figures are the same and so is the curve. It is 
+the same graph. Nothing has been falsified — except the 
+impression that it gives. But what the hasty reader sees now is 
+a national-income line that has climbed halfway up the paper in 
+In these days of polls and “proof” furnished by testing by 
+“independent laboratories,” it might.be well to bear in 
+mind the lessons given by this simple book. It’s been 
+around a long time, but it’s still deadly. 
+—J. Baldwin 
+Rohe monica 
+Sd 
+. 
+We'll let 
+hehow 
+hy 
+ei 
+: 
+d 
+Now that you have practiced to deceive, why stop with 
+oe anon HiCome Increased 
+teri per 
+ae eee Ag A 
+truncating? You have a further trick available that’s worth a 
+cent in a year. 
+te 
+AY 
+dozen of that. It will make your modest rise of ten per cent look 
+livelier than one hundred per cent is entitled to look. Simply 
+change the proportion between the ordinate and the abscissa 
+(fig. 3). There’s no rule against it, and it does give your graph a 
+prettier shape. All you have to do is let each mark up the side 
+stand for only one-tenth as many dollars as before. That is 
+Begin with paper ruled into squares. Name the months along the 
+bottom. Indicate billions of dollars up the side. Plot your points 
+and draw your line, and your graph will look like this: (fig. 1). 
+| AT 
+Bir i 
+| ANE 
+Now that’s clear enough. It shows what happened during the 
+year and it shows it month by month. He who runs may see and 
+understand, because the whole graph is in proportion and there 
+Statgraphics 
+Version 2.6. Not copy-protected; IBM/PC/XT/AT and 
+compatibles (384K; 2 disk drives or hard disk required). 
+$895 complete ($325 or $125 for upgrades) from STSC, 
+Inc. 2115 East Jefferson Street, Rockville, MD 20852, 
+301/984-5123. 
+Statgraphics has made my day. Finally a complete 
+Statistics program with built-in graphics, and it’s not 
+copy protected at that. Statgraphics is the best 
+Statistics package I’ve found. 
+The plotting capabilities are superb! They include 
+three-dimensional graphic and bar charts as well 
+as 3-D surface plots, which makes the display and 
+interpretation of statistical data almost easy. 
+Statgraphics does the following: smoothing (9 
+kinds), time series (16 kinds), categorical analysis 
+(4 kinds), multivariate matrices and plots (15 
+kinds), and nonparametric tests (12 kinds). 
+—Woody Liswood 
+One unique feature of Statgraphics is its ability to display data in 
+three dimensions, as seen in this floating three-dimensional plot 
+showing gas economy for cars of differing weights and horsepower. 
+Plot of 50 TAKE horsepower 
+ve 60 TAKE waipht end 60 TAKE mpg 
+SO 
+TAKE 
+horsepower 
+«X% 100) 
+50 TAKE weight 
+Billion 
+Dollars mmS> (i 
+YA 
+ANNE (a 
+WAY 
+(ea Co 
+{5625 
+) Gann 
+J 
+so 
+N_ Oj} Fig.3 
+StatView Il 
+$495 (for the Mac Il); $399 (for the SE+) from Abacus 
+Concepts, P.O. Box 3086, Berkeley, CA 94703; 415/ 
+540-1949 
+Egad. I’ve got all this data and | need to make 
+sense of it. StatView Il on the Macintosh is 
+probably the most non-mathematical way of 
+applying mathematics to your problem. Using the 
+Mac’s visual point-and-pick method, choose a 
+variable, or two, and chart the data from that point 
+of view. What's the divorce rate among left-handed 
+males over six feet in height named Bob? Does 
+this rate correlate with beer drinking? StatView 
+likes those kinds of jobs. It’s also handy with 
+super-sophisticated double-twist backhanded 
+regression analysis (and serious stuff like Wilcoxon 
+signed-rank, Wald-Wolfowitz runs, 
+Pearson correlations, t-Tests, harmonic 
+impressive, isn’t it? Anyone looking at it can just feel prosperity 
+throbbing in the arteries of the country. It is a subtler equivalent 
+of editing “National income rose ten per cent” into “. . 
+. climbed 
+a whopping ten per cent.” It is vastly more effective, however, 
+because it contains no adjectives or adverbs to spoil the illusion 
+of objectivity. There’s nothing anyone can pin on you. 
+Scattergram for columns: X;¥q 
+O Cholesterol 
+Cholesterol 
+N ° 3° 
+160 
+180 
+200 
+Weight 
+220 
+240 
+One view of the variable “Cholesterol.” 
+means, skewness and kurtosis, among 
+om O) 
+the easier ones to pronounce). 
+StatView II needs a Mac II (or souped 
+aa 
+up SE) to run on. This combination 
+nears the statistical power of today’s 
+corporate mini-computer and surpasses 
+yesterday’s Fortune 500 mainframe. 
+But it’s thousands of times easier to 
+use, and considerably easier to pick up 
+on than the best IBM PC stat program. 
+A background in statistics still helps. 
+Market researchers, chemists, 
+psychologists, medical agencies, 
+sociologists — any one trying to clarify 
+data — will find this tool essential. I'd 
+love to see a course using this to teach 
+Statistics. 
+—Kevin Kelly 
+et 
+| 2] 
+|_ 
+3) 
+| 
+4 
+|_5) 
+| 6] 
+| 8 
+jee 
+| 
+10] 
+| 
+| 
+13) 
+| 
+14] 
+| 
+15 
+am: 
+Name 
+. Wilson 
+.S. Smith Jr. 
+. Rogers 
+. Lumpole 
+. Fineman 
+euemiNom eos | 
+fag 
+ES | 
+}0.S. Quintent | 
+[R. 
+smith 
+Lipid Dette Beanz 
+The raw data, in columns. Each column heading can be considered a 
+variable. 
+

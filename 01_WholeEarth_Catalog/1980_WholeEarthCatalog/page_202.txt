@@ -1,0 +1,299 @@
+a 
+TE 
+em 
+Fiat’s TOTEM (Total Energy Module) 
+Well we've seen a lot of writing about saving energy by 
+being more efficient, but we haven‘t seen much hardware 
+to back up the talk. 
+Here’s an idea that | believe needs 
+to at least be tried. 
+It has some good things going for it: 
+it permits decentralized electric power, it can be financed 
+a bit at a time by private parties (or more accurately, 
+neighborhoods), it can greatly reduce the need for expen- 
+sive standby peak-load power stations and their distribu- 
+tion networks, it eliminates the possibility of wide power 
+outage, and it is a commendable 90% efficient! 
+(That's 
+compared with about 55% efficient for municipal power.) 
+So how does it work? 
+A small auto engine (Fiat, of course) runs an electric 
+generator. 
+The generator is already quite efficient, but 
+auto engines are notoriously inefficient. Many are 10% as 
+installed in cars. What is inefficient about them is that 
+they turn most of the power available in the fuel into 
+heat instead of work. TOTEM catches this heat and uses 
+it to make hot water, for space heating, and to run heat 
+pumps. 
+The heat-catcher housing also stops noise from 
+escaping. 
+The whole thing makes less pollution than a 
+common oil burner furnace. 
+It can be rigged to run on 
+methane. 
+One hundred cows can power a smal/ neighbor- 
+hood. System costs, including running, fuel and overhaul! 
+every 3,000 hours are less than for typical municipal 
+power. So TOTEM could save 70% on fossil fuel in addi- 
+tion to the above advantages. Sounds good doesn’t it? 
+Fiat thinks 
+a TOTEM unit could sell for about $3,000. 
+Fiat TOTEM 
+—J. Baldwin 
+Information 
+[Suggested by Eric MacKnight] 
+free from: 
+Fiat Motors of 
+North America, Inc. 
+155 Chestnut Ridge Rd. 
+Montvale, NJ 07645 
+127 Engine 
+. Water tank 
+Gas/water heat exchanger 
+Oil/water heat exchanger 
+Oil/tank 
+Water/water heat exchanger 
+Hot water output 
+Gas exhaust 
+. 
+Electric motor 
+Cold water input 
+. Connection to network 
+. Airintake 
+. 
+Methane supply 
+WNHCHOMDNDUAWN— 
+ase 
+Electric vehicles 
+When considering the idea of electric vehicles, it is well to 
+remember that in many locations “electric car” means in 
+reality “nuclear car.’ A widespread, sudden demand for 
+electric vehicles would almost certainly require environ- 
+mentally disastrous increases in the demand for electric 
+generating plants and the consequent fuels thereof. 
+| see 
+electric vehicles, at least in their present state of develop- 
+ment, to be potentially the biggest problem facing the 
+anti-nuke movement and the environmentally concerned 
+citizen. Nonetheless, you might have some reason to be 
+interested in where things are these days. 
+—J. Baldwin 
+a= 
+World Guide to 
+ai 
+Battery-Powered 
+Road Transportation 
+Jeffrey M. Christian, 
+i 
+Editor 
+le 
+1980; 392 pp. 
+$49.50 postpaid from: 
+McGraw-Hill Book Co. 
+Princeton Road 
+Hightstown, NJ 08520 
+or Whole Earth=* 
+Household Store 
+World Guide to Battery Powered Road Transportation 
+is a straight listing of descriptions and technical specifi- 
+cations of all electric road vehicles existing at the time 
+of publication. 
+e 
+Yare, Electric passenger car, U.S. 
+T.P. Laboratories 
+Box 73 
+La Porte, IN 46350 
+Base price, 
+single unit: 
+$20,000 
+The Power Guide 
+This catalog of small scale power equipment is by far the 
+most comprehensive and useful | have seen. 
+Mr. Fraenkel, 
+who brought us the excellent Food From Windmills has 
+outdone himself. 
+Included are not only the expected 
+windmills etc., but steam engines, diesel generating sets, 
+and that relic that you thought nobody was making 
+anymore, the slow-revving, big-flywheel, last-forever 
+donkey engine. A very complete world list of manufac- 
+turers brings up the rear. 
+This is where you look first. 
+—J. Baldwin 
+The Power Guide 
+(A Catalogue of Small 
+Scale Power Equipment) 
+Peter Fraenkel 
+1979; 240 pp. 
+£7.50 postpaid from: 
+Intermediate Technology 
+Development Group 
+9 King Street 
+London WC2E 8HN 
+England 
+or 
+$16.50 postpaid from: 
+1.T.D.G. 
+North America 
+P.O. Box 337 
+Croton-on-Hudson 
+New. York, NY 10520 
+The Storage Battery 
+The men who make ‘em give what you need to know 
+about choosing, using and caring for batteries, in simple 
+language (thank goodness). 
+Yet there are so many vari- 
+ables, that batteries are still a bit of a black art even in 
+this high tech age. 
+You'll get a good start understanding 
+them here. 
+—J. Baldwin 
+The Storage Battery 
+(lead-acid types) 
+1969; 34 pp. 
+$1 postpaid from: 
+Exide Power Systems 
+Division 
+ESB Inc. 
+Rising Sun and 
+Adams Avenues 
+Box 5723 
+Philadelphia, PA 19120 
+pe 8 
+Storage Batteries 
+This highly technical text is the complete Word on 
+batteries. 
+Though not directly aimed at wind generator 
+system storage problems, you can find the information 
+you need by combining information from various chap- 
+ters. 
+Considering the subject matter, it’s surprisingly easy 
+to understand. 
+One of the oldies-but-goodies. 
+—J. Baldwin 
+[Suggested by Jim Bukey] 
+$29.50 postpaid from: 
+John Wiley & Sons 
+One Wiley Drive 
+Somerset, NJ 08873 
+Storage Batteries 
+George Wood Vinal 
+1924, 1955; 446 pp. 
+The Complete Book 
+of Electric Vehicles 
+Sheldon R. Shacket 
+1979; 168 pp. 
+$7.95 postpaid from: 
+Domus Books 
+Quality Books, Inc. 
+400 Anthony Trail 
+Northbrook, IL 60062 
+The Complete Book of Electric Vehicles /s a good look at 
+what has been done, and includes many weird experi- 
+mental machines as well 
+as “hybrids” (gasoline /electric) 
+WESTWARD 
+MOULDINGS, LTD. § 
+Greenhill Works 
+Ns 
+Delaware Road 
+: 
+Gunnislake 
+Cornwall 
+England 
+Phone: Gunnislake 
+(0822) 832120 
+Re cent 
+- 
+= 
+16ft Wheel Producing 20 b.h.p. 
+Manufacturers of fibreglass water wheels to order. Units 
+can be overshot or breast wheels with diameters of 8 ft., 
+16 ft., and 20 ft. Wheels can be built to any width and 
+can be shipped in sections and erected on site. Typical 
+power outputs as follows: 
+Diameter 
+Width 
+Nominal power (max) 
+8 ft. (2.4m) 
+2.5 ft. (0.76 m) 
+6 b.h.p. 
+16 ft. (4.8 m) 
+3.0 ft. (0.91 m) 
+25 b.h.p. 
+20 ft. (6.0 m) 4.5 ft. (1.4 m) 
+35 b.h.p. 
+DP-60 Engine 
+re) 
+A range of heavy duty, low-speed, horizontal, two-stroke 
+engines, developed for pumping oil in oilfields but well- 
+suited for driving reciprocating water pumps. Very little 
+maintenance required — engines have particularly long 
+operational life. 
+e 
+STIRLING ENGINES 
+Harwell TMG 
+AGA Navigation Aids 
+77 High Street 
+Brentford 
+Middlesex, U.K. 
+Telex: 935956 
+Cables: 
+Agafaros, 
+Hounslow 
+Phone: 01-950-6465 
+The Aga Harwell Thermo 
+Mechanical Generator is 
+an unconventional device 
+invented at the Harwell 
+nuclear research center. 
+It works on the Stirling 
+engine principle, but has 
+no rotating parts. The 
+output is via a linear, 
+oscillating electric genera- 
+tor that produces a 25 watt, 
+100Hz AC electrical primary output which is then recti- 
+fied to maintain 10 12V nickel cadmium cells capable of 
+sustaining a 36 watt electrical load for a mean duty of 
+14 hours in each 24. 
+Its function is to produce a reliable electrical output 
+from a propane (or other heat) energy input source, 
+consumption being 200kg of propane per year. The 
+device is intended to run for ten years without main- 
+tenance other than cleaning the propane burner annually 
+when the fuel supply is replenished. Typical applications 
+are remote unattended low power electrical devices such 
+as marine buoys, microwave repeaters. 
+It is likely that further, higher powered models of this 
+device will become available later. 
+Aga Harwell Thermo Mechanical Gene 
+e 
+Sheldon Shacket, the author of this book, has built over 
+15 two- and three-wheeled electric vehicle prototypes. 
+The Model Three is a lightweight electric bicycle built on 
+a Raleigh three-speed frame. Power from the type 27 
+marine battery, rated at 95 amp hours, is directed through 
+a single-speed on/off switch. The motor isa 1/2 hp, 
+permanent magnet type with vee-belt drive to the rear 
+wheel. Range is 20 miles (32 km) at 16 mph (26 km). 
+Top speed is 18 mph (29 km). 
+aad 
+J 
+Electric Vehicles 
+(Design and Build 
+Your Own) 
+Michael Hackleman 
+1980; 214 pp. 
+2nd Edition 
+$8.95 postpaid from: 
+Peace Press 
+3828 Willat Avenue 
+Culver City, CA 90230 
+or Whole Earth 
+Household Store 
+Electric Vehicles gives sufficient information to allow you 
+to at Jeast get a handle on building your own. The numbers 
+are all there and the attitude is right for the experimenter. 
+

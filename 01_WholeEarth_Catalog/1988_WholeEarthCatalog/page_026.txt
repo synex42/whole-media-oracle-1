@@ -1,0 +1,156 @@
+22 SOFTWARE ARCHITECTURE 
+Programming Pearls 
+Jon Bentley; 1986; 200 pp.; $16.25 
+($17.88 postpaid) 
+More Programming Pearls 
+Jon Bentley; 1988; 200 pp.; $16.25 ($17.88 postpaid) 
+both from: Addison-Wesley Publishing Company, 1 
+Jacob Way, Reading, MA 01867; 800/447-2226 or 
+Whole Earth Access 
+Two of the keys to good programming are creativ- 
+ity and a playful approach to problem-solving. 
+Bentley’s collections of brief essays and magazine 
+columns encourage these traits in a mildly mind- 
+bending manner. 
+| expected to skim through these books, snag a 
+few flashy new insights about programming, and 
+be on my way. Bentley, however, draws you in like 
+a fly fisherman. He proposes a simple problem, 
+and encourages you to approach it in a workman- 
+like manner. When you return with your answer, he 
+replies, “Did you consider this?” No, you took the 
+obvious approach, so you go back and work on it 
+some more. Little that he says is profound by itself, 
+but as you keep returning and being corrected, 
+suddenly... enlightenment! 
+— Bob Murphy 
+¢ 
+The moral of each of the stories is the same: don't write 
+a big program when alittle one will do. Most of the 
+structures exemplify what Polya calls the Inventor’s 
+Paradox in his How To Solve It: “the more general prob- 
+lem may be easier to solve”. In programming this means 
+that it may be harder to solve a 73-case problem directly 
+than to write a general program to handle the N-case 
+version, and then apply it to the case that N=73. 
+The Elements of 
+Programming Style 
+Brian W. Kernighan 
+and Dennis Plauger 
+1978; 160 pp. 
+$22.50 postpaid from: 
+McGraw-Hill Book Company 
+Princeton Road 
+Hightstown, NJ 08520 
+609/426-5254 
+or Whole Earth Access 
+For programmers, this is the one book to have if 
+you're only having one. Like its namesake, Strunk 
+and White’s Elements of Style, the book concen- 
+trates on the essential practical aspects of style 
+by example. 
+Collected into chapters under such names as 
+“Expression,” “Control Structure,” “Common Blun- 
+ders,” and “Efficiency and Instrumentation” are real 
+programs, not toys made up to illustrate a point. 
+These bad examples serve as springboards for 
+incisive discussions of the best ways to write cor- 
+rect and readable programs. Sad to say, these 
+programs come primarily from programming text- 
+books, where our next generation of programmers 
+is turning for guidance. Each of the examples gets 
+rewritten, sometimes in more than one way, to 
+Using the Structured 
+Techniques 
+(A Case Study) 
+Audrey M. Weaver 
+1987; 247 pp. 
+$27 postpaid from: 
+Prentice Hall 
+200 Old Tappan Road 
+Old Tappan, NJ 07675 
+201/767-5937 
+or Whole Earth Access 
+This book will help you build software that you 
+won't later regret. Structured program design, and 
+the design of structured code, are taught in 
+schools all over the world today. If you’re unfamiliar 
+with these concepts, this book is an invaluable 
+introduction; if you’ve studied these in courses, this 
+manual will you show you how to actually put them 
+into practice. 
+The author brings information modeling to life as 
+we follow Alan, a young programmer at Interna- 
+tional Telewidgets Corporation through every step 
+of a project from conception to maintenance. At 
+each juncture, Alan applied the techniques from 
+structured design, making clear thinking almost 
+automatic. 
+We learn best by doing, and watching Alan break a 
+complex problem into manageable parts gives us a 
+much richer understanding of structured program- 
+ming than a mere exposition of technique. We 
+have the comfortable illusion of watching real 
+people figure out how to use the techniques to 
+solve real problems, and it’s almost as good as 
+illustrate the principles the authors espouse. The 
+examples are in FORTRAN or PL/I, but are none- 
+theless valuable in BASIC, COBOL, Pascal or any 
+other common language. As the authors prove, 
+“The principles of style are applicable in all lan- 
+guages, including assembly codes.” 
+Each example is followed by an aphorism that 
+captures the point: “Write clearly — don’t be too 
+clever’; “Choose a date representation that makes 
+your program simple”, “Make it right before you 
+make it faster’; The rules are listed together at the 
+end of the book. A programmer could do worse 
+than paste the list on the wall. 
+This book could be used as a textbook for a pro- 
+gramming course, yet the examples are sufficiently 
+self-contained to allow you to open the book at 
+random, read a few pages, and come away a 
+better programmer. In fact, that’s not a bad way 
+to work with the book on your second or 
+third reading. 
+One of the strongest messages in the book is that 
+programming is a holistic task. The error in the sine 
+function is not with the formula or the numerical 
+analysis — the first place many programmers 
+would look — but arises from the simplest of all 
+An information model consists of an object-relationship diagram, 
+object definitions and relationship definitions. Objects are the things 
+that a business stores information about. An object can be something 
+tangible, such as a person or a place, or it can be something intan- 
+gible such as a concept, agreement, or event. For example, an object 
+can be an employee, a customer, a contract, or a ballgame. In an 
+information model, you define the objects that your system records 
+data about and how these objects are related to each other. The 
+illustration shows an object-relationship diagram naming the relation- 
+ships someone needs to take a course. 
+solving them ourselves. | highly recommend this 
+book, and wish | had read it many years ago when 
+| started writing programs. 
+— Matthew McClure 
+blunders, an uninitialized variable. Time and again, 
+using subtle or surprising examples, Kernighan 
+and Plauger lead us to sharpen our sharpen both 
+our reading and writing skills by discussing what is 
+wrong in a given instance, how to correct it, and, 
+most important, how to avoid it. 
+— Dennis Geller 
+Sd 
+SUMMARY OF RULES 
+Write clearly — don’t be too clever. 
+Avoid temporary variables. 
+Write clearly — don't sacrifice clarity for efficiency. 
+Let the machine do the dirty work. 
+Use uniform input formats. 
+Use the good features of a language; avoid the bad 
+ones. 
+Make your programs read from top to bottom. 
+Don't stop with your first draft. 
+Let the data structure the program. 
+Each module should do one thing well. 
+Make input easy and output self-explanatory. 
+

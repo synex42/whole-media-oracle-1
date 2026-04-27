@@ -1,0 +1,171 @@
+48 
+CITATION INDEXING 
+Citation Indexing 
+by Kevin Kelly 
+J 
+UST AS footnotes and a bibliography trace an idea’s 
+ancestors, citation indexing traces an idea’s offspring. 
+Where did an idea come from? By weaving back through 
+achain of footnotes, one can get a pretty good notion of all 
+the sources that were the origin of a particular idea. 
+Citation indexing answers a converse question: What are 
+the ideas afterward that this particular idea influenced? As 
+an example, with traditional references you can track all 
+the influences on Richard Dawkin’s writings about 
+“memes.” Citation indexing would allow you to track all 
+later papers that then cite Dawkin’s writings, or in other 
+words, all the other writers who found Dawkin’s ideas 
+important. For some ideas, the number of citations will 
+dwindle with every year; for others it will increase. 
+Citation indexing could, in theory, make a list of any book 
+or paper in the future that acknowledges this article of mine 
+as a source of ideas. A year from now you could follow all 
+the divergent paths these ideas have led to, probably weird 
+offbeat comers you would have never found otherwise. 
+It’s always a fair bet that someone else lured by the same 
+idea you find important may have something to tell you. 
+While simple in concept, citation indexing is murderously 
+complex in logistics. It’s the perfect job for an overedu- 
+cated computer. A very large one at the Institute of Scien- 
+tific Information (ISI) in Philadelphia keeps track of all the 
+millions of connections in all the scholarly publications in 
+English and generates the index as a printed annual 
+mammoth 14 volumes wide, each volume bigger than the 
+Manhattan Yellow Pages. The awesome series, known as 
+the Science Citation Index usually lives on its own table 
+in research libraries. Or, these days, as a vaporous thin 
+electronic database service that can be searched online via 
+Dialog. 
+Citation indexing, and the Science Citation Index in 
+particular, have tumed out to be useful in several other 
+unique ways. Once all this information was burned inside 
+a massive computer memory, information scientists tried 
+tovisually map the pattern of citations. What they saw was 
+a display of link clusters that corresponded to the way 
+information flowed from lab to lab, scientist to scientist. 
+Overall it portrayed the behavior of information as a 
+communicable disease (see Memes, page 18). 
+Researchers new to a field could look at a citation cluster 
+map and get a good hint of where the godfathers were. An 
+investigator could begin his research exploring the flock at 
+the center and gather the most pertinent ideas there. 
+Sweeping outward from the nucleus he would have to cast 
+his net wider and wider over more and more papers to haul 
+in the same catch of useful news. Paying attention to 
+citations is a way to filter outsomuch extraneous material. 
+Citation indexing has proved so useful in pinpointing 
+erupting activity in science that it is used many times as a 
+measure to decide where to fund research. Just pour your 
+money into the hub of an expanding cluster. It also quickly 
+became evident that it could be used to measure the 
+significance of a scientist’s work. Rather than justcountup 
+how many papers he published, count up how many times 
+someone else cited his work. This has been a boon to those 
+ERYTHROCYTE MEMBRANE-PROTEINS 
+LEPKE 76 
+CABANTCHIK 74 
+29 
+ak “aly 
+| 
+STECK 76 JENK 
+KAHLENBERG 16 
+BENDER 71 
+UO represents a core document. Axes provide orientation. 
+Proximity of D’s defines subject similarity. 
+CABANTCHIK 74 
+| 
+| 
+i 
+Sl 
+Eas 
+| 
+| 
+| 
+| 
+KLETZIEN 72 
+ESTENSEN 72 —}-------- ro-- 
+: 
+SANGER 72 
+! 
++---4----b--- 
+25 
+------- 4-SPOONER 
+70+ 
+——— 
+Amap showing the progression of ideas from one scientist to another. The most concentrated clumps of 
+citations are likely to be the most rewarding 
+spots to begin research ona subject. This charttracks biomedical documents dealing with red blood cell membranes in vertebrates. From the Institute 
+of Scientific Information Atlas of Science — Biochemistry and Molecular Biology 78/80, 1981. 
+who make a few key contributions, and a bane to those 
+churning out mediocre reports that no one pays much 
+attention to. Citation levels as a factor in academic promo- 
+tions is a very touchy subject. 
+The same can be said of counting citations of various 
+scholarly journals. Some journal’s papers are cited more 
+often than others, and citation indexing easily ranks them 
+from the most often “quoted” to the least. Like other 
+measurements (circulation, number of pages) numbers 
+aren’t everything. Nonetheless, information trackers who 
+know which journals are consistently producing articles 
+that other people find noteworthy can quickly narrow the 
+scope of a search in an impossibly wide thicket of data. In 
+fact a small core of about 200 journals out of the 80,000 
+published produce the majority of cited articles. 
+You'll find this tracking in the Journal Citation Reports 
+published by ISI, available wherever the Science Citation 
+Index is. They have developed two measurements to 
+evaluate optimum publications: 1) The Immediacy Index 
+— a measure of how quickly the average article in a 
+particular journal is cited; 2) Impact Factor — a measure 
+of the frequency with which the average article in a 
+particular journal has been cited in a particular year. As in 
+citation indexing for authors, citation analysis of journals 
+can depict the flow of information and indicate areas of 
+particular restlessness. 
+This peculiar brand of investigation is able to map the 
+structure of investigative information. The father of this 
+information mirror, Eugene Garfield, reports his experi- 
+JOURNALS RANKED BY CATEGORY 
+Impact 
+Cited 
+CANCER 
+Factor 
+Half-life 
+1 ADV CANCER RES 
+2 CANCER METAST REV 
+CANCER RES 
+INT J CANCER 
+J CLIN ONCOL 
+CARCINOGENESIS 
+J NATL CANCER | 
+CANCER 
+CANCER TREAT REP 
+BRIT J CANCER 
+EXP CELL RES 
+CANCER GENET CYTOGEN 
+LEUKEMIA RES 
+BREAST CANCER RES TR 
+apis TREAT REV 
+17 CANCER IMMUNOL IMMUN 
+> ie) 
+= COOODNMNAHW 
+OOS 
+COONS
+OO 
+CIS 
+NRNOMVODNY
+Journal rankings by category indicate the impactof articles published in 
+the literature of a particular field. From Joumal Citation Reports. 
+ments and conclusions with citation index in his very 
+readable text Citation Indexing — Its Theory and 
+Application in Science, Technology, and Humanities. 
+Since it measures what has so long been only hunched at, 
+Garfieldrightly sees it as the science of science, at best, and 
+the science of scientific information, at least. 
+Citation Indexing: Eugene Garfield, 1979; 274 pp. $18.95 
+($20.95 postpaid). Current Contents: $298/yr (52 issues). 
+Science Citation Index and Journal Citation Reports 
+are found at most research libraries. All from Institute for 
+Scientific Information, 3501 Market Street, Philadelphia, 
+PA 19104; 800/523-1850 
+

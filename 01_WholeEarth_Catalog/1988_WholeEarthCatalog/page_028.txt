@@ -1,0 +1,194 @@
+1, 
+24 
+Mathematical Snapshots 
+H. Steinhaus 
+1950, 1983; 311 pp. 
+$8.95 
+($10.95 postpaid) from: 
+Oxford University Press 
+Attn.: Order Department 
+16-00 Pollitt Drive 
+Fair Lawn, NJ 07410 
+800/451-7556 
+or Whole Earth Access 
+The most graphically insightful math book in print. 
+Most math feeds proof, this lovely stuff feeds 
+understanding and is no less rigorous. If someone 
+were going to see only one mathematics book in 
+their life, this would be the best. 
+—Stewart Brand 
+horizontally on the edges of our palms and then we bring 
+our hands closer together; finally they meetin the center 
+of gravity. The stick never loses its equilibrium because 
+when the centroid, which is initially between the palms, 
+approaches one of them, the pressure on the nearer 
+palm becomes many times greater than the pressure on 
+the other palm; its product by the coefficient of friction 
+must finally surpass the analogous product for the other 
+palm; when this happens, the relative movement of the 
+other one starts. This play continues alternatively until 
+both palms meet; the centroid is always between them 
+and it is there at the final stage. The trick is done 
+automatically without any conscious effort. 
+e 
+To determine the centroid of a stick, we place it 
+Understanding Calculator Math 
+BASIC KEYS 
+; 
+Texas Instruments Learning Center 
+ve 
+ae Inverse F unction 
+oie 1978; 224 pp. 
+or “Reciprocal” Key 
+($7.95 postpaid) from: 
+The 
+[4] key just takes the number in the display and divides 
+it into 1. (By the way — the letter “x”, used in calculator keys 
+just means “any number that may be in the display.”) The [] 
+key can be used at any time: it acts immediately on whatever 
+number is in the display, and doesn’t affect other calculations 
+in progress. 
+Texas Instruments 
+Attn.: Accessories Department 
+P.O. Box 53 
+Lubbock, TX 79408 
+806/747-1882 
+or Whole Earth Access 
+Example: 
+You're trying to fill a swimming pool and want to speed up 
+the process. You turn on a main fill faucet that would fill 
+the pool by itself in 10 hours, set up a garden hose that 
+would do it in 28 hours, and a fire hose that would take 6 
+hours on its own. How long does it take with all three 
+working? 
+This book explains the basic keys and then takes you 
+through some common business, home and scientific 
+problems that make you itchy to work out your own 
+problems. It’s the only good introduction to calculator use 
+we’ve seen. Though originally published by electronics 
+manufacturer Texas Instruments, you can use it with 
+anybody’s calculator. T.|. published a whole series of such 
+books, on the sly premise that if you give people well- 
+crafted, enthusiastic introductory manuals to calculator/ 
+computer/communications technology, they'll get hooked. 
+—Art Kleiner 
+Solution: 
+1 
+1 i ] Ps 1 
+Time Fotal 
+oT; 
+As 
+1 
+where T,, T., and T., are the times for the faucet, garden 
+hose and fire hose, respectively. 
+Press 
+10 tz] 4) 28% 
+6 le) &) Ce) 
+Display/Comments 
++ 
+3.3070866 hours, or about 3 
+hours, 18 minutes. 
+6 
+Balancing Your Checkbook. Here’s a trick to help find mistakes 
+— if your checkbook balance and statement balance differ by an 
+amount that is evenly divisible by 9, chances are that your error 
+is one of transposing two numbers (i.e., recording 54 instead of 
+45, or 329 instead of 239). 
+Note that the [¥] key “inverts” or flips over fractions; 
+and this process can be useful in evaluating expressions 
+you'll find in many situations — especially in basic science 
+(see Physics section). 
+Survival Mathematics 
+(Basic Math to Help You Cope) 
+Edward Williams 
+1983; 364 pp. 
+$9.95 
+($11.55 postpaid) from: 
+Barron's Educational Series, 250 Wireless 
+Boulevard, Hauppauge, NY 11788 
+800/645-3476 
+or Whole Earth Access 
+a. Ms. Barnaby noticed these advertisements: 
+NYLON ENEE-HI’S 
+4 1.00 
+OUR REGULAR 
+39° pe 
+Nylon stretch 
+Wide bend 
+comfort 
+top, sheer 
+legs 
+One size ble sizes 9-11 
+A 
+Cushioned insoles, terry sack, long wearing 
+uppers Rib soles White, navy. Sizes 8-10 
+She purchased a pair of women’s canvas oxfords and 8 pairs of nylon knee- 
+hi's. What was the cost of these 9 items? 
+b. Calculate her total bill after adding a sales tax charge of 8%. 
+c. ad much did she save by purchasing 8 pairs of nylon knee-hi's Instead of 
+7 
+d. If Ms, Barnaby paid for her purchases with one $10 bill, how much change 
+did she recelve? 
+as the title says: survival mathematics. 
+Somebody you know might need some help in basic arithmetic. Have 
+them try this exercise book which employs figures from everyday 
+life 
+for practicing math. Adding up a bill, determining if you’re gonna save 
+money on a sale, calculating what kind of insurance costs less. Just 
+—Kevin Kelly 
+[Below] When 
+we cuta cylinder 
+by a plane, we 
+get 
+an ellipse. 
+Overhead 
+Calculator 
+$42 postpaid from: 
+Stokes Publishing 
+1125 Robin Way 
+Sunnyvale, CA 94087 
+408/736-4637 
+Calculator math, that is teaching math using 
+calculators, is so effective that it is becoming 
+mandatory in progressive elementary schools. This 
+transparent glass (and solar powered!) calculator 
+lets the teacher go through the steps projected 
+overhead while the rest of the class fingerbutton 
+their own. Two, four, six, eight, this is how we 
+calculate. 
+—Kevin Kelly 
+[Suggested by Bob Albrecht] 
+Math Aids 
+Catalog free from P.O. Box 64, San Carlos, CA 94070 
+415/593-2839. 
+Looking through this catalog of books and 
+sundries, you would think that mathematics was 
+something that 
+anyone could 
+. 
+» 
+enjoy. 
+—Kevin Kelly 
+Mp 
+at | 
+s§ 
+cy 
+| a 
+Way 
+THE TANGRAM In wood $5.00. 
+emade from stained 
+wood 1° thick 
+' 
+eassembles. to the traditional tangram square: 
+measuring. 11°x11 - 
+: 
+for classroom, desk, or coffee table 
+ediscover how to form over 1000 tangram figures 
+THE EIGHTH BOOK OF TAN $3.25 
+by: Sam Loyd °A treasure trove of tangram 
+puzzles, history and solutions by America’s. 
+foremost puzzler. 
+THE FUN WITH TANGRAMS KIT $2.95 
+by: S. Johnson*120 tangram puzzles with two: 
+complete sets of tangram pieces. 
+

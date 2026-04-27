@@ -1,0 +1,333 @@
+More 
+Personal 
+Computing 
+Magazines 
+by Art Kleiner 
+Info World 
+A tabloid newspaper about the world of personal comput- 
+ing that gets better with each issue. 
+It has almost no how- 
+to material and concentrates on what the industry is 
+doing and what innovations are likely to emerge next. 
+It 
+also has the best coverage of computer networks seen 
+anywhere, and a nice muckrakingly philosophical sensi- 
+bility left over from the days when it was the Intelligent 
+Machines Journal. 
+/ndispensable. 
+te 
+InfoWorld 
+(The Newspaper for 
+the Microcomputing 
+Community) 
+Tom Williams, Editor 
+$18 /year (26 issues) 
+from: 
+Popular Computing, Inc. 
+530 Lytton Avenue 
+Palo Alto, CA 94301 
+e 
+Eliza, the simulated psy- 
+chiatrist program developed 
+by Dr. Joseph Weizenbaum 
+at the MIT Artificial Intel- 
+ligence Lab, is now avail- 
+able for TRS-80 Level | 
+and Il users. The program analyzes input text, selects 
+meaningful words (according to lists of emotionally 
+charged phrases compiled by psychiatrists), and inserts 
+these words into its answers, so as to elicit further respon- 
+ses from the ‘‘client.’" The company cautions that the 
+program is not really intelligent, and the comments and 
+evaluations are not to be taken seriously. The program 
+is available on cassette for $14.95. An additional program 
+to control the TRS-80 Voice Synthesizer, allowing Eliza 
+to “’talk,"’ is also available. 
+HOME COMPUTERS _531_ 
+Creative Computing 
+Published by prolific computer-writer David Ah/ (and 
+now co-edited by Ted Nelson, whose Home Computer 
+Revolution and Computer Lib are reviewed on these 
+pages), Creative Computing has a wider range of small- 
+computer articles than any other publication, and a lot 
+of devotees. However, 
+we've heard that they‘re 
+oF 
+ith 
+not careful about 
+verifying 
+everything they print, 
+and they've been accused 
+of using material from 
+other publications 
+without credit. 
+Creative Computing 
+David Ahl and 
+Ted Nelson, Editors 
+$15 /year (12 issues) 
+from: 
+Creative Computing 
+P.O. Box 789 
+Morristown, NJ 07960 
+Computer Shopper 
+Where to buy used computer gear, pure and simple. Ina 
+field which changes so rapidly, there are great bargains in 
+old-but-still-usable equipment, and “old” is often 
+measured in weeks, not years. Also includes listings for 
+computer fairs, incipient newsletters, and software. 
+[Suggested by Larry Press] 
+Computer Shopper 
+(The Nationwide 
+Marketplace for 
+Computer Equipment) 
+$10 /year (12 issues) 
+from: 
+Computer Shopper 
+P.O. Box F 
+Titusville, FL 32780 
+4 
+s 
+fl 
+pat 
+ie! 
+y Sbeth 
+wad. 
+patel nce 
+“ 
+e 
+a 
+TRS-80 Phone Dialer — Any number, any sequence — 
+automatically! 
+Will redial, time calls. 
+Level I! Basic, 
+4K up. Complete doc. $4.95. Cassette $9.95. 
+Computerrent, 6074A Egg Lake Road, Hugo, MN 
+55038. VISA, MC. 800-228-2024 Ext. 410.5. 
+nnn 
+Purser’s Magazine 
+Computers and People 
+This magazine fills a real need excellently. 
+It reviews and 
+gives access to good software (computer programs) for 
+the most popular personal computers: the PET, Apple, 
+TRS-80 and Atari. 
+The reviews are fun to read even if 
+they’re not for your machine, Especially recommended 
+for the new computer owner who doesn’t know what 
+to do with the computer once it’s uncrated. 
+Weighted 
+heavily toward games and learning, but also includes 
+text editing and other more “practical” programs. Fora 
+while each issue had a different name — “Computer 
+Cassettes Review” and the like — but now editor Bob 
+Purser seems to have settled on Purser’s Magazine so 
+people can track it down. 
+[Suggested by Bob Albrecht] 
+_ 
+Purser’s Magazine 
+oe 
+all 
+(Software Directory for 
+the Level Il TRS-80, 
+Apple, PET and Atari) 
+Robert Elliot Purser, 
+Editor 
+$12 /year (4 issues) 
+from: 
+Purser’s Magazine 
+P.O. Box 466 
+El Dorado, CA 95623 
+L 
+Three Mile Island, Apple 
+Il 48K Disk. The Muse 
+Software Company, 330 
+North Charles Street, 
+Baltimore, MD 21234. 
+| thought this was a game. 
+It is not. 
+Muse’s Three Mile Island is an educational program. 
+It 
+'s a simulation of a nuclear power plant. And it is very 
+well done. 
+In my opinion, there are just two ways to learn about a 
+nuclear power plant. One way is to run a nuclear power 
+i 
+\ il 
+| 
+ty i 
+Mornin 
+on 
+An eccentric magazine of thought and news about the 
+relation of computers to the human beings who use them. 
+/t deals mostly with “established” 1BM-type computer 
+systems, the kind that only professional programmers or 
+academics normally work with — but the issues it raises 
+filter down to all levels of computing and other technolo- 
+gies as well. 
+Editor Edmund C. Berkeley was one of the 
+first people to see that there even were issues here. Often 
+the best new books about the implications of computing 
+are excerpted in this magazine. 
+Computers and People 
+(Formerly Computers and 
+Automation) 
+Edmund C. Berkeley, 
+Editor 
+$14.50 /year (10 issues) 
+from: 
+Berkeley Enterprises 
+815 Washington Street 
+Newtonville, MA 02160 
+e 
+The prevention of all 
+errors in computer appli- 
+cations (and elsewhere) is 
+of overriding importance 
+and extreme difficulty. 
+Why? Because there is no 
+good, regular, usual method for making sure that all 
+errors have been removed. The real world sits on our 
+doorstep unorganized for the prevention of errors. 
+a 
+ S 
+as 
+plant. The other way is to operate a simulation of a 
+nuclear power plant. No amount of reading can give you 
+the understanding that this program will give you in just 
+a few hours. 
+The next time some ‘‘expert”’ tells you about the safety 
+of nuclear power plants, ask them if they have ever run 
+one. You can in your own home. Why be in the dark 
+about this very important issue when all you need is 
+this program? ... 
+This program will be a classic. Every school will need a 
+copy. The only thing you must realize is that it is not 
+agame. Rather it is an educational tool for school or 
+personal development. 
+| recommend this program. 
+7 * 
+od a 
+ee te as 
+Dehn 
+ib 
+ols) 
+sible 
+1608) 
+2.6 
+04650 
+(ere) 
+e OS 
+61e 
+(966) 
+691189) 
+Wie) 
+ave 
+Tg 
+a> 
+, 
+le 
+ee 
+COMMUNICATIONS 
+i 
+ae Teer. 
+The Best of the Computer Faires 
+The fifth volume in what | hope will be an infinite series 
+of annual anthologies from this Bay Area personal com- 
+puter expo. 
+These collections of micro-computerists’ 
+papers are one of the best sources around of information 
+on computer networks, computer education, new micro- 
+computer languages, and all sorts of strange experiments 
+(like simulating the environment of spaceship flight or 
+creating your own videodisks) that don’t even make it 
+into the magazines until later. 
+Back volumes are stil] 
+useful but increasingly dated as they get older; start 
+with the most recent first. 
+The Best of the 
+Computer Faires, 
+Volume V 
+(Conference Proceedings 
+of the Fifth West Coast 
+Computer Faire) 
+Jim C. Warren, Jr., 
+Editor 
+1980; 238 pp. 
+$14.75 Postpaid 
+Volume | (1976) 
+Volume II (1977) 
+Volume III (1978) 
+Volume IV (1979) 
+$1 4.75 each postpaid 
+all from: 
+Computer Faire 
+345 Swett Road 
+-— 
+|
+Woodside, CA 94062 
+Heat 
+Solar Heat 
+Storage 
+Panel 
+Tank 
+—3 
+bf 
+Diagram of the Solar 
+Heat Control portion of 
+pom | 
+€ 
+microM: nager 
+|
+MicroManager. 
+Pump On: T2-T1> 
+AT 
+Pump Off :T2-TI< 
+4T 
+Datamation 
+This is where the professionals get their gossip about the 
+industry, and it’s useful for anyone who needs to investi- 
+gate the world of the computer giants. 
+“Twits /BM,” 
+wrote Ted Nelson in 1973, and the magazine is also 
+hearteningly cynical about AT&T, GTE and the other 
+large firms it writes about. If you're a professional or can 
+convince them you are, you can get a free subscription. 
+Datamation 
+John L. Kirkley, Editor 
+$36 /year (13 issues) 
+from: 
+Technical Publishing 
+Circulation 
+666 Fifth Avenue 
+New York, NY 10019 
+Our second computer, BINAC, was two computers 
+working in tandem, each one checking the other. Forty 
+years ago that system was more fail-safe than the analog 
+system they were using at Three Mile Island. 
+a 
+<a 
+De 
+0 6. 0 exe 6's € 
+8 0%e) 0 
+0 fe 8 
+o 
+6 
+8 
+6 ewe, 8 
+© eo eee 
+THE RISING S 
+NEIGHBORHOOD NEWSLETTER 
+Peter said the most important kind of reading to 
+take along are memory joggers. Not novels that 
+you just read and you’re done with but things like 
+maps of places he’s been so he can look at them 
+and remember more and more of what’s there and 
+what happened when he was there. He likes books 
+with lots of different facts in them (like almanacs 
+and the Catalog) because it helps jog his memory 
+for more facts that he knows. ‘Sometimes you 
+think you’llrun out of yourself 
+out there, but with 
+all that time, you remember amazing amounts 
+and it’s fairly interesting, some of it.” 
+

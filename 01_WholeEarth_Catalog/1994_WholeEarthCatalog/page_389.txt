@@ -1,0 +1,73 @@
+MWECis the first Whole Earth Catalog to be 
+produced entirely on that overworked 
+metaphor, the digital desktop (locally 
+known as the Pixel Farm). Everything 
+within these covers was typed or scanned 
+into our Macintosh computers and 
+wrangled into the form before you. The 
+process has involved lots of blood, sweat, 
+and bytes. As well as the following tools. 
+Gate Five Road 
+=z> 
+AFTERWORD & 
+MOREWORDS 
+Illustrations such as 
+this one, scattered 
+throughout MWEC, 
+were not created for 
+specific pages of this 
+Catalog, but doodled 
+by James Donnelly 
+during meetings. 
+The Pixel Farmers, 
+as our page designers 
+came to call them- 
+selves, kept the 
+sketches up on the 
+wall until the perfect 
+spaces appeared. 
+James Donnelly, Senior Editor, is also James Donnelly, brilliant and 
+bilious copy-editor and cartoonist. We've always dreamed of publish- 
+ing one of his merciless, acidic, hilarious copy-edits, but until now, 
+we've never found a writer willing to be subjected to public humiliation 
+in order to illustrate one of the less visible parts of this book — the 
+editing, re-editing, copy-editing, access-checking, and design-tweaking 
+that goes into making a final page. —HLR 
+SOFTWARE 
+HARDWARE 
+Our main ax here in the production zone has been PageMaker 5.0, 
+page layout software by Aldus. Big thanks to them for their excellent 
+product and support (especially Donna Sandstrom!). Photographs and 
+illustrations were scanned using Ofoto 2.0, then corrected/cropped/ 
+manipulated in PhotoShop 2.5.1. We created line art and back- 
+grounds in Illustrator 5.0 and TypeStyler 1.5. The marginal mor- 
+pho-movie was perpetrated with, appropriately enough, Morph 2.0. 
+Upstream from the art department, we processed words as if they were 
+salmon in Microsoft WORD 5.0. Researchers David and Caius used 
+Filemaker Pro to track the thousands of addresses, phone numbers, 
+and internet addresses that make this catalog so useful. Howard did the 
+initial outlining in MORE 3.0. We all used Z-Term 0.9, Eudora 2.0, 
+and Mosaic to retrieve reviews and data online. 
+Helpful utilities: Retrospect Remote for archival backup, Apple 
+Fileshare 4.0 and Timbuktu Remote for network management, and 
+Now Boomerang and Now Menus to optimize Apple System 7.1. 
+Whole Earth editorial, research, and production departments put 
+high mileage on Apple Macintosh Quadra 610s, 650s, and 
+800s, Performa 520s, Power-books, Mac Ils, anda Mac SE. 
+We used Apple ADB mice, Kensington trackballs, and 
+screens by Radius, SuperMac, and Apple. Proof printing was 
+done on two Apple Laserwriter Il NTXs andan | 1x17" QMS 
+860 laserprinter. To store and archive the entire |.45 gigabyte 
+project, we used hard drives from Seagate and Apple, a PLI 
+88mg Syquest drive, anda DAT drive by Micronet Technology. 
+For scanning, we put AppleScanners and an HP Scanjet 
+through an endurance contest. We took slides to MarinStat 
+(Mill Valley, CA) for scanning. Modems by Global Village, 
+U.S. Robotics, and Meridian got us connected. The Whole 
+Earth computers are on an EtherNet local-area network installed 
+by LanMinds of Berkeley, usinga Shiva FastPath anda Farralon 
+Star Controller. And we couldn’t of done it without the 
+amazing flying Woosh. Wheee!!! 
+—Winslow Colwell — 
+383 
+

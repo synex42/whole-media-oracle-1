@@ -1,0 +1,351 @@
+i 
+gy 
+Meccano 
+_ Charles Babbage (1792-1871) was a British mathematician 
+I and a mechanical genius. His contemporaries thought he was 
+f 
+crazy. He spent 37 years perfecting a mechanical calculating 
+- machine which was finally rejected by the government of 
+England in 1842. Aféer all, the idea was plainly ridiculous. 
+By the 1930's it didn’t seem so ridiculous anymore, and a 
+group of British scientists decided *o build a calculating engine 
+which would automatically compute differential equations 
+_ for shel! trajectories. The machine required thousands of 
+' gears and shafts assembled in a complex metal frame; there 
+_ was the usual shortage of time and money. The differential 
+| 
+analyzer, forerunner of today’s computers, was made possible 
+| 
+by aconstruction toy called Meccano. Assembled from 
+|| standard Meccano parts, the machine worked perfectly. 
+~~: 
+Se 
+ee 
+Tagrtionhask 
+“Gar MASE RSNA VEE ~ “8 
+Machinery’s Handbook 
+18th EDITION 
+GEOMETRY 
+Geometrical Constructions 
+To construct a parabola: 
+Divide line AB into a 
+number of equal parts and divide BC into the same 
+number of parts. 
+From the division points on AB 
+draw horizontal 
+lines. 
+From the division points 
+on BC draw lines to noint A. 
+The points of inter- 
+section between lines drawn from points numbered 
+ulike are points on the parabola. 
+To construct a hyperbola: From focus F lay off 
+a distance FD equal to the transverse axis, or the 
+distance AB between the two branches of the curve. 
+With F as a center and any distance FE greater than 
+FB as a radius, describe a circular arc. 
+Then with 
+Fy, asa 
+center and DE asa 
+radius, describe arcs inter- 
+secting at C and G the arc just described. 
+C and 
+G are points on the hyperbola. 
+Any number of 
+points can be found in a similar manner. 
+REVISER and ENLARGED 
+AD 
+Ly 
+Machinery’s Handbook 
+1914...1969; 1192 pp. 
+$16.00 postpaid 
+from 
+Industrial Press, Inc. 
+200 Madison Avenue 
+To construct an involute: 
+Divide the circumfer- 
+ence of the base circle ABC into a number of equal 
+parts. 
+Through the division points 1, 2, 3, etc., 
+draw tangents to the circle and make the lengths 
+D1, E2, F3, etc., of these tangents equal to the 
+actual lengthof the arcs A 1, A 2, A 3, etc. 
+To construct a helix: Divide half the circumfer- 
+ence of the cylinder on the surface of which the helix is 
+to be described into a number of equal parts. 
+Divide 
+half the lead of the helix into the same number of equal 
+parts. 
+From the division points on the circle repre- 
+senting the cylinder draw vertical lines, and from the 
+division points on the lead draw horizontal lines as 
+shown, 
+The intersections between lines numbered 
+alike are points op the helix. 
+New York, N. Y. 10016 
+' 
+or 
+WHOLE EARTH CATALOG 
+Table. 8. American Standard 300-Pound Stee} Flanged Fittings 
+/f you make things out of metal you need 
+Machinery’s Handbook. 
+This thick, compre- 
+hensive guide to shop and engineering practice 
+was originally designed to fit in the tall center 
+drawer of a machinist’s chest. Machinist’s 
+chests have stayed the same size, but the 
+shaping of metal has become more and more 
+complicated. Machinery’s has coped with the 
+squeeze heroically; the current (18th}-edition 
+contains 2293 pages printed on fine India 
+paper, and it still fits the drawer. 
+You can 
+find in it things like tap drill sizes for S.A.E., 
+metric, and Whitworth threads, what welding 
+rod to use for which metal, and how much 
+weight you can hang on a rope if it goes 
+around a fat (or thin) barrel. 
+You can also 
+look up logarithms, area, volumes, and centers 
+We tkskeak* pais ans Ga ks 
+of gravity, and learn how to design helical 
+lagen 
+gears, replace bearings, grind a lathe bit, and 
+sround the pulleys 
+do many other useful and not-so-obvious 
+coun ibe ia bon eg cubes 4 
+things. The book is divided into thirteen main 
+- 
+rice gery 
+sections, indexed, thumb-indexed, and bound 
+in tough, satisfyingly archaic industrial green 
+with gold stamping. 
+Meccano, originated by Frank Hornby, a Liverpool inventor, 
+in 1901, was the prototype miniature metal construction 
+system. American children are familiar with Erector, European 
+| 
+kinder with Trix and Marklin, but they all spring from 
+_ Hornby’s original brainchild. Meccano is sold today from 
+open stock, and in sets ranging in price from $2.00 to $160.00. 
+There are hundreds of extra specialized parts available, and 
+power units including two sizes of clockwork motors (these 
+are genuine governor-controlled drives, not flimsy windups), 
+| 
+four different electric motors operating on 4% valts D.C. to 
+| 
+240 volts A.C., and a reversing steam engine. Meccano gears 
+are machined brass with setscrews; most other parts are 
+stamped and plated steel. Auxiliary sets are available for 
+making gear transmissions, mechanisms such as intermittent 
+| drives, and generators. Plans for many complex models are 
+available from the factory, and there is a monthly Meccano 
+; win ireors with projects such as regulator clocks described in 
+detail. 
+- 
+SONILLIZ 
+Adld 
+GNV 
+Fdid 
+A mised face of Mainch is included in (a) minimum thickness of flanges, (b) " center-tocontact-surface " dimensions, 
+hence the 
+* conter-toomtact-surlace 
+“ dimenswms arr the sane ax the  ernter-t-flanreedge ” dimensions for 
+thi 
+Me 
+Where facin 
+other than the $ye-toch raised fare are uscd, thie 
+Gruter-teflangecaye ” dimensomns shall remsau uechanged 
+= 
+[Suggested and reviewed by 
+te) Draw a line actoss the heel of 
+Dr. Morton Grosser.] 
+a 
+Ne 
+Sesto 
+nels 
+@eene 
+a 
+giana 
+cad 
+a 
+te 
+ba 
+awqmwaeeccamanemene 
+2 
+2] 
+& 
+@ ee 
+eae 
+ener 
+= 
+the Iep, The lap should be planned to 
+Q 
+> 
+point in 
+same direction as 
+ti 
+other laps in the beic. 
+Q 
+0 
+Son ncaa aaa! tx tus Voce ewe ee o4 
+@ 
+i 
+(e) Shave Sowa, bee ends esis 
+2 
+evenly 
+from 
+to points. 
+in 
+| 
+28 WELDING AND CUT TING 
+<a at heel and work toward 
+- 3 
+J. A. Oates 
+i 
+‘ 
+j 
+0 
+A practical handbook describing the 
+| 
+Ea RES eae 
+et me re 
+| 
+welding and cutting of metals by the 
+HEMMER ER IMBEER 
+2 
+oxy-acetylene and metallic arc pro- 
+| 
+brlocspet a chee a 
+bas 
+Bah ea eaal st outer 
+erie ea Busia Crs.8 
+woe 
+8 
+cesses. Chapters include: Prevention 
+that eee caches a ea Nespas 
+Sm 
+ce TA 
+alo 
+See 
+q 
+of Distortion; Gas Welding Equip- 
+{ 
+thickness ss body of the belt. 
+3 
+2 
+ment; Gas Welding techniques; Gas 
+aC ECERCECECEI 
+Q 
+Welding Various Metals; Flame cut- 
+a 
+= 
+ting methods; Types of Electric Arc 
+Ratna 
+as 
+= 
+ms 
+eS 
+‘ 
+¢ 
+Welding; Equipment for Metallic Arc 
+inet 
+imese te 
+As 
+z 
+Es gfocecosemes@ns cocccs ecco ss sccte 
+8 
+Welding; Procedure and Techniques. 
+Q 
+be 
+: 
+3 
+e 
+_ The point of all this is that if you want to breadboard an 
+| 
+L ee 
+a 
+| 
+invention or a machine, Meccano is a tested, economical way 
+- to doit. Many laboratories in England carry stocks of Meccano 
+_ parts to built test models with. Meccano is available in a few 
+- stores in the United States, but you are better off ordering 
+| 
+it from major British toy suppliers such as Beatties of London, 
+_ 15 Broadway, Southgate, London N. 14, or Hamley’s, Lombard 
+Road, Merton, London, S.W. 19. After more than half a 
+-_ century Meccano is still a viable mechanical system. 
+It’s also 
+74 x 43 in. 93 pages. Two-colour drawn on card cover. 44 line 
+drawings. 
+($1.00) 
+35 GLASS FIBRE 
+FOR AMATEURS 
+_ 
+apret 
+od toy. 
+: 
+FIBRE 
+: be Pretty’ go 
+OY: 
+[Suggested and reviewed by 
+This is essentially a practical book for all who 
+hy 
+HE: 
+: 
+ie Moran Grosee! 
+are interested in making things with reinforced 
+FoR 
+—— seen a 
+es 
+se 
+cafedtenesd 
+| 
+glass plastics, 
+or using this most 
+versatile 
+’ material for repair work, etc. [t is the first work 
+of its kind to cover materials, techniques and a 
+vast range of applications in a single compre- 
+hensive volume 
+— giving the reader literally all 
+the information he will ever need for producing 
+successful glass fibre mouldings of any shape, 
+form or size. Seventeen chapters on materials, 
+tools, resins, glass fibres, castings, design, male, 
+and female moulds projects, car bodies, marine 
+domestic and modelling applications, trouble 
+shooting. Nine appendices. Joint authors are 
+well-known 
+— Ron Warring is.an authority on 
+boats and their construction and Geoff Lewis 
+Is a working director of a leading glass , 
+fibre firm. 
+‘ The British have good how-to books. MAP 
+is a gathering of a passel of them. 
+‘Cmioee 
+6 RamAaEETD 
+[Suggested by Dr. Morton Grosser] 
+24 HOW TO WORK. 
+- SHEET METAL 
+Metal working practice straight from the bench. Practical: cHapters- 
+embrace:: Equipment; .Meétals used; Hollowing 
+ahd Blatking; Flanging; 
+‘Edging and Seaming; Wiring Edge by Hand; Jennies and Wiring Machines; 
+Beading | 
+Swaging Machines, ‘Conical Work: Pipes, ‘Patterns. and 
+Joints; Pianishing; Riveting; Brazing; Tank Canmmveee, : 
+cover. 39 line 
+6/- 
+(81.25) 
+7} 5-43 
+in. 142-boges, Drawnon two-colour card. cé 
+84 x 54 in. 122 pages. Printed 
+litho with 120 illustrations 
+ard siderot. Hardbound.. 
+iry 
+edition. 
+(32.0) 
+10/6 
+J 
+“Model & Allied Publications Ltd. 
+

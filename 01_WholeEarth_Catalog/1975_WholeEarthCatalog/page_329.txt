@@ -1,0 +1,195 @@
+| 
+Basic Electricity 
+| 
+Van Valkenburgh, Nooger & Neville, \Inc. 
+1954; 579 pp; 5 vols. 
+$1 6.70 postpaid 
+from: 
+: 
+Hayden Book Company, Inc. 
+50 Essex Street 
+Rochelle Park, N.J. 07662 
+or WHOLE EARTH CATALOG 
+HAVE 
+(2.2%) 
+RESISTANCE 
+Basic Electronics 
+Van Valkenburgh, Nooger & Neville, Inc. 
+1959; 680 pp; 6 vols. 
+$19.20 postpaid 
+Hayden Book Company 
+| 50 Essex Street 
+Rochelle Park, N.J. 07662 
+| or WHOLE EARTH CATALOG 
+There are many ways of controlling the amount of feedback. 
+One method 
+which has been used involves varying the physical position of the tickler 
+coil with respect to the grid coil. 
+If the coupling between the two coils is 
+reduced by moving the tickler coil away from the grid coil, or rotating it 
+so that its axis is at an angle to the axis of the grid coil, the amount of 
+feedback will be reduced. 
+When this method is used to control feedback, 
+a potentiometer is not connected across the tickler coil. 
+ARRANGEMENT TO VARY 
+COUPLING BETWEEN 
+TICKLER AND GRID COIL 
+Grid 
+‘ian 
+“ml 
+Rotate Tickler 
+| 
+E 
+Coil 
+You learned that a good way for you to picture the operation of a 
+grid in a vacuum tube was to think of the grid as a valve in a water 
+pipe. The British are so fond of this explanation that, to this day, 
+- they call a vacuum tube a ‘‘valve."” When the grid of the tube is 
+very negative, the ‘‘valve” is closed and there is little or no flow of 
+electrons from the cathode to the plate. When the grid voltage is 
+changed’so that it becomes only slightly negative, the ‘‘valve”’ 
+is nearly wide open and there is.a large flow of electrons from the 
+cathode to the plate. 
+: 
+Basic Electronics 
+Basic Mathematics for Electronics 
+‘Nelson M. Cooke & 
+Herbert F. Adams 
+1942, 1960; 679 pp. 
+$10.95 
+from: 
+“McGraw-Hill Book Co. 
+' 
+Princeton Road 
+Hightstown, N. J. 08520 
+_ Manchester Road 
+Manchester, Mo, 63062 
+8171 Redwood Highway 
+Novato, 
+CA 94947 
+BASIC MATHEMATICS FOR ELECTRONICS 
+Fic. 32-8 Current i leads voltage e by phase angle of 6. 
+Electronics Page 
+Graphically illustrated and intelligently sequenced, the 
+Basic Electricity (vo/s. 7-5) and Basic Electronics (vo/s 1-6) 
+sets from Rider are the easiest route from innocence to 
+~ 
+usefulness in electronics without an unnecessary load of 
+math and physics. Good rudiments. 
+/f you plan to go very far with electronics, you will need 
+heavier math. 
+Basic Mathematics for Electronics keeps 
+‘matters practical. 
+/f you’re already somewhat into electronics the Rider sets 
+will insult you. A better route into deeper work is the well- 
+regarded Elements of Radio. 
+For work with Silicon Controlled Rectifiers, the handiest 
+device for controlling AC power to lights, motors, heaters, 
+etc., get the comprehensive SCR Manual from GE. 
+A simple, non-technical, concrete, lucid, complete user’s 
+guide to hi-fi is High Fidelity Systems 
+[Evaluated by Marv Vickers, Fred Richardson, 
+Les Rosen] 
+pages 702-703 
+Elements of Radio 
+Abraham Marcus and William Marcus 
+1965; 672 pp. 
+$1 0.40 postpaid 
+from: 
+Prentice Hall 
+Englewood Cliffs, N. J. 07632 
+Fig. 15-14. Diagram of 
+the complete receiving sel, 
+using the triode as a de- 
+tector. The symbol 2 MEG. 
+over the grid leak stands 
+for 2 megohms. The sym- 
+bol 30.2 over the rheostat 
+stands for 30 ohms. ® 
+0.00025 pt 
+0.00035 pt 
+Discrete transistors (where electronics was 10 years ago) are 
+very easy to work with. 
+It is far easier to get into construction 
+and design with transistors than it ever was with tubes. No 
+chassis, no heavy components to mount, no high voltage, 
+power supply can be a battery, etc. Very cheap, too. Trying 
+— 
+to work with “‘state of the art’’ components (wherever that 
+is now) is very expensive, parts are difficult to get and 
+information is often unreliable. 
+—Fred Richardson 
+SCR Manual 
+F. W. Gutzwiller, ed. 
+1967; 513 pp. 
+$3.00 postpaid 4 
+from: 
+General Electric Company 
+Dept. B. 
+3800 North Milwaukee Avenue 
+Chicago, Illinois 60641 
+High Fidelity Systems 
+Roy F. Allison 
+1962, 1965; 91 pp. 
+No longer available 
+from: 
+Dover Publications, Inc. 
+180 Varick Street 
+New York, N. Y. 10014 
+or WHOLE EARTH CATALOG 
+DIRECTION OF 
+he 
+MAXIMUM SENSITIVITY 
+eee i 
+STRIP INSULATION AT 
+BOTH ENDS. TWIST 
+WIRES TOGETHER 
+AND SOLDER 
+DIRECTION OF 
+MAXIMUM SENSITIVITY 
+CUT ONE WIRE OF PAIR 
+LENGTH 
+AT MID POINT (25”). STRIP 
+AS 
+INSULATION AND CONNECT 
+NEEDED 
+CUT WIRE TO TWIN LEAD 
+Se 
+GOING TO TUNER 
+CONNECT TO FM ANTENNA 
+TERMINALS OF TUNER 
+How to make a simple FM antenna which is very effec- 
+tive in favorable receiving locations. 
+Still simpler, and satisfactory in favorable reception areas, is the 
+twin-lead antenna shown in the diagram. This can be stapled inside 
+a closet, on the back of a cabinet holding high-fidelity equipment, 
+along a baseboard moulding, or in any convenient location so long 
+as it-isn’t very close to large bodies of metal. 
+One final note on hum: 
+don't overlook the possibility that it may 
+be mechanical noise. The power transformer of an amplifier can 
+buzz at a hum frequency if the mounting bolts or the windings 
+aren't tight. Cures include tightening the mounting bolts and 
+shock-mounting the amplifier on a soft pad. Leave holes for 
+ventilation, of course. 
+Acoustic feedback usually can be cured (or at least reduced to 
+insignificance) by improving the shock mounts under the turn- 
+table. Putting the speakers on thick pads of foam rubber may 
+help also, particularly if they rest on the floor. 
+In some severe 
+cases you may have no alternative to increasing the distance 
+between the turntable and speakers. 
+High Fidelity Systems 
+D.R. saw that he was dying as soon as they went outside. They 
+shouldn't have even tried it but the pulse was quickening now, 
+Emmit wanted to go. He wanted to show D.R. how little there was 
+left of what there used to be, and how many new things he had 
+started. 
+Ten 
+Ten feet from the porch steps Emmit shook his head and said he 
+couldn't go any further. His breath was failing. Half falling he 
+turned and went back and sat down on the bottom step and then 
+leaned back against the steps above, fighting for his breath. 
+Electronics 
+Communications 
+

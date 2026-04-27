@@ -1,0 +1,90 @@
+Space grids bre triangulated systems of members and joints 
+used to conduct rigidity through space. You see space grids 
+in large roofs of supermarkets, warehouses and auditoriums. 
+A space grid is succesful if it is cheap, strong and beautiful. 
+There are many similarities between crystal structures and 
+space grids. The regularity of the crystai provides a guide 
+for the space grid designer—if he adheres to it he is rewarded 
+with the simplicity of few different kinds of joints and con- 
+necting members. 
+Regular space grids—that is a space grid where we have 
+uniformity in our joints and our edge lengths are usually 
+confined to the simplest softs of structures—flat roofs. The 
+more imaginative uses of the regular space grid in the past have 
+included Fuller’s use of the octet truss for a servicing dock 
+for the B-36 bomber and the space frame exhibitions struc- 
+tures for Expo ‘67 Montreal—in these cases the space grids 
+were allowed to turn corners and form shapes in accordance 
+with the symmetries of their joints. 
+sas SS / eae f 
+yer ee 
+he. 3 
+Plate 73 
+Project by Richard Buckminster 
+Fuller. A roof, wall and/or floor 
+framework consisting 
+of a truss 
+in which the main structural elements, 
+struts or triangular sheet members, form equilateral triangles inter- 
+connected 
+in a pattern consisting 
+of octahedrons and tetrahedrons, with 
+the major axes of all octahedrons 
+parallel throughout the octetruss 
+framework. 
+We have been working with a space grid that seems unique 
+in its simplicity and the multitude of forms that come 
+naturally from its geometry... 
+This is the ten zone truss with 
+icosohedral hubs. 
+_10x9 
+The decazone truss can produce of faces in 45 
+different planes. This is a much richer variety of planes to 
+choose from than that found in most trussing systems. 
+24 
+Each plane can grow in two directions by the addition of more 
+diamonds, and any plane if extended until it becomes weak 
+can be reinforced by the addition of another layer above or 
+below itself in the form of a truss. With 45 different planes 
+to choose from the variety of shapes that can be made is 
+huge. If some form is structurally unsound it can be 
+reinforced by the addition of a truss. 
+| feel the reason you do not find discussions of it along with 
+the other more common space grids is the icosohedron’s 
+foreigness to the world of crystallography—the study of the 
+arrangement of atoms in crystals. The icosohedron has five- 
+fold symmetry and, therefore, the icosohedral group cannot 
+appear in the usual crystallographic studies since they cannot 
+include 5 fold axis. To make this most clear try and cover 
+a plane with close packed pentagons—it won’t work. 
+“nave rdable 
+Japs 
+(27 i 
+that it is these five fold symmetries that have made the space 
+grid designers shy away from the icosohedron. We came to 
+use it by a most round-about route, and it took days before 
+| believe 
+the significance of what we had before us became clear to me. 
+There are a group of simple geometric solids called zonahedra’ 
+which H. S. Coxeter discusses in his book Regular Polytopes 
+and also in a chapter of the book Mat!:ematical Recreations 
+and Essays. Two of the simplest of these zonahedra are the 
+triacontahedron and the enneacontahedron. Zonahedra are 
+related to bristles of lines called stars. Each zonahedron has 
+One star associated with it and each star one zonahedron. 
+The triacontahedron is the zonahedron associated with the 
+star formed by joining the midpoints of opposite pentagonal 
+faces of a dodecahedron. 
+The enneacontahedron is the zonahedron associated with 
+the star formed by joining the midpoints of oppdsite 
+triangular faces of the icosohedron. 
+Lag 
+What kind of joints would you use in constructing an 
+enneacontahedron? What angles do the edges make when 
+they come together? But let’s turn it around—don't think 
+of the angles made by lines think of what made the lines. 
+' They sprouted out of the icosohedron. This is the obvious 
+joint to use for connecting these edge members—let them go 
+back home into the icosohedron. 
+—
+

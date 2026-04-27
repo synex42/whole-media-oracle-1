@@ -1,0 +1,126 @@
+Fractals & Such 
+by Robert Horvitz 
+The August 1985 Scientific American had a gorgeous, 
+mysterious picture on its cover: a black disk rimmed 
+with smaller disks, surrounded by Kirlian halos of 
+multicolored flame. A. K. Dewdney explained, in that 
+issue’s “Computer Recreations” column, that the image 
+represented part of the edge of the Mandelbrot Set, one 
+- of the most complex mathematical forms ever devised. 
+His article was illuminated with close-ups of other 
+regions on the edge of the M-Set. Deliriously detailed, 
+all were generated on a computer by repeating a simple 
+calculation on a field of real and imaginary numbers. 
+When this is done many times, the plane around the 
+Mandelbrot Set erupts in convoluted symmetries and 
+fluid-crystal swirls, as the algorithm drives points 
+_outside the set to infinity. This explosive turbulence can 
+be made visible by assigning colors to the speed at 
+which each coordinate “flees.” The resulting image is 
+mathematically rigorous yet shamelessly psychedelic — 
+wilder but more highly ordered than any manmade 
+design. Since making the cover of Scientific American, 
+the Mandelbrot Set has acquired something of a cult 
+following, as people explore the minute worlds-within- 
+worlds at its margin. 
+The M-Set is a particularly spectacular example of a 
+“fractal” — that is, a form with edges that are unsmooth 
+at any magnification. (Perhaps not surprisingly, the set’s 
+discoverer, Benoit Mandelbrot, was the primary 
+developer of fractal geometry.) Fractals are not just an 
+eye-tickling family of irregular shapes; they are a new 
+The Beauty of 
+Fractals 
+Heinz-Otto Peitgen and 
+Peter H. Richter 
+1986; 199 pp. 
+$35 
+($37.50 postpaid) from: 
+Springer-Verlag New York, Inc. 
+44 Hartz Way 
+Secaucus, NJ 07094 
+or Whole Earth Access 
+Some seventy dazzling color pictures, and many 
+more in black and white, make this a seductive 
+introduction for those not mathematically inclined. 
+At the same time, it’s packed with enough 
+advanced mathematics to keep a grad student 
+busy for years. Capping it off, there are thoughtful 
+essays on the impact of fractals on the way we 
+view nature, science and art, as well as a personal 
+account of the discovery of the M-Set and a review 
+of the evolution of fractal geometry by Mandelbrot 
+himself. 
+—RH 
+¢ 
+Why is geometry often described as cold and dry? One 
+reason lies in its inability to describe the shape of a 
+cloud, a mountain, a coastline, or a tree. Clouds are not 
+spheres, mountains are not cones, coastlines are not 
+circles, and bark is not smooth, nor does lightning travel 
+in a straight line. . 
+. 
+. Nature exhibits not simply a higher 
+degree but an altogether different level of complexity. 
+tool for analyzing and modeling natural phenomena that 
+have eluded description in more traditional terms. In 
+addition, the technique used to generate the M-Set, 
+“iterative mapping,” has applications in the simulation 
+of “chaotic” processes that have only begun to be 
+tapped. 
+The beauty, versatility and descriptive power of fractals 
+and iterative mapping have inspired a new kind of 
+graphic research flourishing between art and science. 
+Here are a few gateways into this field: 
+The number of distinct scales of length of patterns is for 
+all purposes infinite. 
+The existence of these patterns challenges us to study 
+those forms that Euclid leaves aside as being formless, 
+to investigate the morphology of the amorphous. 
+Mathematicians have disdained this challenge, however, 
+and have increasingly chosen to flee from nature by 
+devising theories unrelated to anything we can see 
+or feel. 
+At any given place, the sea-horse motif 
+is taken through an infinite number of 
+variations. This is shown in the 
+enlargement series in the “sea-horse 
+valley,” which up to a magnification of 
+one million shows ever new 
+constellations of “tail” and “eye” of the 
+sea-horse. 
+Art Matrix 
+catalog free from Art Matrix, P.O. 
+Box 880, Ithaca, NY 14851 
+The leading vendor of high- 
+resolution M-Set color graphics 
+— videos, slides, photoprints, 
+and postcards. You gotta love a 
+company whose motto is “A 
+Fractal in Every Paw.” Also 
+produces work on commission, 
+and develops and sells 
+software. 
+Amygdala 
+Rollo Silver, Editor 
+$15/year 
+(10 issues or 25 color slides); $30/year (both) from: 
+Amygdala, Box 219, San Cristobal, NM 87564 
+Newsletter for people interested in the Mandelbrot 
+Set. Short articles (including some “math-fi,” a new 
+fiction genre related to sci-fi); reviews of fractal- 
+generating software and algorithmic shortcuts; and 
+a running bibliography of important fractal 
+publications. Two kinds of subscriptions are 
+offered: you get either 10 issues of the newsletter, 
+or 25 color slides of the M-Set released over the 
+same time period. Or you can get both the slides 
+and the newsletter. 
+By the way, “Amygdala” is Latin for “almond;” 
+“Mandelbrot” is Yiddish for ‘almond bread;” and 
+“amygdaloid” is an igneous rock with rounded 
+cavities filled with mineral crystals. 
+—RH 
+FRACTALS 
+11 
+

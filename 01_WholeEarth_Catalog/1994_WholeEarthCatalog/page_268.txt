@@ -1,0 +1,333 @@
+Ee 
+Communications 
+Unirorm Resource Locators 
+: 
+The Internet’s success comes largely 
+from the do-it-yourself ethic em- 
+braced by its users. Interesting re- 
+sources all over the world are acces- 
+sible using the tools discussed here. 
+The emerging scheme for cataloging 
+Internet resources, Uniform Re- 
+source Locators, is designed to pro- 
+vide the minimum information 
+needed 
+to access 
+a resource. 
+They’re readable by machines and 
+humans, though machines have an 
+easier time of it. If you learn to read 
+URLs, you can find any Internet re- 
+source you need. 
+A URL has three parts: the tool used 
+to access the resource, a separator, 
+and the path to the resource. 
+If 
+you’re using Mosaic, Cello, lynx, or 
+another browser, you can simply key 
+in the URL to read or obtain the file 
+or program you seek. 
+Evectronic Mai. AND Maine Lists 
+Electronic mail is the lifeblood of the 
+global networks. Any email package 
+should allow you to send a new 
+message, respond to or forward a 
+received message, send a copy to 
+someone else, append the text of 
+your .signature file, and organize 
+your mail into separate files depend- 
+ing on the sender or other criterion. 
+If you’re using a terminal dial-up ac- 
+count on a UNIX computer, you'll 
+have access to the mail program. 
+Use this as a last resort! Check to see 
+ifthe pine or elmpackages — both 
+distributed for free — are available 
+on your system. These give you 
+menu access to your messages, and 
+pine comes bundled with a simple, 
+full-screen editor called pico. If 
+these aren’t already on your system, 
+ask your system administrator to 
+pick them up from these URLs and 
+install them: 
+ftp://ftp.cac.washington 
+.edu/pine 
+BED 2// Lepl 
+ui 
+-net/networking/mail/elm 
+If you’re using SLIP/PPP or a dedi- 
+cated connection, or if your dial-up 
+provider runs a POP (post-office 
+protocol) server, you'll be able to 
+use 
+a package 
+like Eudora or 
+POPmail. These let you manage your 
+messages on your desktop, giving 
+you access to familiar tools and re- 
+ducing your connect time. 
+You'll want to know how to find 
+someone’s email address. Call them 
+and ask. If you must search, and 
+you’re on the Internet, the easiest 
+way is to use gopher (see below) to 
+find out if their organization runs a 
+phone-book server. You canalso use 
+email to query a database of people 
+For good books about how to use 
+the Internet, see p. 267. 
+INTERNET: HOW TO USE IT 
+T 
+Bs FOLLOWING 
+MAY 
+BE the shortest, most 
+intense survey of network services and how- 
+to guide in print. The different typeface 
+indicates commands (etc.) that you would type in. 
+who've contributed to Usenet dis- 
+cussions. To find me: 
+mail-server@rtfm.mit.edu 
+with the message: 
+send Usenet-addresses/ 
+Theise 
+Tools like netfind and finger are 
+other options. 
+You'll also want to know about the 
+thousands of subject-oriented mail- 
+ing lists on the Net. They come in 
+many flavors: wide-open, moder- 
+ated, or limited to one-way missives 
+from the list’s owner. These are 
+almost always free. There are two 
+common ways to subscribe; the first 
+involves sending an email message to 
+an automatic list manager (these will 
+have listserv, 
+majordomo, 
+listproc, 
+or almanac inthe 
+address. To join the new-lists list, a 
+distribution 
+list announcing new 
+mailing lists, I'd send email to: 
+listserv@vml1 .nodak.edu 
+with the message 
+subscribe new-lists 
+Theise 
+Eric 
+The list manager sends me a confir- 
+mation, a mission statement, and in- 
+structions about how to unsubscribe 
+from the list. Save these! 
+If | want to send a message to the 
+hundreds or thousands of other sub- 
+scribers, say, an inquiry about an 
+unusual subject, I’d send it to: 
+new-lists@vml1.nodak.edu 
+Note that the list’s address and the list 
+manager’s address are on the same 
+computer in North Dakota. Sub- 
+scribe/unsubscribe instructions go to: 
+listserv@vml1 .nodak.edu 
+communications to: 
+new-lists@vml1.nodak.edu 
+Other lists are managed by humans, 
+not software. For example, to join 
+the com-priv list, dedicated to dis- 
+cussing the commercialization and 
+privatization of the Internet, I’d send 
+email to: 
+com-priv-request@psi.com 
+I'd include 
+the line: 
+subscribe com-priv Eric 
+Theise 
+at the top, on the off-chance that it’s 
+being read by an automatic list man- 
+ager, but I’d also include a pleasant 
+request to be added to the list. Com- 
+munications go to: 
+com-priv@psi.com 
+instructions to: 
+com-priv-request@psi.com 
+In addition to the new-lists list, there 
+are two compendia of mailing lists. The 
+oldest is a gargantuan file maintained 
+sporadically by SRI. It’s available as: 
+MEDI /MaOL Gasca st 
+Com 
+netinfo/interest-groups 
+Stephanie da Silva posts a different com- 
+pendium to Usenet every two weeks. 
+Usenet Newscroups 
+Usenet is a system for carrying dis- 
+cussions. Each of its thousands of 
+subject-oriented newsgroups car- 
+ries a variety of current discussions, 
+called threads. Newsgroup names 
+get more specific from left to right, 
+e.g., 
+comp.os.ms- 
+windows.apps. financial 
+Newsgroups in the comp, 
+news, 
+MUSCpEreC, 
+SOG, 
+—Sscei, and 
+talk hierarchies are distributed 
+globally, and are created only after a 
+formal discussion and vote by 
+Usenet participants. Your provider 
+may offer the Clarinet clari 
+groups, a fee-based service that car- 
+ries newswires. You may see re- 
+gional newsgroups, such as ba (Bay 
+Area) or chi (Chicago). And then 
+there are the alt groups. Their 
+creation is the least formal —at best, 
+requiring little discussion; at worst, 
+requiring a few keystrokes from an 
+overprivileged 
+undergraduate 
+— and their distribution is spottier. 
+Every computer that participates in 
+Usenet keeps one copy of every 
+current message, or article, and de- 
+letes (or “expires”) the article after a 
+period of time specified by the sys- 
+tem administrator — 
+typically 
+between three days and two weeks. 
+You'll use a newsreader to partici- 
+pate in Usenet. Newsreaders let you 
+read articles, start your own threads, 
+and respond to existing discussions 
+publicly, via a follow-up post, or pri- 
+vately, via email to the article’s au- 
+thor. You can save articles of inter- 
+est, and use built-in tools to convert 
+gibberish into executable programs 
+(e.g., comp. binaries.amiga) 
+or 
+viewable 
+images 
+(e.g., 
+alt .Joiraries. 
+pictures. fuzzy animals), 
+Use the newsreader named tin if 
+it’s available through your dial-up 
+account. nn is acceptable, rn isn’t. If 
+you’re using SLIP/PPP or a dedicated 
+line, you might click on icons marked 
+Nuntius or Newswatcher (Mac- 
+intosh) or Trumpet Newsreader 
+(Windows). 
+Usenet patriarch Gene Spafford de- 
+scribed the system as being “like a 
+herd of performing elephants with 
+diarrhea — massive, difficult to redi- 
+rect, awe-inspiring, entertaining, and 
+a source of mind-boggling amounts 
+of excrement when you least expect 
+it.” Accurate. But Usenet features 
+some of the wittiest and most 
+knowledgeable people on the planet. 
+Many newsgroups publish their own 
+Frequently 
+Asked 
+Questions 
+(FAQs), covering the group as well 
+as its topic; hundreds of FAQs can be 
+found in news.answers, on subjects 
+such as angst, body art, car parts, dog 
+breeds, 
+genetic 
+algorithms, 
+Macintosh screensavers, urban leg- 
+ends, or woodworking. FAQs on 
+using the networks, including da 
+Silva’s mailing list compendia, can be 
+found in: 
+news.announce.newusers 
+TALK, IRC; MUDs, MUSEs, 
+MOOs, ann MUCKs 
+All of the communication tools 
+discussed thus far are asynchronous: 
+people make comments, and the 
+comments sit in mailboxes or news 
+spools until others respond. Other 
+tools allow synchronous, or real- 
+time, communication. talk 
+is a 
+split-screen application that allows 
+two people on the Internet to type 
+to each other. irc (Internet Relay 
+Chat) is a global service, divided into 
+hundreds of subject-oriented chan- 
+nels, that allows dozens of people to 
+converse, one line at a time. Public 
+irc channels are not for the faint of 
+heart, but the ability to create pri- 
+vate or secret channels does allow 
+for low-cost, global conference calls. 
+The /help command puts you into 
+the irc help facility, but what you 
+really want is Nicholas Pioch’s excel- 
+lent “IRCprimer”: 
+1B {G10 7 7/ elisha toh! aKehbiy/Gonbuoyy/ 
+Umdsd/ iseyidocs 
+Multi-User Dimensions and Multi- 
+User Simulated Environments are 
+text-based virtual realities. People 
+can and do chat with each other, but 
+they also use simple programming 
+languages to create interactive ob- 
+jects having engaging properties. 
+Some MUDs and MUSEs are ori- 
+ented toward learning, others are 
+adventure or role-playing games. 
+Scott Goehring maintains “The To- 
+tally Unofficial 
+List of Internet 
+Muds”: 
+Tee 
+oya a Helelalishag”) 
+Kereta Stays 
+cwru. edu/pub/mud 
+TELNET 
+Sharing of computer resources 
+— powerful CPUs, advanced soft- 
+ware — was the original motivation 
+behind the telnet command. To- 
+day it is used to access global 
+Internet services, including library 
+catalogs, commercial conferencing 
+systems and databases, and hun- 
+dreds of esoteric experiments. 
+The most common use of telnet 
+involves only the Internet address. 
+To connect to Registration Services 
+at the Internet Network Information 
+Center (telnet://rs.inter- 
+nic.net), a dial-up terminal user 
+would type 
+telnet rs.internic.net 
+Other Internet services require you 
+to specify a port number, a userid, or 
+a userid and password. For example, 
+the 
+bilingual 
+subway 
+locator 
+(telnet://metro. jussieu. 
+fr:10000) runs on the nonstand- 
+ard port 10000. You’d type: 
+telnet metro.jussieu.fr 
+10000 
+If you get stuck while telnetting to 
+another computer, you can close 
+your connection by typing Ctrl 
+], 
+then quit at the telnet> prompt. 
+

@@ -1,0 +1,285 @@
+4 
+Physical Control of the Mind 
+1 do not like this guy. He has insufferable hubris and he 
+_tramples on all my fondest notions about the independent 
+life of the mind. The book is full of harsh physical evidence 
+and harsh hypotheses that | have got to either surround or 
+| accept (or quit). 
+—SB 
+Physical Control of the Mind 
+Jose M. R. Delgado, M. D. 
+José M. R. Deigado, M.D. 
+‘ 
+1969; 280 pp. 
+Physical Control 
+$2.95. postpaid 
+of the Mind 
+from: 
+Harper & Row, Publishers 
+49 E. 33rd Street 
+New York, N. Y. 10016 
+or WHOLE EARTH CATALOG 
+Pleasure is not in the skin being 
+caressed or in a full stomach, but 
+|(1) Lack of predictability: When a point of the brain is stimulated 
+for the first time, we cannot predict the effects which may be 
+evoked. ... 
+(2) Lack 
+of purpose: 
+In some cases the evoked response is 
+directed by the animal in a purposeful way, but the movements and 
+| sequential responses are usually out of context, and there is no 
+| reason or purpose for yawning, flexing a hand, or walking 
+| around, apart from ESB. . 
+. 
+. [Electrical Stimulation of the Brain] 
+(3) No robot performance: Brain stimulation activates cerebral 
+mechanisms which are organized for motor performance, but it 
+‘cannot replace them. With the present state of the art, it is very 
+unlikely that we could electrically direct an animal to carry out 
+‘predetermined activities such as opening a gate or performing 
+an instrumental response. We can induce pleasure or punishment 
+| and therefore the motivation to press a lever, but we cannot 
+control the sequence of movements necessary for this act in 
+the absence of the animal’s own desire to do so. 
+@ 
+somewhere inside the cranial vault. 
+Watching a rat or monkey stimulate its own brain.is a fascinating 
+spectacle. Usually each lever pressing triggers a brief 0.5-to 1.0-second 
+brain stimulation which can be more rewarding than food. Ina 
+choice situation, hungry rats ran faster to reach the self-stimulation 
+lever than to obtain pellets, and they persistenly pressed this lever, 
+ignoring food within easy reach. Rats have removed obstacles, rin 
+mazes, and even crossed electrified floors to reach the lever that 
+provided cerebral stimulation. 
+One of the moving pictures taken in this study was very demonstrative, 
+showing a patient with a sad expression and slightly depressed mood 
+who smiled when a brief stimulation.was applied to the rostral 
+part of the brain, returning quickly to his usual depressed state, to 
+smile again as soon as stimulation was reapplied. Then a ten-second 
+stimulation completely changed his behavior and facial expression into 
+a lasting pleasant and happy mood. Some mental patients have 
+been provided with portable stimulators which they have used in. 
+self-treatment of depressive states with apparent clinical success. 
+The Machinery of the Brain 
+| Some is Known about the brain, but not much. Woolridge’s 
+| book is the best intro to the subject we've seen. For richer 
+detail, get Pribram’s two-volume Brain and Behavior (each 
+| volume $2.95 from Penguin, 7110 Ambassador Rd., 
+| Baltimore, Md. 21207). 
+on 
+The Machinery of the Brain 
+» Dean E. Wooldridge 
+1963; 252 pp. 
+; $2.45 postpaid 
+: from: 
+McGraw-Hill Book Co. 
+| Princeton Road 
+Hightstown, N. J. 08520 
+Manchester Road 
+Manchester, Mo. 63062 
+8171 Redwood Highway 
+Novato, CA 94947 
+The Machinery 
+of the Brain 
+Dean E. Wooldridge 
+or WHOLE 
+EARTH 
+CATALOG 
+| A Model of the Brain 
+Inside every brain there is a model of the world. How does 
+| all the elaborate wiring help us, or any other creature, make 
+our model of the world? A noted British anatomist, J. Z. 
+(Jay Zed) Young has spent many pleasant summers in Naples 
+/ Studying the behavior of octopuses, and has also done a great 
+deal of work on the anatomy 
+of their nervous system. The 
+result is a fascinating picture of how to teach octopuses to 
+do things, and some interesting—though not yet very deep— 
+| speculation on how cybernetics might help us to relate brain 
+Structure to external behavior. Especially interesting are the 
+many hypotheses about the building of networks which can 
+learn. At this early stage all such models are wrong, but we 
+learn from our mistakes. One approach to all this is mental 
+introspection. Here, on the other hand, we learn what we 
+can learn about learning by literally introspecting: looking 
+| inside the head of an octopus to see what networks there 
+} 
+could possibly change as the animal learns. 
+[Reviewed by Michael Arbib. 
+Suggested by David Evans] 
+A Model of the Brain 
+Nee Mahi 
+te 
+Zen 
+xfor 
+niversity 
+Press 
+1964: 358 pp. 
+16-00 Pollitt Drive 
+Fair Lawn, N. J. 07140 
+$9.50 postpaid 
+- 
+or WHOLE EARTH 
+CATALOG 
+Boxly uf corpus callosum 
+‘Thalamus 
+Hypothalamus 
+Cerebellum 
+Anterior lobe of hypophysis 
+Posterior lobe of hypophysis 
+Spinal cord 
+If monotonously repetitive stimuli are provided, such as a regular 
+series of clicks or staccato tones, the nonspecific-brain-potential 
+measurements will display the property of habituation: 
+the pulse 
+of brain potential induced by each audible stimulus will, with 
+continuing repetition, gradually diminish and ultimately disappear. 
+|f we consider these nonspecific brain potentials as being somehow 
+related to the degree af attention the subject is paying to the 
+stimulus, their gradual decline correlates nicely with subjective 
+experience: 
+noises that initially interfere with concentration or 
+. keep us awake may ultimately recede into the background of our 
+consciousness and lose their effectiveness if they are monotonous 
+and repetitive in character. Such habituation must be regarded as 
+another basic form of learning. 
+It is in effect a kind of negative 
+learning, perhaps antonymous to the essentially positive learning 
+of conditioned responses. 
+Habituation is found throughout the 
+animal scale, from protozoa to man. The indication is that, as in 
+the case of learning by conditioning, habituation derives from 
+some fundamental property of nerve tissue and does not neces- 
+sarily require special complex neuronal circuits. 
+Inputs 
+Detail filter 
+(Interacting type) 
+Outputs to 
+position 
+control 
+A, units 
+SQ 
+ge 
+Maximums 
+P 
+amplitude 
+filter no.t 
+AD 
+foe) 
+vA) Z 
++ 
+Outputs to 
+indicators 
+Information 
+storage 
+units 
+Maximum 
+amplitude 
+filter no.2 
+hic. 107. Signal flow diagram of experimental automatic pattern-recognition 
+apparatus, 
+‘The inputs to the nine detail filter terminals are supplied by photoelectric 
+multipliers arranged in a 3X3 matrix. Patterns are centred automatically by 
+combining outputs of the detail filter to form position controls. The filtered 
+_inputs are then connected to eight ‘A, units’, one of these will show a maximum 
+amplitude for each pattern (Fig. 108) and this is selected by the first maximum 
+amplitude filter. The outputs of these supply eight pulse generators and these in 
+turn sixteen capacitor storage units. 
+During the teaching process the switches S, and S, are closed manually or by 
+means of some artificial external classification system. After learning the switches 
+are closed by clectromagnets supplicd by the outputs of maximum amplitude 
+filter 2. In both cases the closed switch applied the voltage V to one of the output 
+terminals O, or O,. The same voltage is also connected to an input of the informa- 
+tion-storage unit. (After Taylor, 1959.) 
+yes 
+| 
+| 
+_ The brontosauri became extinct because of their extremel| 
+tae. 
+mental powers; faced with an increasingly unfavorable clin 
+diminishing food supply, these animals were incapable of ¢ 
+and could not survive in the changing environment. 
+The fate of these giants may have symbolic value for twentieth 
+century civilization, which is also attempting to direct tremendous 
+potential with disproportionately small brains. While our mental 
+faculties are incomparably superior to those of the early land 
+animals, we still lack adequate self-knowledge and control, and 
+natural history teaches that when underdeveloped brains are in 
+charge of great power, the result is extinction. 
+In my opinion, without stimuli (or without the brain), the mind 
+cannot exist; without behavior, the mind cannot be recognized. 
+Because of its essential dependence on sensory inputs, both at 
+birth and throughout adult life, the mind may be defined as the 
+intracerebral elaboration of extracerebral information. The problem 
+is then focused on the origins, reception, dynamics, storage, 
+retrieval, and consequences of this information. The basis of the 
+mind is cultural, not individual. 
+The newborn brain is not capable of speech, symbolic understanding, 
+- 
+or of directing skillful mobility. 
+[t has no ideas, words, or concepts, 
+no tools for communication, no significant sensory experience, 
+no culture. The newborn baby never smiles. He is unable to 
+comprehend the loving phrases of his mother or to be aware of 
+the environment. We must conclude that there are no detectable 
+signs of mental activity at birth and that human beings are born 
+without minds. 
+- 
+. 
+.. the microneurons of the cerebellum, which serve as association 
+elements, develop after birth under the influence of the infant's 
+behavioral activities. Therefore it can be said that the environment 
+is absorbed as a structural part of the neurons in the developing 
+brain. 
+When the patient was warned of the oncoming stimulation and was 
+asked to try to keep his fingers extended, he could not prevent the 
+evoked movement and commented, “I guess, Doctor, that your 
+electricity is stronger than my will.” 
+Experiments have been reported with a six-month-old baby to deter- 
+mine how many trials would be necessary to condition it against 
+reaching out to touch the flame of a lighted candle. 
+(The experi- 
+ment of course was so arranged as to block the child’s hand each 
+time before injury was sustained.) 
+The number of trials required was 
+the same as for training the earthworm, approximately 150! 
+The optical mapping system of the human brain is of special interest 
+and importance. Through the more than one million fibers of the 
+optic nerve of each eye, the pattern of light and dark formed by the 
+lens on the retina is transmitted to a specific set of neurons in the 
+occipital lobes of the cortex. Although the picture that is produced 
+by the pattern of voltages reaching these positions at the extreme back 
+of the head is a highly distorted one, topological continuity is pre 
+served, in the sense that adjacent points in the retina are represented 
+by adjacent positions on the cortex. The application of an electric 
+stimulus to any of these cortical points causes the subject to see 
+flashes of light at the corresponding point of his field of view. 
+Similarly, the illumination of the retina by a single bright spot of 
+light results in the arrival of the usual train of voltage pulses at the 
+corresponding spot of the visual cortex. 
+lf subsequent work confirms the preliminary indications that pleasure 
+and pain centers occur together, it will be interesting to learn what 
+kind of pleasure is the negative of what kind of pain, in electrical 
+neuronal terms. 
+Emmit walks 
+e 
+stoop-shouldered, bent and drawn 
+e 
+Through the curtain Emmit walks, carrying a steaming cup in 
+scratching and Emmit gives it a good one before he goes on over to 
+sit down on the bed and sip from his hot cup. 
+The amazing 
+e 
+The amazing thing is Emmit’s beard. The whole shaggy mass of 
+hair, all over his head. 
+It falls across his forehead and down across 
+his ears, sticking out in little tufts. His beard starts at his ears and 
+covers his entire face except for his eyes and nose and cheekbones, 
+a great thick Santa beard that hangs down like a waterfall across his 
+mouth. 
+Brain 
+Communications 
+his hand. He stops at the window to look out and to scratch himself 
+deep down in his pants somewhere, way down along his thigh needs 
+

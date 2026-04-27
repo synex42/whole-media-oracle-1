@@ -1,0 +1,200 @@
+ARTIFICIAL INTELLIGENCE 
+Al Expert 
+(The Magazine of Artificial 
+Intelligence in Practice) 
+Philip Chapnick, Editor 
+$37/year 
+(12 issues) from: 
+Al Expert 
+P.O. Box 11328 
+Des Moines, IA 50340-1328 
+800/341-SERV 
+In current computer patois, an “expert system” is 
+one that can perform complex tasks in a single- 
+minded and efficient manner. All of the system’s 
+actions are predictable because they have been 
+pre-programmed; in other words, the system’s 
+knowledge of any given task is deep, but its under- 
+standing is shallow. That’s why you need other 
+expert systems that can perform other specific 
+tasks. The current theory in Al circles is that if you 
+hook up enough expert systems, you might be able 
+to create something that is able to model human 
+intelligence. Al Expert is not a magazine devoted 
+to the theory of Al, but to its business and commer- 
+cial applications. Mostly this takes the forms of 
+various expert systems. While I’m not a program- 
+mer and have only a passing interest in big busi- 
+ness, I find the magazine interesting precisely 
+because it reports on how Al is being used in the 
+real world. With all the fascination and banality that 
+that implies. 
+— Richard Kadrey 
+Artificial Intelligence 
+Using C 
+Herbert Schildt 
+1987; 360 pp. 
+$21.95 
+($25.95 postpaid) from: 
+McGraw Hill, Inc. 
+13955 Manchester Road 
+Manchester, MO 63011 
+800/722-4726 
+or Whole Earth Access 
+This could serve as a base for a home-brew expert 
+system — an Al system that mimics the complex 
+knowledge of an expert. These simple programs, 
+written in a very clear coding style, include such 
+sophisticated features as heuristic search strate- 
+gies, natural language processing, pattern recogni- 
+tion, backtracking, and machine learning. Schildt 
+shows how to build the programs step-by-step, 
+each part gradually adding to the techniques 
+just developed. 
+If you’re a programmer and won- 
+LE 
+eZ 
+der how people can imple- 
+ee 
+ment uncertainty and 
+ee 
+“fuzzy logic” in 
+z 
+clean, tight C code, 
+read this book. And 
+eee 
+order the diskette 
+aaean 
+with the program 
+listings. Not a bad 
+way to learn C, either. 
+A 
+URBANA 
+LOS ANGELES 
+— Matthew McClure 
+Start 
+NEW YORK 
+A 
+TORONTO 
+s, 
+DENVER 
+(.OS ANGELES ) CHICAGO 
+The Tomorrow Makers 
+Grant Fjermedal 
+1986; 272 pp. 
+$8.95 
+($11.45 postpaid) from: 
+Microsoft Press 
+Attn.: Consumer Sales 
+16011 NE 36th Way, 
+Box 97017 
+Redmond, WA 98073-9717 
+206/882-8080 
+or Whole Earth Access 
+Deep robotics, deep shivers. 
+Fjermedal has done the formidable footwork of 
+staying up countless nights working, scheming and 
+speculating with most of the cutting-edge robot 
+fanatics in the labs at Carnegie-Mellon, MIT, Stan- 
+ford, Thinking Machines Corp., and on andon—a 
+fine comprehensive sweep. His report on work in 
+Japan is a scoop and fittingly closes the book, 
+since it proves that some of the wilder speculation 
+he begins with is already stalking about in Japan, 
+like some ominous, humorous Transformer toy, 
+just barely still a plaything. 
+For grasping what technology is rapidly bringing by 
+way of exploding human bodies and minds into 
+new configurations, The Tomorrow Makers 
+blends nicely with Eric Drexler’s Engines of 
+Creation and my own The Media Lab. This stuff is 
+even more interesting than gene-splicing, and 
+more thrilling, both for promise and menace. For 
+example: serious immortality, soon. 
+—Stewart Brand 
+Sd 
+Will the robots recall that we were their creators? 
+Example of a way a computer can find a route from New York to Los 
+Angeles using artificial intelligence: This “depth-first “ solution ex- 
+plores all possible paths to their conclusions before trying other 
+paths. The computer’s solution is good, but depth-first for complex 
+problems is a slow process. Another technique, breadth-first search- 
+ing is the opposite of depth-first searching. Breadth-first searching 
+checks each node at the same level before it proceeds to the next 
+deeper level. A disadvantage to breadth-first searching when you're 
+looking for an answer that is several layers deep. Generally, the 
+programmer chooses between depth-first and breadth-first searching 
+by making an educated guess as to where the goal is most likely to 
+be. Another search technique is a hill-climbing search, which at- 
+tempts to find as a first solution one that uses the heuristic that states 
+that the longer the distance 
+covered, the greater the 
+likelihood that you will be 
+placed closer to the destina- 
+tion — thereby reducing the 
+number of connection. The 
+opposite of the hill-climbing 
+search is the low cost 
+search. Think of this strategy 
+as being similar to standing in 
+the middle of a street on a big hill while 
+wearing roller skates: you have the definite feeling that it is 
+much easier to go down, rather than up. Thus, least-cost takes 
+the path of least effort. 
+DENVER 
+CALGARY LOS ANGELES 
+And if they do, how much will we be able to trade on 
+this? Will there be a sentimentality about this sense of 
+origin? Initially we could program this in, but later, as the 
+robots begin propelling their own evolution, will this be a 
+memory deemed worthy of retention? Will they not 
+remember who taught them to play, who blessed them 
+with the need to frolic? 
+¢ 
+Tachi has succeeded with his vision system. It truly 
+gives you the feeling that you are inside the robot, look- 
+ing at the world from within its body, not your own. This 
+is possible because the operator isn’t just looking at a 
+television monitor; his head is encased in a black-velvet- 
+lined box. Within this box are two television receivers, 
+one for each eye. The receivers are gauged so that the 
+image that is reflected against the retina of each eye is 
+exactly the same as if you were looking at the world 
+unaided. Further, every movement of your head is dupli- 
+cated on the robot, where two precisely placed video 
+cameras transmit a human range of what is seen. 
+The result of this is that when | went into the laboratory 
+and strapped my head inside the black box, it was as if | 
+were seeing with my own eyes. The depth and scope of 
+human vision was so completely reproduced, and the 
+color was so clear, that it was at first unsettling and then 
+a wild visual delight. . 
+. 
+. 
+Someone in the laboratory went over to the robot- 
+mounted cameras and swung them around so that they 
+focused on me. The walls spun during the maneuver, 
+and then when the motion stopped and | was looking at 
+myself, the out-of-body experience began. It was as if | 
+were standing a few feet away in another body looking at 
+myself. | moved my head to look up and down and even 
+to look away. And when | looked away from that person 
+who was me, it was as if that body were just another 
+passerby. ... 
+“Are you here?” Tachi laughed. “Or are you there? 
+Where is your body?” 
+Hit 
+Ss 
+i 
+b 
+Computers can “learn” by rote (a program 
+that tells them what to do), or by the much 
+more difficult method of cognitive learning 
+(recognizing classes of objects and ideas and drawing conclusions). 
+The Hit-and-Near- Miss Method is one way to teach a computer (or 
+human) about objects. Here we see correct arches (a, c, d, e) anda 
+near-miss (b). By creating an algorithm that teaches class descrip- 
+tions, a computer can learn, for instance, the difference between a 
+correctly built arch and a near-miss. 
+e 
+

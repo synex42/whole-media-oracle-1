@@ -1,0 +1,243 @@
+CITIZEN ENCRYPTION 
+“When privacy is outlawed,” says software author Phil Zimmermann, “only outlaws 
+will have privacy.” He is addressing the issue which has become the flash point of 
+technoculture: citizen encryption. “Encryption” is still esoteric technology to most 
+people, but it might turn out to be the militia rifle of the privacy wars. As a result of a 
+brilliant breakthrough by non-spookish hackers and mathematicians, cryptography 
+has suddenly emerged as a people’s technology, liberated from the top-secret vaults of 
+diplomacy and military tactics. And not a moment too soon — the information age has 
+rendered our communications vulnerable to eavesdroppers (official and otherwise), 
+and allowed megabytes of our personal data to accumulate in databases we don’t con- 
+trol. But if we encrypt, snoopers can’t get at the stuff. Crypto is the silver bullet to pro- 
+tect our conversations and safeguard the details of our lives; it’s the means by which 
+we can take back our privacy from Big Brother and his countless cousins. 
+Today, encryption can be used to protect the privacy of voice communications and 
+electronic mail. The digital trails so many of us leave when we use credit cards, ATM 
+cards, and smart cards are another area of vulnerability: most people don’t realize 
+that paying for bar-scanned groceries with a credit card creates a database linking in- 
+formation about how many bottles of liquor, which magazines, what kind of food 
+you purchase to other information such as your name, address, Social Security num- 
+ber, credit status. This information is valuable to marketers and to political groups 
+collecting information about friends and enemies. Citizen encryption would make 
+“anonymous digital cash” possible — giving us the convenience of electronic trans- 
+actions without the side effects of malevolent snooping. 
+The catch? Uncle Sam doesn’t like it. Spy institutions and law enforcement agencies 
+have nightmares about “crypto anarchy,” when access to strong encryption ensures 
+that they can’t snoop our communications. So the government has been fighting to 
+suppress strong crypto. The first shot in this conflict came in the spring of 1994, when 
+the Clinton Administration began urging a compromise known as the “Clipper 
+Chip” —a 
+scheme that supposedly provides a degree of protection but includes a 
+“back door” that provides the government the keys to unscramble the messages and 
+conversations. Two main groups oppose Clipper: manufacturers unable to offer cus- 
+tomers state-of-the-art protection and privacy advocates who see the scheme as an 
+attempt to limit the ability of citizens to 
+speak to each other without the specter 
+of a third party’s unwelcome ear. Anda 
+third group of crypto civil disobedients 
+— cypherpunks — have devoted them- 
+selves to spreading strong protection 
+tools throughout the infosphere — so 
+that even an outright government ban on 
+strong crypto would be too little, too late. 
+The outcome of the crypto wars will de- 
+termine whether civil rights will sur- 
+vive cyberspace. While crypto technol- 
+ogy is arcane, its uses could influence 
+every part of our lives. 
+EXPLANATION OF 
+PUBLIC KEY <RYPTO 
+The breakthrough that enabled crypto 
+to spread to the masses is “public key” 
+cryptography, invented by Whitfield 
+Diffie and Martin Hellman in the mid- 
+1970s. Its main implementation, de- 
+vised by three MIT cryptographers, is a 
+patented system called RSA. 
+Conventional crypto systems begin 
+with a “plaintext” message that the 
+sender scrambles by use of a “key” into 
+an unintelligible “ciphertext” and then 
+passes it on. The recipient translates this 
+jumble back into plaintext by use of the 
+same key. The problem is that it’s diffi- 
+cult to get the key from the user to the 
+sender, and protect it thereafter. 
+Public key cryptography solves the 
+problem by using a matched set of two 
+keys —a 
+“private” key and a “public” 
+key. The private key is known only to 
+the holder, but the public key can be 
+widely distributed without compromis- 
+ing security. Having someone’s public 
+key gives you no advantage in trying to 
+crack their codes — you need both to 
+unscramble a message. 
+by Steven Levy 
+Community 
+PRIVACY 
+Applied Cryptography 
+Budding cypherpunks and others sim- 
+ply interested in the nuts and bolts of 
+crypto should check out this book that 
+has become the bible of code hackers. 
+Though directed to those who know 
+their way around an algorithm, the 
+book also gives a more casual user an 
+eye-popping initiation into the gestalt 
+of industrial-strength crypto. 
+Bruce Schneier doesn't hesitate to in- 
+ject pithy opinions and political content 
+into the mix, either, straight away he 
+states: “Encryption is too important to 
+be left to the government.” Then he 
+provides the most comprehensive citi 
+zen’s view yet on how to do it yourself. 
+Applied Cryptography includes source 
+code for some popular encryption 
+schemes, including some regarded too 
+powerful to export. In other words, if 
+you type into your computer some of 
+the codes Schneier includes here, your 
+hard disk immediately becomes, in the 
+govemment's view, a form of muni- 
+tions — and, in theory at least, you 
+can get jailed for carting your laptop 
+across a border! What better lesson 
+that crypto in the hands of 
+the people 
+is powerful stuff — and impossible 
+to contro], —SL 
+Crypto Software for the People 
+The crypto revolution has hit freeware. 
+The most popular program is Phil 
+Zimmermann’'s PGP — short for 
+“pretty good privacy.” As its name im- 
+plies, PGP offers a strong measure of 
+security for communications sent over 
+the Net, as well as a wonderful hands- 
+on education on the workings of pub- 
+lic-key software. This public-key pro- 
+gram is the software of choice of 
+cypherpunks worldwide, much to the 
+chagrin of the US government; the 
+feds have registered their alarm at its 
+ability to pass beyond our borders. 
+PGP is, in a sense, outlaw-ware: RSA 
+Data Security, Inc., owner of the pub- 
+lic-key copyrights, charges that PGP in- 
+fringes upon its intellectual property. 
+Despite this, it is possibly the most 
+widely used public-key crypto system 
+in the world. 
+Unlike PGP, Mark Riorden’s public-key 
+program RIPEM is officially licensed by 
+RSA. As long as you don’t use it for 
+commerical purposes, you can use it 
+for free. Both PGP and RIPEM are 
+available in Mac and DOS versions; 
+however, RIPEM is not as fully imple- 
+mented as PGP, though Riorden con- 
+tinues to update it. 
+If you want public-key software for 
+commercial purposes, you should go to 
+| 
+the source — RSA Data Security. If 
+you simply want to protect the infor- 
+mation on your hard disk, you don’t 
+need public-key crypto: dozens of pro- 
+grams use faster systems based on 
+other algorithms. Bruce Schneier rec- 
+ommends the Kent-Marsh programs 
+for both the Mac and DOS. —SL 
+RSA Data Security Inc.: 10 Dolphin 
+Drive, Redwood City, CA 94065 
+PGP (Phillip Zimmermann): The download 
+sites change; consult the usenet newsgroup 
+altsecurity.pgp and ask which sites currently 
+provide software. 
+RIPEM (Marc Riorden) via ftp from 
+ripem.msu.edu. 
+If | 
+want to send a private message to 
+Howard Rheingold, I first get his public 
+key (this may be widely available) and 
+use it to scramble the message into 
+ciphertext. From that point on, the only 
+person in the world who can un- 
+scramble that message is the one hold- 
+ing the matching private key — 
+Rheingold. When Howard sends a mes- 
+sage back to me, he'll use my public key 
+to scramble the message, knowing that I 
+am the only one who will read it. This 
+allows people to communicate privately 
+with many others, even those they have 
+never met. 
+The Codebreakers: David Kahn. 1967, 
+Macmillan. The seminal work on the history of 
+(pre-public-key) crypto, as thrilling as a spy novel 
+and as challenging as a cryptogram. 
+Ender’s Game: Orson Scott Card. 1985, Tor 
+Books. This stunning sci-fi novel is a cypherpunk 
+favorite because of its imaginative yet realistic 
+use of crypto scenarios. 
+See also: Electronic 
+Democracy, p.288 and 
+“Citizen Organizations on 
+the Electronic Frontier,” p.291 
+Applied Cryptography 
+Bruce Schneier. 1994; 618 pp. 
+ISBN 0-47 1-59756-2 
+$44.95 postpaid. John Wiley & Sons Inc., 
+| Wiley Drive, Somerset, NJ 08873; 
+800/USWILEY 
+e 
+Dictionary Attacks and Salt 
+Even a file of passwords encrypted with a 
+one-way function is vulnerable. In his spare 
+time, Mallet compiles a list of the 100,000 
+most common passwords. He operates on 
+all 100,000 of them with the one-way func- 
+tion and stores the results. If each pass- 
+word has about eight bytes, the resulting 
+file will be no more than 800K; it will fit on 
+a single floppy disk. Now, Mallet steals the 
+encrypted password file. He compares the 
+encrypted password with his file of en- 
+crypted possible passwords and sees what 
+matches. 
+This is a dictionary attack, and it’s sur- 
+prisingly successful. Salt is a way to make it 
+more difficult. 
+Salt is a random string that is concatenated 
+with the password before being operated 
+on by the one-way function. Then, both 
+the salt value and the result of the one-way 
+function are stored in the database. If the 
+number of possible salt values is large 
+enough, this practically eliminates a 
+dictionary attack against commonly used 
+passwords. 
+A lot of salt is needed. Most UNIX systems 
+use only twelve bits of salt. Even with that, 
+Daniel Klein developed a password-guess- 
+ing program that cracks 21% of the pass- 
+words on a given system in about a week 
+[482]. David Feldmeier and Philip Karn 
+compiled a list of about 732,000 common 
+passwords concatenated with each of 4096 
+possible salt values. They estimate that 30% 
+of passwords on a given system can be bro- 
+ken with this list [346]. 
+Salt isn’t a panacea; increasing the number 
+of salt bits won’t solve everything. Salt only 
+protects against general dictionary attacks 
+on a password file, not against a concerted 
+attack on a single password. It obscures 
+people who have the same password on 
+multiple machines, but doesn’t make poorly 
+chosen passwords any better. 
+137 
+

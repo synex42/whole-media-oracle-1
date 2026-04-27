@@ -1,0 +1,175 @@
+[Above and to the right] Aldus 
+Free-Hand enables you to de- 
+velop complex graphics that are 
+tightly rendered when printed 
+out on Postscript-driven printers 
+such as Apple’s Laserwriter 
+Canvas 
+Version 1.0; not copy-protected. Macintosh 512K 
+required. Laserwriter suggested. $195 (list price) from 
+Deneba Software, 7855 NW 12th Street, Suite 202, 
+Miami, FL 33126; 305/594-6965 
+@ 
+File 
+Edit 
+View 
+Element 
+Fill 
+: Technical illustrations =SSSSSeSeeeeS=]=l]E 
+layer: 100 
+h:374. 
+ILLUSTRATION TOOLS 147 
+Line 
+Color 
+Aldus FreeHand 
+series. 
+Version 1.0; not copy-protected, Macintosh Plus and 
+external drive recommended. Laserwriter suggested. 
+$495 (list price) from Aldus Corporation, 411 First 
+Avenue South, Suite 200, Seattle, WA 98104; 
+206/622-5500 
+As in most areas of software, computer drawing programs are 
+constantly being made obsolete by competitors or by later 
+updates of themselves. Thus Fullpaint fulfilled MacPaint’s 
+potential, only to be aced out by Superpaint’s wider abilities. 
+All these Macintosh drawing programs have, in turn, been 
+quietly topped by Canvas from Deneba Software. This paint- 
+ing program lets you combine both bit-mapped and object- 
+based art in the same drawing, with able access to laser fonts 
+as well. Because its drawing tools are extensive and basic 
+Bezier curves are included in its repertoire, I’ve often turned 
+to Canvas to crank out simple designs that would take more 
+sweat and tears to produce in Postscript-based drawing pro- 
+grams like Adobe Illustrator or Aldus FreeHand. 
+On the other hand, if you are a design professional utilizing the 
+Mac for high-level design, Canvas is not going to do all the 
+tricks you require. Aldus FreeHand provides sophisticated con- 
+trol over Bezier curves and type manipulation (including 
+kerning), up to 200 drawing layers, plus “graduated” and “radial” 
+fills and other special effects, and can save the art produced as 
+an encapsulated Postscript file for use in other programs like 
+PageMaker. Perhaps most notable, it has a “freehand” drawing 
+tool which lets you draw shapes and lines that are then ren- 
+dered into maneuverable bezier curves, a boon if you are draw- 
+ing on screen from scratch. Truth to tell, bezier curves are one 
+of the more maddening inventions around — rather like trying to 
+use french curves made out of writhing snakes. Since Bezier 
+curves lie at the heart of the Postscript language’s high-resolu- 
+tion capabilities, there’s no escaping them in Mac graphics pro- 
+grams like this. FreeHand has a set of drawing tools that em- 
+body a relatively smooth approach to the problem, although 
+they are not as much of an advance in ease of use over those 
+of its closest rival Adobe Iilustrator as | had originally hoped. 
+Of course, as | write, 
+anew upgrade of Illustrator has just ap- 
+peared with some features that top FreeHand, while a powerful 
+new version of Canvas was due to appear in July 1988. In the 
+world of software only one thing is certain: No one stays ahead 
+of the pack for long. As this week’s Mac graphics powerhouses, 
+Canvas and FreeHand are excellent programs. Tomorrow may 
+hold new surprises. 
+—dJay Kinney 
+Galactic Enterprises 
+Canvas’s forte is combining bitmapped and object-oriented graphic 
+elements in the same drawing or design. Bitmapped graphics take 
+what you draw on the screen and reproduce the image dot by dot 
+(actually square by square) on the print-out. There’s no limit to the 
+form, butit can print out with rough, stair-stepped edges. Object- 
+oriented graphics are produced by constructing images with mathe- 
+matical curves or forms produced by complex algorithms, somewhat 
+like beginning the sketch of a mouse with three circles. This more 
+, WF 
+— 
+oF 
+qos 
+troublesome method produces seamless, fine-edged print-outs. 
+In the exercise pictured, left the hands are bitmapped, while the star 
+burst and rectangle are object-oriented. In other programs these two 
+kinds could not be merged onto one graphic plane. Grids on the 
+background don't print out; you can set up guidelines and then have 
+your image lines “snap” to the nearest ones if you want to create a 
+regular pattern. The Arabic border was produced using Canvas’s 
+Woo Bezier curves ae ues 
+auepieee cw 
+Dot Pasteup Supplies 
+Catalog $1 from: 
+Dot Pasteup Supply Co., P.O. Box 369, Omaha, 
+NE 68101; 800/228-7272 
+uss EF EBERHARD COPY NOT 151 _Nowenoro sue 
+COPY-NOT NON-PHOTO BLUE ERASABLE PENCIL 
+Eberhard Faber's popular non-photo blue pencil. Excellent for making 
+guidelines or notations which will not reproduce on reproductions. 
+Light blue lead. 
+No. 151, each $ 
+.35, per dozen 
+The kind of things you need to put together 
+brochures, draft architectual plans, pasteup 
+newsletters, prepare charts and maps, and 
+put ideas into perma- 
+nence. Sturdy, versatile 
+tools for a paper society. 
+— Kevin Kelly 
+SPEEDBALL LETTERING AND 
+DRAWING PEN POINTS 
+With a little practice you can hand letter 
+camera-ready 
+store ads, handbills, 
+cir- 
+culars, etc.using the wide variety of Speed- 
+ball pens available. 
+AO 
+Al 
+A2 
+AS 
+A4 
+AS 
+Awe wet elh 
+[STE 
+A 
+SURE CY 
+BO B% B-1 B2 
+B3 
+B4 
+B5 B54 B6 
+TRANSPARENT FLEXIBLE CURVES 
+One side is divided in millimeters; 
+the other side 
+is graduated in inches. The first two inches are 
+subdivided in thirty-ceconds and the remainder 
+in’ sixteenths. The raised portion permits ink 
+drawing. 
+No. TC 384, 30 em. long 
+No. TC 386, 50 cm. long 
+No. 360, each 
+24” long bar, extra... 10.00 
+DIRECTOR COMPASS 
+Makes circles up to 18" diameter with art 
+knife, Rapidograph pen, Marker or vir- 
+tually anything you'd use 
+to make a 
+circle. 
+Tighten 
+screw 
+to hold 
+marker, 
+and draw circles. A well made instrument 
+of chrome plated steel. 
+MANADO 
+STYLE 
+[STYLE ‘BROUND Cx] 
+ROUND 
+[STYLE ‘BROUND Cx] 
+COM 
+IGY 
+NC2 
+C3" 
+C4165) 
+166 
+wWraNayn 
+DOO DOD 
+0-25. 
+D3" 
+DA 
+10S 
+ex EC@O © 
+

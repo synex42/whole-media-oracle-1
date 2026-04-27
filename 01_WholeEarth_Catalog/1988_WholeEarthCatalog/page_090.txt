@@ -1,0 +1,158 @@
+86 NOMADIC NETWORKS 
+Electronic Cottage 
+on Wheels 
+by Steven K. Roberts 
+I am an agent of future shock, frolicking in that strange 
+region where the boundaries between technology and 
+magic blur. I have finally found a job I like: high-tech 
+nomad. 
+I live in a world that is part bicycle, part computer 
+network, and part kaleidoscopic amalgam of lifestyles 
+that span the full spectrum of human behavior. My 
+office is a computerized, 36-speed, 220-pound, 8-foot- 
+long recumbent bicycle bedecked with solar panels and 
+enough gizmology to re-seed Silicon Valley after the 
+Big One. While traveling full time on this machine, I 
+maintain a freelance writing business—the ideal way to 
+get paid for playing. With occasional layovers for major 
+projects, I have been doing this since late 1983, crank- 
+ing out some four million pedal strokes, and about the 
+same number of keystrokes. 
+What are the tools that have allowed me to break the 
+chains that once bound me to my desk and make a 
+living anywhere with virtually no overhead? 
+During my first 10,000 miles, I carried only one com- 
+puter. Though it was an astonishingly robust system (the 
+Hewlett-Packard Portable PLUS), I still couldn’t write 
+while riding. Since 10,000 miles corresponds to roughly 
+1,000 hours of pure pedaling time (half a business year), 
+this is no small matter—I had far too many days of good 
+ideas, good intentions, and no work output. 
+I took a year’s sabbatical from the road and dedicated 
+myself to building a different system. The original 
+Handie-Talkies 
+by Blair Newman 
+Amateur (“ham”) radio can be a low cost alternative to 
+cellular phones. With a $250 “handie-talkie” you can 
+make virtually unlimited local telephone calls at an 
+annual cost of about $30. 
+There are, however, a few catches: 
+(1) You can only make outgoing calls, and not receive 
+incoming ones. 
+(2) Only “personal” calls are legal. Business conversa- 
+tions, even ordering a pizza to go, are prohibited by 
+FCC regulations. 
+(3) You have to join a “repeater club” (a repeater is a 
+base station linked to the phone lines) and pay their dues 
+(the $30/yr.). 
+(4) You have to get a Technician class ham license from 
+the federal government, which means passing a two part 
+test. The first part has multiple choice questions about 
+electronics and FCC regulations. It’s pretty easy be- 
+intention—being able to type while riding—quickly 
+evolved into a complete bicycle control and communi- 
+cations system. 
+When I’m on the road, my fingers dance a quiet staccato 
+on the handlebars. They move as if playing the flute, 
+pressing combinations of eight waterproof keys to yield 
+any of 256 binary codes—a convenient handlebar/ 
+keyboard that will type both letters and control charac- 
+ters. Up in the console, the bicycle control processor 
+reacts—decoding the incoming data into a modified 
+Radio Shack Model 100. The net effect: smooth, ma- 
+chine-readable text captured while I’m on the road, 
+yielding files that can be downloaded to the HP for fine 
+tuning and subsequent transmission from the first avail- 
+able telephone to my Ohio office via electronic mail on 
+the GEnie computer network. 
+The solar battery-charging process is now under com- 
+puter control, as are the security system, self diagnos- 
+tics, electronic compass, and more. A fourth processor 
+handles speech synthesis (it can read text files out loud 
+and explain itself to curious passers-by); a fifth manages 
+cause the entire “pool” of possible questions, and their 
+answers, are published. The second part requires being 
+able to understand Morse code at 5 words per minute. 
+Think of it as learning a foreign language — a language 
+with only 40 “words”: the 26 letters of the alphabet, the 
+10 digits, and 4 punctuation symbols. The easiest way to 
+learn is listening to Morse code practice tapes. It takes 
+10 to 20 hours. 
+For more info check your local library for introduction- 
+to-ham-radio- books, check the Yellow pages under 
+Radio for your local ham retailer, or call Ham Radio 
+Outlet (800-854-6064; in CA 415/342-5757) and order 
+The Technician/General License Manual (ARRL, 
+$5), plus either The 21 day Novice Course (West, $20) 
+or Tune in the World (ARRL, $20). The latter two 
+include practice tapes. 
+A final note: The vast majority of activity on the ham 
+radio bands are recreational discussions, not phone 
+calls. It’s kind of the audio equivalent of computer con- 
+ference, similar to telephone “‘chat lines” except free. 
+Different groups “hang out” on different frequencies: In 
+San Francisco one channel is mainly Grateful Dead- 
+heads, another is mainly computer hobbyists, etc. 
+Steven Roberts uploads a days worth of 
+writing into the nearest port — a roadside 
+:
+pay phone. Steven can be reached on 
+CompuServe 72757, 15. 
+packet data communication via 
+two-meter ham radio. A CB radio 
+is also on board, culturally useless 
+by comparison, but still valuable 
+enough to justify its weight. 
+Other radio-related devices in- 
+clude a Sony digital shortwave for 
+international broadcast reception, 
+|
+a Sony Watchman micro-TV, and 
+an FM stereo. Naturally, there is 
+also an audio casette deck, and a compact disc player is 
+planned for under-dash installation soon. 
+All the equipment described so far, plus behind-the- 
+scenes control circuitry, requires electricity—in six 
+different voltages. A pair of 10-watt Solarex pho- 
+tovoltaic panels serves as the primary source. When too 
+many cloudy days occur back to back, a power supply 
+with line cord allows refueling from house current. 
+The bike itself was designed for full-time, heavily 
+loaded touring, with thick-wall, chrome-moly tubing, 
+triple rear stays, tandem-style crossover drive, wide- 
+range gearing (later expanded to 36 speeds), and a 48- 
+spoke undished rear wheel with disc brake. The entire 
+machine was fitted with braze-ons to support my un- 
+usual needs. I took it from there—using the bike as as 
+substrate for the trappings of my life, changing form 
+every year or so as new technologies become available. 
+Full-time bicycle touring raises an interesting issue. 
+What, in the words of Alvin Toffler, can a traveler use 
+as an “enclave of stability” while wandering endlessly 
+across the earth’s surface? The bike itself, while deeply 
+familiar and “home” in may ways, is not enough to 
+satisfy that basic need. 
+My enclave of stability is found on the networks—a 
+strange amalgam of satellite and bicycle, cloud and soil, 
+a place that is no place yet is every place at once. Give 
+me a telephone and I’m home: all it takes is connection 
+of the computer and a few typed commands and I cross 
+that familiar threshold, see the GEnie sign-on messages 
+that let me know I’m inside. Beyond those electronic 
+portals I meet my closest friends, keep up with the 
+activities of my Ohio office, publish weekly travel tales, 
+seek help with arcane technical problems, find kindred 
+spirits, and sometimes just hang around bantering with 
+other vaporous denizens of the network—intellectual 
+projections of real humans sitting somewhere on Earth. 
+I wander freely in physical space, returning to my stable 
+home in Dataspace night after night for stability and 
+security. 
+I’m often asked how far, how fast, how many states, 
+how long. The frequent questions along these goal- 
+oriented numerical lines are hard to answer properly on 
+the streets: I am here. Period. Tomorrow I might be 
+somewhere else but maybe I’11 still be here—who 
+knows? If you think too much about where you’re 
+going, you lose respect for where you are. 
+

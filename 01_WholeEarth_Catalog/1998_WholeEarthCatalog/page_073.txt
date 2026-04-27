@@ -1,0 +1,114 @@
+THE COMPUTATIONAL METAPHOR 
+by KEVIN KELLY 
+Kevin Kelly was editor and publisher of our magazine from 1984 to 1990. He's a daring scout, spotting and reporting back on science and celebrations in 
+aneo-biological civilization infiltrated on every level by technological inventions. He helped found the WELL, the Hackers Conference, and Cyberthon, 
+and is executive editor of Wired. See our spring, 1999 issue for his second book, New Rules for the New Economy. His first book, Out of Control: The 
+New Biology of Machines, Social Systems and the Economic World, can be read at www.well.com/user/kk/OutOfControll. 
+The least-noticed trends are usually the most subversive ones. First on 
+my list for an undetected upheaval is our collective journey toward the 
+belief that the universe is a computer. 
+Already the following views are widespread: thinking is a type of compu- 
+tation, DNA is software, evolution is an algorithmic process. If we keep 
+going we will quietly arrive at the notion that all materials and all 
+processes are actually forms of computation. Our final destination is a 
+view that the atoms of universe are fundamentally intangible bits. As the 
+legendary physicist John Wheeler sums up the idea: “Its are bits.” 
+| first became aware of this increasingly commonly held (but not yet artic- 
+ulated) trend at the first Artificial Life Conference in 1987, where biologi- 
+cal reproduction and evolution were described by researchers in wholly 
+computer-science terms. The surprise wasn’t that such organic things 
+could be given mathematical notations, because scientists 
+have been doing that for hundreds of 
+years. The surprise 
+was that biological things could be simulated by 
+computers so well. Well enough that such simula- 
+tions displayed unexpected biological proper- 
+ties themselves. From this work sprung such 
+fashionable patterns as cellular automata, 
+fractals, and genetic algorithms. 
+The next step in this trend was to jettison 
+the computer matrix and reimagine biological 
+processes simply in terms of computer logic. But 
+to do this, first computation had to be stripped 
+from computers as well. Starting with the pioneering 
+work of Van Neumann and Turing, 
+a number of mathe- 
+maticians concluded that the essential process of computing 
+was so elementary and powerful that it could be understood to happen 
+in all kinds of systems. Or, in other words, the notion of computation was 
+broadened so wide that almost any process or thing could be described 
+in computational terms. Including galaxies, molecules, mathematics, 
+emotions, rain forests, and genes. 
+Is this embrace just a trick of language? Yes, but that is the unseen 
+revolution. We are compiling a vocabulary and a syntax that is able to 
+HOPI 
+- KEYI 
+HOPI - 
+PAHE 
+ENGLISH - ONE WORD (WATER);HOPI 
+- TWO WORDS 
+FROM LANGUAGE, THOUGHT, AND REALITY 
+describe in a single language all kinds of 
+phenomenon that have escaped a common 
+language until now. It is a new universal 
+metaphor. It has more juice in it than previous 
+metaphors: Freud’s dream state, Darwin’s variety, Marx’s progress, or the 
+oe 
+EREBRAL CODE 
+—- 
+Age of Aquarius. And it has more power than anything else in science at 
+the moment. In fact the computational metaphor may eclipse mathemat- 
+ics as a form of universal notation. 
+This quickening of the new metaphor was made crystal clear recently in 
+the work of mathematicians and physics who have been dreaming up 
+the next great thing after silicon chips: quantum computers. Quantum 
+computers lie at the convergence of two “impossible” fields, the world 
+of the impossibly small (quantum states), and the world of the impossi- 
+bly ghostly (bits). Things get strange here very fast, but one thing is 
+strangest of all. In the effort to create mathematical theories 
+of how matter works at levels way below subatomic 
+particles, and in the effort to actually build com- 
+puters that operate in this realm, some scientists 
+have found that using the language of bits best 
+explains the behavior of matter. Their conclu- 
+sion: Its are bits. Young Einsteins such as 
+mathematician/theoretical physicist David 
+Deutsch are now in the very beginnings of a 
+long process of redescribing all of physics 
+in terms of computer theory. Should they suc- 
+ceed, we would see the material universe and 
+all that it holds as a form of computation. 
+There will be many people who will resist this idea 
+fiercely, for many good reasons. They will point out that the 
+universe isn’t really a computer, only that it may act as if it is one. But 
+once the metaphor of computation infiltrates physics and biology 
+deeply, there is no difference between those two statements. It’s the 
+metaphor that wins. 
+New Rules for the New Economy: 10 Radical 
+Strategies for a Connected World. Kevin 
+Kelly. 1998; 164 pp. $19.95. Viking. The 
+Cerebral Code. William H. Calvin. 1998; 
+256 pp. $14. MIT Press. The Pattern on the 
+Stone. Daniel Hillis. 1998; 164 pp. $21. 
+Basic Books. The Savage Mind. Claude 
+Lévi-Strauss. 1966; 290 pp. $16.95. 
+University of Chicago Press. Language, 
+Thought, and Reality: Selected Writings of 
+Benjamin Lee Whorf. Benjamin Lee Whorf 
+and John B. Carroll, ed. 1964; 278 pp. 
+$17.50. MIT Press. 
+And as far as | can tell the computational metaphor is already halfway 
+to winning. co 
+If the top center Beethoven is 
+replaced by a Bach, then the uncertain 
+hexagon receives four doses of Bach 
+for every two of Beethoven. 
+A 4-by-2 boundary ought to be a more 
+stable one than a 3-by-3 arrangement. 
+FROM THE CEREBRAL CODE 
+When is a word or synonym or pun a metaphor? Whorf compares Hopi, Eskimo, and English to illustrate 
+words that other cultures 
+would take as 
+metaphors. Bill Calvin tries to reduce musical notes (not words) to “neural gateways” between Bach and Beethoven. DNA is the current metaphor for 
+genetic language. But what about RNA? 
+

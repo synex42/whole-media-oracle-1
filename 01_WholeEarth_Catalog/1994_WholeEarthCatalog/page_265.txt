@@ -1,0 +1,222 @@
+To: The Reader 
+From: Cliff Figallo 
+Subject: BBS stuff 
+In their simplest form, computer bul- 
+letin-board systems serve the same 
+function as a corkboard — people 
+“post” messages for others to read. 
+Only, instead of cork, the messages 
+appear on the computer screens of 
+those who log into the systems. 
+The first BBS was created in 1978 so 
+owners of early, incompatible per- 
+sonal computers could share infor- 
+mation through a common dial-up 
+host computer. As of summer, 1993, 
+Boardwatch magazine estimated that 
+there were “over 53,000 dialup sys- 
+tems operating in North America — 
+the vast majority run by individuals 
+from their homes or small offices.” 
+Over thirteen-and-a-half million 
+people were using BBSs; ten thou- 
+sanda day were making their first call 
+to one of those systems. 
+BBSs are the true grass roots of the 
+electronically networked world. A 
+BBS can serve many thousands of 
+users (one claims over 50,000 sub- 
+scribers), providing access to huge 
+libraries of information and soft- 
+ware, electronic mail facilities, and 
+— increasingly — gateways to more 
+extensive networks. Because it only 
+requires one personal computer, 
+one modem, one software program, 
+and one phone line to set up, the BBS 
+is the cheapest way to become an 
+online information center, orga- 
+nizer, or entrepreneur. 
+Many BBSs serve special interest 
+groups — you can join discussions of 
+programming languages, environ- 
+mental 
+regulations, computer 
+games, lifestyle choices, specific pets, 
+energy statistics, and thousands of 
+other topics. Activists from the en- 
+tire political spectrum, hobbyists, 
+and professional marketers are 
+among the thousands of BBS sysops 
+(system operators) who run their 
+own independent systems. 
+Whatever your interests, you are 
+likely to find helpful information and 
+helpful allies out there. But if not, 
+creating your own special-interest 
+forum is an attainable goal. In their 
+simplest form, BBSs can serve local 
+geographical communities, requiring 
+no long-distance toll calls or other 
+surcharged access. 
+User interfaces (what the caller sees 
+on his or her screen) range from 
+pure text (which requires you to 
+know a list of commands) to full- 
+color screens controlled by a “point- 
+and-click” menu and a mouse. 
+BBSs rely on the most basic technolo- 
+gies of phone lines, computers and 
+modems. 
+They do not require en- 
+hanced phone services or depend on 
+Internet registration or regulations or 
+special cable connections. A BBS can 
+be set up anywhere there is phone 
+service; via relay systems, it can be 
+networked and accessed around the 
+world. Regardless of where the “in- 
+formation highway” leads, BBSs seem 
+to have a solid future. 
+Free Electronic Networks 
+You don’t have to join the Internet, or 
+pay CompuServe or America OnLine, 
+to get into computer networking. Hun- 
+dreds of thousands of people partici- 
+pate via free BBSs (such as many Fido 
+and QWK BBSs) that are networked 
+with the fee-based systems. This book 
+tells you how to use these systems, 
+and includes an extensive directory of 
+free BBSs, indexed both by topic and 
+by geographical region. —CF 
+e 
+How to Echo 
+You type 3 for that GENERAL CHATTER 
+area. You wonder what those asterisks mean. 
+The messages in General Chatter number 
+from 6051 to 8325. Tell the clerk which 
+number you'd like to read from: 
+Does this mean there are over 2000 mes- 
+sages there for the reading? Yes, it does. 
+Many newcomers will find it hard to over- 
+come the temptation to take them all. 
+There may not be enough time available for 
+the megabytes of messages you'll want to 
+read at first. Resist the temptation to pig 
+out on information at this point. This is 
+when it’s strongest. 
+Type in 8225, which tells the mail door to 
+send you a modest 100 messages from 
+GENERAL CHATTER. 
+Tell the clerk if you'd like to read (A)II mail 
+in GENERAL CHATTER or just mail ad- 
+dressed to you (P)ersonally: 
+Type A for all. There may be a time when 
+you want to limit the mail to those postings 
+that are addressed with your name in the 
+TO: field, but not just now. 
+Free Electronic Networks 
+William Shefski. 1993; ISBN 1-55958-415-7 
+$19.95 ($22.95 postpaid). Prima Publishing 
+& Communications, PO Box |260, Rocklin, 
+CA 95677; 916/324-5718 
+1 ZS 
+ow & WS 
+oh = 
+Communications 
+BULLETIN BOARD SYSTEMS 
+Boardwatch 
+Jack Rickard's magazine is the 
+one-stop shopping place for anyone 
+interested in running their own BBS 
+or searching for the right BBS to fit 
+their interests. Rickard’s blunt, straight- 
+ahead style is pure American boot- 
+strap-entrepreneurial, and he doesn’t 
+try to avoid stepping on toes. He has 
+recruited good writers; Boardwatch 
+does a creditable job of staying up 
+to date with a fast-evolving field, 
+offering equipment/software reviews 
+and discussions of new technology, 
+the Internet, access to government, 
+Macintosh BBSs (a minority group in 
+BBS-land), graphic-image technology, 
+and online legal issues. 
+Boardwatch also features a compre- 
+hensive list of BBSs, with connection 
+Ideas link people together across barriers of time and space 
+BBS Networks 
+Software can work in conjunction 
+with scheduled phone connec- 
+tions to relay information 
+and electronic mail between 
+BBSs. The resulting networks 
+are capable of connecting 
+geographically remote users. 
+Higher and higher modem 
+speeds allow information to 
+leap across these networks of 
+BBSs almost as if the users were 
+connected in “real time.” 
+FidoNet, a public network of BBSs, 
+connects thirty-plus countries around 
+the word. It primarily performs mes- 
+sage-handling for private “Netmail” 
+information, and the latest modem 
+discounts available to BBS syste 
+owners (these prices are often below 
+50 percent of retail). —CF 
+Boardwatch 
+Jack Rickard, Editor. 
+$36/year (12 issues). 8500 W. Bowles Ave., 
+Suite 210, Littleton, CO 80123; 800/933-6038 
+and for the open “party-line” mes- 
+sages called “EchoMail.” —CF 
+The BBS Construction Kit 
+The title says it all. If you want to start 
+your own BBS on a PC-clone machine 
+with minimal pain, the Kit has all the 
+ingredients. And the price can make 
+the experience worth it, even if you 
+later decide you'd rather run under a 
+different BBS program. GAP BBS soft- 
+ware is included; installation will famil- 
+iarize you with the fundamentals of 
+BBS setup and operation. 
+The book is clearly written, with 
+sections on pre-BBS decisionmaking, 
+choosing hardware and modems, 
+legal issues facing the sysop, giving 
+your BBS its “look,” and the many 
+operational responsibilities you'll 
+face as sysop, —CF 
+e 
+With RIP graphics, you can create a mouse- 
+driven interface for your BBS that looks 
+and operates something like a Windows 
+application. The quality of graphics is obvi- 
+ously much higher, too, giving your BBS a 
+slicker, more professional look. There are 
+several RIP drawing packages available. 
+RIP is very much like ANSI except that it is 
+far more complex and powerful. It relies on 
+a specific format for its code that is based 
+on standard IBM characters. Unlike ANSI, 
+RIP codes can be sent over 7-bit communi- 
+cation links. See the end of this chapter for 
+notes on RIP codes and programming. 
+ce 
+=e 
+You Need 
+nd Expert Advice 
+tt 
+ont 
+Qwn BES Today 
+The BBS Construction Kit 
+David Wolfe. 1994; 373 pp. 
+ISBN 0-471-00797-8 
+$27.95 postpaid. John Wiley & Sons, Inc., | 
+Wiley Dr., Somerset, NJ 08873; 800/225-5945 
+

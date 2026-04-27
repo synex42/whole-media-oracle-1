@@ -1,0 +1,188 @@
+164 HYPERCARD 
+HyperCard 
+by Kevin Kelly 
+The model for HyperCard is the 3-by-5 card. A card is 
+represented by a Macintosh screen. As you flip through 
+screens (cards), you read them one after another, as if 
+they were in a stack. Cards can hold any kind of infor- 
+mation you want, in any format you designed, including 
+pictures. Rather than rest inertly, as on a Rolodex, 
+information on a HyperCard can be actively linked to 
+any other point on any other card. Those linking spots 
+can be a word, a bunch of words, or a picture. When 
+your cursor touches that spot, it brings forth the card 
+(screen) that it is linked to. The links form a thread 
+through a “stack” of cards. You weave through a stack, 
+jumping from card to card, idea to idea, choosing your 
+own path by touching on the items you are interested in, 
+endlessly discovering new levels, or deliberately aiming 
+toward a desired card. 
+Your HyperCard Rolodex, for instance, might have one 
+card for every individual. You could link their telephone 
+number so that it dials the number. You could link their 
+address to a small map on another card to show how to 
+get to their house. And that map of the town might be 
+linked to several other names as well. You would then 
+have an interactive Rolodex giving you as much infor- 
+mation as you wanted each time. 
+HyperCard will be a medium of communication. Within 
+a week after it was introduced in 1986, the WELL had a 
+raging conference on the topic. A prime function there 
+is the Stackware Exchange where user written stacks of 
+cards are swapped, showcased, and improved upon. 
+Early stackware will have some of the untamed innova- 
+tion that early BASIC computer programs had. The 
+WELL confronts the possibilities with a topic called 
+“What can you do with HyperCard?” 
+Some of the things I imagine are: incredibly complex 
+adventure games, self-directed classroom courseware, 
+interactive shopping catalogs, pictorial spreadsheets, 
+and ultimate clip art files. Enough, anyway, to get 
+going. 
+Skinny Macs, even Fat Macs, won’t quite do for this 
+muscle-bound program. You’ll need a Hunk Mac (a 
+HyperAge 
+Jan Lewis, Editor 
+$19.95/year 
+(6 issues) from: 
+HyperAge 
+5793 Tyndall Avenue 
+Riverdale, NY 10471 
+800/682-2000 
+| like this magazine 
+because it avoids the 
+creepy mystique and glamour that usually shrouds 
+technical expertise. The premier issue (the only 
+one. we’ve seen) ran lots of good stuff by promi- 
+nent innovators in the HyperCard field, such as a 
+special feature on interactive sound and Hyper- 
+Card by Tim Oren at Apple, who did the lion’s 
+share of development for the Electronic Whole 
+Earth Catalog. 
+—Ramon Sender Barayon 
+Plus or better), with at least 1 meg RAM to run 
+things smoothly. Very best is a set up with a 
+hard disc. There are two official sourcesfor 
+8 | 
+—"™ 
+HyperCard. It’s bundled free with all new 
+Macintoshes, or it can be bought for $49 from a 
+local Apple dealer. 
+Windoid/AHUG 
+Sample copy for SASE from Apple Computer, M/S 
+27AQ, 20525 Mariani Boulevard, Cupertino, CA 95014 
+Open Stack 
+Sample copy for SASE from Walking Shadow Press, 
+P.O. Box 2092, Saratoga, CA 95071 
+Two useful newsletters from Silicon Valley, both 
+with roots in the Apple community and local user 
+groups. Each carries essential information, hot 
+tios, and chatty gossip about HyperCard mania. A 
+courteous SASE will get you a copy of either. Win- 
+doid Nos. 1-5 are available in stack form with all 
+the scripts implemented by Team Hackinslash. 
+Amusing and well thought-out! Ask for BMUG Disk 
+Hyper 32, $3 postpaid from BMUG, Inc. 1442A 
+Walnut Street, Berkeley, CA 94709. 
+—Ramon Sender Barayon 
+® 
+HyperCard is uniquely suited for activist causes. It goes 
+without saying that its great ease of use and flexibility 
+favors the underdog. Activist groups have often relied on 
+people power an maneuverability to counteract the brute 
+economic and political force of various Powers-That-Be; 
+HyperCard can enhance both of these advantages. 
+Aside from its inherent qualities, the way in which Hyper- 
+Card made its entrance marked it as a paradigm of 
+practical idealism. Bill Atkinson wanted to to give Hyper- 
+Card away because he wanted to make the world a 
+better place. Apple is consenting because they want to 
+sell more computers. The result: free application that 
+may eventually empower millions of people to use com- 
+puters who may never have done so otherwise. 
+4 
+The near future will no doubt bring everything Ted Nel- 
+son has described, at least as far as education is con- 
+cerned. It will probably bring much more. Media labs 
+around the world are experimenting with new ways to 
+“connect” people to computers. For instance, tactile 
+gloves are being developed that allow a person to “feel” 
+objects that appear on CRT's. Masks are being devel- 
+oped that enable a person to see a computer-generated 
+environment. When combined, these new developments 
+point to an age not far off when a person will be able to 
+submerge into an entirely computerized environment 
+and “commune” with information. 
+You may ask what all this has to do with hypertext, but it 
+is obvious that to drive these new “environments,” infor- 
+mation will have to be organized in highly intercon- 
+nected, non-hierarchical, and versatile ways. The data- 
+bases of the future will all be “hypertext” or “hyperme- 
+dia,” or what have you. In fact, information of the future 
+will have to be so connected and layered that it will have 
+a fractal-like quality. It will be viewable on many levels, 
+deep or shallow, each seeming to have as much content 
+as the next. Future databases will reflect reality, and 
+they will share the physical and mathematical character- 
+istics of the real world. 
+—Open Stack 
+What the Author Sees 
+Background Picture 
+ffm i 
+Left Button Layer 
+Right Button Layer 
+What the Browser Sees 
+The Complete 
+HyperCard 
+Handbook 
+Danny Goodman 
+1987; 695 pp. 
+$29.95 
+($31.95 postpaid) from: 
+Bantam Books 
+414 East Golf Road 
+Des Plaines, IL 60016 
+800/223-6834 
+Some software programs have all the luck. On the 
+day HyperCard was released, an equally ground- 
+breaking guidebook to it was published in tandem. 
+Like HyperCard itself, it is thorough and deep. It’s 
+a massive, hefty tome of 700 pages, completely 
+fluff-free. 
+It exhaustively treats the mechanics of making 
+cards; assembling them into “stackware;” creating 
+links; and writing instructions in HyperTalk. Even if 
+you don’t usually use paint programs, you'll find 
+yourself creating graphics in HyperCard regularly. 
+The paint options are therefore covered in depth. 
+As we worked on the Electronic Whole Earth Cata- 
+log, we picked up a number of tips from the Hand- 
+book we hadn't known about. Not a reference 
+book per se, the Handbook does its best job illus- 
+trating the conceptual innovations introduced by 
+HyperCard. Notions like “stackware” (stacks of 
+cards that are exchanged), “buttons” (linking hot 
+spots), and “backgrounds” (the layers of informa- 
+tion on a card) are all illuminated into clarity. 
+| primarily use those Macintosh programs which 
+stick with me if | don’t ever open the manual. But 
+HyperCard, with its tools-for-making-tools struc- 
+ture, is simply one Macintosh program that you 
+won't be able to unfold fully without a supplemental 
+help book. For the immediate future, this is the 
+book to get. 
+—Kevin Kelly 
+Heizer Software 
+Catalog and sample disk $4 from Heizer Software, 1941 
+Oak Park Boulevard, Pleasant Hill, CA 94523; 415/943- 
+7667 or (outside CA) 800/225-6755 
+There are two sources for low cost non-commercial 
+stackware: informal regional Macintosh user 
+groups and Heizer Software. The former have 
+them for nearly free and in overwhelming quantity; 
+the latter for modest cost with more selectivity and 
+annotation of content. They deal by mail and-have 
+a sensible catalog. Also, their authors offer phone 
+support during certain hours. 
+—Ramon Sender Barayén 
+

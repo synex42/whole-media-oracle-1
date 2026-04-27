@@ -1,0 +1,327 @@
+ANTENNA BOOKS 
+The final suggestion | can make for getting the most out 
+of your SW receiver is to put the most into it: all portables 
+come with built-in “whip” antennas, but if you do most 
+of your dial-turning in one spot, you can easily boost 
+your set’s signal capture ability by putting up a larger 
+antenna. SW antennas are easy enough to make that 
+there’s little reason to buy a prefab (unless you‘re so 
+short on space that you need something called an “active” 
+antenna, in which case you should consult someone more 
+knowledgeable about such things than |). There are many 
+books that explain how to build the basic designs. A 
+good one for beginners (because it emphasizes practical, 
+physical details and requires no math or radio theory) is 
+Rufus Turner’s The Antenna Construction Handbook for 
+Ham, CB & SWL. 
+The book has a variety of proven 
+designs and clever suggestions (like using a windowscreen 
+as an antenna), and gives due attention to safety (light- 
+ning protection, grounding). Another book for the more 
+technically-minded is Orr and Cowan’s The Radio Amateur 
+Antenna Handbook. 
+Gi/fer considers it “the best book 
+we've seen on this subject.’’ For a broad take on the 
+literature, you might write to the Ham Radio Book Store, 
+Greenville, NH 03048, and ask for their catalog. 
+The Antenna Construc- 
+tion Handbook for 
+Ham, CB and SWL 
+Rufus P. Turner 
+1978; 230 pp. 
+$5 95 postpaid from: 
+TAB Books 
+Blue Ridge 
+Summit, PA 17214 
+The Radio Amateur 
+Antenna Handbook 
+William |. Orr and 
+Stuart D. Cowan 
+1978; 190 pp. 
+$6.95 postpaid from: 
+Gilfer Shortwave 
+P.O. Box 239 
+Park Ridge, NJ 07656 
+There’s no substitute for 
+a monoband beam placed 
+high and in the clear! 
+This 21 MHz three element Yagi 
+at 56 feet has worked plenty of DX at W6SAI. 
+—The Radio Amateur Antenna Handbook 
+VHF/UHF LISTENING 
+Not all of the voice transmissions that you hear in the 
+SW bands are broadcasts aimed at foreign publics. Some 
+are semi-private conversations between radio amateurs 
+(hams), land mobile units, CBers, etc. 
+These can occa- 
+sionally be interesting, but not often. A much richer 
+selection of specialized communications is to be found 
+above SW, in the VHF band (“very high frequency,” 
+from 30 to 300 MHz) and the UHF band (“ultra high 
+frequency,” 300 to 3000 MHz; the SW band, also known 
+as “HF” 
+or “high frequency,’ 
+runs from 3 to 30 MHz). 
+We're all familiar with VHF and UHF as the home of 
+television channels 2 to 69 and FM radio (88 to 108 MHz), 
+but large chunks of these bands are also reserved for the 
+use of private industry, utilities, and government agencies. 
+Although these channels are not “open to the public” in 
+the broadcasting sense, it is perfectly legal to own 
+receivers capable of tuning them in as long as you do not 
+divulge anything you hear. 
+In fact, the police-and-fire- 
+band scanners made by companies like Electra (Bearcat), 
+Radio Shack, and Regency can easily be adapted to let 
+you listen to a wide variety of unusual, confidential 
+transmissions by boats and airplanes, the Coast Guard, 
+NASA, the military, the FBI, the Nuclear Regulatory 
+Commission, NOAA, the Army Corps of Engineers, 
+Private construction and repair crews, etc. Z-Tech 
+Enterprises (P.O. Box 70, Hauppauge, NY 13901) special- 
+izes in crystals for tuning in government frequencies; they 
+Pop right in to the ordinary scanner’s crystal-bays. 
+The 
+newer “programmable” scanners require no crystals to 
+receive any frequency within their intended band cover- 
+age. 
+These are more expensive than crystal scanners as an 
+initial investment, but if you end up buying more than a 
+dozen crystals for the cheaper kind, the overall price 
+difference may be insignificant. 
+For the more ambitious, 
+VHF Engineering (320 Water Street, Binghamton, NY 
+13901) sells receivers, already assembled or in kit form, 
+that enable you to explore regions of the VHF spectrum 
+not accessible to ordinary scanners, and for the really 
+ambitious, The Radio Amateur’s VHF Manual ($4 from 
+the American Radio Relay League, 225 Main Street, 
+Newington, CT 06111) contains plans and how-to tips 
+for probing these bands as a sender as well as a receiver. 
+(Sorry |‘m not familiar enough with this technology to 
+make specific hardware recommendations.) 
+What you can find in these bands depends mainly on 
+where you live. VHF and UHF signals are limited in 
+range, and mobile transmitters are not very powerful, so 
+if you live way out in the country, you’re not apt to hear 
+much at all. But if you live in or near a city, an airport, 
+a harbor, or a military installation, you‘re apt to hear 
+quite a bit — particularly during a local emergency (flood, 
+black-out, earthquake, riot). While some channels carry 
+messages in an unlistenable form (radioteletype, computer 
+code), a surprising number are in plain old voice. 
+Even 
+FBI channels, which you’d think would be coded or 
+scrambled, often are not. 
+It’s even possible (not likely, 
+but possible) to pick up conversations transmitted from 
+a surveillance “‘bug,” 
+if it isn’t too far away — and you 
+know what frequency it’s using. 
+Knowing the frequency — that’s the big trick, since 
+government frequency assignments aren’t made known 
+by the government. 
+Most agencies like the FBI rely on 
+the lack of public information about their radio systems, 
+the slight inconvenience involved in getting access to their 
+part of the spectrum, the brevity of their normal trans- 
+missions, and the shifting of message traffic among their 
+available channels — and not much else — to keep their 
+radio communications secure. 
+(Beyond that, many 
+regular radio users speak in a slang familiar only to their 
+cohorts, like CBers, so you may not understand a message 
+even if you hear it clearly.) These are genuine obstacles 
+to the would-be listener, but they’re hardly insurmount- 
+able, especially to an avid VHF buff like Tom Kneitel. 
+He’s been monitoring government use of the band for 
+more than thirty years, and has compiled The ‘Top 
+Secret’ Registry of U.S. Government Radio Frequencies, 
+which lists over 3800 frequencies from 25 to 470 MHz, 
+and the 50+ agencies that use them. Aside from those 
+Ive already mentioned, there are listings for the Postal 
+Service, the Red Cross, the Federal Bureau of Prisons, 
+the CIA, and several agencies concerned with the environ- 
+ment (Bureau of Land Management, EPA, Fish & Wildlife 
+Service, Forest Service, etc.), though the vast majority 
+are military. As a bonus, Kneitel includes the frequencies 
+of 37 U.S. government satellites, and 23 more put up by 
+foreign governments. 
+There’s even a listing for a fre- 
+quency used in military “death ray” experiments (388 
+MHz)! An unknown number of these frequencies are not 
+in use at any particular moment, an unknown number are 
+used only sporadically, and some of the agency attri- 
+butions are just hunches. Nonetheless, this is the best key 
+‘ve seen for unlocking the treasure-house of government 
+radio communications. 
+In the same way that SW is 
+unbeatable for following distant crises, Kneitel’s Registry 
+and a VHF scanner are unbeatable for following crises 
+nearby (not too nearby, hopefully). 
+The ‘Top Secret’ 
+$4.95 postpaid from: 
+Registry of U.S. 
+CRB Research 
+P.O. Box 56 
+Government Radio 
+Frequencies 
+Tom Kneitel 
+1979; 34 pp. 
+Commack, NY 11725 
+For a current and quite extensive listing of frequencies 
+used by local “‘public safety’ 
+and state government 
+agencies (including police, fire, highway patrol and repair, 
+hospitals, etc), get hold of Radio Shack’s Police Call 
+Radio Directory. 
+/t comes in nine different volumes, 
+each for a specific region of the country. 
+In most places, 
+it is these local agencies rather than the federal govern- 
+ment which dominate the airwaves. 
+Police Cali Radio Directory (Including Fire and Emer- 
+gency Services), Gene Hughes, Editor, Annual; 150 pp. 
+Volume 1 (Connecticut, Maine, Massachusetts, New 
+Hampshire, New York, Rhode Island, Vermont) 
+Volume 2 (Delaware, Maryland, New Jersey, Pennsylvania) 
+Volume 3 (Michigan, Ohio) 
+Volume 
+4 (Illinois, Indiana, Kentucky, Wisconsin) 
+Volume 5 (lowa, Kansas, Minnesota, Missouri, Nebraska, 
+North Dakota, South Dakota) 
+Volume 6 (District of Columbia, Florida, Georgia, North 
+Carolina, South Carolina, Virginia, West Virginia) 
+Volume 7 (Alabama, Arkansas, Louisiana, Mississippi, 
+Oklahoma, Tennessee, Texas) 
+Volume 8 (Arizona, Colorado, Idaho, Montana, New 
+Mexico, Nevada, Utah, Wyoming) 
+Volume 9 (California, Oregon, Washington) 
+$5.95 each postpaid, all from Hollins Radio, P.O. Box 
+35002, Los Angeles, CA 90035, or check your local 
+Radio Shack. 
+® 
+A 
+fe OC 
+Be 
+et 
+ee 
+COMMUNICATIONS 
+RADIO 525 
+Weather radio 
+During the last five years or so the government has built 
+a network of radio broadcast stations to give 24-hour, 
+updated weather reports, specialized for each region of 
+the country and the people living there (more marine- 
+oriented along the coastlines, for instance). 
+To tune in 
+the broadcasts you need radios which can pick up the 
+162.40 - 162.55 megaHertz “Weather Band.”’ Most 
+radio-stereo stores carry the equipment for around $20 - 
+$40. For more information and a list of operating 
+stations write: National Oceanic and Atmospheric 
+Administration, Weather Network, National Weather 
+Service, Attn: W112, 8060 13th Street, Silver Spring, 
+MD 20910. 
+—Art Kleiner 
+Some plain old portable AM-FM radios have a weather 
+band feature. 
+It’s worth having! That’s how / start 
+my day. 
+“Small craft advisory for westerly winds 25 - 
+30 mph in the afternoon. 
+High tide at the Golden 
+Gate will be at...” 
+—~ 
+ia 
+~— 
+= 
+3 
+i 
+A 
+roy 
+{ 
+“y. 
+fr 
+aS 
+—_— 
+bat] 
+NOAA weather radio transmitters as of 1980 
+Radios that Work for Free 
+How many of you have had a crystal set radio? Not 
+many Ili bet. Mine (about 1940) drove me bananas 
+because when | was listening to “‘Gangbusters,”’ a for- 
+bidden fruit in our family, the gunshots at the finale 
+would cause the catwhisker to jump off the crystal, and 
+Id never find out whodunnit. Anyway, this book elegantly 
+tells how to construct one. 
+Though the author tells how 
+to make the battery by sticking electrodes into a lemon (!), 
+he isn’t fuddyduddy. 
+There’s a /ot about utilizing modern 
+diodes instead of the crystal and catwhisker. 
+| found the 
+whole business possessing a strange esthetic. 
+/t’s 
+presented nicely too. 
+Sy isi oe 
+i aaa] 
+Radios that 
+i 
+w 
+Work for Free 
+ah 
+K.E. Edwards 
+; 
+1977; 147 pp. 
+$6 postpaid from: 
+Hope and Allen 
+Publishing Company 
+P.O. Box 535 
+Belmont, CA 94002 
+or Whole Earth 
+Household Store 
+These radios work for free, that is, you don’t have to 
+plug them in, nor do you put batteries into them. So, 
+where does the power come from? The power comes 
+from the broadcast station who is transmitting. 
+U.S. Frequency Allocations Chart 
+It’s not as pretty as a land map, but it’s even more essen- 
+tial to find your way around electromagnetic territory. 
+The whole allocations table, from 10 kHz to 300 GHz — 
+minus all the footnotes, technical specifications, excep- 
+tions, etc. — is presented graphically, using patterns and 
+colors to identify the various services. 
+| must say the 
+colors are harsh — pungent pinks, greens, blues, reds — 
+but that gives the chart an appropriately non-decorative 
+impact. 
+| can’t say what exactly /’ve learned from having 
+iton my wall, but it does keep me aware of how much 
+of the world is beyond direct perception. 
+—Robert Horvitz 
+$1 35 postpaid from: 
+Superintendent 
+of Documents 
+U.S. Government 
+U.S. Frequency 
+Allocations Chart 
+Department of Commerce 
+Office of 
+Se 
+: 
+Telecommunications 
+Printing Office 
+1975; 32" x 55” 
+Washington, DC 20402 
+No. 003-000-00469 
+-4 
+oe Ab] ie Se fe 6! ey iene. oh.) weeps) eee 
+ey alm "e: See. © -6)4\ a8 
+THE RISING SUN 
+NEIGHBORHOOD NEWSLETTER 
+“Pm so hungry I could eat the last member of an 
+—Stephanie 
+endangered species.” 
+aie
+

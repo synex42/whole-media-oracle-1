@@ -1,0 +1,170 @@
+- and lengthy calculation with ease, without a flaw and in much less 
+-9100A Calculator 
+<A 
+Design for a Brain 
+Design for a Brain 
+W. Ross Ashby 
+1952, 1960; 286 pp. 
+This is a reputation review. Ashby’s book is found prominent 
+in the bibliography and footnotes cf every text we've seen on 
+computers and the mind. It’s technical going to read but 
+$2.50- postpaid 
+worth it for the insights of prime work. 
+fi 
+rom: 
+Barnes & Noble, Inc. 
+105 Fifth Avenue 
+New York, N.Y. 10003 
+Economy Bookstore 
+171 W. Madison 
+Chicago, I!linois 60602 
+Finding an optimum is a much more complex operation than finding 
+a value that is acceptable (according to a given criterion). Thus, 
+Suppose a man comes to a foriegn market containing a hundred kinds 
+of fruit that are quite new to him. To find the optimam 
+for his 
+Palate he must (1) taste all the hundred; (2) make at least ninety-nine 
+comparisons, and (3) remember the results so that he can finally go 
+back to the optimal form. On the other hand, to find a fruit that is 
+acceptable he need merely try them in succession or at random 
+. 
+(taking no trouble to remember the past), stopping only at the first 
+that passes the test. To demand the optimum, then, may be excessive; 
+all that is required in biological systems is that the organism finds a 
+e SCIENCE PAPERBACKS 
+Design fora 
+Brain 
+W. ROSS ASHBY 
+or 
+WHOLE EARTid CATALOG 
+state or a value 
+n 
+n 
+The development of life on earth must thus not be seen as something 
+remarkable. On the contrary, it was inevitable. 
+It was inevitable in 
+the sense that if a system as large as the surface of the earth, basically 
+polystable, is kept gently simmering dynamically for five thousand 
+million years, then nothing short of a miracle could keep the system 
+away from those states in which the variables are aggregated into 
+intensely self-preserving forms. 
+i 
+This is the learning mechanism. Its peculiarity is that the gene- 
+pattern delegates part of its contro! over the Organism to the 
+environment. Thus, it does not specify in detail how a kitten 
+shall catch a mouse, but provides a learning mechanism and a 
+tendency to play, so that is is the mouse which teaches the kitten 
+:the finer points of how to catch mice. 
+' 
+SCHENTIN 
+AE IICAN 
+Hewske 
+fs 
+A comprehensive review of the 
+extraordinary new technology of 
+Information 
+igure: 
+Soult ae 
+[ nfor. mation 
+GEFORE FIRST SHIFT 
+Fofs fo fo] 
+: 
+[ofofofofo] 
+BOPORC HAST ShueT 
+AFTER FIRST SHIFT 
+_The September 1966 issue of Scientific American was 
+1 
+devoted entirely to the new technology of information. Now 
+available as a paperbound book, it is the best introduction 
+RESTS 
+we've seen to computer science. Articles include: “Computer 
+Ys Ye Ys 
+Ya 
+Lagic and ifemory”, “Computer Inputs and Outputs”, 
+esrore rinst shirt [4 Jo] [1] 
+i+ [ols] 
+ALTER FIRST SRNET 
+AFTER SiON SHIFT 
+AFTER THIRD SLIET 
+ALTER FOPTOLE SHIET 
+AUTOR FIFTH SIFT 
+“Systems Analysis and Programming”, “‘Time-sharing on 
+Computers”, “The Transmission of Computer Data”, “The 
+Uses of Computers in Technology”, “The Uses of Computers 
+in Organizations”, “The Uses of Computers in Education”, 
+“Information Storage and Retrieval”, and “Artificial 
+Intelligence”, 
+AFTER FIRST SHIFT 
+Information 
+1966; 218 pp. 
+$2.50 
+postpaid 
+from: 
+W.H. Freeman & Company 
+ANO 
+0 
+c 
+660 Market Street 
+B 
+u 
+San Francisco, California 94104 
+SHIFT INPUT 
+or 
+WHOLE EARTH CATALOG 
+10. Simulated waterfall spills over the edge of a cliff and splashes into a pool in this 
+computer experiment performed by John P. Shannon at the Los Alamos Scientific Laho- 
+ratory as part of a study of dynanic behavior of fluids with the aid of numerical models. 
+The computer is almost exactly what man is not. It is capable of 
+paying undivided attention to unlimited detail; it is immune to 
+distraction, precise and reliable; it can carry out the most intricate 
+than a millionth of the time that would be required by its human 
+counterpart. !t is emotionless, 
+or so we suppose. 
+It suffers neither 
+boredom nor fatique. It needs to be told only once; thereafter it 
+remembers perfectly until it is told to forget, whereupon it forgets 
+instantly and absolutely. 
+HP 9100A 
+The best of the new table-top number crunchers is this 
+$4900.00 
+65 Ibs shipping weight 
+Hewlett-Packard machine. It is programmable, versatile, and 
+silent—more so than its competition. Portola Institute 
+currently is using the 9100A to help kids gain early mastery 
+over computers—it is a suberb inquiry machine. 
+9.099 
+HI EGSES 
+’. 2R& 
+from: 
+P.O. Box 301 
+Loveland, Colorado 80537 
+Specs: 9100A can do addition, subtraction, multiplication. 
+division. square root log x, In x, eX, sin x, cos x, tan x. 
+sin-1x, cos'1x, tan-1x, sinh x, cosh x, tanh x, sinh-1x, cosh-1x, 
+tanh- 1x, polar to rectangular and vice versa co-ordinate 
+transformations. Number range is 10-99to 1099. The 
+magnetic core memory has 19 registers: 3 display and 16 
+storage. Display is decimal or floating point. Program 
+capacity is 196 steps. Programming is done by pressing keys 
+in proper sequence (no special language required). Programs 
+may be stored on wallet sized magnetic cards. Typical 
+operations take 2-280 milliseconds. Weight of the machine 
+is 40 Ibs, dimensions 8”x16’’x19°deep. Reportedly the 
+following accesories will be available soon: printer, xy plotter, 
+input/output interface. 
+Hawiett. Packard Model PGA Culcelatar keybonrd and 
+fyperbatic, iigonametric, 
+oad 
+& 
+There’s rumors that a new machine 
+coming from Wang may slightly top 
+the HP: the Wang 700. For inquiries: 
+Wang Laboratories, Inc. 
+836 North St. 
+Tewksbury, Mass 
+01876 
+courdinete teanstormotion furetians at lett, srogreammer 
+fu 
+bas right. Deapiey is dexinud 
+{Suggested by Robert Albrecht} 
+

@@ -1,0 +1,372 @@
+amana Maharshi. 
+Talks with Sri Ramana Maharshi 
+_ Day by Day with Bhagavan 
+Guru Ramana (S. S. Cohen) 
+~ Maharshi’s Gospel 
+— Ramana Maharshi and His Philosophy of Existence 
+Reflections on “Talks” 
+— Sadhu’s Reminiscences of Ramana Maharshi (Major A.W. Chadwick) 
+Self-Inquiry 
+Who Am I? 
+Order from Arunachala Ashram, 342 E. 6th Street., 
+available— ‘‘The Mountain Path,’ 
+spiritual seekers. 
+Singh, Kirpal. A Great Saint—Baba Jaimal Singh. 
+Teachings. 
+The Japji. The My stery of Death. 
+Shakti Nagar, Delhi 7, India 
+‘Shastri (trans. ). 
+NYC. Also 
+"an excellent magazine for 
+His Life and 
+Ruhani Satsang, Sawan Ashram, 
+The Ramayana of Valmiki. Shantisadam, London 
+Sivananda, Swami. Concentration and Meditation. 
+Kundalini Yoga. 
+The Practice of Yoga. 
+Sadhana. 
+Snellgrove (trans.). The Herdjra Tantra. Two vols., only one is trans. 
+Other Sanskrit & Tibetan. 
+Rider & Co. $11.00 
+Taimni,|.K. Gayatri—Daily Religious Practice of the Hindus. 
+Ananda Publishing House, Allahabad, India 
+The Science of Yoga, Quest pap. 1961 Theosophical Publ. House, 
+_ Wheaton, III. 
+Tucci, Giuseppe. 
+& Co. pap. 
+yagisananda, Swami. Narada Bhakti Sutras. 
+Bharati Vijayam Press, 
+_Triplicare, Madras 
+The Theory and Practice of the Mandala. 
+Rider 
+Ramanar, K. Venkata. Nagarjuna’s Philosophy. 
+Tuttle $10.00 > 
+irajananda, Swami. Paramartha Prasanga—Toward the Goal Supreme. 
+Vedanta Press, 1946 Vedanta P!., Hollywood, Calif. 90028 
+) ukteswar, Swami Sri. Kawalya Darsanan, or The Holy Science. 
+Ss Yogoda Satsanga Society of India, Ranchi, Bihar, India. 
+1963 
+Computerdom is hard to enter. Why? 
+I can really sympathize with the people who are keen on computery 
+_and yet are frustrated by the ‘‘clean room” philosophy in most 
+universities where you hand in your program through a slot and get 
+the results back through another slot, two days later. Half the thing 
+of computers is sitting in THE CHAIR watching the console and 
+modifying the program and seeing the lights flash. 
+The college where | work has two computers (PDP—8/S, PDP—12) 
+both by DIGITAL EQUIPMENT CORPORATION (Maynard, Mass). 
+Both are good machines, especially in a cost/performance comparison 
+‘to the 1BM behemoths. 
+(We have a GE-405 behemoth which the 
+business division use). 
+More and more high schools and colleges are purchasing the PDP 
+eries and there’s a really good text available for anyone who can 
+get near a PDP computer— 
+\ 
+ntroduction to Programming by the Digital Equipment Corp’n. 
+(FREE!) 
+(or $2.50 maybe, depending on how you write them). 
+Somebody should sit down and write a really good book on how 
+these things work. The best thing I’ve found so far is 
+Digital Computer Design Fundamentals, by Yaohan Chu, McGraw 
+Hill 10800. Unfortunately the book has several deficiencies. 
+) Published in ‘62, the book has much in it which is now obsolete 
+_ 
+(alot from the fifties), and misses a lot of the new stuff 
+(integrated circuits, for instance). 
+£2) It’s hardcover (approx. $15) 
+3) It’s a heavy trip. 
+If you are super, super keen you could 
+_ figure it all out but other wise you need background. 
+~ 
+‘However, chapters 11 and 12 (Logical Design of a Simple 
+Digital Computer and Arithmetic and Control Units) are 
+teally good and illuminate the computer's operation as a 
+machine. 
+Which brings me to a point. These goddamn things are machines. 
+Somebody down at St. Michael's college, here at University of 
+Toronto was asking if computers have a soul and that sort of thing 
+irks me no end. Like somebody in your government said (with 
+eference to NIXON'S folly, the ABM system) ‘‘technology is 
+iding us.’’ People who think of computers as semi-human are people 
+who can accept the computer's decision to launch missiles from 
+orth Dakota. 
+Back to Chu: borrow and Xerox is the best policy. 
+=or background on the computer froma microscopic point of view 
+describing the bricks and pipes, so to speak) is 
+D 
+Eeital Principles and Applications by Malvino and Leach (McGraw 
+Hill) 
+or even better 
+Pulse, Digital and Switching Waveforms, by Millman and Taub 
+(McGraw Hill). This, too, is a heavy trip (much math) but very 
+cheap and accurate information. Well worth the fifteen bucks. 
+The trouble with all these bloody text books is that they cost 
+etween ten and twenty dollars, and the poor students keep the rica 
+book companies in business. 
+Like the guy who turned me on to WHOLE EARTH says—all the 
+blish these books in paperback, at a price people can afford. 
+(| mean 
+odern, technical books). 
+ybe I'll sit down and write the book myself. After | finish my 
+present project, 
+a TEKTRONIX type oscilloscope that anyone can 
+bu uild for $100 to $200 bucks. 
+; nother thing. Somebody should build a computer using a DRUM 
+APE LOOP as mass storage. 
+All sorts of these machines were built 
+the forties when CORE MEMORIES were really expensive. 
+(In 
+, Chu describes one). They bombed on the market because 
+ntific and commercial users demanded a speed that the drums 
+Idn‘t supply, and cores eventually superseded them. However, 
+tegrated circuits are now cheap, and many users such as schools 
+d artists don’t demand fantastic speed. 
+It could be very, very 
+eap, 
+| think, like hundreds of dollars instead of thousands. 
+PROGRAM COUNTER 
+neat books of the world are DOVER’S. Why doesn’t Dover or somebody 
+LITERARY AND SCIENTIFIC MYSTICISM 
+Blake, William 
+The Penguin Pocts. 
+Penguin Books: $1.25 
+Hesse, Hermann. Steppenwolf. 
+NY. Holt Rinehard $1.45 pap. 
+Magister Ludi. The Bead Game. A society of intellectual 
+mystics develops a synthesis of all human knowledge and 
+art. The story of the original Castalia. NY. Unger, 
+1964. $2.25 pap. 
+Ungar Pub. Co. 131 E. 23rd St., 
+Saint-Exuspery. 
+Zhe Little Prince. 
+pap. 
+My View of the World. Cambridge Univ. Press 
+Mayrink. Zhe Golem. 
+NY pap. 
+Schrodinger, Erwin. 
+$3.50 
+Snyder, Gary. Zhe Back Country 
+Tolkien, J.R.R. The Hobbitt, and the Ring Cycle. 
+Boston. 
+Houghton & Mifflin. 
+1938. Also /Tobbit. 
+Ballantine pap. 
+67039. 
+.95 
+: 
+Lord of the Rings. 
+3 vols, Felloveship of the Ring, Two 
+Towers, Return of the King. Ace books pap. 
+(A4,5,5) 
+ROSICRUCIAN 
+Rosicrucian. 
+From Rosicrucian Fellowship, Mt. Ecclesia, 
+Oceanside, Calif. 
+The Message of the Stars.. Max Heindel 
+Rosicrucian Cosmo-conception of Mystic Christianity 
+Etheric Vision and What it Reveals 
+SUFI 
+Attar, Farid Ud-Din. The Conference of the Birds. 
+Persian Poem by Mantiq Ut-Tair. 
+Ltd., London. 
+Hafiz. Fifty Poems with Translation. 
+Persian poetry. 
+Ed. by 
+Arberry, Cambridge, University Press 1947, $4.50 
+Meher Baba. 
+The Perfect Master. C. B. Purdom 
+Avatar. 
+Jean Adriel, J. F. Rowny Press, Santa Barbara, CA: 1947 
+The Wayfarers. 
+Dr. Wm. Donkin. 
+WAS) 
+Trans. of the 
+Routledge & Kegon Paul 
+Another thing: when people describe computers they usually 
+start with this block diagram: 
+MEMORY 
+INPUT ———> CONTROL > OUTPUT 
+ARITHMETIC 
+UNIT 
+which is no help at all. 
+The computers I’m familiar with look like this: 
+MEMORY ADDRESSES 
+! 
+MEMORY LOCATIONS 
+Gil setae 
+es ee 
+RE 
+eee 
+| 
+| 
+r} 
+coe nen | 
++ 
+————————————— 
+MEMORY ADDRESS 
+REGISTER 
+MEMORY BUFFER 
+MAJOR STATE 
+ACCUMULATOR 
+GENERATOR 
+[nor 
+The major state generator is actually the controller of the machine. 
+The way it works is as follows: 
+A computer program is placed in sequential core (memory) locations. 
+(e.g.) 
+200 
+START 
+201 
+ADD 1 TO ACCUMULATOR 
+202 
+ADD 1 TO ACCUMULATOR 
+203 
+STOP 
+The major state generator has 3 states (simplified) 
+1. Fetch: 
+an instruction 
+2. Execute: 
+that instruction 
+3. Increment: 
+the program counter. 
+(repeat) 
+The memory address register specifies the location in memory that 
+information is to be taken from or put to. 
+The memory buffer is where stuff—instructions and data—sits after 
+coming out of or before going into memory. 
+The instruction register is where instructions are decoded. 
+The program counter tells where the next instruction is coming from. 
+| include all this because it was such a revelation to me when | discovered 
+how simple it all was. 
+Pete Hiscocks 
+Computer Technology 
+Durham College 
+Ontario, Canada 
+INSTRUCTION REGISTER 
+(ARITHMETIC REGISTER) 
+OUTPUT 
+Allen & Unwin 
+Purdom, C. B. The Perfect Master. 
+The life of Sri Meher Baba. 
+Rice, Cyprian, O.P. The Persian Sufis. Allen & Unwin, 1964 
+Shabistari Mahmud. 
+The Secret Garden. 
+Pasha. Octagon Press. 
+Shah Indres. 
+Tales of the Dervishes. $3.60 cloth. Order from 
+Octagon Press, 3839 Dryden Chambers, 119 Oxford St., 
+London, W.1, England 
+Singh, Jogendra (Trans.). 
+Albemarle St. 
+The Invocations of Sheikh Abdullah Ansari. 
+11th Century Sufi mystic. 
+Nicholson. Rumi, Poet and Mystic. 
+Trans. by Johnson 
+The Persian Mystics. John Murray, 
+Verses by the 
+SWE DENBORG 
+Spalding, John Howard. 
+Thought. 
+An Introduction to Swedenborg’s Religious 
+Swedenborg Publishing Assoc. 
+1966 
+Swedenborg, Emanuel. Swedenborg’s Works. 
+Houghton, Mifflin & Co. 
+Riverside Press, Cambridge, 1967. 
+TAOISM 
+Legge, James C. (Trans.). 
+Dover, NY 
+Merton, Thomas. 
+The Texts of Taoism (in two parts) 
+The Way of Chuang 721. 
+Watson, Burton (Trans.). 
+Wilhelm, Richard. 
+World, Inc., NY 
+New Directions, 1965. NY 
+Col.Univ. Press 
+Harcourt, Brace & 
+Chuang Tzu—Basic Writings. 
+The Secret of the Golden Flower. 
+THEOSOPHY 
+Besant, Annie. 
+Dharina. 
+Adyar Library, Theosophical Pub. House 
+Reincarnation. 
+Theosophical Pub. House Adyar Madras 20, India 
+The 
+Theos. Press: Wheaton 
+$2.00 
+Blavatsky, Madame. 
+Voice of Silence. 
+SOLE SIC E CEOS 
+ILE SOLES 
+LEE SE OLE ECE EIEIO 
+ESSE SIE SCE RIESE IERIE 
+EDUCATION 
+Texts 
+Dibs 
+Search for Scl{; Axline, Virginia 
+Growing up Absurd; Goodman, Paul 
+Compulsory Mis-Education; Goodman, Paul 
+The Comnumily of Scholars; Goodman, Paul 
+Tow Children Fail; Holt, John 
+How Ghlaldren Learn; Holt, John 
+The Authentic Teacher; Moustakas, Clark 
+Summerhill; 
+Neill, AS. 
+I'reedom Not License; Neill, A. S. 
+Teacher; Warner, S. Ashton 
+Spinster; Warner, S. Ashton 
+Experiment at Berkeley; Tussman, Joseph 
+Death at an Early Age; Kozil, Jonathan 
+Report on High Schools; Conant 
+Sheepskin Psychosis; 
+Keats, John 
+Superviston for Beller Schools; Wiles, Kenneth 
+3060 Children; 
+Kohl 
+The Misston of the Universily; Ortega y Gasset 
+New Ways in Sex Education; Baruch, D. W. 
+New Ways in Discipline; Baruch, D. W. 
+One Little Boy; Baruch, D. W. 
+The Vanishing Adolescent; Freidenberg, Edgar 
+Coming of Age in America; Freidenberg, Edgar 
+Dignity of Youth & Other Atavisms; Freidenberg, Edgar 
+The Art of Loving; Fromm, Eric 
+Man for ITimself; Fromm, Eric 
+The Sane Society; Fromm, ERic 
+Between Parent & Child; Ginott, Haim G. 
+The Conspiracy Against Childhood; LeShan, Eda 
+Educating Iluman Beings;Lane, Howard 
+Toward a Psychology of Being; Maslow, Abraham 
+The Schools; Mayer, Martin 
+Creativity and Conformity; Moustakas, Clark 
+On Becoming a Person; 
+Rogers, Carl 
+Person to Person—The Problem of Being Human; 
+Rogers, Carl 
+Summerhill, The Loving World; Snitzer, Herb 
+In Defense of Youth; Kelley, Earl C. 
+The Miseducation of 
+American Teachers; 
+Koerner, James'D 
+The Way it Spozed to Be; Herndon, James 
+cae 
+from: 
+New Schools Exchange 
+$10/ yr (monthly) 
+2940 Hidden Valley Lane 
+Santa Barbara, CA 93193 
+SOE SOE SOE 
+SOO 
+BESSY 
+Liquid wrench 
+Make your own liquid wrench (cheap) 
+Y% cigarette lighter fluid 
+¥%, regular motor oil 
+the more lighter fluid the faster it works 
+Howard Sutherland 
+Berkeley, CA 
+Dept. 
+

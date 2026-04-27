@@ -1,0 +1,170 @@
+Bypassing the 
+Phone 
+Companies 
+by Benn Kobb, KCSCW, and Howard Goldstein 
+Packet radio is a technique for distributing electronic 
+mail and messages to specific terminals using radio 
+channels. Its significance is that it offers computer users 
+complete bypass of the wired telephone network and 
+their high costs. You can therefore communicate long 
+distances, dependably, without technical knowledge, for 
+free. 
+: 
+The basic elements of a packet station are a cheap com- 
+puter, a small radio transceiver, and a “terminal node 
+controller (TNC),” the packet equivalent of amodem. A 
+$200 hand-held radio and a $100 Commodore 64 com- 
+puter work as well as anything. 
+The distance range of packet radio is around eight miles 
+line-of-sight on open terrain, with an antenna up 30 feet 
+and about 10 watts of power. Devices called digital 
+repeaters (digipeaters) can extend the range of any 
+station by retransmitting the packets. There’s a protocol 
+that lets you string up to eight of these digipeater hops 
+together to reach another person. Plus, every TNC 
+including your own is also a potential digipeater (you 
+don’t notice if someone “uses yow”). 
+Many local and regional ham groups operate digi- 
+peaters, collecting dues from their members for upkeep; 
+some are designated “gateways” to local or wide-area 
+networks, or to long-distance paths via satellite or short- 
+wave. 
+Radio amateurs have been quick to grasp the potential 
+of packet, as it offers a much faster and more efficient 
+way to handle messages than anything they had previ- 
+ously. It’s also better suited to an urban environment 
+than shortwave voice communication, the traditional 
+mainstay of amateur traffic distribution. In cities, very 
+little power and antennas that are just inches long are 
+enough to get a packet signal to the next node in the 
+network. 
+The future of packet radio lies in the heavens, on satel- 
+lites. The first to be launched is PACSAT, a joint proj- 
+ect between radio amateur groups AMSAT in Washing- 
+ton, D.C., and VITA, a 25-year-old organization that 
+provides technical assistance to Third World countries. 
+The idea is to set up an orbiting public mailbox. The 
+satellite’s orbit will bring it in view of any point in the 
+world four times a day for several minutes at a time. 
+During each pass it will dump whatever messages it has 
+to packet radio listeners and pick up any new messages 
+and hold them until it can post them. Japanese amateurs 
+are also launching a similar low-orbiting computer 
+mailbox called JAS-1. Both are inexpensive devices 
+built by volunteers and donations. 
+The ground equipment needed to get satellite mail fits 
+into a briefcase — including the antenna. It runs on 
+batteries. The initial cost is estimated at $1000. How- 
+ever, to use packet radio (via digipeaters or satellites), 
+you need to have a ham license, and your messages 
+cannot be for commercial use. 
+Gateway, Stan Horzepa, Editor; $6/25 issues from: 
+The Packet Radio 
+Handbook 
+Jonathan L. Mayo, KR3T 
+1987; 217 pp. 
+$14.95 postpaid from: 
+TAB Books, Inc. 
+Blue Ridge Summit, 
+PA 17294-0550 
+800/233-1128 
+or Whole Earth Access 
+Your Gateway to Packet Radio 
+Stan Horzepa, WA1LOU 
+1987; 239 pp. 
+$10 
+($12.50 postpaid) from: 
+American Radio Relay League 
+225 Main Street 
+Newington, CN 06111 
+203/666-1541 
+or Whole Earth Access 
+Talk about dinosaurs! You still need to pass a 
+Morse Code proficiency test to send radio mes- 
+sages via the amateur radio network. A few radio 
+hackers have a better idea: cheap computers 
+hooked up to their ham gear. Instead of a human 
+radio operator laboriously transmitting a rapid 
+series of dots and dashes into the scattered at- 
+mosphere to be deciphered by a trained human 
+listener far away (if he can hear it), packet radio 
+hams use computers to do all the coding and re- 
+laying. While they are at it, the computers also 
+direct messages to particular areas of the globe 
+depending on the destination address affixed to 
+the message “packet”, thus significantly increasing 
+the range and usefulness of ham radio. With this 
+system, shortwave radio messages (they must 
+carry only personal and non-commercial content) 
+become a sort of free radio mail. 
+The good ole boy network of ham radio fans is 
+being revolutionized by these radio hackers. 
+Here's the two books that will bring you up to 
+speed. Packet Radio Handbook is a good 
+introduction; Your Gateway to Packet Radio 
+gives a thorough grounding in the technical 
+methods. 
+—Kevin Kelly 
+¢ 
+In the simplest case, a packet network consists of a few 
+stations within direct communications range from each 
+other on a single frequency. A more complex network 
+involves digipeating (simplex packet repeaters) to extend 
+a station’s communication range and gateways for 
+accessing stations with different capabilities (such as 
+ARRL, 225 Main Street, Newington, CT 06111 
+To hook into the packet radio network we suggest you 
+read Gateway, a newsletter published by the American 
+Radio Relay League. If a “packeteer” could only get one 
+magazine this is the one, and it’s not overly technical. 
+CompuServe’s HamNet SIG (GO HAMNET). For 
+information on joining, write or call: CompuServe, P.O. 
+Box 20212, Columbus, OH 43220; 800/848-8199 or 
+614/457-0802 
+HamNet has a section and data library devoted to 
+packet, with at least one introductory on-line document 
+PACKETRADIO 
+85 
+As the Computer Age dawned in Amateur Radio, radio hackers had 
+to be very resourceful. Here, a young radio hacker built a wall of 
+aluminum cylinders to contain the RF generated by his TRS-80 
+Model 1 computer. 
+—Your Gateway to Packet Radio 
+those on another frequency or using another modem 
+configuration). This is the stage of networking that pres- 
+ent day amateur packet radio has reached in the 
+United States. 
+—The Packet Radio Handbook 
+Channel 7 Satellite 
+Channel 6 VHF 
+Channel 5 VHF 
+Channel 4 UHF 
+Channel 3 HF 
+A 
+SoS 
+Ses = MID 
+Channel 2 HF 
+RCS 
+SOS 
+LOSS 
+Channel 1 VHF 
+Ground Area 
+A model representing the present day amateur packet radio mult- 
+plexed network. Stations B, D, and O are gateways which allow 
+stations on one layer to communicate on another layer. By spreading 
+the total number of stations over several channels, the congestion on 
+a single channel is reduced. Notice the wide coverage of the satellite 
+channel. 
+—The Packet Radio Handbook 
+on the subject, and an on-line version of Gateway, 
+edited by ARAL, that reports significant, fast-breaking 
+news and announcements every two weeks. 
+Advanced Electronic Applications, Inc., P.O. Box C- 
+2160, Lynwood, WA 98036; 206/775-7373 
+Heath Company, Benton Harbor, Ml 49022; 800/253- 
+0570 
+Kantronics, 1202 E. 23rd Street, Lawrence, KS 66046; 
+913/842-7745 
+Each of these companies sells packet radio equipment. 
+Send for their catalogs. 
+

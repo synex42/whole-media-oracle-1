@@ -1,0 +1,162 @@
+340 
+Yamaha DX-7 
+$2095 
+Information free from: 
+Yamaha International 
+Corporation 
+P. O. Box 6600 
+Buena Park, CA 90622 
+Casio CZ-101 
+$349 
+Information free from: 
+EMP 
+2915 South 160th Street 
+New Berlin, WI 5315] 
+MIDI for Musicians 
+Craig Anderton 
+1986; 105 pp. 
+$14.95 
+($16.45 postpaid) from: 
+Music Sales Corp. 
+Distribution Center 
+P. O. Box 572 
+Chester, NY 10918 
+or Whole Earth Access 
+Computer Music 
+Journal 
+Curtis Roads, Editor 
+S 26/year 
+(4 issues) from: 
+MIT Press Journals Dept. 
+28 Carleton Street 
+Cambridge, MA 02142 
+COMMUNICATIONS 
+ELECTRONIC MUSIC 
+EE 
+Electronic Music 
+There are two clear winners among the many, many elec- 
+tronic musical instruments on the market: Casio’s CZ-101 
+and Yamaha’s DX-7. If your budget allows, buy both. If 
+not, buy the first one, then the other later when you can 
+afford it. | recommend these partly because they are very 
+capable instruments with a wide variety of sound possibil- 
+ities and partly because these are the most widely pur- 
+chased instruments in the market. 
+Each offers customizable sound capabilities. Each lets you 
+play several different sounding noises at the same time 
+(polyphonic). Each has many preset sounds, so you can 
+play right away without having to create your own tones. 
+The differences? The more expensive DX-7 has more but- 
+tons and a bigger, heftier keyboard while the CZ-10] has 
+fewer control buttons and that “‘inexpensive’’ feel. Both 
+create their sounds using the FM synthesis method, yet 
+each has its characteristic albeit subtle color. 
+Both the DX-7 and CZ-101 are tremendously popular. The 
+former has single-handedly deposed the lead guitar from 
+the limelight role in popular music — most serious musi- 
+cians own or have access to a sturdy DX-7. The CZ-101 
+offers FM synthesis for a small fraction of the DX-7’s price 
+and is generally available from mass merchandisers at a 
+discount or on a time-payment basis. If recommending 
+the two most ubiquitous instruments seems to be super- 
+ficial, let me reassure you that the reverse is true. 
+Machines should be as transparent as possible. The 
+machine should allow possibilities, not limit them. The 
+ro re oe and fu 
+ation allows 
+N po 
+in 
+nde 
+a : 
+ina 
+aes = 3 ps 
+Rape 
+al 
+® WEIGHT: 3.2 kg bee Hip 
+INC. oon 
+LUDING nx 
+RY 
+Yamaha DX-7 (inset: Casio C2-101). 
+best computerized machine (and you can’t walk into a 
+music store any longer to play a keyboard unless it is 
+connected to a computer) is that which has the most and 
+the best software written for it. If you want the greatest 
+flexibility, you must choose the machine which hosts the 
+greatest amount of software development — the most 
+popular machine. 
+This monopolist philosophy makes it possible for developers 
+to pour in money fo create software imitations of a grand 
+piano, a bassoon, or the sound of the sea. Both of these 
+keyboards let you pick and choose among the latest 
+sounds of session musicians working in the big studios for 
+the big record labels. Simply put, the DX-7 and CZ-101 
+offer you the widest choices for synthesized music. 
+—Jim Stockford 
+MIDI for Musicians 
+Electronic technology has recently given musicians several 
+powertul tools: synthesizers, sound samplers (devices 
+which store sounds as digital information), sequencers, 
+and editors (devices which store sequences of sounds and 
+give the musician the power to delete or add notes or 
+parts, to play passages at various speeds, to change the 
+order of parts, and to write compositions in step time and 
+then play them back in real time. However, for many 
+years each manufacturer had a different standard. A 
+Yamaha sequencer, for example, might not work properly 
+to sequence a part played on a Roland synthesizer. In 
+order to allow various musical instruments and computers 
+to work with each other regardless of the manufacturer, a 
+standard format was developed called MIDI, Musical 
+Instrument Digital Interface. This is a brand new 
+technology (it’s only been around since 1983). It gives 
+musicians tremendous power to compose and record. This 
+is the book that best explains what MIDI is and does. 
+—Rob Griffin 
+e 
+Due to the rapid rate of technological change, instruments 
+often became obsolete within a few months after their 
+introduction. Eventually keyboard players were almost 
+afraid to buy anything because they felt that a newer, 
+better version would be introduced soon. Although MIDI 
+hasn’t put an end to this problem, it has certainly helped 
+extend the useful life of a piece of equipment by making 
+it compatible with newer devices. 
+Computer Music Journal 
+The international experts cover everything about com- 
+puter music in this quarterly. Upcoming symposiums and 
+scholarly dialogue on the latest systems and techniques. 
+Good reviews of the newest products and publications. 
+Sometimes includes a special soundsheet or flexi-disc with 
+examples of some wonderful music. There is no more 
+authoritative place to get information on the subject. 
+—Tim Ennis 
+| — 
+= eee 
+er 
+ix 
+| 
+hig 
+PAC Lis 
+(15'185") 
+Excerpt from the score of Cogluotobusisletmesi by Clarence Barlow. 
+The robot is designed to track a human singer who sings 
+into a microphone connected to the system. The robot 
+plays the organ along with the human, with tempo regu- 
+lated in part by the vocalist. For pitch analysis, a system 
+of five narrowly tuned bandpass filters is used to derive 
+a fundamental 
+frequency every 
+30 msec. If the 
+singer is out of 
+tune, the organ 
+player can adjust 
+the tuning of the 
+organ for a more 
+euphonious en- 
+semble effect. 
+Ironically, the 
+robot musician 
+cannot hear 
+its own 
+performance. 
+

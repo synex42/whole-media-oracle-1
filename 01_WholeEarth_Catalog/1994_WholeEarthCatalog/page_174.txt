@@ -1,0 +1,184 @@
+NEW GENERATION OF MEDICAL 
+computing systems will serve layfolk as well as 
+doctors. Providing customized health informa- 
+tion without arcane technical knowledge or 
+sophisticated hardware, these new systems will 
+play an important part in our effort to reinvent 
+health care. 
+The self-care movement goes back, of course, at 
+least to the early seventies. But the emergence of the new generation of 
+electronic tools will enable the layperson to do what only the most dedicated 
+and diligent could do before. Recent professional meetings have focused ona 
+new field of medical computing, Consumer Health Informatics (CHI). It now 
+seems clear that CHI systems will support consumers’ desire to play an 
+upgraded role in their own health maintenance and treatment. 
+Recent CHI system demos have included a home health workstation for 
+people with AIDS (the CHESS program), an interactive system that helps men 
+with enlarged prostates decide whether to have surgery (the Dartmouth-Sony 
+decision support videodisks), a psychological spreadsheet for people experi- 
+encing high-stress life events (the Therapeutic Learning Inventory), a personal 
+health information system for home use (Healthdesk), a voicemail-based self- 
+help network (Talknet), consumer-initiated searches of the medical literature, 
+a wide variety of health-oriented BBSs, and increasingly useful and accessible 
+health forums and other information resources on CompuServe, America 
+Online, the Internet, and other computer networks. Also proposed or in 
+development: consumer-provider email/voicemail links, patient interfaces for 
+computerized medical records, diverse online and interactive networks, 
+databases, and other resources. 
+Many recent CHI meetings have been interrupted by stunned silence as we 
+grasped some of the long-term consequences. 
+Certain widely held assumptions must be abandoned: that we can safely ignore 
+our own health until we have a breakdown experience, then count on the 
+doctor to bail us out; that only doctors can know about medicine. We have 
+to provide ourselves, and especially our children, with tools, skills, informa- 
+tion, and support to assume the role of primary practitioner. 
+Our present “map” of health care, developed nearly a century ago, divides 
+health care into three categories: primary (front-line health professionals), 
+secondary (community hospitals and specialists), and tertiary care (academic 
+medical centers). The realm of lay medicine has been overlooked. We have 
+ignored (and often actively rejected) our biggest health resource of all — our 
+ability, as informed layfolk, to prevent or manage our own health problems. 
+CHI systems will help us reconnect 
+self-help and self-care with profes- 
+sional medical care. The health- 
+Forinfonnationon 
+future conferences and 
+publications on consumer 
+health informatics, send a 
+self-addressed, stamped 
+envelope to: 
+CHI Info c/o MailComm 
+Plus, 2729 Exposition 
+Boulevard, Austin, TX 
+78703; 512/472-1296. 
+active consumer, the concerned 
+family member, the neighborhood 
+natural 
+helper, the corporate 
+wellness professional, the self-help- 
+group coordinator, the network 
+sysop, and perhaps other key play- 
+ers 
+— working in cooperation with 
+a new generation of supportive 
+health professionals — will be the 
+| 
+real primary practitioners. 
+—Tom Ferguson, M.D. 
+EROM INDUSTRIAL-AGE MED! CINE TO INFORMATION-AGE HEALTH CARE. 
+A 
+Encouraged 
+Tertiary 
+$ 
+\ 
+Secondary 
+Professional care 
+\ 
+With the support of 
+Primary 
+\ though professional consultation 
+effective CHI systems, 
+\ 
+was needed, clients could success- 
+a person with a health 
+\ 
+8 
+fully manage most aspects of 
+concern should be able 
+2) 
+\ 
+most health problems on their 
+to manage it on the high- 
+self-care 
+\ own. Resolution of legal liability 
+est possible level of this 
+. 
+issues would make health pro- 
+new “map” of the health 
+Discouraged 
+¢ 
+\ 
+fessionals more comfortable 
+care system. 
+with this new role. 
+|. Individual Self-Care. 
+INDUSTRIAL-AGE MEDICINE 
+5. The Health Profes- 
+When people first become 
+\ 
+sional as Partner. Serious 
+aware of a health concern or 
+\ or chronic problems would 
+problem, they first attempt to 
+Encouraged 
+Individual self-care 
+¢ 
+\ require occasional or 
+prevent, diagnose, manage and/ 
+or treat it on their own. In most 
+cases they are able to do so. 
+2. Friends & Family. When in- 
+dividual self-care doesn’t do the 
+trick, people turn to family, friends, 
+and neighbors for advice, informa- 
+tion, and support. Much additional 
+care will be provided at this level 
+as more layfolk are encouraged to 
+see themselves not only as con- 
+Discouraged 
+Professionals as partners 
+Professionals as authorities 
+INFORMATION-AGE HEALTH Care 
+regular contact between 
+patients, families, and 
+health professionals — 
+by some combination 
+of telephone or elec- 
+\ 
+tronic link and/or 
+\ 
+clinic, home, or 
+$ 
+\ 
+hospital visits. 
+6. The Health 
+| 
+Professional as 
+\ Authority. In 
+Friends and family 
+Self-help networks 
+cost 
+\ 
+\ 
+Professionals as facilitators 
+\ 
+sumers of health care, but as key 
+providers. 
+3. Self-help Groups and Net- 
+works. When the help above is 
+not sufficient, people turn to ex- 
+perienced self-helpers, mutual aid 
+networks, and “natural helpers.” 
+Facilitator. Many unnecessary 
+clinical visits occur because con- 
+sumers can’t get information or ad- 
+vice by phone or email. Electronic 
+communication between layfolk 
+4. The Health Professional as 
+and professionals could cut costs 
+emergency situa- 
+tions, when the 
+person needing care is unconscious 
+Or incapacitated, or in cases where 
+the client chooses certain high- 
+tech interventions, layfolk might 
+ask health professionals to make 
+the key medical decisions — at 
+least on a temporary basis. —TF 
+while improving care. Health pro- 
+fessionals would have to put aside 
+their “authority” role and serve as 
+advisors, facilitators, and support- 
+ers of self-provided care. The as- 
+sumption would be that even 
+

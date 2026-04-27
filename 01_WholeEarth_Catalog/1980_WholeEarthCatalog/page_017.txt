@@ -1,0 +1,286 @@
+NEW 
+SCIENTIST 
+v 
+\ 
+its 
+onauts during Gemini and Apollo space fligh 
+\sed by as 
+essentially a perfect vacuum, and so the stuff goes in 
+every direction, and all radially out from the space- 
+craft at relatively high velocity. 
+It’s surprising, and 
+it’s an incredible stream of . 
+. 
+. just a spray of spark- 
+lers almost. 
+It’s really a spectacular sight. At any 
+rate that’s the urine system on Apollo. 
+Now, when you come to Skylab, it’s a little more 
+sophisticated. We tried to get sophisticated before 
+that, but it never really worked. But on Skylab, the 
+problem was that the medical experiments required 
+that we sample all the urine and return all the feces 
+because we were trying to make a total metabolic 
+analysis. We could no longer dump the urine over- 
+board because we had to measure the volume and 
+take samples. What we did was to substitute a fan 
+for the vacuum, and again use basically the same 
+design, that is use a relief tube type of thing, except 
+that the differential pressure was supplied by a fan 
+which would decrease the pressure inside a bladder. 
+You would pool 24 hours worth of urine. Then, 
+after 24 hours, once a day, every morning, you 
+would measure the volume, shake it up, get it nice 
+and homogeneous and then take a 10 ml. sample, seal 
+it up and throw the rest down the trash airlock. 
+Warshall: 
+So each man had his own relief tube? 
+AIR OUTLET PORT 
+(TO FILTER AND 
+BLOWER } 
+AIRFLOW HOLES 
+FECAL BAG 
+HINGED 
+SEAT 
+FECAL COLLECTION 
+RECEPTACLE 
+FECAL COLLECTOR EXPLODED VIEW 
+Schweickart: So each man had his own relief tube 
+and his own collection system, right. On feces, we 
+got very clever. Again we designed a plastic bag, but 
+in this case, one side of the bag — now let me think 
+if | can remember the words there — 
+Warshall: Was it like a stopper or something? 
+Schweickart: 
+Well, one side of the bag had a material 
+on it which would pass gas but not liquid. Oh yeah, 
+a hydrophylic filter. And that bag, which again was 
+something like 12 inches long and say 6 or 8 inches 
+in diameter, got pushed down into a receptacle, and 
+the receptacle was made of screen, and you drewa 
+differential pressure across the bag with a fan so that 
+the air flow was out through one side of the bag and 
+of course sucked cabin air in through the top of the 
+bag. Okay? Now, there was a little seat that folded 
+down over the top of the bag and then you sat on 
+that little seat. Well, sat... you floated. In fact, you 
+strapped yourself to the seat to make a fairly good 
+seal there. Then what happened, as you sealed the 
+open part of the seat with your rear end, there were 
+side vents, circumferential vents, just under the seat, 
+which allowed air to flow in from the side, and all of 
+these little orifices — circumferential orifices — were 
+directed at the exit point of your anus. So the air 
+flow now, if you can picture it when the guy was 
+sitting on it, the air flow would be in around the 
+periphery of the seat, but all directed in little streams, 
+like little jets, and then down through the bag and 
+out the side of the bottom of the bag, see. So what 
+happened then, is you ended up with air flow substi- 
+tuting for gravity. And it would cause the bolus, so- 
+called, to separate from your anus. Then the air flow 
+would carry it down into the major volume of the bag. 
+Warshall: 
+Kind of floating it in air down there. 
+Schweickart: 
+Yeah. You just use air and air flow to 
+substitute for gravity, and that worked very well. 
+Warshall: 
+Really? 
+Schweickart: Surprisingly. And as a result you were 
+able to take care of a defecation with relative ease and 
+Dr. Owen Garriott in ‘‘bed,” lightly strapped into his 
+sleeping bag. Since his exhaled breath has no reason to 
+go anywhere, a fan is required near each sleeper’s face 
+to prevent CO» buildup. 
+a lot shorter time. So the system worked well. But 
+then after you did that, you sort of stuff the bag with 
+wiping paper, seal it, then weigh it to get the mass, the 
+wet mass, and then put it into a vacuum oven to bake, 
+and evacuating all the water. Then you’d stick it in 
+the stack with all the other cow pies and bring them 
+all home for analysis. So all you got rid of was the 
+water. You keep all the solid material. 
+Warshall: So you just kept it in the same bag and... 
+Schweickart: 
+Yeah, you kept it in the same bag, and 
+in fact, the vacuum system, the vacuum drying sys- 
+tem, used the same port through the side of the bag 
+to get rid of the water vapor. 
+Warshall: So then you needed only one for the crew, 
+you didn’t need one for each person? 
+Schweickart: 
+Right; only one toilet to colléct the 
+solids, but each person had his own relief tube 
+for urine. 
+Warshall: That’s incredible. 
+Schweickart: 
+It’s really wild. And you know, people 
+say, ‘‘Why don’t you fly women?”’ Well, Jesus, I’d 
+hate to think about the plumbing. You know, it’s 
+really funny, because a lot of the girls at Purdue asked 
+that, “When are you going to take women in the pro- 
+gram?” and | always throw that one out, the part 
+about the plumbing requirement. We haven’t had the 
+proper plumbing in the past. Well, the fact of the 
+matter is, we’re designing it into shuttle. | don’t 
+know what it looks like, | haven’t looked at any 
+of 
+the detailed design from Washington here, so | don’t 
+know what it looks like, but we are ready for women 
+on this one. 
+Warshall: A lot of people were wondering what 
+happens when you start dumping things into space. 
+Like, what happens to the .. 
+. do you use toilet 
+paper, for instance? 
+Schweickart: 
+Well, the only thing that gets dumped 
+into space is the urine, and that no longer is dumped 
+into space, or at least was not dumped during Skylab, 
+but that was during the early, Mercury, Gemini and 
+Apollo. The fecal matter has always been stored 
+on board. 
+Warshall: Oh, | see. People have visions of fecal 
+matter and urine ruining space. 
+Schweickart: No, no. The only thing that is left 
+floating around out there is principally water which 
+instantly flashes into ice crystals and then subsequently 
+under the influence of solar radiation, sublimates and 
+ends up in a purely gaseous state and my guess is 
+then, | would suspect, I’m not sure the interaction of 
+sunlight on the gases at that altitude, but they either 
+decay down to the lower atmosphere, or they get 
+blown off. I’m not sure which. 
+Warshall: So somewhere out in space is just some sub- 
+limated water crystals floating around. 
+Schweickart: 
+Yeah. 
+Warshall: 
+Well you can see what they were worried 
+about. Some day the sun’s rays... blocked out by .. 
+. 
+Schweickart: 
+It’s all stored aboard, so they don’t have 
+to worry about it. 
+atelerd 
+ee 
+6.68 
+a6 
+© 
+OF6)e!0 
+0 
+0.0 
+6 
+6.0 
+06 
+66.0 
+¢ 
+6/0 
+6 
+7. 
+WHOLE SYSTEMS 
+| 
+SPACE 
+Warshall: 
+Do you use any kind of special toilet paper? 
+Schweickart: 
+No, not that | know of. There may be 
+some flame retardant chemicals put into it just so 
+you don’t have any unnecessary flammable materials 
+around, but I’m not sure whether that’s the case or not. 
+Warshall: So it’s just like any other toilet paper. 
+Schweickart: 
+It’s basically like any other toilet paper. 
+Warshall: 
+Is it stuck in the bag and then burned, or.. 
+.? 
+Schweickart: 
+No, it is in the same bag with the fecal 
+material, and in the early missions that was a plastic 
+bag that you mixed in a disinfectant or actually an 
+anti-gas, oh, what’s the word | want, | guess disin- 
+fectant would be the best word, which holds down 
+the generation of gas, and you mix that disinfectant 
+liquid all through the fecal material. You mix it in, 
+seal the plastic bag. 
+Warshall: How do you get it in there? 
+Schweickart: 
+Well, it’s in a small, like a ketchup, a 
+little plastic container like you find ketchup in in 
+restaurants, in a cafeteria or something, it’s like that. 
+You tear the slit across the top, being careful not to 
+squeeze it so the stuff comes out, and then you drop 
+that into the fecal container, and then seal the fecal 
+container. Then you squeeze it through the, you 
+know, externally, you know, which forces it out of 
+the container, and then you mix it by massaging the 
+fecal bag. It’s really fun when it’s still warm. 
+Warshall: The other thing that I’ve been asked about 
+is how your diet affects everything; what you’re 
+actually eating; how that actually affects, you know, 
+going to the bathroom, and do you do it once a day, 
+since you said it took about an hour when you had... 
+Schweickart: 
+Well, it’s not at all clear how or whether 
+the food really has any effect different from what you 
+experience down here. The food does, I’m sure, have 
+different preservatives and that kind of thing in it in 
+order to be able to take it up there in the first place 
+and be able to store it for long periods of time and 
+that sort of thing. But | don’t think there was any 
+consistent observation, and there’s no way to separate 
+the effect of the weightless environment or other 
+changes, physiological changes that are going on from 
+the effect of the food. 
+Warshall: 
+| mean, the image people have is you’re 
+mostly eating out of kind of toothpaste tubes or the 
+food is being squeezed out, or something like that. 
+Schweickart: That’s a pretty long conversation to 
+try and get into, there are all different types, but the 
+toothpaste-type tube has never been used in space. 
+Well, it was used in early Mercury as a kind of test 
+thing, but we have never in fact had toothpaste types 
+of pastes or anything like it. It’s always been freeze- 
+dried food which you add water to to reconstitute, 
+or what are called thermal-stabilized foods, almost 
+exactly the same thing you would get in canned 
+peaches or pears, that type of foods which you don’t 
+need to add water to, or in the case of Skylab, we 
+also had about 10-15% of frozen foods, including 
+filet mignon, and lobster and roast pork and vanilla 
+ice cream for that matter. 
+Warshall: And you don’t have to worry about that 
+floating out into the space lab? 
+Schweickart: 
+Well, if | could show you the movies, 
+you’d see how we handle it. In some cases, like the 
+filet for example, you cut a piece, and as you’re taking 
+it off of the fork the main piece of the filet may be 
+floating up out of the plate, but you stab it with your 
+fork and put it back down in, and if you do it care- 
+fully, the surface tension of the gravy will keep it 
+in place. 
+= 
+eee rere eee eee eee eee eee eee eee eseeseseeeeses 
+THE RISING SUN 
+NEIGHBORHOOD NEWSLETTER 
+se 
+There isn’t an unknown soldier from Vietnam 
+because they identified them all. 
+SOs 
+David Frost talked to the priest in India who goes 
+around all day feeding people and helping very 
+sick people and Frost asked him what was the 
+worst thing about it and he said the worst thing 
+about it was that it was so boring. 
+POU 
+A 
+GZ RGF 
+Mage 
+Pf 
+4 
+Sie" A 
+IS 
+

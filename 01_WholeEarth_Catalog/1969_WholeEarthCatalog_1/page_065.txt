@@ -1,0 +1,332 @@
+This book started life as an exhibit at the 
+Institute of Contemporary Arts in London 
+een an Event. Certainly it is the best 
+‘collection of computer art yet, the only one 
+not dismissable as engineers kidding them- 
+selves. There’s been talk for years (e.g. The 
+‘New Landscape, 1956) of how art and science 
+r? gonna come together, and indeed 
+‘communications have improved. But there 
+was no direct avenue, no real mutual domain. 
+_ Not until computers got common enough for 
+_/funky hands to lay hold of them to do tricks 
+_ for funky heads. 
+That’s happening now, and 
+_ this book is good evidence. Ahead, deep space. 
+_ Cybernetic Serendipity 
+| 1969; 100 pp; 260 illustrations 
+t | 
+$8.95 postpaid 
+from 
+_ 
+Frederick A. Praeger, Publisher 
+411 Fourth Avenue 
+s 
+_ New York, N. Y. 10003 
+js OF 
+-| WHOLE EARTH CATALOG 
+1 Poem 
+eons deep in the ice 
+! paint all time in a whorl 
+bang the sludge has cracked 
+| 2 Poem 
+eons deep in the ice 
+| see gelled time in a whorl 
+| 
+pffftt the sludge has cracked 
+3 Poem 
+¢ 
+all green in the leaves 
+{ 
+| smell dark pools in the trees 
+he, 
+crash the moon has fled 
+3 Poem 
+> 
+all white in the buds 
+i 
+| flash snow peaks in the spring 
+bang the sun has fogged 
+| (Art, if you want a definition of it, is criminal 
+action. 
+It conforms to no rules. Not even its own. 
+Anyone who experiences a work of art is as guilty 
+as the artist. It is not a question of sharing the 
+guilt. Each one of us gets all of it.) 
+To co-operate or even to orient themselves and to 
+engage their programmes, the mobiles must 
+communicate. They do so in a simple but many- 
+levelled language of light flashes and sounds. You 
+_ may engage in.this discourse if you wish to, though 
+your goals may be alien to the goals of the mobiles; 
+for example, you might be trying to achieve a 
+- configuration that you regard as pleasing. 
+Running cola is Africa 
+Ss 
+the computer and the arts 
+al 
+epeniel ieee 
+2h: 
+A sustained image of the visual world around us is 
+maintained by the brain's continual coordination of 
+a great flux of varying sensory input. Much of this 
+co-ordination is achieved by the series of voluntary 
+and involuntary eyemovements which serve to scan 
+the image of the pattern across the retina. When 
+these eyemovements are eliminated 
+or controlled,a 
+remarkable collapse of the perceptual process 
+occurs in which visual patterns disintegrate—but in 
+non-random fashion, and according to ‘rules’ which 
+appear to be common to all humans, The device, 
+which we have called the CY BERNETIC 
+INTROSPECTIVE PATTERN—CLASSIFIER— 
+because that is as good a description as any—is not 
+really the exhibit itself: 
+it is by means of this 
+device that the human brain can be turned into its 
+own exhibit. People looking into the CIPC will be 
+given a brief, bright flash of a pattern which plants 
+an image on the retina in such a way that it can be 
+seen, with eyes closed, for one or two minutes. 
+Since the image is fixed on the retina, eyemovements 
+are irrelevant, and the perceptual system collapses 
+as described above. The pattern can be seen to 
+. 
+fragment and change its form, and these forms are 
+probably the basic perceptual units used by the 
+brain in recognising the pattern. This exhibit 
+therefore allows people to watch their own cerebral 
+processes actually in action. 
+a 
+Inputs 
+By 
+peta 
+ele 
+Vee 
+tgs 
+lye 
+ke 
+A Model of the Brain 
+; 
+Inside every brain thare is a model of the 
+world. How.does all the elaborate wiring 
+help us, or any other creature, make our 
+es Lei 
+model of the world? A noted British 
+ey 
+re tee 
+anatomist, J. Z. (Jay Zed) Young has spent 
+xt 
+many 
+pleasant summers in Naples studying 
+by 
+the behavior of octapuses, and has also done “posticn 
+a great deal of work on the anatomy of their 
+Sate 
+Reunics 
+nervous system. The result is a fascinating 
+picture of how to teach octopuses to do 
+things, and some interesting—though not yet 
+Maximum 
+very deep—speculation on how cybernetics 
+Meath 
+might help us to relate brain structure to 
+}, 
+external behavior. Especially interesting are 
+Or 
+ody 
+the many hypotheses about the building of — 
+Snavators 
+‘= 
+networks which can learn. At this early stage 
+“Information 
+all such models are wrong, but we learn from 
+Anite 
+our mistakes. One approach to all this is 
+ema 
+mental introspection. Here, on the other 
+anplicide) 
+hand, we learn what we can learn about 
+learning by literally introspecting: looking 
+inside the head of an octopus to see what 
+networks there could possibly change as the 
+animal learns. 
+Fic. 107. Signal flow diagram of experimental automatic pattern-recognition 
+apparatus. 
+The inputs to the nine detail filter terminals are supplied by photoelectric 
+multipliers arranged in a 33 matrix. Patterns are centred automatically by 
+combining outputs of the detail filter to form position controls. The filtered 
+inputs are then connected to eight ‘Aq units’, one of these will show a maximum 
+amplitude for each pattern (Fig. 108) and this is selected by the first maximum 
+amplitude filter. The outputs of these supply eight pulse generators and these in 
+turn sixteen capacitor storage units. 
+During the teaching process the switches S, and S, are closed manually or by 
+means of some artificial external classification system. After learning the switches 
+are closed by clectromagnets supplied by the outputs of maximum amplitude 
+ligt 
+Cosas 
+Ba 
+eee 
+filter 2. In both cases the closed switch applied the voltage V to one of the output 
+WWVAHUNARAAURTH 
+GRD ON 
+terminals O, or Oz, The same voltage is 
+also connected to an input of the informa- 
+[Reviewed by Michael Arbib. 
+Suggested by David Evans.] 
+SEE ME TRUE 
+1 5 
+tion-storage unit. (After Taylor, 1959.) 
+6 
+3) 
+\ 
+OM) 
+Jaye 
++o 
+/ 
+\ 
+, 
+> 
+- r 
+tht ‘ 
+Wh 
+Every organism, in order to survive, takes actions 
+“\e@ 
+y 
+agent 12, 
+ABw/ ay, Ore 
+that are appropriate to the surrounding conditions. 
+=F 
+fe 8 
+It does this because it contains in its nuclei a 
+ole 
+controlling system that adequately represents the 
+5 
+environment. The surroundings change and this 
+sy 
+ra 
+, 
+r 
+representation is continually brought up to date. 
+7 
+abate 
+f an 
+We may define the information that flows into the 
+poets Ceo: His 
+organism as the feature of any change within that 
+ie 
+(ow Co) 
+Ci 
+| 
+serves to increase the correspondence between the 
+Wee 
+stots Ts Is 
+(> 63 
+5 
+0 
+‘ 
+sis 
+a9 
+jit 
+ji 
+I 
+I 
+i 
+I 
+u 
+FAD AVA ING 
+Leto 
+ASA 
+AV AN SAC REAL VANS 
+#40, 48. Scheme 
+of the structure of 
+the primate retina as revealed by the Golgi 
+staining method. Light enters from the bottom of this dagen. 
+organism and the environment it represents. This 
+correspondence is achieved by selection of certain 
+among the possible states of the system, states that 
+have been set by its previous history. 
+ares 
+1, pigment layer; 2a, uter zone of rod and cone 
+cone layer; 3, outer li 
+membrane; 44, 6, 
+(er nuclear layer; sub, ¢ 
+middle, and inner 
+aver; 6, inner nuclear layer with its four zones; 
+yanglion cells; y, layer of optic nerve fibres; 
+i 
+fF, horizontal cells; dye, f. hy 
+cells; w, ‘radial fibres’ 
+‘The layers and zor 
+layer; 
+26, ine 
+A Model of the Brain 
+Eee 
+peer 
+J.Z. Young 
+Z 
+Ses 
+1964; 348 pp. 
+$8, 50 postpaid 
+from 
+Oxford University Press 
+16-00 Pollitt Drive 
+Fair Lawn, N. J. 07140 
+or 
+WHOLE EARTH CATALOG 
+Fc. 42. Cajal’s theory of the significance of the optic chiasma of verte- 
+Drates, If there were no crossing then the ‘panoramic field’ represented 
+by the arrow would be divided, as shown in a. ‘The complete chiasma 
+enables its parts to be brought together across the tectum, as shown in 
+b.‘Vhis then entails the further crossings of the motor and skin receptor 
+systems shown below. (From Cajal.) 
+y 
+© and 1, secondary visual centres; G, spinal ganglion and sensory 
+s 
+j 
+7 
+roots; M, crossed pathway of motor cells; 0, optic nerves crossed; kt, 
+(a) 
+Spr 
+Sins 
+eee 
+motor roots of the spinal cord; s, sensory central crossed pathway. 
+\ 
+oo 
+iL 2 
+First we may compare the genetic method of 
+obtaining an adequate representation of the 
+environment with the method provided by 
+‘adaptational’ changes and learning in the nervous 
+system. 
+Both systems operate by selection from a 
+code. Indeed, it is basically the same DNA code in 
+the two cases. However, in neural learning, as we 
+have seen, the symbols among which selection is 
+made may be more complex products of the genetic 
+code, such as the dendritic trees of the neurons. The 
+important difference between the two methods of 
+acquiring information seems to be that a random 
+selective element enters into one, but the nervous 
+system functions with rapid and precise feed-backs. 
+These are themselves designed by the hereditary 
+instructions to provide precise information about 
+the results of each action, whether it is good or bad 
+for the organism, whether it yields pleasure or pain. 
+This presumably means that the nervous system can 
+make representations of the environment much faster 
+than can the genetic system. Yet the nervous system 
+has the limitations that we have considered, it needs 
+repair and cannot proceed indefinitely alone. We 
+have, therefore, to discover how the homeostat is 
+adjusted to ensure that both methods are used, with 
+an effective timing. 
+It is clear enough that the two methods must stand 
+in some reciprocal relationship. The better the 
+means of repair, adaptation, and learning, the less 
+often will it be necessary to undertake a basic 
+revision of the instructions of the homeostat. And 
+indeed, it seems to be a rough general rule that 
+types of organism that learn better live longer. 
+

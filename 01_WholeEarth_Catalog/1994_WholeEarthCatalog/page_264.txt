@@ -1,0 +1,268 @@
+oy Et a 
+Communications 
+From: Cliff Figallo 
+Subject: Getting Started 
+Tens of millions of people now 
+use computer-mediated telecom- 
+munications as routine parts of 
+their professional and private 
+lives. They correspond, find and 
+distribute information, work 
+collaboratively, and engage in 
+social activities from home, 
+office or more remote locations. 
+Today’s ballooning population 
+of computer telecom users is still 
+the vanguard of what may some- 
+day be a worldwide information 
+distribution and communications 
+network, as globally accessible 
+to as many people as the tele- 
+phone is now — ormore|so!) 
+= 
+The Online User’s 
+Encyclopedia * Modem USA 
+The Encyclopedia blows away the fog 
+surrounding telecommunications, sub- 
+ject by subject modems, computer se- 
+cunty, civic and community networking, 
+global networks, the Intemet, using bul- 
+letin boards, electronic mail, finding 
+people, mailing lists, file transfer, online 
+libraries, USENET, Talk, IRC, MUDs, 
+Z39.50, WAIS, Worldwide Web, Go- 
+pher, TCO/IP, connecting a BBS to the 
+Intemet, UUCP, BITNET, FidoNet, Point 
+software, PCBoard networks, message 
+readers, saving money on your phone 
+bill, file transfers, file conversion, com- 
+pression primer, KI 2Net, electronic 
+home-control, and memories and 
+visions of the future from pioneers of 
+the network world. 
+The strongest chapters reflect the 
+author's experience setting up BBSs and 
+interconnecting disparate systems, and 
+his familianty with all the software devel- 
+opments in the word of the Internet 
+and dial-up BBSs. —Steve Cisler 
+Once your system is assembled and 
+working, you're ready to tap into the 
+ocean of resources available via mo- 
+dems and phone lines. These include 
+the major commercial online systems 
+— CompuServe, America Online, 
+Prodigy, Genie — but are far from 
+limited to them. Many smaller sys- 
+tems can be used for free or at low 
+cost, and address almost every sub- 
+ject imaginable; new ones appear 
+constantly. And then there's the 
+Internet (see pp. 264-268). 
+The second edition of Modem USA 
+categorizes its recommended systems 
+according to the recommendations of 
+its first edition’s readers. Listings under 
+each category are then ordered by 
+location, giving most listings a short 
+and helpful description. —CF 
+e 
+Community computing systems differ from 
+traditional bulletin boards in several ways. 
+They are typically designed around the 
+metaphor of a city, rather than the con- 
+AS 
+260 GETTING STARTED IN TELECOMMUNICATIONS 
+>i 
+il 
+e MAIL. Reader 
+Modems Made Easy * Telecommunications 
+Both books do a good job of familiariz- 
+ing you with modems, telecommunica- 
+tions software, the process of logging in 
+and using online systems, and the se- 
+lection of modems, software and sys- 
+tems. Modems Made Easy favors soft- 
+ware and instructions aimed at the 
+IBM PC/clone user, Telecommunica- 
+tions is specific to the Mac. Both take 
+you to a higher level of technical profi- 
+ciency than most regular online users 
+currently possess. The configuration 
+possibilities for communicating with the 
+diverse systems and modems on the 
+Net can be quite complex. Likewise, 
+modem telecommunications software 
+can be so packed with features that 
+the choices can be daunting. These 
+books will help. —CF 
+e 
+When you press the Enter key to send the 
+dialing command and phone number to 
+your modem, the modem will take the 
+phone line off-hook (just as you take the 
+phone off the hook when you lift the hand- 
+set), wait for a dial tone, dial the phone 
+number, and wait for another modem to 
+answer. The amount of time the modem 
+waits for an answer is determined by the 
+modems S7 status register (see Chapter 6). 
+You will hear the following through the 
+ventional BBS division into message and 
+file areas. This allows areas of the system 
+to be devoted to local governments, K12 
+programs, small businesses, community 
+activities, and entertainment. Community 
+systems also offer access to such resources 
+as databases or online libraries, and support 
+public access terminals — in public librar- 
+ies, cafes, schools, even post offices. The 
+diversity of uses and access points en- 
+courages public participation. 
+e 
+US Environmental Protection Agency 
+Office of Solid Waste & Emergency Response 
+Technology Innovation Office 
+The CleanUp Information BBS 
+Silver Spring, MD 
+301 589 83 66 (1200-9600 bos) 
+The “CLU-IN” BBS is for hazardous waste 
+professionals and others to use for finding 
+current events information about innova- 
+tive technologies, consulting with one an- 
+other online, and accessing databases. 
+—Modem USA 
+The Online User’s Encyclopedia 
+Bernard Aboba. 1993; 832 pp. 
+ISBN 0-201-62214-9 
+$34.95 ($39.95 postpaid). Addison-Wesley 
+Publishing Co./Order Dept., | Jacob Way, 
+Reading, MA 01867; 800/447-2226 
+Modem USA 
+Lynne Motley. 1994; 401 pp. 
+ISBN 0-9631233-6-X 
+$24.95 ($28.95 postpaid). Allium Press, PO 
+Box 5752-55, Takoma Park, MD 20913-5752 
+modem’s speaker (if you turned the 
+speaker on with the AT Mg command): 
+* A click as the modem takes the line off-hook. 
++ A dial tone, just like the one you hear 
+when you lift the handset of a telephone. 
+* Very rapid tones (as from a touch-tone) 
+phone or pulse/rotary clicks as the number 
+is dialed. 
+* One or more rings as the call goes 
+through and the modem waits for some- 
+thing to answer. 
+* Another click as the modem on the other 
+end answers. 
++ High-pitched squeals as the two modems 
+begin their handshaking routine, adjusting 
+to each other's speeds and the line condi- 
+tions, establishing communication proto- 
+cols, and so on. —Modems Made Easy 
+Modems Made Easy 
+David Hakala. 1993; 324 pp. 
+ISBN 0-07-88 1962-8 
+$16.95 ($20.95 postpaid). McGraw-Hill Pub- 
+lishing Co., 13311 Monterey Avenue, Blue 
+Ridge Summit, PA 17214; 800/722-4726 
+3 AOow ew 
+300 Baud 
+450 Baud 
+1,200 Baud 
+2,400 Baud 
+4,800 Baud 
+Parity: 
+9,600 Baud 
+Databits: 
+19,200 Baud 
+2 
+38,400 Baud 
+Stopbits: 
+57,600 Baud 
+Duplex: 
+a 
+e 
+The illustration above shows the pulled- 
+down menu from White Knight’s baud rate 
+(data rate) setting. No, you won't find very 
+many 57,600 modems in computer stores, 
+but you will find 14,400 modems that 
+promise effective speeds of 57,600 when 
+they're able to perform 4:1 compression 
+on the data (4 X 14,400 = 57,600). 
+—Telecommunications 
+conn: 
+fp wae 
+xi 
+Telecommunications 
+Stephen Taylor. MIS Press, 
+1992; 375 pp. ISBN 1-55828-209-2 
+$19.95 ($22.95 postpaid). Henry Holt and 
+Co., PO Box 30135, Salt Lake City, UT 
+84130; 800/488-5233 
+Basic Telecom Toolkit 
+The telephone jack is the universally acces- 
+sible entry point to public electronic net- 
+works. To make this connection, you will 
+need a personal computer, telecommuni- 
+cations software, and a modem. 
+Good used computers can be bought 
+cheap, and will serve for 95 percent of 
+what you'll find of use on the Net. In the 
+Macintosh world, the Classic is powerful 
+and modern enough to meet your basic 
+needs. In the IBM PC/clone (DOS/Win- 
+dows) world, a 386-generation computer 
+will give you all the capabilities you need. 
+Get at least 40 megabytes of 
+hard disk. 
+Modems translate between digital (the 
+computer) and analog (the 
+telephone). Modems al- 
+low you to dial out and 
+¥ 
+communicate with com- 
+! 
+mercial online systems 
+: 
+and BBSs; they also al- 5 
+telephone pole 
+Phone 
+teeee 
+ns 
+le 
+eo 
+Nor, 
+weamal 
+computer 
+Nf with telecom 
+low others (or you) to dial ii 
+computer from other locations. 
+|hrough 
+modems at either end, you can remotely 
+control and use one computer from an- 
+other computer, this can be a handy 
+way to telecommute to the office. 
+All communications software programs al- 
+low you to specify how you want them to 
+work and with whom you want to connect. 
+Basic programs are available for free or as 
+inexpensive “shareware” through the net- 
+works themselves. Telecom software is 
+computer-specific: Macintosh software will 
+not run on DOS/Windows computers, 
+and vice versa, —CF 
+BBS operator 
+(a.k.a. SysOp) 
+iconnections 
+to other 
+88Ss 
+connections 
+to other 
+users 
+You need a computer (an inexpensive one will do), a modem, a telephone line, telecommunica- 
+tions software, and the telephone number of a BBS or computer network service. Then you will 
+need an “account,” free or paid, on the service. 
+

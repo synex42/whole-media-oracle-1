@@ -1,0 +1,169 @@
+SELF-ORGANIZING SYSTEMS 
+The Blind 
+Watchmaker 
+Richard Dawkins 
+1986; 332 pp. 
+$7.95 postpaid 
+(order #3448) from: 
+W.W. Norton 
+500 5th Avenue 
+New York, NY 10110 
+212/345-5500 
+or Whole Earth Access 
+The Blind Watchmaker software program is available for 
+$10.95 postpaid with a coupon from the paperback’s 
+appendix, which also constitutes the program’s manual. 
+It requires a Fat Macintosh or larger to run. 
+The Holy Grail of desktop engineering is Richard 
+Dawkins’s (author of The Selfish Gene and The 
+Extended Phenotype) addictive software pro- 
+gram, “The Blind Watchmaker.” This Macintosh 
+program breeds creatures by asexual genesis. It 
+produces offspring with slight to severe changes 
+from the original. You select which of those 
+offspring you prefer, and let it breed again. In a 
+couple of generations you have a critter you could 
+have never imagined. The mutation rate can be 
+adjusted, as well as 15 other genes which control 
+the image, such as height, scale, segmentation, 
+and branching. Echoing nature, the genes can be 
+The Recursive Universe 
+William Poundstone 
+1985; 252 pp. 
+$7.95 
+($8.95 postpaid; California, 
+New Jersey, and New York 
+residents must pay sales tax.) 
+from: 
+William Morrow and Co. 
+105 Madison Avenue 
+New York, NY 10016 
+800/843-9389 
+or Whole Earth Access 
+Life 
+Public Domain; Macintosh. $3 from: Berkeley Macintosh 
+User Group (BMUG),1442A Walnut St., #62, Berkeley, 
+CA 94709; 415/849-9114 
+Public Domain; IBM PC. $8 from: Software Copying 
+Company, 33 Gold Street, #13, New York, NY,10038 
+Scaling Factor 
+2 or 1-Sided 
+Increasing Gradient 
+set with gradients, or turned off and on by 
+other genes. 
+Number of Segments 
+2X 
+Horizontal Extent 
+Vertical Extent v. 
+7 
+Mutation Size 
+You can start with a tiny stick and begin 
+breeding that, or as Dawkins put it, “you 
+can put the program on genetic drift, and 
+when you see a nice one, you can go for 
+a little breed.” Human intervention is 
+allowed by genetic-engineering mode; 
+you alter the image on the screen by 
+manipulating it with an icon of a hypoder- 
+mic needle. Genealogy of your work is 
+easy to look up. You can draw out the 
+pedigree from the fossil record in chart 
+form. 
+Number of Branches 
+Distance Between Segments 
+Up-Down & Radial Symmetry 
+Dawkins calls his creatures biomorphs, 
+and their domain Biomorph Land. Buried 
+deep in a remote corner of the Land, 
+Dawkins discovered a tiny jewel figure, an 
+image of the Holy Grail. Its genetic 
+formula is “lost.” Dawkins has offered a 
+prize of $1,000 to the first person who can 
+dictate the biomorph gene code that will 
+exactly match the bit-map picture of the 
+Holy Grail. Entries for the Holy Grail 
+search should be sent to W.W. Norton at the 
+above address. 
+None of the forms found in Richard Dawkins’s albums were preconceived. 
+Among his trophies is this page: a collection of animals vaguely resembling 
+— Kevin Kelly 
+those of the Echinoderm phylum (sea urchins, etc.) 
+You are God in the game of Life, a computer 
+game. And you create all in it. You design not only 
+the creatures, but the rules of their universe. Let 
+the cells live (a black dot) or die (emptiness) in 
+each generation. And then there is time, a thou- 
+sand generations a minute. Let there be graphic 
+patterns of your cells’ growth, as they pulse in 
+expansion, flicker into extinction. Their destiny is 
+fixed by the original premises that you, God, 
+choose. Mathematically there is no way to tell 
+where the system is going until you try it. That you 
+can TRY it is heavenly. 
+Invented in 1970 by mathematician John Conway, 
+Life is no longer played as a mere game. Run on 
+large mainframe computers, this game, and others 
+like it, have proved to be a fertile field of scientific 
+research, the first hands-on cybernetics laboratory. 
+(The discipline is called Cellular Automata.) Some 
+of the curious results and startling implications of 
+running these simple worlds are clearly presented 
+in The Recursive Uni- 
+verse. To be a part-time 
+“An Eater (Kats_a (Glider) 
+Oi 
+i 
+God yourself, you need 
+Attack! Positions: 
+2 
+er____Pre:beehive.—- 
+Li 
+only a home version of 
+Life, which is available in 
+the public domain for IBM 
+and Macintosh computers. 
+— Kevin Kelly 
+[Left] The gliders is one of the 
+commonest LIFE objects. 
+When a LIFE screen starts 
+with a random pattern of on 
+and off pixels, gliders form 
+naturally out of the chaos. 
+Yet Conway did not “put” the 
+gliders into LIFE. The designers of ordinary video games 
+have to sit down, draw the graphics, figure out how to 
+animate them, and write it all up as a complicated 
+program. LIFE’s program is simple and seems to say 
+nothing about gliders (or blinkers, blocks, beehives...). 
+Everything you see, no matter how unexpected, is the 
+inevitable consequence of Conway’s rules. 
+¢ 
+When LIFE was first introduced, three of the biggest 
+questions LIFE players wondered about were these: Is 
+there any general way of telling what a pattern will do? 
+Can any pattern grow without limit (so the number of live 
+cells keeps getting bigger and bigger)? Do all patterns 
+eventually settle down into a stable object or group of 
+objects? 
+o 
+[Right] One kind of 
+pattern does not even 
+have itself for a 
+predecessor. It is an 
+unstable pattern with no 
+predecessors. The only 
+way it can possibly turn 
+up on the LIFE screen is 
+for someone to use it as 
+a Starting configuration. 
+The name for such a 
+configuration is a 
+“Garden-of-Eden” 
+pattern... This is a 
+pattern with no past. It 
+can never appear in 
+LIFE except in the initial 
+state. 
+(Patten ice 
+Se 
+

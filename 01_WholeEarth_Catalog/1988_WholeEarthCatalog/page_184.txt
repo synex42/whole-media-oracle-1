@@ -1,0 +1,134 @@
+180 
+THE MEDIA LAB 
+The Media Lab 
+(Inventing the Future at MIT) 
+Stewart Brand 
+1987; 285 pp. 
+$10 
+($12 postpaid) from: 
+Viking Penguin Books, Inc. 
+299 Murray Hill Parkway 
+E. Rutherford, NJ 07073 
+800/631-3577 
+or Whole Earth Access 
+As we speak, the once-separate galaxies of com- 
+puters, publishing, and broadcasting are melding 
+into each other with a great deal of muttering, 
+armwaving, and hustling of new hardware. At the 
+confluence is MIT’s radical technology department, 
+the Media Lab, which is betting multimillions that it 
+can steer the collision into a cohesive whole: per- 
+haps a mega-combo of telephone/video/audio/ 
+simulation/newspaper that is uniquely tailored to 
+each individual. The goal, as the Media Lab sees 
+it, is to let the audience take over. At stake is the 
+major source of wealth in the future — entertain- 
+ment/news. 
+Sounds like an exciting place to visit. Trouble is, 
+the Media Lab’s work is spread vexingly thin since 
+its range is so wide. When | was there | came 
+away with unfocussed glimmers of vague, half- 
+understood somethings. Stewart Brand, founder of 
+the Whole Earth Catalog, spent a year hanging 
+out there, writing the ultimate tour of the Lab that 
+everyone would like, but can never get. As you 
+might expect from Stewart, there is a meta-level to 
+the book: the media laboratory that our world has 
+become. He envisions supremely individualized 
+connections with appliances that would “know the 
+user so intimately that the dialogue between ma- 
+chine and human would bring about ideas unrealiz- 
+able by either partner alone.” Stewart's astute and 
+rigorously researched insights are the only aerial 
+view of this uncertain landscape so far. | view this 
+book as philosophical documentation for the practi- 
+cal examples paraded in Signal. 
+— Kevin Kelly 
+¢ 
+Students and professors at the Media Laboratory write 
+papers and books and publish them, but the byword of 
+this grove of academe is not “Publish or Perish.” In Lab 
+parlance it’s “Demo or Die” — make the case for your 
+idea with an unfaked performance of it working at least 
+once, or let somebody else at the equipment. 
+¢ 
+Want to know where the action in a culture is? Watch 
+where new language is turning up and where lawyers 
+collect, usually in that sequence. 
+o 
+Me: “Do you have a standard timeline for when machine 
+intelligence catches up with human intelligence and goes 
+rolling past?” 
+Minsky: “Yeah. Between 100 and 300 years. Intelligent 
+evolution is unprecedented. Nobody’s ever seen one. So 
+in a few hundred years it could do trillions of years of 
+ordinary slow evolution.” 
+Me: “And make enormous mistakes.” 
+The original “Talking Head,” circa 1979, had gimbals to replicate 
+head movement. It would enable five people, in widely separated 
+locations, to meet around a highly intimate “virtual” conference table. 
+At each of the five locations there would be one real person and four 
+video faces representing real people, glancing at each other, nodding 
+or shaking their head, able to converse with a high degree of nuance. 
+The first creatures created for the Vivarium were 
+radio- and computer-controlled blimps that pre- 
+tended to be fish, swimming around in the Media 
+Lab’s atrium. The blimps had rudimentary sensors 
+that helped them orient in relation to walls, each 
+other, and “food” (electricity). With the help of some 
+blue light a classroom was spectacularly trans- 
+formed into an ocean where child and “fish” become 
+collaborators in a shared experiment. 
+Minsky: “That's the trouble. There’s no time to iron out 
+the bugs. It might fill up the universe with styrofoam or 
+something because it had some wrong theory about how 
+the cosmos needs a shock absorber.” Suddenly | saw a 
+Vivarium as a swell place to work out some of these 
+problems, rather than in the world. 
+® 
+If, as alleged, the only real freedom of the press is to 
+own one, the fullest realization of the First Amendment is 
+being accomplished by technology, not politics. 
+5 
+While computers probe and imitate the “society of mind,” 
+they are also shaping the mind of society. Computers 
+and communications have already blended so far that 
+they are one activity, still without a verb to express what 
+it does. We don’t even have a word for nervous activity 
+in the body — it's not “thinking,” “sensing,” or “talking.” 
+All the chemical and energy activities in a body (or a 
+society) have a word for their sum action — “metabo- 
+lism” — but there is no equivalent word for the sum of 
+communi-cations in a system. The lack of a word signals 
+a deeper ignorance. We don't know what consti- 
+tutes healthy communications. 
+4 
+When | mentioned to Jerome Wiesner that | was 
+shifting my work environment from one kind of 
+personal computer to another, he commiser- 
+ated, “I think that nobody should have to learn a 
+new machine after the age of twenty-seven.” It’s 
+not just what you have to learn, it’s what you 
+have to teach the machine. More powerful 
+machines require more teaching. That's some- 
+thing the Media Lab would like to reverse: more 
+powerful machines should be able to learn from 
+you on their own. 
+The counter-intuitive use of blurring, called anti-aliasing or 
+Fuzzy Fonts, makes text more readable on computer 
+screens. The technique was pioneered in 1972 at the 
+Architecture Machine 
+Group (a predecessor 
+of the Media Lab) but 
+ignored by industry 
+until 1987. You lose 
+sharpness by intro- 
+ducing shades of grey 
+instead of sticking 
+with strict black & 
+white, but you gain 
+resolution, It is 
+dramatically less tiring 
+to read Fuzzy Font 
+text. 
+

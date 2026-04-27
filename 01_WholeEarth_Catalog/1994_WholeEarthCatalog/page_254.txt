@@ -1,0 +1,212 @@
+250 
+Communications 
+|B) ) \@ ge) -NG) 
+b} [e) 
+% 
+produce radio for a living, and 
+a part of that gig that spills over 
+into after-hours 
+creative 
+projects is an edit-intensive 
+sound sculpture/collage technique | 
+call Kaleidophonics. For example, | 
+gathered together eight different re- 
+corded performances of the R&B 
+song “Hard to Handle,” sliced them 
+into chunks varying in length from a 
+beat to a chorus or two, then glued 
+them together into a highly amusing 
+and illuminating composite. 
+This art form made a huge leap with 
+the advent of desktop digital audio. 
+Butt-splices and quick crossfades are 
+the hammer and ripsaw of audio ed- 
+iting; hard-disk audio gives you amaz- 
+ingly fine-grain control of everything, 
+fulfilling the promise of the “personal 
+computer” handsomely by eliminat- 
+ing huge amounts of tedium, greatly 
+improving control of the result, and 
+vastly expanding the creative possi- 
+bilities. 
+One of the great benefits of this 
+technology is random access. You 
+can put your entire production up in 
+the window and spot check it, listen- 
+ing to every transition one more time 
+before you print to DAT. Level ad- 
+justments, tweaking fades, all that 
+stuff — without having to listen to it 
+all the way through every time and 
+without waiting for tape to shuttle 
+back and forth. It’s made me more 
+productive and more creative and 
+has made the product much, much 
+more consistent. 
+And you can fix small errors very 
+easily. Ina recent production session 
+in which the announcer had misread 
+a piece of information, we did not 
+have to rerecord the whole segment: 
+instead, we found the correct phrase 
+elsewhere 
+in the voice-over and 
+pasted it in. Took less than a minute. 
+The old way: 
+If you’re analog, you prepare the 
+elements of the program ahead of 
+time and then lay them painstakingly 
+into one or more tracks ofa half-inch 
+eight-track running at | Sips with dbx 
+Type | noise reduction (if you have a 
+music segment longer than half an 
+hour, you run the master reel at 7.5 
+ips). You do as much pre-production 
+as you can in order to keep the 
+mixdown as simple as possible. Care- 
+ful planning minimizes the opportu- 
+nity to blow it. After each piece is laid 
+into the master you go back and 
+listen to it to make sure it’s where it 
+belongs in time, and if you missed it by 
+a noticeable interval you ask yourself 
+if it’s bad enough to re-do. Is it off by 
+enough to warrant spending half an 
+hour redoing it? 
+, 
+And then you mix 
+it 
+File 
+Edit 
+EDL 
+Play 
+Mark 
+View 
+Desk 
+DSP 
+Windows 
+David 
+Gans 
+in 
+his 
+home 
+studio. 
+making sure you make those 
+crossfades smooth and the punch- 
+outs timely. If you mess it up, you 
+start over. 
+With Sonic Solutions, you can design 
+crossfades up to a hundred seconds 
+long, controlling the length and shape 
+of either side independently or with 
+perfect symmetry, depending on 
+whether you’re looking for some- 
+thing imperceptible or “morphing” 
+one sound into something different 
+for musical, dramatic or comedic ef- 
+fect. In my business, editing live con- 
+cert performances that sometimes 
+come from imperfect source tapes, 
+digital audio means | can experiment 
+with various ways to cover an edit 
+rather than choosing just one of 
+many promising pairs of edit points, 
+as it was in the quarter-inch days, and 
+hoping for the best. If you got that 
+edit wrong enough you had to go 
+back and make a new dub of the — 
+Jesus, you didn’t cut the master, did 
+you? 
+Because this editing system never 
+touches the sound file — you work 
+on an Edit Decision List (EDL) that 
+shows a picture of 
+the audio signal on 
+each channel of each sound file — 
+you can try as many different edits as 
+you want (have time for) and audition 
+them side-by-side, and you can back 
+away from unsuccessful experiments 
+with the “undo edit” command. You 
+can dump all your versions onto a 
+DAT (or play them into new sound 
+files) and then edit the best parts 
+together into a perfect composite. 
+The pictorial representation of the 
+audio program can be viewed and 
+manipulated down to the individual 
+sound wave and cut into meaningful 
+segments that can be selected, cop- 
+ied, pasted and deleted, Macintosh 
+style. You arrange these pictures in 
+horizontal windows, up to several 
+dozen separate audio tracks directed 
+to two or more virtual mixer chan- 
+nels. If you want to, you can MIDI- 
+connect to “real” faders and/or con- 
+trol the mix with an automated 
+virtual console program. 
+The learning curve is steep but the 
+rewards are considerable. Like most 
+things Macintosh and UNIX, explo- 
+ration is rewarded. You read the 
+manual and figure out how to do 
+what you need to do, and then a few 
+weeks later you read the manual 
+again and you’re ready to compre- 
+hend a new section of the system, 
+which sharpens and expands your 
+mental maps and leads you to more 
+efficiency and more possibilities. 
+The Macintosh seems to be the plat- 
+form of 
+choice for desktop audio, but 
+systems are available for DOS and 
+Windows as well as for higher-end 
+workstations. | use Sonic Solutions. It 
+is on the expensive side and a plea- 
+sure to work with. Digital audio is 
+only going to get cheaper and more 
+powerful in the future, and so (we 
+hope) will CD printers (somewhere 
+around $5,000 and declining, but the 
+cost of writeable CD blanks 
+is a 
+startling $20-plus each). Soon we will 
+be hearing CD audio zines, home- 
+grown musical productions, person- 
+alized collections of commercial mu- 
+sic — and who knows, maybe 
+political and religious campaigns will 
+promulgate their programs 
+on 
+homegrown 
+audio 
+media. 
+—David Gans 
+Eyes Open EDL 
+down, following a care- 
+fully timed script and 
+Sonic Solutions 
+environments. —DG 
+San Rafael, CA 94901-5506; 415/485-4800. 
+The top of the line in digital-audio editing systems, with combinations 
+of hardware and software that run from the high four figures to the 
+high five. The NoNoise™ system is used to rehabilitate noisy old 
+recordings from Edison cylinders to film and television soundtracks, 
+as well as analog recordings (which were state of the art as recently 
+as ten years ago). Sonic requires a fairly high-end Macintosh and 
+proprietary disk drives, and there are no second sources for enhance- 
+ments, but the systern is amazingly versatile, greatly expandable, 
+and — with the new SonicNet system — you can ship audio from 
+system to system for maximum efficiency in large-scale production 
+Sonic Solutions: Information from 891 Francisco Boulevard, 
+TE 
+Teas 
+PP 
+00-00: 00-17-72 
+[wees 
+Wes 
+00:00:10:29.79 
+23:50:56 @ @ @* 
+

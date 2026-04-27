@@ -1,0 +1,182 @@
+Cheap(er) Desktop 
+Publishing on the IBM 
+by Ted Nace 
+Using cheap IBM clones as the starting point, tens of 
+thousands of people have set up desktop publishing 
+systems that cost about half as much and in many ways 
+outperform their Macintosh counterparts. 
+The overall hardware and software budget for such a 
+system runs to about $4000 (about the same as a good 
+used car). The bare hardware essentials are an AT clone 
+with a hard disk (around $12,000 in late 1988), an HP 
+LaserJet II printer (around $1650), a mouse, and soft- 
+ware. Software means PageMaker (easiest to learn), or 
+Xerox Ventura Publisher (faster than PageMaker and 
+more popular), or WordPerfect 5.0 (the first word proc- 
+essor with enough graphic and typographic capabilities 
+to compete against PageMaker and Ventura). 
+The main ingredient is type. Previously, you needed a 
+$5000 PostScript laser printer if you wanted access to 
+commercial quality fonts in a wide range of sizes. Now, 
+a medley of hardware and software products are avail- 
+Unibind 11 Desktop Binding 
+Information free from Unibind, 2213 Birch 
+Street, Vancouver, BC Canada V6H 2S9; 
+800/663-6807 
+Where’s desktop publishing without desk- 
+top binding? At loose ends, that’s where. 
+The big desktop publishing revolution 
+has created all sorts of needs to hold 
+pieces of paper together. What you 
+want is a cheap way to bind the pages 
+from laser printing into a saleable 
+4, book. What most commercial binding 
+companies want to sell you is outra- 
+geously overpriced 
+equipment. 
+| have sorted through dozens of different 
+binding systems from $5 staplers to $5000 indus- 
+trial machines. A couple are 
+real jokes. One or two are 
+passable. The winner, which ! 
+use to bind my self-published 
+books, is the new Unibind 11 
+system. 
+This is a perfect binding sys- 
+tem that consists of 11 x 17 
+clear vinyl covers with a col- 
+ored backing strip. Hot glue is 
+able that generate equally good fonts for the cheaper HP 
+LaserJet. The most widely used of these new type gen- 
+erators is Fontware from Bitstream, which is now being 
+given away with WordPerfect, PageMaker, and many 
+other products. 
+Desktop publishing systems built around IBM clones 
+have two drawbacks. The first is the quality of graphics 
+software, which still lags behind the Macintosh. The 
+second is the fact that it takes more time and effort to 
+find and assemble the parts of such a system, sort out 
+incompatibilities among components, and master pro- 
+grams which — unlike those for the Macintosh — don’t 
+conform to a single consistent design. But for those on a 
+tight budget, the clone route is the obvious choice. 
+Two useful books: 
+LaserJet Unlimited, Edition Il, Ted Nace and Michael 
+Gardner, 1988; 212 pp., $28.45 postpaid 
+Ventura Tips and Tricks (2nd Edition), Ted Nace, 
+1988; 286 pp., $26.45 postpaid 
+Both from Peachpit Press, 1085 Keith Avenue, Berkeley, 
+CA 94708; 415/527-8555 
+pre-applied to the cover spine. You put the pages 
+into the cover and then pop the works into a 
+toaster-style machine for half a minute or so. Then 
+you whop the cover onto a cooling plate and set it 
+aside to cool. 
+Unibind will lend you the Unibind toaster ($270) for 
+free if you buy enough covers over a one year 
+period. The cost of a cover per book is in the 60 
+cents to dollar range. 
+— Don Lancaster 
+Personal Publishing 
+Terry Ulick, Editor 
+$24/year 
+(12 issues) from: 
+Hitchcock Publishing Company 
+25W550 Geneva Road 
+Wheaton, IL 60188-2292 
+312/665-1000 
+Publish! 
+David Bunnell, Editor 
+$39.39/year 
+(12 issues) from: 
+PCW Communications, Inc. 
+501 Second Street 
+San Francisco, CA 94107 
+800/222-2990 
+Having published many issues of a 48-page pro- 
+fessional magazine that was produced entirely on 
+a Macintosh computer, | can state with assurance 
+that it can be done and it can even be fun. But it is 
+also a staggering task that dumps the work of 
+three individuals into the lap of one overworked 
+person. Sometimes empowerment is hard to distin- 
+guish from embattlement. 
+Two magazines keep things in perspective. 
+Personal Publishing is the better of the two, 
+DESKTOP PUBLISHING 
+The Illustrated 
+Handbook of 
+Desktop Publishing 
+and Typesetting 
+Michael L. Kleper 
+1987; 770 pp. 
+$29.95 
+($33.95 postpaid) from: 
+Graphic Dimensions 
+134 Caversham Woods 
+Pittsford, NY 14534-2834 
+716/381-3428 
+or Whole Earth Access 
+What is erroneously called desktop publishing is 
+actually desktop typesetting. Much of traditional 
+publishing has always been done at a desk, and 
+much of the rest still can not be. The only new 
+aspect of publishing now taking place at table 
+height is the job of formatting text into tiny hard- 
+edged letters. It’s an ancient craft with timeless 
+principles. For that reason an old-fashioned ency- 
+clopedic tome like this one continues to be useful 
+in a field that outdates books so fast that normally 
+anything this big and heavy would be a dinosaur 
+the day it was printed. There’s probably more here 
+than the average reader wants to know. I'd guess 
+the book’s niche is as a library reference for the 
+typesetting regular who needs to know how to 
+encapsulate typesetting technology into the 
+vernacular of desktop appliances. Not for the 
+uninitiated. 
+— Kevin Kelly 
+A diagram of the innerworkings of the HP LaserJet printer. In many 
+respects, it resembles a tabletop plain paper copier 
+SSS Interface (1/0 Controller) 
+Primary cr 1 
+EP Process 
+Erase Lamps 
+4 
+Development 
+Registration 
+Si 
+@ Manual Pick-up 
+® 
+él 
+) 
+O 
+Separation OUI; aster Corona 
+Paper Cassette 
+_ $< 
+Giemsa repre ee a 
+pape 
+a 
+devoted to helping low-end do-it-yourselfers. It’s 
+put out by three people in a Chicago suburb, and is 
+itself a Macintosh and Laserwriter production — 
+one of the better-looking such publications I’ve 
+seen. It’s geared to those who are just starting out 
+in personal publishing and is strong on explaining 
+and illustrating the fundamentals of the field. Al- 
+most entirely staff-written, the magazine is opinion- 
+ated, partisan (it favors the Mac over any 
+other 
+PC), and inspirational. 
+Publish! comes from the publishers of MacWorld 
+and PC World and follows in their successfully 
+slick footsteps. | almost let my subscription lapse 
+recently because it is very geared to individuals 
+who are responsible for publications and presenta- 
+tions in corporate settings, and are far more IBM- 
+oriented than | am. But on my last issue they re- 
+vamped its design, and there was enough valuable 
+information peppered throughout that | renewed. 
+— Jay Kinney 
+09 
+

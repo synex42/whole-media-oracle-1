@@ -1,0 +1,310 @@
+134 SOUND LIBRARIES 
+SERIES 2000 
+Sound Idea Sound Effects Library 
+Series 1000 Library (28 analog CDs) 
+$1250 
+Series 2000 Library (22 digital CDs) 
+$975 from: 
+Sound Ideas 86 McGill Street, Toronto, Ontario 
+Canada M5B 1H2; 800/387-3030 
+Rocking chair creaks. Dentist drilling. Bottle 
+smashes. Whooshes. Giggles. Children screaming. 
+Windshield wipers. Booms, barrack bugles, and 
+butcher knives sharpening. Harps, applause, and 
+my favorite: Dog, terrier — sneezing. Three thou- 
+sand human-life-on-earth sounds trapped into a 
+tidy set of 28 compact discs (or 22 discs in digital). 
+cast, Wet.” The set is expensive, complete, and 
+To find a sound, you look it up in the accompany- 
+ing 431 page catalog. For instance: “207-21-01 
+Weather, TV Broadcast — Generic Summer Fore- 
+The New CBS “Audio-File” 
+Sound Effects Library 
+Volumes | & II each 
+$18.98 postpaid from: 
+The Collectors’ Series 51 West 52nd Street, Room 861 
+New York, NY 10019; 212/975-5073 
+Killer noise for the sound effects freak ona budget. 
+can’t be beat. 
+Volume | contains 90 separate sounds on three 
+MacRecorder 
+$199 retail at most computer software stores; information free from: Farallon Computing, 
+Inc., 2150 Kittredge Street, Berkeley, CA 94704; 415/849-2331 
+Snag a fleeting sound and compress it into digits. Handy Macintosh flavored 
+digits. The advantages of capturing sounds on the Mac is the ease with which 
+they can be edited and shuffled into sound tracks. 
+MacRecorder is a little gizmo that lets you take a sound from a tape and put it 
+into a Macintosh file to fiddle with. The software part displays what you’ve cap- 
+tured as a soundgram. You edit by manipulating the visual pattern, which is easy 
+to learn, accurate to control, and tremendously satisfying to do. What’s hard to 
+hear, you can see. It’s one way to own your own digital sound archive. 
+— Kevin Kelly 
+lf you want to add a tremolo to a sound, set up the line like this: 
+Octave 
+© 2 Octaves 
+(0K) (Concer) fm] o1 
+Bender: Use the Bender effect to adjust the pitch of a sound by an amount that can vary along the 
+length of the sound. The waveform is shown in grey. The dark line indicates how the pitch will be altered 
+at each point along the waveform. In this example, the first part of the wave will have its pitch lowered by 
+an octave (with everything in between adjusted proportionately). The radio buttons located at the bottom 
+of the box adjust the scale to the left of the waveform. If you check the radio button labelled “2 Octaves,” 
+you can raise or lower the pitch by as much as two octaves instead of only one. 
+the ultimate sound effects source. Perfect for a 
+musician's or filmmaker’s co-op. 
+discs; Volume II holds another 90, from airport 
+lobbies to artillery fire, tropical birds to a NASA 
+countdown. These are all analog recordings and 
+the quality of the individual sounds varies greatly. 
+Many sounds you can pull straight off the discs, 
+but some you're going to have to modify with a 
+graphic equalizer. Still, for the money, these sets 
+SOUND IDEAS SOUND EFFECTS LIBRARY 
+(9-Track-Index 
+Title 
+Description 
+Tine Code 
+1016-49-01 
+LAUNDRY,WASHING 
+GENERAL b/g: VOICES, MACHINES, ETC. 
+01:33 AAD 
+1028-39-01 
+LAUNDRY,WASHING 
+“HATER RUNNING 
+00:32 MAD 
+1011-07-01 
+LAVA ‘BUBBLINS, COSMIC EARTH QUAKE 
+0:41 AAD 
+1015-18-01 
+LAVATORY, TOILET © -FLUSH Version # 1 
+00:08 AAD 
+1015-18-02 
+LAVATORY, TOILET © FLUSH Version # 2 
+00:11 
+AAD 
+1015-18-03 
+LAVATORY, TOILET © -FLUSH Version @ 3 
+00:19 AAD 
+1015-18-04 
+LAVATORY, TOILET 
+FLUSH Version @ 4 
+00:08 AAD 
+1015-18-05 
+LAVATORY, TOILET © -FLUSH:LEFT-MATER TANK: RIGHT-TOILET BOW 
+00:32 AAD 
+2014-67-01 
+LAVATORY, TOILET +» “FLUSH AND FILL Version # 1 
+01:02 DDD 
+2014-68-01 
+LAVATORY, TOILET +» -FLUSH AND FILL Version 8 2 
+01:05 DDD 
+1015-19-01 
+LAVATORY, URINAL 
+FLUSH Version @ 1 
+00:14 AAD 
+1015-19-02 
+LAVATORY,URINAL 
+FLUSH Version @ 2 
+00:05 AAD 
+1016-50-01 
+LAWN HOMER 
+~GAS POMERED:FOUR PULLS, START, REV 
+00:19 AAD 
+1016-51-01 
+LAWN ROKER 
+“GAS POWERED: 
+PULL, START, REV, IDLE 
+00:42 AAD 
+1016-52-01 
+LAWN MOWER 
+~GAS POWERED: THREE PULLS,START, 
+CUT GRASS, TURN OFF 
+00:36 AAD 
+1016-53-01 
+LAWN POKER 
+POWERED: CUTTING GRASS 
+00:40 AAD 
+2015-85-01 
+LAWN HOMER 
+~ELECTRIC:START, RUN, STOP 
+00:43 DDD 
+2015-87-01 
+LAWN ROMER 
+-ELECTRIC:START, 
+CUT, STOP Version 8 1 
+01:28 DDD 
+2015-68-01 
+LAWN MOWER 
+-ELECTRIC:START, 
+CUT, STOP Version 8 2 
+02:42. DDD 
+2015-89-01 
+LAWN HOMER 
+~GAS:START, CUT, STOP 
+00:49 DDD 
+2015-90-01 
+LAWN NOME 
+“GAS: CUTTING LAWN Version @ 1 
+01:40 DDD 
+2015-91-01 
+LAWN ROMER 
+GAS: CUTTING LAUN Version #2 
+01:20 DDD 
+2015-92-01 
+LAWN HOMER 
+GAS: CUTTING , STOPS 
+00:33 DDD 
+2015-840} 
+LAWN RIPPER 
+ELECTRIC:START, TRIN, STOP 
+01:40 DDD 
+2015-85-01 
+LAWN TRIMMER 
+~GAS;START, RUN 
+01:56 DDD 
+1013-23-01 
+LEAVES, FOOTSTEPS © -ONE PERSON WALKING THROUGH LEAVES Version #1 © 00:15 AAD 
+1013-24-01 
+LEAVES, FOOTSTEPS © ONE PERSON WALKING THROUGH LEAVES Version @2 
+00:37 AAD 
+1013-25-01 
+LEAVES, FOOTSTEPS © ONE PERSON WALKING THROUGH LEAVES Version 
+#3 © 00:09. AAD 
+2011-19-01 
+LEAVES, FOOTSTEPS © -FOOTSTEPS:SHOES, 
+SLOW 
+00:30 DDD 
+2011-19-02 
+LEAVES, FOOTSTEPS + -FOOTSTEPS:SHOES, MEDIUM SPEED 
+00:30 DDD 
+2011-19-03 
+LEAVES, FOOTSTEPS + ~FOOTSTEPS: 
+SHOES, FAST 
+00:30 DDD 
+— 
+ij 
+2011-19-04 
+LEAVES, FOOTSTEPS 
+FOOTSTEPS: 
+SHOES, JOGGING 
+00:30 DDD 
+Kevin Kelly 
+2011-19-05 
+LEAVES, FOOTSTEPS © -FOOTSTEPS:SHOES, RUNNING 
+00:30 DDD 
+1023-30-01 
+LEAVES, RAKING 
+RAKING INTO PILE 
+00:32 AAD 
+1018-47-01 
+LETTER BO 
+~OPEN AND CLOSE 
+00:03 AAD 
+1014-53-02 
+LETTER SLOT 
+“LETTER COMING THROUGH THE SLOT 
+00:01 AAD 
+1014-53-03 
+LETTER SLOT 
+LETTER COMING THROUGH THE SLOT 
+00:01 AAD 
+1011-37-01 
+LIFT, ELEVATOR 
+“GENERAL ATHOSPHERESWAITING FOR ELEVATOR, BELL RING 00:20 AAD 
+1011-38-01 
+LIFT, ELEVATOR 
+GENERAL ATHOSPHERE:BELL RINGS AND DOOR OPENS 
+00:10 AAD 
+1011-39-01 
+—_LIFT, ELEVATOR 
+“OPEN AND CLOSE DOOR: BELL 
+00:15 AAD 
+1011-60-01 
+LIFT, ELEVATOR 
+CLOSE DOOR, OPERATE, OPEN AND CLOSE DOOR Version # 1 00:15 AAD 
+1011-40-02 
+LIFT, ELEVATOR 
+~OPEN AND CLOSE DOOR, OPERATE, OPEN DOOR Version @ 2 00:27 AAD 
+1011-41-01 
+LIFT, ELEVATOR 
+~DOOR:0PEN AND CLOSE Version @ 1 
+00:14 AAD 
+1011-41-02 
+LIFT, ELEVATOR 
+~DOOR:OPEN AND CLOSE Version 0 2 
+00:11 
+AAD 
+1011-62-01 
+LIFT, ELEVATOR 
+GOING UP, HACHINERY 
+00:43 AAD 
+1011-43-01 
+LIFT, ELEVATOR 
+START, RUN, STOP 
+00:15 AAD 
+1014-27-01 
+LIFT, ELEVATOR 
+~GEN. ATH. :VOICES, FOOTSTEPS, ELEVATOR BELL 
+01:58 AAD 
+1009-36-02 
+«LIGHT BULB,CRASH © -GLASS, LIGHT BULB CRASH Version @ 1 
+00:02 AAD 
+1009-36-03 
+LIGHT BULB,CRASH ©—-~GLASS, LIGHT BULB CRASH Version @ 2 
+00:01 AAD 
+1014-54-01 
+LIGHT SHITCH 
+Version #1 
+00:01 wD 
+1014-54-02 
+LIGHT SWITCH 
+Version # 2 
+00:01 
+AAD 
+1014-54-03 
+LIGMT SMITCH 
+Version #3 
+00:01 AAD 
+1014-54-04 
+LIGHT SWITCH 
+Version 04 
+00:01 
+AAD 
+1014-55-01 
+LIGHTER 
+Version @ 1 
+00:05 
+AAD 
+1014-55-02 
+LIGHTER 
+sion 02 
+00:02 AND 
+— Richard Kadrey 
+180 
+THE SOUNDEDIT WINDOW 
+When you record a new sound or open an existing sound, the 
+sound is displayed graphically as a waveform in the SoundEdit 
+window. This is how a monaural sound appears: 
+“he CSS) 
+bee STI) cb 
+EL UEERHER 
+ae enna MEME ErgE 
+HE 
+out 
+= 
+If you are recording in stereo, SoundEdit displays the waveform 
+for both channels. The left channel is displayed in the top half of 
+the window and the right channel is displayed in the bottom. 
+Here is how stereo sound appears: 
+‘ 
+i) 
+| 
+: 
+I, Me 
+Ra 
+Ko] 
+[@) ce] CT A) fie] 
+k C 
+O70 @rl_om 
+G69) 
+Hei (147) «> COT 00) 
+

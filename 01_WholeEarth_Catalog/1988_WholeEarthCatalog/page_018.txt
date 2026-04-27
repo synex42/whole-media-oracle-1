@@ -1,0 +1,245 @@
+14 
+CODES 
+Cryptologia 
+_ 
+Sentinel 
+Cipher A. Deavours, 
+Not copy-protected; Macintosh 512K, Enhanced, 
+Sentinel safely locks up sensitive files with a 
+David Kahn, Louis Kruh, 
+Plus, SE, Il. $295 from Ingram Software, 800/456- 
+heavy-duty encryption code. (Comes in two 
+Greg Mellen and Brian J. 
+< 
+8000 
+flavors — regular/fast, and government level 
+Winkel, Editors 
+a 
+DES/not as fast). The system is not as ele- 
+$28/year 
+oO. 
+In their zeal to create a computer that was 
+gant as it should be. For instance, files which 
+(4 issues) from: 
+6 
+wide open and transparent to the user, the 
+you keep locked don't lock themselves again 
+Sia marae 
+2 
+creators of the Macintosh didn’t put in any 
+after you leave — you have to encrypt them 
+feiss 
+Vv. 
+| 
+closets. So there’s no place to hide a private 
+again. But it does the job. Don’t loose your 
+file. Anyone using a Macintosh had to expect —_ password or you'll never get your data back. 
+that their laundry would be on view. That 
+(Keep a backup!) 
+often prevented a single Mac from becoming 
+—Kevin Kelly 
+a group tool. 
+Terre Haute, IN 47803 
+A quarterly journal for people interested in security codes and 
+ciphers — their history, how they work, and how they’re used. 
+With each issue, the magazine's focus shifts more toward the 
+present: new revelations about the Enigma and Ultra codes 
+of World War 2 are down to a trickle; meanwhile, modern 
+cryptography is becoming ever more sophisticated, more 
+widely applied, and more politically sensitive. At the same 
+time, the spread of personal computers gives lots of new 
+people the ability to experiment with code construction and 
+Document 
+a 
+; 
+deconstruction. 
+A locked document’ s icon as it appears on the desktop 
+Cryptologia’s writing is often at an ad- 
+vanced level (mathphobes beware), but 
+there’s a nice noncommercial feel to it — 
+oe | 
+(Wwe crocane over wrs 
+amateur in the positive sense of being 
+ce 
+motivated by love of the subject. 
+This makes it refreshingly different from 
+the coverage data protection gets in the 
+business press: Cryptologians are just as 
+turned on by clever codebreaking as they 
+are by break resistance. 
+: 
+sgh 
+mare . 
+“ne CD) 
+Hoven Howiz | The Cartoon Guide 
+Tees 
+[or nena ed 
+\ 
+% 
+to Genetics 
+Beh 
+hoes 
+Je 
+cen Genes, \. 
+The WordPerfect encryption algorithm has, 
+Larry Gonick 
+; 
+however, a fatal weakness which permits the 
+and Mark Wheelis 
+recovery of the key for even quite short plain- 
+1983; 214 pp. 
+texts. The weakness is that the commonly 
+$6.95 
+occurring ‘space’ character is not treated spe- 
+($7.30 postpaid) from: 
+cially. Since this character occurs approxi- 
+Harper & Row 
+mately once in every five characters for a wide 
+2350 Virginia Avenue 
+variety of languages and other text sources it is 
+Hagerstown, MD 21740 
+trivial to simply try all possible keylengths, 
+800/638-3030 
+testing for the space character in each subtext, 
+or Whole Earth Access 
+and then verifying the resulting key against the 
+checksum stored in the file. Using the methods 
+The stickiest, most wrenching 
+oul nee abe 
+Mesa epeupnescalp toga tice 
+paradoxes we have known are 
+4 
+: 
+HEMOPHILIA 15 PASSED ALONG JUST LIKE BALOUICSS, AKO 
+written using the popular Turbo Pascal by 
+being handed to us by the 
+BS 
+iN 
+HEMOPHILIA FeLLows 
+You CNW SEE THE FITEEN’ |) VICTORINS FAMILY TREE 
+Borland International. When run on an IBM AT 
+9 
+iy 
+He REL 
+GIES 
+5 
+§ 
+i) 
+KY 
+we 
+THE MOST FAMOUS EXNNPLE | 
+oT 
+arn 
+computer, a key of 20 characters in length can 
+science of genetics (it’s now 
+; 
+A 
+WAS QUEEN VicTaKIA 
+| 
+O-Femete 
+frmrciil 
+(marion, 
+a 
+atel Genie 
+be found in less than 20 seconds when de- 
+Fem. 
+OD: pormar MALE 
+crypting a document of about 1500 words. 
+. 
+2 
+eh 
+OF ENGLAND, Wo 
+possible to have five parents). 
+f 
+A} 
+wns’ A cnRRER 
+Be rnate Hemerinerne 
+ALE 
+There’s no better way to 
+ile 
+AUC 
+Copies of the program may be obtained by 
+quickly come to grips with 
+XS 
+2s 
+sending a disk to the author (IBM PC/AT for- 
+things like recombinant DNA 
+ee 
++ 
+mat only) 
+with a note explaining 
+your interest. 
+THERE 1 NO REZORI? OF HEMOPINILIA IB VICTORIA'S 
+Cl 
+y) 
+p 
+gy 
+than to chortle your way 
+re STORS. 40 WE MAY ASSUME We Perect. prreareD 
+few 
+Mr 
+rs 
+through this cartoon book. It 
+WW NCR CERES Me A SFONTAVEOUS MUTATION. INS WATT N's 
+| 
+Bodo 
+wrt BE IW AV FATMATED 4 CASE IN OLRY 
+mE 
+bh 
+CO 
+makes genetics hilariously 
+30,000 TAREN 
+Japanese was the greatest difficulty. Ordinary 
+3 
+: 
+| 
+: 
+— 
+simple. Starts out uncovering 
+P 
+q 
+VICTORINS PUMEROUS BROOD INTERMARRIED WITH THLE ROYAL 
+ble 
+ve 
+a eee eee eileahak sondate, 
+the basic territory of chromo- 
+Ws 
+cam 
+pry CRN 
+eg) || nt pROeaK, sr "W00 EVOL WOHARY ROSEN si 
+to them and early intercepts from H.M. ships in 
+somes and hybrids, and ends 
+bird 
+“fe 
+RS 
+raat 
+writ 
+pane 
+Eastern waters (which of course took a long 
+up in the most current re- 
+MF 
+329% 
+ap. Sipe 
+\ 
+(BP 
+time to reach London) were quite unintelligible. 
+search on protein folding and 
+: 
+: 
+4 
+ael 
+; 
+OO 
+A new set of symbols had to be invented and 
+genetic surgery. Dumb jokes 
+learnt by the operators. However once the 
+and brilliant cartooning make it 
+interest of some of the officers was aroused 
+easy all the way — MAD 
+rapid progress was made and a number of 
+magazine style 
+Japanese ciphers were duly broken. 
+el 
+Kelly 
+—S
+

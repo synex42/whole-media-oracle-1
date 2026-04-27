@@ -1,0 +1,218 @@
+14 Whole Systems 
+GIS 
+Geographic Information Systems 
+GIS (please: call it by its acronym) is a computer system that assembles, stores, manipulates, and displays 
+geographically referenced information. The product is a digital map whose elements (points, 
+lines, and areas) are windows into its database. Maximum usefulness is achieved by 
+relating several elements. For instance, emergency response to the disastrous 
+Midwest floods of 1993 was aided by GlSs that calculated phone numbers within a 
+certain contour line — seemingly unrelated data that sped the evacuation of flood zones 
+and accomplished in minutes what would have taken hours of poring over telephone books 
+KASS 
+KS 
+‘ 
+Vingiticete 
+and topo sheets. 
+GIS’s roots predate the digital revolution by at least a century. Dr. John Snow’s famous visual correlation 
+of cholera deaths and polluted wells in 1854 London was an early landmark, and the work of lan McHarg, 
+popularized in his 1969 Design With Nature was pre-acronymic GIS. It wasn’t until 
+the advent of accessible computers that GIS could grow into the industry it is today. 
+Don’t go out and buy a GIS — yet. The systems can be expensive, learning curves 
+long, and formats not necessarily mutually compatible. Many public jurisdictions and 
+groups with an interest in the land base, e.g., planning departments, forestry services, 
+Audubon chapters (especially where policy battles are being fought) need interns 
+and volunteers to help with data acquisition and digitization. Learn GIS while you 
+work for your favorite cause. —Don Ryan 
+GIS World 
+To enter geographic information sys- 
+tems through GIS World is to dive into 
+the deep end. But don’t worry, there 
+are plenty of lifeguards and coaches 
+to help the novice. One reason is that 
+GIS is a rapidly growing industry; stu- 
+dents and might-be students are 
+needed to fill the job vacancies of the 
+near future. For another thing, GIS 
+feeds on information and cross-fertili- 
+Zation from within and without the in- 
+dustry; ad hoc partnerships and 
+collaborations abound. A high rate 
+of citizen input is desirable, if not es- 
+sential, especially in matters of public 
+policy such as environmental planning. 
+The GIS industry encourages this, and 
+GIS World keeps track. 
+GIS World also offers a sister periodi- 
+cal, Business Geographics, and many 
+more specialized books from their 
+mailorder bookstore. —Don Ryan 
+e 
+My first GIS work taught me a lesson in 
+environmental ethics. We developed 
+an approach for siting noxious facili- 
+ties, intending to resolve conflicts by 
+enabling each interest group to for- 
+See “GIS asa 
+Political Tool” (p. 293). 
+International GIS Sourcebook. 1994, GIS 
+World Inc. A yearbook of biblical proportions that 
+accesses companies (hundreds), educational pro- 
+grams (more than two hundred institutions world- 
+wide), and over three hundred GlS-related software 
+products. 
+GIS Applications in Natural Resources. 
+Michael Heit & Art Shortreid, Editors. 1991, GIS 
+World Inc. The best sixty-three papers from Forestry 
+Canada’s “GIS 1987 to 1991” symposium series. 
+Simple Computer Imaging and Mapping. 
+Micha Pazner, Nancy Thies & Roberto Chavez. 
+1993, Think Space, Inc., London, Ontario, 
+Canada. Low-cost desktop image processing tech- 
+niques for creating digital spatial and pictorial data- 
+bases, atlases, and wall maps. 
+Profiting from a Geographic Information 
+System. Gilbert H. Castle, Editor. 1993, GIS 
+World Inc. Increase revenues, reduce costs, en- 
+hance customer relations, and improve profitability 
+through GIS. 
+GIS World: $72/year (12 issues). 
+Business Geographics: Free to qualified 
+individuals. GIS World Inc.: 155 E. Board- 
+walk Drive, Suite 250, Fort Collins, CO 
+80525. Phone: 303/223-4848; fax: 
+303/223-5700. 
+mulate criteria based on its own values. We 
+felt good about the design. But when | vis- 
+ited a highly favored site, | found one of the 
+most idyllic landscapes in the Eastern 
+United States — the kind of place | would 
+fight to preserve. What troubles me still is 
+that no one ever paid to add aesthetics into 
+that early GIS, even though it would have 
+been technically feasible. 
+During the years, | have used GIS to help 
+make decisions with great impacts on 
+people’s lives, and the memory of that first 
+experience always reminded me that GIS 
+and its practitioners have limits. | doubt GIS 
+will turn us all into “drive-by” developers, 
+but we should question what GIS is doing 
+to us and to society at large. 
+—Jerome E. Dobson 
+U.S. Geological Survey 
+If you're just curious about the breadth 
+of GIS or are an educator of 
+any stripe 
+who wants to open the world of geo- 
+graphic information systems to a po- 
+tential practitioner, “Geographic Infor- 
+mation Systems” is a very detailed 
+and colorfully illustrated brochure that 
+unfolds into an attractive poster. If you 
+want to put it on the wall for display, 
+get two so you can display both infor- 
+mation-packed sides at once. 
+—Don Ryan 
+e 
+If you could relate information about the 
+rainfall of your State ormation from many 
+different sources, in many different forms, 
+can help with such analyses. The primary 
+requirement for the source data is that the 
+locations for the variables are known. Loca- 
+tion may be annotated by x, y, and z coor- 
+dinates of longitude, latitude, and elevation, 
+or by such systems as ZIP Codes or high- 
+way mile markers. Any variable that can be 
+located spatially can be fed into a GIS. 
+Several computer data bases that can be di- 
+rectly entered into a GIS are being pro- 
+duced by Federal agencies and private 
+firms. Different kinds of data in map form 
+can be entered into a GIS. A GIS can also 
+ARC/INFO 
+ARC/INFO and PC ARC/INFO have es- 
+tablished themselves as the industry- 
+standard GISs. 
+The MS/DOS version, PC ARC/INFO, 
+requires an IBM-compatible 80286 
+or faster processor with a minimum 
+of 40 megabytes of hard-disk storage 
+and 80287 or 80387 numerical 
+co-processor. A high-resolution 
+color graphic display is highly recom- 
+mended. The newly emerging PC 
+standard includes a dedicated graph- 
+ics coprocessor and screen resolution 
+of 768 x 1024 pixels or better. There 
+is no Macintosh version available. 
+PC ARC/INFO comes in modules — 
+PC Starter Kit, PC ArcEdit, ArcPlot, 
+PC Overlay, PC Data Conversion, and 
+PC Network. The fully installed pro- 
+gram occupies about 29 megabytes 
+of hard-disk storage. 
+The ARC system stores geographical 
+feature locations as a set of coordi- 
+nates and as relationships between 
+connected or adjacent features. The 
+relationships used to represent the 
+connectivity of contiguous features 
+are referred to as topology. The 
+geographic features are digitally 
+stored in computer files as layers 
+convert existing digital information, which 
+may not yet be in map form, into forms it 
+can recognize and use. For example, digital 
+satellite images can be analyzed to produce 
+a map-like layer of digital information about 
+vegetative cover. Likewise, census or hy- 
+drologic tabular data can be converted to 
+map-like form, serving as layers of thematic 
+information in a GIS. 
+Geographic Information 
+Systems: Free. USGS Earth 
+Science Information Center, 
+507 National Center,Reston, 
+VA 22092; 800/USA-MAPS 
+Cro-Magnon hunters drew 
+pictures of the animals they 
+hunted, with tallies and track 
+lines thought to depict migra- 
+tion routes. These records fol- 
+lowed the two-element struc- 
+ture of modern geographic 
+information systems: 
+a graphic file linked to an 
+attribute data base. At right is 
+a modern example showing 
+caribou migration in Alaska. 
+or “coverages.” Typical coverages 
+assembled for a USGS standard 7.5- 
+minute quadrangle (1:24,000 scale) 
+might include elevation, soil types, veg- 
+etation types, hydrography, or roads 
+and ownership boundaries. 
+After leaming the ARC/INFO software 
+system, input of graphic and feature 
+attributes is the largest task associ- 
+ated with building a GIS. Maps may 
+be digitized or scanned into computer 
+files and then imported into ARC cov- 
+erages. Standard graphical output 
+is to a plotter or to a Postscript- or 
+Laserjet-compatible laser printer. 
+Some dot-matrix printers are sup- 
+ported at lower graphic resolutions. 
+—Eric and Steve Beckwitt 
+ARC/INFO: Information from Envi- 
+ronmental Systems Research Institute/ 
+Marketing Dept., 380 New York Street, 
+Redlands, CA 92373; 909/793-2853 
+Lake County (IL) Landfill Site Screening, by 
+Robert Lindquist. This series of maps illustrates 
+the site screening process employed by the 
+Lake County Joint Action Solid Waste Planning 
+Committee to delimit areas of suitability for 
+a new landfill. 
+

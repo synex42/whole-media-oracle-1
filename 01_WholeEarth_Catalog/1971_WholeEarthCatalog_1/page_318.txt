@@ -1,0 +1,249 @@
+eae 
+rs and the. 
+mind. It’s technical going 
+or 
+the insights of prime work. 
+—SB 
+from: 
+Barnes & Noble, Inc. * 
+105 Fifth Avenue 
+New York, N. Y. 10003 
+Economy Bookstore 
+171 W. Madison 
+Chicago, Illinois 60602 
+_ ~ 
+Design for a Brain 
+____W. Ross Ashby 
+1952, 1960; 286 pp. 
+$3.25 postpaid 
+- 
+or WHOLE EARTH CATALOG 
+s is the learning mechanism. 
+Its peculiarity is that the gene-pattern 
+legates part of its control over the organism to the environment. 
+lus, it does not specify in detail how a kitten shall catch a mouse, 
+‘ 
+Provides a learning mechanism and a tendency to play, so that 
+‘it is the mouse which teaches the kitten the finer points of how to 
+atch mice. . 
+> 
+development of life on earth must thus not be seen as something 
+arkable. On the contrary, it was inevitable. 
+It was inevitable in 
+sense that if a system as large as the surface of the earth, basically 
+table, is kept gently simmering dynamically for five thousand 
+lion years, then nothing short of a miracle could keep the system 
+jay 
+from those states in which the variables are aggregated into 
+sely self-preserving forms. 
+_ inte 
+_ Finding an optimum is a much more complex operation than finding 
+__ 
+ayalue that is acceptable (according to a given criterion). Thus, 
+“suppose a man comes to a foreign market containing a hundred kinds 
+SOF 
+that are quite new to him. To find the optimum 
+for his 
+_ palate he must (1) taste 
+all the hundred, (2) make at least ninety-nine 
+_ 
+comparisons, and (3) remember the results so that he can finally go 
+a 
+ck 
+to. the optimal form. On the other hand, to find a fruit that is 
+_ acceptable he need merely try them in succession or at random 
+__ (taking no trouble to remember the past), stopping only at the first 
+_ that passes the test. To demand the optimum, then, may be excessive; 
+all that is required in biological systems is that the organism finds a 
+_ 
+State or a value between 
+given limits. 
+Remarks on Ashby 
+RE: Chis Smith’s letter, January Supplement p. 42 
+a 
+> 
+| must rally to the defense of a valuable information source: 
+W. Ross Ashby. Design for a Brain may not satisy those who seek 
+physiological correlates of behavior but it is an excellent formu- 
+lation of a very general adaptive system. 
+|t could also be called 
+Design for an Ecosystem. 
+| highly recommend, not only that you 
+retain the listing, but that you add Ashby’s Introduction to Cyber- 
+netics. 
+_ Ashby understands general systems & cybernetics and does a great 
+job in careful explanation. Intro. to Cybernetics reviews all the 
+‘math you need to understand the heavies like Shannon & Weaver. 
+_ General system theory is the new paradigm for understand our- 
+_ An Introduction to Cybernetics by W. Ross Ashby. $5.75 trade 
+_ 
+edition, or $3.95 paper text edition. From Barnes & Neble, Inc., 
+_ 
+105 Fifth Avenue, NY, NY 10003. 
+Love, 
+Ron Nigh 
+Palo Alto, CA 
+_ Brains, Machines and Mathematics 
+_ Take the theoretical-neuron work of McCulloch & Pitts, 
+_ the Perceptron, von Neumann and Shannon’s communi- 
+_ cation theory, Gédel’s incompleteness theorem, and 
+Wiener’s cybernetics. Blend, and see how far along we are 
+_ toward a “biological mathematics”. 
+The answer is not 
+_ tar; this isa tidy survey of how far we aren‘t. 
+_SB 
+[Suggested by Dave Evans] 
+Brains, Machines.and Mathematics 
+Michael A. Arbib 
+1964; 152 pp. 
+$1 .95 postpaid 
+from: 
+McGraw-Hill Book Co. 
+Princeton Road 
+Hightstown, N. J. 08520 
+Manchester Road 
+Manchester, Mo. 63062 
+Brains,Machines 
+~ 
+and Mathematics 
+‘Michael A. Arbib 
+8171 Redwood Highway 
+Novato, CA 94947 
+or WHOLE EARTH CATALOG 
+SCIENCE PAPERBACKS 
+Design fora 
+Brain 
+W. ROSS ASHBY 
+1 Loop.prevents 
+2 Buttons excite— 
+| Qutput by axon 
+Fe 
+The number of 
+dots divided by 
+the number of 
+places is the 
+logical probability 
+ae 
+In these pages we coerce what is essentially still the mathematics of 
+the physicist to help our slowly dawning comprehension of the 
+brain and its electromechanical analogs. 
+It is probable that the dim 
+beginnings of biological mathematics here discernible will one day 
+happily bloom into new and exciting systems of pure mathematics. 
+Reinforcement rules: There seems a great deal of evidence that 
+humans have two kinds of memories——“‘short-term” and “‘long- 
+term.” 
+It further appears that we have to retain an idea for quite 
+a while in short-term memory before it is transferred into long- 
+term memory. The time taken for th ig transfer has been variously 
+estimated——one estimate is 20 minutes. 
+It appears that if someone 
+goes into coma, his memories of the 20 minutes or so prior to 
+this are lost forever, i.e., they were not transferred to his long 
+term memory. 
+It is now commonly believed that short-term 
+memory is precisely that type of memory we gave our modular 
+net——the passage of complicated patterns of electrical impulses 
+through the net. 
+It appears, then, that if such transient activity 
+persists long enough it actually changes the net. 
+The Perceptron group has had three main modes of investigation: 
+mathematical analysis, simulation on a digital computer, and 
+construction of an actual machine. Each method has its own 
+advantages. One important result of using an actual machine is 
+that it has been found that neither precision nor reliability of 
+the components is important, and the connections need not be 
+precise. 
+Another interesting result is that the perceptron can “learn” 
+despite trainer error. 
+Retina of sensory units 
+Associator 
+Response 
+Brai 
+5 
+units 
+units 
+rain 
+Communications 
+Figure 2.5 
+Schematic of a perceptron. 
+| 
+c 
+port 
+his high 
+| 
+«standing as an Old One in the field of brain research. | — 
+can assert I’ve revelled in some of his insights. But | can’t 
+tell you how far he takes us toward full accountability in 
+how nerve nets yield mind, except that he makes the 
+question appear answerable and worth answering. 
+[Suggested by 
+—SB 
+Milton E. Boyd] 
+Modern evidence indicates that 
+all our acquired ideas, or learned 
+generalizations and specifications 
+are carried on for nearly half an- 
+hour by regenerative activity,.of 
+which there is beginning to be 
+some electrical evidence. 
+If this 
+activity is interrupted during that 
+time, no memory remains. From 
+the evidence to date it seems that 
+if the process had not been 
+interrupted, and if one looks at 
+the appropriate neurons half an 
+hour later, one finds that there 
+is a great rise in ribonucleic acid, 
+and protein synthesis is under way. 
+So, while we do not yet know how 
+or where this building material 
+will be distributed, we may see 
+nature using the same trick as 
+in the immune reactions. 
+Embodiments of Mind 
+Warren S. McCulloch 
+1965,70,; 402pp. 
+$2. 95 postpaid 
+from: 
+The MIT Press 
+50 Ames Street 
+Cambridge, Massachusetts 02139 
+or WHOLE EARTH CATALOG 
+Neuron active 
+spontaneously 
+at every 
+millisecond 
+Embodiments of Ming 
+Morgan’s Tarot 
+Just as we were glad to see a guy invent a new /anguage 
+(aUl——see Fall 69 CATALOG), we are delighted by this 
+thoroughly practical tarot deck based on traditions dating 
+back nearly eight years. 
+Two years from now it will be 
+unusable. 
+Twenty years from now it will be as venerable 
+as the medieval Tarot, if anybody notices. 
+The main 
+limitation | see with tarot cards, astrology, any language, 
+is that the systems close on themselves. 
+They offer no 
+exit, except finally an attenuated exhaustion, frustration, 
+possible cause to bust out. Some systems are more open, 
+more immediately and fractionally self-frustrating—— 
+science; evolution; human life... and the market, where 
+these cards are forsale. 
+_ SB 
+from: 
+Morgan's Tarot 
+Boulder Creek, CA 95006 
+or WHOLE EARTH CATALOG | 
+Morgan’s Tarot 
+$3.50 postpaid 
+‘Yoor fissionis 
+(Quot Yet 
+Compete 
+Cac 
+| 
+

@@ -1,0 +1,163 @@
+172 CHEAP COMPUTERS 
+Cheap IBM Clones 
+Whole Earth Turbo XT-20: IBM compatible; 640K; 20MB 
+hard disk plus single floppy disk drive; B/W monitor. 
+$895 postpaid from Whole Earth Electronics, 2990 
+Seventh Street, Berkeley, CA 94710; 415/653-7758 or 
+800/323-8080. 
+The best approach for procuring a clone is to find, 
+by word of mouth, a local retailer who is 
+trustworthy and offers good prices. Many of these 
+shops are too small to advertise in the Yellow 
+Pages; check ads in your local newspaper with the 
+best computer section (in New York, that means 
+the Tuesday New York Times; in California, it 
+means two small tabloids called MicroTimes and 
+Computer Currents). To help you shop, the IBM/ 
+XT Clone Buyer’s Guide (see review below) is 
+invaluable. 
+IBM XT Clone Buyer’s Guide 
+Edwin Rutsch 
+1988; 79 pp. 
+$19.95 
+($23.45 postpaid) 
+IBM AT Clone 
+Buyer’s Guide 
+and Handbook 
+Edwin Rutsch 
+1988; 406 pp. 
+$24.95 
+($28.45 postpaid) 
+both from: 
+Modular Information Systems 
+431 Ashbury Street 
+San Francisco, CA 94117 
+415/552-8648 
+or Whole Earth Access 
+The cheapest computers you can buy are half- 
+witted numskulls for sale in bargain discount stores 
+for under $100. They’re bimbos. The cheapest 
+computers that you can buy which might help you 
+get some work done are instruments known as 
+IBM clones. They are manufactured by the largest 
+corporations in the country and by some of the 
+very smallest. The clones vary widely in reliability 
+and cost. The cheapest method to find a clone that 
+won't become expensive in the long run is to 
+immerse oneself in one of these remarkably clear, 
+remarkably current self-published books. 
+The XT is the minimum machine, the AT is the 
+preferred muscle-bound workhorse, and the 386 is 
+the coming “must have.” These guidebooks have a 
+similar layered structure. The AT book tells how to 
+upgrade an XT clone, and the forthcoming 386 
+book ($33.45 postpaid, also from Modular 
+Information Systems) shows how to upgrade an 
+AT. Any of them will tell you all you need to know 
+on what to purchase, and why. 
+Beyond buying advice, these books are the most 
+crystalline introduction to MS-DOS computers you 
+can find. You should probably read one of them 
+(I'd choose the AT book) before you buy any kind 
+of computer. 
+—Kevin Kelly 
+Buy a PC clone locally if at all possible, so 
+you benefit from local servicing on problems. 
+If you need to shop by mail, one of the best 
+buys is from the burgeoning computer 
+company, Whole Earth Access (there’s no 
+financial tie to us). They assemble their own 
+line of clones from cut-rate parts and 
+guarantee the result. Their XT clone, with 
+built-in 20-meg hard disk and monitor, goes 
+for $895(!) postage paid. This is a small- 
+business bargain. Edwin Rutsch, author of 
+The IBM XT Clone Buyer’s Guide, 
+examined Whole Earth’s IBM AT clone, 
+which is a generation better and about twice 
+as expensive as their XT. His comments 
+follow. 
+—Kevin Kelly 
+The Whole Earth Computer Systems 286 (AT 
+clone) is a close copy of the IBM AT, mimicking not 
+only its power, but also its plainness. A lot of the 
+other clones sport “bells and whistles” which this 
+lacks. However, it is reliable and operates 30 
+Build Your Own 
+IBM Compatible 
+(And Save a Bundle) 
+Aubrey Pilgrim 
+1987; 208 pp. 
+$14.95 
+postpaid from: 
+TAB Books, Inc. 
+P.O. Box 40 
+Blue Ridge Summit, PA 17214 
+717/794-2191 
+or Whole Earth Access 
+You may be ready to save a bundle, but are you 
+ready for an adventure? The scheme is to take 
+cheap parts from Asian manufacturers which are 
+advertised in the backs of computer magazines 
+and assemble them into an IBM knockoff. A lot can 
+go wrong in an instant. | recommend that you read 
+A. Parts and components needed to build an XT: 
+1. Acase, flip top or slide on. 
+2. A mother board with components installed (would recommend a 
+turbo board with 640 K of memory). 
+3. A power supply, 130 watt minimum. 
+4. A floppy disk drive controller card (or board). 
+5. One or two floppy disk drives. 
+6. A monitor card (or adaptor), should be monochrome or color, 
+depending on the type of monitor you buy. 
+percent faster than IBM’s newest computer, the 
+Personal System 2 (PS/2), Models 50 and 60. It is 
+a good-quality product for a clone, at a reasonable, 
+competitive price. A main advantage is that unlike 
+some clone packagers, the company will probably 
+be around for a while to honor their one-year parts 
+and labor warranty. 
+—Edwin Rutsch 
+this book first. It'll either convince you that you 
+don’t have the needed electronic common sense, 
+or else if you do, it will provide you the key tips for 
+successful construction. Besides becoming the 
+proud owner/builder of a cheap, versatile machine, 
+you'll probably use it more effectively since you 
+know how it works. Your warranty, though, is your 
+fix-it Abilities. 
+An equally wise (though less exciting) choice is to 
+consider the ever-blossoming varieties of already 
+assembled clones for sale at very cheap prices. 
+They are often sold by hobbyists who successfully 
+put together an IBM compatible for themselves and 
+then, seeing a market, charge a minimal amount to 
+assemble another. You pay for the few tricks that 
+they learned the painful way. That’s the way I'd go. 
+—Kevin Kelly 
+B. 
+7. A monitor. 
+8. A keyboard. 
+B. Tools needed to build an XT. 
+A floppy diskette that has been 
+taken apart. Lines representing 
+tracks and sectors have been 
+drawn on the surface. 
+acanh
+sete 
+tb Copy
+he 
+Zreoh 
+dy 
+(P
+oy 
+Rapynen
+Tomal
+st SES 
+APM 
+SPE 
+ngs 
+I 
+A RI
+A: 
+

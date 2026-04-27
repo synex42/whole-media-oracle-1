@@ -1,0 +1,144 @@
+148 COMPUTER GRAPHICS 
+The Algorithmic Image 
+(Graphic Visions of 
+the Computer Age) 
+Robert Rivlin 
+1986; 284 pp. 
+$24.95 
+($27.45 postpaid) from: 
+Microsoft Press 
+P.O. Box 1532 
+Hagerstown, MD 21741 
+800/638-3030 
+or Whole Earth Access 
+“ 
+The first (and only) book about computer graphics, 
+in its myriad marvelous forms, which non-technical 
+people can follow — not just to look awestruck at 
+the pictures, but to understand the conceptual 
+Information International Inc. (Triple-l) produced some digital effects 
+underpinnings behind them. Books like this, Pro- 
+for the movie Futureworld, which led to the job of creating extensive 
+grammers at Work, and Computer Lib/Dream 
+effects sequences for Michael Crichton’s film Looker. In the movie, 
+Machines are making Microsoft Press the pre- 
+the actress Susan Dey is digitized and transformed into a computer 
+: 
+Li 
+Bo 
+: 
+database that can be used to simulate her form for use in political- 
+eminent quality computer 
+book publisher. 
+campaign commercials. The process of creating the computer 
+— Art Kleiner 
+simulations for the movie were remarkably similar to the fictional 
+digitizing process in the movie script. The actress was painted with a 
+grid of lines and then photographed. The grid lines were traced into 
+the computer, and then used as a guide to construct a polygon mesh. 
+The mesh was then rendered using conventional polygon techniques, 
+including smooth shading. 
+Fundamentals of Interactive 
+Computer 
+Graphics 
+J.D. Foley & A. Van Dam 
+1982; 6664 pp. 
+$48.50 postpaid from: 
+Addison-Wesley 
+Publishing Co. Inc. 
+1 Jacob Way 
+Reading, MA 01867 
+800/447-2226 
+or Whole Earth Access 
+® 
+For the artist, a three-dimensional object or landscape 
+portrayed on a two-dimensional surface merely has to 
+look real. But a model in the computer database must, 
+for all intents and purposes, actually simulate the 
+properties of a three-dimensional object in nature. The 
+single view of an object in a painting or drawing is not 
+enough for an interactive three-dimensional computer- 
+graphics display, which must allow a view of any part of 
+the object, front or back, top or bottom, from any viewing 
+angle in a 360-degree sphere around the object. 
+Norm Badler and Stephen Platt produced this series of wire-frame 
+faces, which illustrate the analysis and synthesis of human facial 
+expressions. 
+Dynamically con- 
+trolled figure 
+sitting up. 
+The art of making other people’s tools is a high 
+calling. This textbook is for those with the craving 
+to not merely use computer graphic programs, but 
+IEEE 
+to create better ones. The fundamental software 
+Computer Graphics World 
+C 
+t 
+concepts and examples of code are laid out in 
+$30/12 issues from Computer Graphics World, P.O. Box 
+omp u er 
+abundance. 
+122, Tulsa, OK 74101; 800/331-4463. 
+Graphics 
+—Kevin Kelly 
+and 
+z 
+A cozy spot to watch the future erupt. Non-techni- 
+Applications 
+cal, out-in-front, colorful, especially of interest to 
+$58/12 issues 
+Stylized tricycle with three coordinate systems. As 
+those in the business (you are in the business of 
+(includes 
+the bike moves forward, the front wheel rotates about 
+the z axis of the wheel coordinate system, while simulta- 
+neously the wheel and tricycle coordinate systems move 
+alternative realities, aren’t you?), this trade maga- 
+zine gives good vibes to computers. I'm in it for the 
+membership in 
+the Computer 
+relative to the world coordinate system. The wheel and 
+ies ge 
+— Kevin Kell 
+ee ae 
+tricycle coordinate systems are related to the world 
+¥ 
+Electrical and 
+coordinate system by time-varying translations in x and y 
+Electronics 
+plus a rotation about y. The tricycle and wheel coordi- 
+Engineers, Inc.) 
+nate systems are related to each other by a time-varying 
+from: 
+rotation about y as the handlebars are turned. (The 
+Computer Society 
+tricycle coordinate system is fixed to the frame, not to 
+of the IEEE 
+the handlebars.) 
+10662 Los . 
+Vaqueros Circle, 
+Los Alamitos, CA 
+90720-2578; 714/ 
+821-8380. 
+Wi Tricycle 
+coordinate 
+World 
+Ch, 
+Vu 
+Heh 
+coordinate 
+SS 
+system 
+The on-going technical bulletin where the graphic 
+hackers hang out and show off their latest demos. 
+—Kevin Kelly 
+[Suggested by Eric Haines] 
+By controlling the mix of chaos and order in noisy images, artists can 
+create textures resembling wood grains, rug weavings, and even 
+watermelons. 
+Wheel 
+coordinate 
+system 
+2wh 
+

@@ -1,0 +1,195 @@
+218 GOSSIP 
+HE GENESIS OF THIS BOOK lies in a 
+low-rent, high-yield Critical Informa- 
+tion Service begun twenty years ago by 
+Stewart Brand. Conceived as a mobile 
+truck store, the idea survived as a port- 
+able store printed on newsprint. The 
+store, the Whole Earth Catalog, was a 
+moveable education for Stewart’s friends who were recon- 
+sidering the structure of modern life and building their own 
+version of it on communes in the backwoods. The Catalog 
+evaluated knowledge needed for these tasks, the kind of 
+information which schools never taught: how to start a 
+farm, run local politics, teach kids, build a house, make a 
+business. It was a short course in innovation. 
+It started as a cheaply printed quarterly publication, fed by 
+suggestions and recommendations of users until it became 
+a series of accumulated books (The Last Whole Earth 
+Catalog, 1971; The Whole Earth Epilog, 1974; The Next 
+Whole Earth Catalog, 1980; The Whole Earth Software 
+Catalog, 1984; The Essential Whole Earth Catalog, 1986) 
+not ending with the most recent one, The Electronic Whole 
+Earth Catalog (1988, see page 163). 
+Along the way Stewart birthed a quarterly magazine more 
+modest in its expectations than the Catalog, and more 
+successful in chuming up innovation. Called the 
+CoEvolu- 
+tion Quarterly from 1974 to 1984, the journal changed its 
+name to the Whole Earth Review during a mild spell of 
+schizophrenia in the midst of the personal computer revo- 
+lution. In that computer craziness, Stewart saw something 
+deep brewing and set off to investigate. I remained as 
+editor of the magazine in his absence. 
+His poking about brought Stewart to the busy labs of aman 
+whom he had encountered many years before in a pioneer 
+book called The Architecture Machine. The author, Nicho- 
+las Negroponte, was now heading a world renowned 
+research center, the MIT MediaLab, at MIT in Cambridge, 
+Massachusetts. Negroponte was “inventing the future” by 
+asking the simple question, “what happens if TV, comput- 
+ers, and books all merge into one media?” He presented his 
+answers as small do-able experiments, or demos. Stewart 
+was hanging out writing a book about this den of invention 
+(see page 180), asking a simple question himself, “how do 
+you hook up the human nervous system to the global 
+information network?” 
+In parallel, I was exploring my own question, “what is the 
+natural history of information?” in Whole Earth Review. 
+All three questions spawned this book, Signal. 
+In reporting this esoterica, I began to hunger for a practi- 
+cal manual. If this is the information age — a time ruled by 
+the adroit wielding of information, rather than of materials 
+like gold or oil — what are useful information tools? How 
+does information work? It proliferates so rapidly, can you 
+have too much of it? What utilities do you use to keep it 
+under control? 
+Ienvisioned a small, quickly produced book similar to the 
+original Catalog in its use of immediate processes. The 
+book should employ the same tools it reported: electronic 
+networks, personal computers, affordable laserprinters, 
+Polaroid film, and copy machines. Ideally it should be 
+done rapidly with a short cycle from user experience to 
+editorial filter to transmission by desktop publishing. It 
+should give an overview to frontiers that are still isolated, 
+informing other pioneers 
+of the breadth of their ter- 
+ritory. Ideally, it should 
+speak to (and be produced 
+by) the new inhabitants — 
+young 
+mavericks. 
+It 
+should promote 
+trying 
+stuff. 
+I had a hard time selling 
+the idea to publishers. 
+(Point Foundation, 
+the 
+fiscal agent for Whole 
+Earth ceased to be a pub- 
+lisher of books after the 
+Epilog, 1974.) There was 
+no classification for what 
+I had in mind; there were 
+no books already like it, a 
+terrible pair of no-nos 
+from a marketeer’s view- 
+point. The concept was as 
+difficult 
+to describe as 
+information itself. It was 
+very expensive 
+to re- 
+search 
+which made 
+it 
+more unappealing. It was 
+a good idea. 
+The solution was to try the notion as a special issue of 
+Whole Earth Review. Jeanne Carstensen and I waded into 
+the swamps of communication technology and came back 
+with 288 pages ofnews which Jeanne edited into 144. We 
+mailed that issue, SIGNAL, in the fall of 87, soliciting 
+feedback and suggestions of where to search for more. 
+Reader response in both forms (yeas and more suggestions 
+of tools) persuaded me that this was marketable news. 
+By winter New York was beginning to think the same. I 
+issued our proposal again. We cut our projected expenses 
+further by relying more on the Macintosh for such chores 
+as proofreading (we cut several of the usual many proofs 
+by sending the copy through aspellchecking program) and 
+layout. Finally in December, 1987, we got an offer from 
+Harmony/Crown Books which we accepted after negotia- 
+tion. 
+The book began in eamest about the first of the year, 1988. 
+First hire was Richard Kadrey, an upcoming cyberpunk 
+science fiction author. His first novel had just hit the 
+bookstores, unbeknownst to me. Everyone I bumped into, 
+including my brother, seemed to be reading his Metroph- 
+age (Ace Special, see page 181). It’s gone around the 
+office, its plot gabbed about during lunch, so I’ve hardly 
+needed to read it. I would guess that there is plenty in the 
+research Richard did for Signal to be grist for his next 
+novel. 
+Second hire was Sally (Sarah) Vandershaf who had a 
+suitable background as a researcher for Time-Life Book’s 
+series on computers. Sally went from a complete Macin- 
+tosh innocent to a desperate Macintosh computer game 
+junkie in the span of five months. She figured out it was 
+very easy to score free review copies of the games. She de- 
+voured every one she could locate and disappeared into 
+them for hours every day while trying to locate the Seventh 
+Mirror in the dungeon of Trantor or some such. Her 
+productivity skyrocketed. She turned in every page ahead 
+Holy smoke! After interminable 
+hours before the Mac screen, the 
+face of Kevin is sucked into his 
+computer via the Apple Scanner. 
+of time. When she finished 
+her section first, she helped 
+work on the others. Long live 
+the dragons of Shadowgate! 
+Sarah Satterlee was the third 
+editor hired to create Signal. 
+More than anyone else, Sarah 
+took to the Macintosh like it 
+was her native habitat. I took 
+my “I wonder if we can do 
+this?” questions to her, and 
+she usually had it already fig- 
+ured out. Relying on her expe- 
+rience as co-producer of the 
+Goodfellow Catalog of Won- 
+derful Things, a catalog of 
+neat handmade crafts from 
+around the country, Sarahcast 
+Business 
+Investigative journalists are taught to follow the 
+money to get the real story. Here’s what happens 
+to the $16.95 you paid for this book. 
+7.20 to Harmony Books 
+7.12 to the bookseller 
+1.36 to book wholesaler 
+.19 to John Brockman Assoc. 
+08 to Whole Eart 
+16.95 Signal 
+John Brockman is Whole Earth’s literary agent. He 
+takes the industry standard 15% of our royalties 
+for negotiating the nit-picks in the contract. The 
+wholesaler’s deal is considerably more straightfor- 
+ward. He buys a crate full of the books, inventories 
+them, and hopes to diwy them up among the 
+booksellers. As middleman he'll siphon off more 
+than we'll get. At the end of the line is the book- 
+seller who takes a fair chunk of the change for the 
+worrisome toil of persuading ordinary folk to come 
+in and actually pay for information. Booksellers 
+hedge their reasonable risk with the option to re- 
+turn unsold books to the publisher. 
+The publisher reaps the most because they have 
+the most to lose. If this book bores the browsers in 
+the stores, Harmony is out the $152,000 they have 
+probably invested into it. Beside the cost of printing 
+an initial lot of 35,000 books (which costs them 
+15% of the cover price, or $87,500) they would 
+also lose the $65,000 advance they paid us. On 
+the other hand they need only sell 21,100 copies of 
+Signal to break even on the printing and advance 
+expenses. That doesn’t count what they'll spend 
+on promotion (usually figured as 10% of the net 
+sn
+ae 
+tr 
+

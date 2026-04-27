@@ -1,0 +1,211 @@
+n 1945, a budding science writer named Arthur C. Clarke first envisioned placing 
+a satellite in orbit 22,300 miles directly above the equator, where it would appear 
+stationary to receivers on the ground. Today dozens of communications 
+satellites orbit the “Clarke Belt,” and more than 4.3 million parabolic dishes are 
+installed in the backyards of America alone. The launch of DBS (direct broadcast) 
+satellites in 1994 made it possible to bring down 150 channels on one eighteen-inch 
+antenna, at a total hardware cost less than $800. 
+So what’s on those “birds” that you can’t already receive on your local cable or that 
+old rabbit-ears antenna? Well, how about the latest news from China, Portugal or 
+Peru. Or twenty-four-hour coverage of NASA flights. Or computer advice. Take your 
+choice of Mac TV, The Computer Network channel or New Media Computer News. 
+Of course these nuggets are nearly lost in the barrage of thousands of hours of movies 
+and the same old TV dreck: sitcoms, dog racing, religious shows and endless shopping 
+networks (hawking everything from hunting knives to fine art). Pay channels are 
+proliferating to serve the new “mini mass markets”: a golf network, at least one 
+channel devoted solely to talk shows, another with quilting lessons, more religion 
+networks and, of course, hard-core pornography channels (which have mostly moved 
+to Canadian satellites to avoid lawsuits). 
+Some special-interest groups are well served: Radio Talking Book Network offers an 
+audio channel with sight description of PBS and nature programs, and the In Touch 
+Service provides readings for the sight impaired. The Americana TV channel features 
+bluegrass musicians, folk programs and storytelling. And special audio channels 
+transmit radio stations in almost every format. —Kim Spencer 
+Satellite TV Week * ONSAT 
+These weekly guides list all the satellite TV 
+programs viewable in the Westem Hemi- 
+sphere, and indicate whether they are 
+scrambled or transmitted in the clear. —KS 
+The World of Satellite TV 
+A readable handbook useful to both 
+experienced dish owners and 
+newcomers. —KS 
+e 
+In December of 1985... an American 
+satellite (ATS-6) was leased to India for an 
+experimental project that transmitted 
+television programming into satellite earth 
+stations located in remote villages across 
+the subcontinent. English amateur radio 
+enthusiast and BBC technician Steve Birkill 
+learned of the project and set out to build 
+his own receiver and antenna for these 
+transmissions...From well outside the 
+satellite’s footprint, with a five foot antenna 
+made from screen, he proved that individu- 
+als with limited resources could still bring 
+satellite television into their own homes. 
+= 
+cuioe 
+ica’s WEERLY SATELLITE 
+AMER! 
+= 
+=F 
+a 
+co 
+ne boys 
+; L- 
+pack! 4 
+e 
+Single Channel Per Carrier (SCPC) is an au- 
+dio transmission system that commonly is 
+used to transmit a variety of audio program 
+services via satellite. Selected transponders 
+on Galaxy, Satcom K, Anik E and Morelos 
+satellites collectively relay more than 150 
+channels of audio programming around the 
+clock. These SCPC services offer a wide 
+Satellite TY Week 
+$52/year (52 issues) from Fortuna Communications/ 
+Satellite TY Week, 140 S. Fortuna Blvd., Fortuna, CA 
+95540-0308; 800/345-8876 
+ONSAT 
+$49.95/year (52 issues) from Triple D 
+Publications, PO Box 2347, Shelby, NC 
+28151-9976; 704/482-9673 
+The Hidden Signals on 
+Satellite 
+TV 
+This book helps you modify a home re- 
+ceiver to decipher the mynad data 
+communications hidden on TV satellites: 
+teletext services, stock market reports 
+and commodity news, digital radio 
+channels, private corporate communica- 
+tions and more. Such eavesdropping 
+may, or may not, be legal. —KS 
+e 
+Satellite capacity is huge. We talk glibly 
+about a transponder being 36 Megahertz 
+wide, little realizing that takes up everything 
+from sound waves to well up into the 
+lower portion of the VHF spectrum. Do 
+you have any idea how many 10 MHz-wide 
+AM (as in broadcast radio) signals could be 
+shoved into that much spectrum if some- 
+body tried? Well, the answer is 3,600... 
+And that’s for one transponder. SATCOM 
+and WESTAR have 24 transponders and if 
+one such satellite was utilized for AM radio, 
+we would have 86,400 “clear channel” 
+continent-wide, AM broadcasting channels 
+to play with. 
+e 
+Sure, you know all about TV and the won- 
+derful world of R-rated films, unending 
+sports, non-stop religion, or Ted Turner's 
+attempt to rewrite the news coverage busi- 
+ness with dawn-to-dawn reporting. But you 
+probably don’t know where to tune in the 
+current Kenai Flight Service Weather Fore- 
+casts from Anchorage, or National Public 
+Radio, or several dozen Holidex (Holiday 
+Inns of America) toll-free reservation line 
+circuits, or a major computer company’s 
+inter-office, 24-hour 
+eo 
+a day satellite 
+fis 
+relayed 
+executive 
+“tie-line”. .. 
+The 
+The Hidden 
+Signals on Satellite TV 
+Thomas P. Harrington. 1992; 238 pp. 
+ISBN 0-916661-04-0 
+$19.95 ($22.95 postpaid) from Universal 
+Electronics, Inc., 4555 Groves Road, Suite 
+13, Columbus, OH 43232; 800/241-8171, 
+fax 614/866-1201 
+selection of program possibilities ranging 
+from news broadcasts, talk radio and com- 
+modities reports, to religious broadcasts 
+and a wide spectrum of music formats. . . . 
+dish owners in rural farming communities 
+can tune in to the weather, agricultural and 
+farming services that can keep them up to 
+date with the latest farming developments. 
+The World of Satellite TV 
+Mark Long & Jeffrey Keating. 1992; 302 pp. 
+ISBN 0-929548-07-8 
+$24.95 ($27.95 postpaid) 
+Available volumes: The 
+Americas. 1992, ISBN 0- 
+929548-07-8; Europe, Af- 
+rica and the Middle East. 
+1993, ISBN 0-929548-10-8; 
+Asia and the Pacific Rim. 
+1992, ISBN 0-929548-08-6. 
+Each $24.95 ($27.95 post- 
+paid) from MLE Incorpo- 
+rated, PO Box 159, Winter 
+Beach, FL 32971: 305/767- 
+4687, fax 407/589-941 | 
+—— 8,000 MILES ——— 
+Steve Newman’s 
+Satellite TV Picks 
+Steve Newman is a meteorologist who 
+publishes “Earthweek: A Diary of the 
+Planet.” Syndicated in | 20 newspapers 
+worldwide, “Earthweek” reports on 
+global weather, and natural and man- 
+made environmental events. At his 
+small ranch in Northern California, 
+Steve's five dishes receive weather data 
+and monitor news reports from around 
+the planet. Here are some of his favor- 
+ite satellite TV and radio programs: 
+¢ Up-to-the-minute news from all over the 
+globe: BBC Breakfast News (at 3:00 am 
+Eastern); RTVP from Lisbon, Portugal; 
+Dubai TV News; Reuters closed-circuit 
+news feeds from all continents. 
+* International TV programs: Latin Ameri- 
+can news and game shows on the SUR 
+network; TV5, a channel devoted to French 
+TV programs; the SCOLA language-educa- 
+tion channel showing programs from more 
+than thirty-five national TV networks. 
+* Country dancing on TNN 
+(The Nashville Network). 
+* Television network programming: If he 
+misses a favorite show, Steve can catch it 
+later that evening on the transmission from 
+Anchorage, Alaska. 
+* Music and information on audio 
+subcarriers; The front page of tomorrow's 
+New York Times is read each night at 
+1 1:00 pm Eastem on WQXR radio; five 
+hours of live Grand Ole Opry Friday and 
+Saturday nights at 7:30 Easter, on an ex- 
+tra audio channel of TNN; Jazz stations 
+KJAZ (Alameda, CA), KLON (Long Beach, 
+CA), CBC-FM (Toronto). 
+Also: Ingenious: More than twenty of the 
+world's wire services and information 
+databanks — including Agence France 
+Press, Tass (Russia), Xinhau (China), 
+Kyodo (Japan) — downlinked via satellite 
+dish to a standard PC. Also available on 
+many cable systems. —KS 
+POLAR AXIS 
+POLAR MOUNT 
+PARALLEL TO POLAR AXIS WITH SLIGHT 
+DECLINATION ADJUSTMENT FOR LATITUDE 
+N 
+DISH CAN ROTATE AROUND MOUNT TO 
+= 
+FOCUS ON AVAILABLE SATELLITES 
+EARTH STATION 
+

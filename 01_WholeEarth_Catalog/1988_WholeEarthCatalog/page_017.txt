@@ -1,0 +1,122 @@
+ARTIFICIAL LIFE 
+13 
+band of biologists, computer scientists, nano-technology 
+advocates, and mathematical geneticists. For an entire 
+A 
+A 
+6 
+Lessons of the unreal. Dutch mathematician and biologist Aristid Lindenmayer (right 
+Artificial Life 4-H Show 
+waves a fall aster plant he pulled up from the parking ‘4 
+perimeter. aa. 
+: 
+of the grandfathers of biological mathematics — tracing the mathematical 
+patterns in 
+| 
+by Kevin Kelly 
+natural growth. Using eed primed with very sand rules, he has Seid the 
+| 
+Some snapshots I took at the First Artificial Life 4-H 
+com plex growth of wildflowers. He determined that exactly three distinct signals traveling 
+| 
+Show, held September 1987, at the Center for Nonlinear 
+up and down a plant stem will produce nearly all observable budding patterns. Interest- 
+Studies, Los Alamos National Laboratory, New Mexico. 
+ingly, although there is an extraordinary visual match between real blossom sequences 
+This landmark conference brought together an eclectic 
+and artificial ones, there’s been no botanical chemical signals discovered yet. 
+The dance of leaf growth and blossoms opening and fading in lvy-leaved wild lettuce 
+(Mycelis muralis) is 
+week the workshop 
+governed by “two 
+| 
+showcased Paine” 
+signals and accumu- 
+| 
+val organisms in- 
+lated delay” in 
+| 
+fused with a touch 
+Lindenmayer's color 
+| 
+of artificial life. 
+computer graphic dis- 
+play (top). 
+: 
+The power of one gene 
+| 
+can be seen in the bo- 
+| 
+tanical work of 
+1 
+Przemyslaw Prusink- 
+iewicz. Prusinkiewicz, 
+Emergent behavior was THE keyword at the conference. Craig 
+Reynolds of Symbolics, Inc., a high-powered graphic computer 
+developer, points out the flocking behavior of winged creatures 
+working at the University of Regina in Canada, won the 
+«deli 
+HRA 
+: 
+| 
+, 
+, 
+ane 
+deo 
+“Breaking 
+the 
+se 
+ee 
+: 
+: 
+Rear 
+Blue Ribbon prize at the first annual Artificial Life 4-H 
+Ses ae 
+: 
+ee ne 2 
+Etibs aS ni ay 
+color fishes in his computer aquarium to swim round and round in invisible 
+Show for his colorful garden of artificial flowers grown in 
+; 
+; 
+: 
+lass bowl. The fishes would eat others of a different color, 
+grow larger, mate 
+a computer. His plants had the individual sai and dis- 
+pee bancoek aie one Fonte fel version. 
+“ 
+produce offspring of the same color, and die after a een aie of time. 
+tinction you find in real plants — each sample of a spe- 
+F 
+Farie 
+: 
+wa 
+He could alter the rates by tweaking the parameters on the side of the screen. 
+cies looks similar, but individually different. The laws of 
+eee 
+ee ea 
+ataet pie, 
+tcuinted. Each poe 
+Usually the aquarium would stabilize to a half dozen adult fishes, as shown 
+their growth are complex simplicity. A few principals, 
+here. Once, at a computer graphics show, he set the machine up as a visual 
+governed by a few numbers, develop this complex artifi- 
+soother in room where computer artists were resting. During the evening when 
+cial plant (above). The same formula, with only one 
+he was gone, they fiddled with the parameters and left it on overnight. The next 
+single number accidentally altered late one evening, pro- 
+morning he came in to see unanticipated evolution: sixty very tiny fish, all of 
+duced this radically transfigured mutation (above right). 
+one species, crammed into the bowl like sardines. They were swimming round 
+in circles as a school, a behavior he had never designed into the system. 
+Learning how to school. Peter Broadwell had a story to tell about the fishes 
+in his Fishbowl Project, "Plasm: A Fish Sample." He designed the two different 
+set flying with only a few instructions: look out for obstacles and 
+don’t bump into your neighbor, but don’t stray too far away, ei- 
+ther. Everything else that happens is “emergent” — not pre- 
+planned, not fixed, and not expected. The boids fly as a flock on 
+a pre-ordained route, yet each boid can do what itwants, and 
+does. In one trial episode (below), a flock of boids divides to fly 
+around a pillar. One boid conks into the pillar, flutters monetarily, 
+than straggles behind. Nobody ever plotted that. 
+

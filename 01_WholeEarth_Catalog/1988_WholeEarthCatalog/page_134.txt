@@ -1,0 +1,108 @@
+130 EXPERIMENTAL MUSIC 
+ani 
+| Wl 
+ei | 
+Stephen Scott's Bowed Piano Ensemble seen from the rafters. 
+nner 
+Experimental 
+Musical 
+Instruments 
+Bart Hopkin, Editor 
+$20/year 
+(6 year) from: 
+Experimental Musical 
+Instruments 
+P.O. Box 784 
+Nicasio, CA 94946 
+415/662-2182 
+The second step following a successful revolution 
+is to build new kinds of tools to overthrow the next 
+success. After the acceptance of far-out music, 
+here come radically insurgent instruments — harps 
+50 feet long, steel cellos, drums that float on water, 
+and devices that amplify the natural micro-sounds 
+of a fly heartbeat or a seedling sprouting. All are 
+discussed in this fascinating newsletter with great 
+emphasis on trying out newly invented apparati 
+that make musical sounds. 
+— Kevin Kelly 
+Se 
+THE PUGET SOUND WIND HARP 
+proposed building/instrument on Puget Sound 
+Tony Levin on tour with 
+the Stick 
+The Stick 
+Suggested retail $1041. 
+The new hybrid system 
+_ 
+with 5 MIDI'd strings is 
+$1891; 10 MIDI string version 
+$2491. Catalog free from: 
+Stick Enterprises, 88320 Yucca 
+Trail, Los Angeles, CA 90046; 
+213/656-6878 
+Imagine an electric guitar; now, 
+lose the body; widen the neck to 
+accommodate a set of bass 
+strings, and stretch the whole 
+thing out to 5 1/2 octaves. What 
+you have is The Stick, the 
+brainchild of jazz musician and 
+inventor Emmett Chapman. 
+You play the Stick by tapping 
+the strings against the 
+instrument's neck, piano- 
+style, to produce an amazing 
+variety of tones and sound textures. A 
+great advantage of the Stick’s two-handed 
+playing technique is that it gives you com- 
+plete freedom to play both the melody 
+and bass parts simultaneously. 
+| 
+Chapman’s most recent innovations are 
+2 MIDI-compatible versions of the 
+Stick, 
+a5 MIDI'd string model, and a 
+full 10 MIDI string verion. Older 
+models can be retrofit by Stick 
+Enterprises with MIDI pick-ups. 
+— Richard Kadrey 
+Score excerpt from Studies (1975) 
+by Dexter Morrill. 
+Computer Music 
+Journal 
+Curtis Roads, Editor 
+$26/year 
+(4 issues) from: 
+MIT Press Journals Dept. 
+28 Carleton Street 
+Cambridge, MA 02142 
+617/253-2866 
+The international experts cover everything about 
+computer music in this quarterly. Upcoming sym- 
+posiums and scholarly dialogue on the latest sys- 
+tems and techniques. Good reviews of the newest 
+products and publications. Sometimes includes a 
+special soundsheet or flexi-disc with examples of 
+some wonderful music. There is no more authorita- 
+tive place to get information on the subject. 
+— Tim Ennis 
+5 
+The robot is designed to track a human singer who sings 
+into a micophone connected to the system. The robot 
+plays the organ along with the human, with tempo regu- 
+lated in part by the vocalist. For pitch analysis, a system 
+of five narrowly tuned bandpass filters is used to derive a 
+fundamental frequency every 30 msec. If the singer is 
+out of tune, the organ player can adjust the tuning of the 
+organ for a more 
+euphonious 
+ensemble effect. 
+Ironically, the 
+robot musician 
+cannot hear its 
+own perfomance. 
+The Wabot, 
+designed 
+by Ichiro Kato 
+

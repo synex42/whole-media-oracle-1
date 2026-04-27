@@ -1,0 +1,268 @@
+20 
+5@@ REM PLAY AGAIN OPTION 
+Sid PRINT “PLAY GALE? 
+529 HEM GET 
+53@ REPLYS=1 
+PROGRAMMING LANGUAGES 
+Programming 
+Language Books 
+by Richard Kadrey 
+What follows is a list of computer language books that 
+we think will help you in that eternal quest for tight 
+code. We’ve listed two books, one beginner and one 
+advanced, for the four most popular languages currently 
+in use. This list is by no means comprehensive, but is 
+just something to get you started. If you have questions 
+about books we didn’t list or languages we didn’t men- 
+tion, try calling your public library or Computer Liter- 
+acy Bookshops (see review on this page). This list was 
+put together with Laurie Hahn of the Computer Literacy 
+Bookshop in San Jose. 
+Basic: Getting Started 
+William S. Davis;1981; 69 pp., $7.95; 
+Addison-Wesley 
+Basic Handbook: Encyclopedia of the BASIC 
+Computer Language, 3rd edition 
+David A. Lien;1986; 826 pp., $24.95; Compusoft 
+Proficient C: The Microsoft Guide to Advanced 
+C Programming 
+Augie Hansen;1987; 512 pp., $22.95; Microsoft 
+3 
+78M GRE PLAYER'S 
+ANSWER 
+INPOT "NUMBER OF 
+WORDS 
+VR MESSAGE 
+wENw 
+Beginners’ 
+BASIC explains 
+all the fundamen- 
+tals of BASIC 
+programming, 
+34% NEXT 
+I 
+from 
+ON EUNER OF 
+WORDS 
+flowcharting to 
+subroutines, 
+string handling to 
+graphics, PEEKs 
+and POKEs. 
+S 
+io NW<408 NAPOTAENZIG 
+389 REM TRPUT WORDS 
+Wee 
+NOMPER IM MESSAGE 
+<7@ 
+TE SWSDAW THER 410 
+429 BE CHECK BACH WORD 
+428 SCa@:GOSuUS 
+1698 
+en 
+waeene 
+43G REM DISPLAY 
+MESSAGE AND SCORE 
+442 PRINT 
+“THE MESSAGE 
+WAS... 
+$50 POR f72?0 aw 
+462 PRINT MESSAGES 
+(1) 
+79. NEXT T 
+Ove Key reper 
+77” 
+420 PRINT 
+NKEYS 
+499 PRINT “YOUR SCORE 
+S 
+%378C7°4” 
+(X OR N) 
+54a 
+IF REPLYS]"Y “THEN 
+59 IF BEPLYS<> “e” THEN 
+$2a 
+568 REM END OF GAME 
+57 ERD 
+Beginners’ BASIC 
+Peter Lear 
+$5.95 
+($7.95 postpaid) from: 
+Hayes Publishing, Ltd. 
+3312 Mainway 
+Burlington, 
+Ontario L7M 1A7 
+Canada 
+416/335-0393 
+or Whole Earth Access 
+My new favorite instruction book presents the 
+concepts of BASIC programming in only 64 pages. 
+The colors and pictures are comfortable and 
+friendly. Explanations are quick and easy to grasp. 
+Written for children, great for adults, here is simple 
+material, simply presented, without muddying the 
+waters. An excellent book. 
+| — James Stockford 
+File Copying 
+In outline, 
+act a character 
+C Programming Lan- 
+guage, Second Edition 
+Brian W. Kernighan and 
+Dennis M. Ritchie; 1978; 272 
+pp., $28.00; Prentice Hall 
+gela new character 
+Converting this into C gives 
+main() 
+int c; 
+© = getchar(); 
+Oh! Pascal, Second 
+Editon 
+Doug Cooper and Michael 
+Clancy; 1985; 607 pp., 
+$24.95; Norton 
+Mastering Turbo Pascal Files 
+Tom Swan; 1987; 327 pp., $18.95; Sams 
+Complete Book of Macintosh Asembly Lan- 
+guage Programming 
+Dan Weston; 1986; 568 pp., $25.95; Scott F. 
+Assembly Language Primer for the IBM PC 
+& XT 
+Waite Group and R. La Fore; 1984; 501 pp., $24.95; 
+NAL 
+Using QuickBASIC 
+Don Inman and Bob Albrecht 
+1988; 436 pp. 
+$19.95 postpaid from: 
+McGraw-Hill Book Company 
+Princeton Road 
+Hightstown, NJ 08520 
+609/426-5254 
+or Whole Earth Access 
+QuickBASIC is to ordinary BASIC what the Indy 
+500 is to roller derby. By using the tools presented 
+in this book, BASIC can be transformed into a 
+powertul, professional level language with the 
+modular characteristics of, say, Pascal, without 
+giving up the interactive qualities of BASIC. Quick- 
+BASIC also lets you write, compile, debug, and run 
+programs in one environment. 
+Using QuickBASIC is written primarily for people 
+with some programming experience, but it does 
+contain a quick intro to BASIC. From there, the 
+book moves onto to QuickBASIC, providing a 
+clear, structured overview of the language with 
+sections on building a toolkit, editing your pro- 
+File 
+Edit 
+View 
+Search 
+Run 
+Debug 
+Calls 
+Inserting 
+Fron the Clipboard 
+SHIFT+INS 
+Live (Below) 
+ENTER 
+(Above) 
+CTRL 
+Deleting 
+Current Line 
+CTAL+Y 
+To End of Line 
+CTRL+Q ¥ 
+Finding 
+Copying 
+Selected Text CTRL#\ 
+Selected Text 
+CTRL+INS 
+Repeat Find 
+BB 
+History Ped SHIFT+F1B 
+Selecting 
+Qharacter/Line 
+SHIFT+ARROW 
+Word (Left/Right) 
+SHIFT*CTRL+ARBOW 
+Vindou (Up/Down) 
+SHIFT+PGUP/PGBN | 
+(Hext Papel :ASCI) chart) 
+Figure 4 
+Given getchar and putchar, you can write a surprising amount of 
+useful code without knowing anything more about 1/0, The simplest exam- 
+ple is a program which copies its input to its output one character at a time. 
+while (character is not end of file signal) 
+output the character Just read 
+/* copy input to output; 
+ist version 
++#/ 
+while 
+(c != EOF) 
+( 
+putchar(c); 
+c¢ = getchar(); 
+— From C Programming 
+Language, Second Edition 
+Computer 
+Books By Mail 
+Newsletter free from: 
+Computer Literacy 
+Bookshops, 2590 North 
+First Street, San Jose, 
+CA 95131; 408/435- 
+1118 
+All of the computer and software books discussed 
+in Signal are available through the Computer 
+computer book available (over 20,000 titles), as 
+well as 150 different computer and computer- 
+and suggest the one that might be best for you. 
+And they’re willing to ship your merchandise any- 
+where in the world. Good people to have on your 
+side. 
+— Richard Kadrey 
+grams, writing sub-programs, creating sequential 
+structured and unstructured files, debugging, and 
+writing executable files for a MS-DOS environment. 
+If you started out in BASIC and moved on to other 
+languages because you couldn't find the power 
+you needed, this book could have you looking at 
+BASIC code in a whole new way. Inman and Albre- 
+cht also have a diskette available with all the pro- 
+grams discussed in the book, and then some. They 
+have a teachers’ guide, too, for educators who 
+want to start their kids off right. — Richard Kadrey 
+When you first load QuickBASIC, at the right end of the menu bar 
+you will see Fi=zHELP. Press the F1 key and a Help screen appears, 
+as shown in Figure 1. The keyboard combinations used to perform 
+specified functions are listed in separate boxes. You can return to the 
+editing screen any time by pressing the ESC key. 
+From the Help screen, you can use the TAB key to move the cursor 
+to the Keywords box and press ENTER. A list of BASIC keywords 
+(words which have specific programmatic meanings in the BASIC en- 
+vironment) appears, as shown in Figure 2. To see information ona 
+given keyword, use the arrow keys to move the highlight to the 
+desired keyword and press ENTER. 
+File 
+Edit 
+View 
+Search 
+Run 
+Debug 
+Calls 
+DEFINT 
+ENVIRON 
+FIELD 
+DEFLNG 
+ENVIRONS FILEATTR 
+EOF 
+FILES 
+END 
+DEF 
+DEFDBL 
+ENDIF 
+Figure 2 
+Literacy Bookshops. They carry pretty much every 
+related magazines. If you aren’t sure of the book or 
+magazine you want, they can research the subject 
+

@@ -1,0 +1,265 @@
+COMMUNICATIONS 
+WRITING WITH COMPUTERS 
+OOD WRITING USUALLY MEANS REWRITING. You gradually nudge your sentences closer 
+and closer to the image you have in mind. Nothing helps that process like a computer or electronic 
+typewriter (with memory). Yes, you can produce equally fine writing with a regular typewriter 
+or quill pen, but it is a much more difficult, less rewarding process. As psychologist-turned- 
+software-evaluator Charles Spezzano wrote, “A good word processing program can change your whole at- 
+titude toward writing, while pens and paper keep you stuck in your old compulsive habits.” 
+The arrangement of the 
+menu screen for PC-WRITE 
+niftily mirrors the arrange- 
+ment of function keys on 
+the PC keyboard. The left 
+three columns reflect the 
+three rows of gray shift and 
+““F’’ keys; the gray shift and 
+white cursor pad keys are 
+on the right. This map, 
+then, tells you what each 
+key does. The seven other 
+When you type on a computer or electronic typewriter, your words go into the computer’s memory. You can 
+move them around. You can fix errors. You can revise, rethink, restretch your imagination. When you have it 
+the way you want it, you can print it out. If you discover an error after printing, fix it and print it out again. 
+menu screens are equally 
+thrifty and compact. 
+Legend: 
+Fi 
+FILES 
+Su 
+SAVES 
+switch files. 
+“page breaks 
+F3 
+COPY 
+mark 
+mark 
+spe marked. 
+“insert file. 
+FS CLEAR 
+tet 
+marked 
+“eark entire. 
+F? 
+REFOMMAT 
+ragraphs 
+- 
+marked, 
+*reform mode. 
+FS FIND 
+ress arrow 
+Three types of writing computers now exist for individuals. 
+to select topics: 
+SIL tiscersor wovenent, Simple editing, Marked blocks, Search/replace 
+Saving/switching files, Raler/windows, Simple formats, Printer fonts/comands 
+weans with Ctrl key 
+F2 RULER 
+reset margin, 
+split screen. 
+“read Ruler. 
+“|F4 
+DELETE 
+mark; delete 
+to hold area. 
+“insert hold. 
+Fo MOVE 
+mark, mark, 
+move marked 
+“ark to file. 
+F8 CASE 
+change case, 
+or marked. 
+*center line. 
+F168 REPLACE 
+search and. 
+rép.ace once 
+Esc 
+un-del 
+*R swap 
+“del wd 
+TAB 
+to stop 
+*Shift 
+* 
+key 
+Alt 
+enters 
+font 
+* means with Shift key 
+(-Bksp | NemLock 
+delete} 
+switch keys 
+*L swap] 
+from cursor 
+“del wd] 
+to nembers. 
+(Eater 
+|Home 
+7/Up 
+ 8/Pglp 
+9] Search- 
+create} 
+left Mj a line] 
+scroll] 
+to beg 
+a line|*start 
+|*to top|*screen|*go end 
+break, |"isbook 
+“paragr 
+start 
+|Left 4 
+S| Right 6]Search+ 
+line. | cursor 
+cursor] 
+to end 
+*align | *side 
+*side | search 
+“del In| “word 
+“word | for 
+PrtSc 
+|End 
+i|Down 
+2/PgPn 
+3) Find 
+replay} 
+rightM} 
+a line] 
+scroll] 
+text 
+*print 
+|*end Inj*bottom}*screen| 
+set 
+“reset 
+|“tobook 
+Ins 
+8 
+insert space,| 
+delete te: 
+[e.: 
+° 
+Scroll Lock 
+entered text 
+overwrite or 
+pashright old 
+ryt 
+ney 
+“papagr] 
+.3: 
+$ 
+ra 
+oy 
+bey 
+PC-WRITE: $10 ($75 with 
+registration) from Quick- 
+soft, 219 1st Avenue North, 
+#224, Seattle, WA 98109. 
+Microsoft Word: $450; infor- 
+mation free from Microsoft 
+Corp, 16011 Northeast 36th, 
+Box 97017, Redmond, 
+WA 98073-9717. 
+Word Proof Il: $65; infor- 
+mation free from IBM, 
+Entry Systems Division, 
+P. O. Box 1328, Boca 
+Raton, FL 33432. 
+Hayden:Speller: $39.95 
+from Spinnaker-Hayden 
+Software, 1 Kendall Square, 
+Cambridge, MA 02139. 
+Punctuation + Style: $125; 
+information free from Oasis 
+Systems, 6160 Lusk Blvd., 
+Suite C 206, San Diego, 
+CA 92121. 
+Turbo Lightning: $95 rrom 
+Borland International, 4585 
+Scotts Valley Drive, Scotts 
+Valley, CA 95066 ($69.95 
+from Whole Earth Access). 
+push right 
+pulloorght 
+ase 
+Personal Computers 
+With Word Processing Programs 
+We prefer either an IBM PC-compatible or Apple Mac- 
+intosh (see pp. 352-353). Whichever you choose, shop 
+around in person. Test-drive as many keyboards and 
+screens as possible. Choose one that feels comfortable. 
+Especially with IBM PC-compatibles, you will have many 
+keyboard and screen choices. More important than the 
+machine is which word processing software you use. 
+We suggest two: 
+PC-Write, a “shareware’’ program for IBM PC and com- 
+patibles, is a great versatile tool and a great bargain. It 
+costs $10. The manual is on disk — you print it out. For 
+$75 you can register it which entitles you to a slick 
+manual and telephone support should you need it. You 
+probably won’t. PC-Write has all the basic word process- 
+ing goodies, it’s blazingly fast, and it blends sweetly with 
+other programs like spelling checkers, telecommunication 
+programs, and especially other public domain (inexpen- 
+sive) programs. Some of the editors at Whole Earth use 
+it in preference to the hundreds of other programs we 
+have around. 
+Microsoft Word, from one of the major computer com- 
+panies, is our favorite powerhouse writing tool. It permits 
+automatic indexes, multiple files on the screen for cross- 
+checking, and many other features. It presents all these 
+features considerately (what other programs call ‘‘mac- 
+ros,’’ Word calls a “‘g 
+Word excels with a mouse, the pointing device that you 
+move with your hand to locate your position on the screen. 
+lossary’’). On both the Mac and PC, 
+—Art Kleiner 
+Electronic Typewriters 
+($150 - $500) Model numbers change too rapidly to 
+recommend, but we hear consistently good reports about 
+Canon and Brother. The most important feature is amount 
+of memory, measured in K or KB (both abbreviations for 
+the same thing, ‘‘kilobytes;’’ one K holds about 150 words 
+of text, or a half a double-spaced page). Get 8K or more. 
+Some typewriters have cartridges where you can store 
+old documents until you want to use them again. Also 
+look for lift-off correction (fixes errors even after they’re 
+put on the page), pitch selection (gives you italic or 
+boldface), and interchangeable print wheels (for different 
+fonts, if you care). 
+—Art Kleiner 
+Dedicated Word 
+Processing Computers 
+These sell for $400 - $1,000. Smith-Corona makes one. 
+We don’t recommend them, because they’re priced 
+almost as high as personal computers, which are much 
+more versatile — even just for writing. 
+_—Art Kleiner 
+For word processing on other computers, see the Whole 
+Earth Software Catalog (p. 354). 
+Beyond elementary “‘typewriting’’ programs are writer 
+aids. Word Proof II (PC/compatibles) and Hayden: 
+Speller (Macintosh) scour through your finished com- 
+puterized text. When they don’t recognize a word’s 
+spelling, they suggest alternatives or let you add the 
+word to their “‘dictionary.’’ Punctuation + Style (PC/ 
+compatibles) does the same for compositional usage — 
+it checks your words against a list of punctuation, ab- 
+breviation, and capitalization conventions, and even 
+monitors for cliches and overused phrases. Turbo Light- 
+ning (PC/compatibles) checks spelling immediately 
+while you type (it signals a misspelling), and includes a 
+thesaurus: if you think a word isn’t quite right, Lightning 
+will suggest synonyms and replace the old word with 
+the new word automatically. 
+Used with a critical eye (for instance, sometimes there 
+are better synonyms than the suggestions from Turbo 
+Lightning), these can gradually improve your writing. 
+—Art Kleiner 
+¢ Word processing carried just a bit further and you’re doing 
+desktop publishing. What you need to know is on p. 316. 
+¢ The best source for buying electronic typewriters by 
+discount mail order is J & R Electronics (p. 348). 
+There is nothing like precise language to cure the lazy 
+babblings possible with a word processor. See Standing by 
+Words by Wendell Berry (p. 297) for inspiration and 
+example. 
+

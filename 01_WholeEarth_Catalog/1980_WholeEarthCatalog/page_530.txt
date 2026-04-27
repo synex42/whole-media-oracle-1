@@ -1,0 +1,303 @@
+a 
+4 
+¥ 
+es 
+kee 
+ee 
+lel 
+Ue 
+oe 
+ei 
+CALC 
+\ 
+i 
+CAT IO LATORS 
+= 
+MMI 
+Ven 
+TT! 
+——) 
+mm 
+oe, my 
+OL 
+ii 
+Ri 
+bey 
+et 
+it Urs 
+ee 
+e 
+by Mike Malone and Art Kleiner 
+Since the great calculator price wars of 
+1975, when dozens 
+of small calculator manufacturers were underpriced out of 
+business by Texas Instruments (T.1.) the business has been 
+dominated by two American companies (T.1. and Hew- 
+lett-Packard) and some new Japanese contenders (most 
+notably Casio). 
+In the meantime, semiconductor tech- 
+nology has steadily improved. 
+Thanks to better integra- 
+tion, batteries, and displays, calculators are now available 
+the size and thickness of a credit card, or built into a 
+watch or pen, or capable of complex programming avail- 
+able just twenty years ago only on computers the size 
+of a small building. 
+Nevertheless, the characteristics of good craftsmanship 
+hold true even for pocket brains. A well-built calcu/ator 
+keyboard will have keys that are firmly set in place-and 
+preferably will feature a click-action to safeguard against 
+multiple entry. 
+The key symbols should be legible and 
+set deep into the keys so they don’t wear off. 
+It doesn’t 
+matter how small the keys are as long as they are spaced 
+properly. 
+The display, whether liquid crystal (silver, with 
+black numbers) or light-emitting diode (illuminated, 
+usually red numbers), should be readable. 
+Particularly 
+with LED, twist the calculator around to make sure you 
+can read the display at a comfortable viewing angle for 
+you. 
+The packaging should be well-sealed and sturdy. 
+Finally, turn on the calculator and fill up the display with 
+numbers; then multiply that number by 10. Does the 
+display switch to an overflow mode with two places for 
+exponents on the right? If not, you may never know 
+you've gone off the display. Now divide by 0. The 
+machine should tel/ you you ‘ve made an illegal operation. 
+SPECIFIC MODELS 
+/f you ‘re just going to calculate mileage and stuff, why 
+spend a lot of money to get a calculator that will compute 
+hyperbolic sine? If it’s going to be sitting around the 
+house, you might want one with a little heft to it; if you 
+plan to keep it in your pocket, get an u/trathin one. 
+The best-liked credit card models are the Casio MOQ 12 
+(about $50), and the so-called “melody card,” the Casio 
+ML71 (about $45). Even though it’s the same mode/ 
+with music, the 71 is cheaper because more of them 
+are produced. 
+For regular sized pocket four-function calculators, get 
+any that’s cheap and disposable. 
+Everybody's got more 
+or less equivalent models: the Texas Instruments T11750 
+(about $18), the Sharp SP8159 (about $16) and the 
+Commodore CIL-30 (about $13) are all fine. For about 
+$40, Casio offers the pocket-sized NQ11 with good human 
+interface: two timers, two alarms, a watch, and a calendar. 
+In higher-priced scientific and financial calculators, you 
+should probably get a programmable model. Program- 
+ming can make a simple but repetitious operation a 
+helluva lot easier. 
+If the programs are keyboard-entry 
+only, keep in mind that the program you’re using will be 
+lost when you turn off the machine. 
+For that reason you 
+might want to spend a little more and get a CMOS-chip 
+based programmable — it will store a program for a year 
+or so after the machine is turned off. A good program- 
+Scientific Analysis on 
+the Pocket Calculator 
+When I’m working on an application involving really 
+serious “number crunching” (any highly mathematical 
+use of 
+acomputer), | almost invariably consu/t Richard 
+Hamming’s 1962 classic Numerical Methods for Scientists 
+and Engineers (1973; $22.50 postpaid from McGraw-Hill 
+Book Company, Princeton Road, Hightstown, NJ 08520), 
+sometimes just for inspiration. Jon Smith has recast 
+Hamming’s computer-oriented methods into forms more 
+suitable for implementation on a pocket calculator and has 
+included substantial material covering additional topics. 
+Careful attention was paid to making the book as useful 
+as possible to a wide spectrum of users — algorithms are 
+designed to minimize keystrokes to reduce error and 
+fatigue and are given in both algebraic and reverse polish 
+notations. Most of the methods work on even the simplest 
+of calculators but variations and ramifications for more 
+sophisticated models are also treated. For those about 
+to take on some of the heavy stuff armed only with their 
+trusty calculator this well-written, well-designed book is 
+a definitive ally. 
+—Marc Le Brun 
+[Suggested by W. James] 
+HP 41C — Hewlett 
+Packard's most powerful 
+Personal calculator 
+$99.95 
+$289.95 
+—Markline 
+—Markline 
+The TI S8C program- | 
+mable calculator 
+This small calculator is packed with performance — it 
+does it all! Complete calculator functions PLUS ultra- 
+Portable digital alarm clock with timer and calendar, 
+precision stopwatch, and special melody feature. 
+In 
+MUSIC mode, you can play a complete scale and have 
+your calculation results played back to you in music 
+tones as well as displayed. Wake or sleep to your choice 
+of two pre-programmed melodies. 
+Set for musical tone 
+on the hour to remind you of scheduled events and 
+appointments. 
+Verify entries with audible tones or just 
+have fun “playing’”’ favorite tunes. 
+$49.95 
+—Markline 
+mable calculator will offer the full spectrum of program- 
+mer’s aids, including subroutining, lopping, flagging, and 
+pausing. 
+The top notch ones even /et you redefine the 
+keyboard to make individual keys represent entire pro- 
+grams. 
+The very best programmable calculators also have 
+such external (peripheral) goodies as magnetic card 
+readers, devices that optically read printed code, printers, 
+added memory, and even video displays. 
+These can be 
+built into the calculator or attached via wires. 
+In programmables, Hewlett-Packard (HP) and Texas 
+Instruments are the names. 
+HPs are more expensive but 
+better built. 
+The models to look at are the HP-38C 
+(about $145) and 41C (about $290), both with CMOS- 
+based continuous memory. 
+The HP-41C 
+is the most 
+powerful pocket calculator that exists. 
+The Texas 
+Instruments TI58C (about $705) is roughly comparable 
+to the Hewlett-Packards, but less expensive. 
+Programming may scare you or seem unnecessary: in that 
+case, choose anon-programmable based on what functions 
+you need. 
+If you’re working with computers, the T| 
+Programmer (about $55) is best. 
+If you’re a physicist or 
+mathematician, you can probably use the Commodore 
+SR-1800 (about $78). For general scientific applications 
+it’s hard to beat the Hewlett-Packard 32 (about $65). 
+The best financial non-programmable calculator is the 
+HP 37-E (about $80). A good printing calculator is the 
+Sharp 1166 (about $85). 
+Commodore’s calculators are usually available through 
+Mr. Calculator — there are stores all over , with a mail 
+order outlet at 160 East E/ Camino Real, Mountain 
+View, CA 94041. 
+Two good mail-order sources for the 
+rest (if you can’t find them /ocally) are Markline, P.O. 
+Box 1750F, Waltham, MA 02154; and Olympic Sales 
+Company, P.O. Box 74545, Los Angeles, CA 90004 also 
+carries a full line of other consumer-oriented electronic 
+gear — electronic games, watches, toys, clocks, radios, 
+phone accessories, etc. 
+™ 
+The Home Computer Revolution 
+Video World 
+There’s definitely a glut of video magazines, but this 
+“Magazine of Electronic Living” serves as the best running 
+scorecard on electronic gadgetry. 
+That’s probably because 
+it’s British; British consumers tend to get new products 
+like Videotext (a television-based information system) a 
+few years before we do. 
+That’s OK; we get to learn from 
+their mistakes. 
+Video World covered the January, 1980 
+Las Vegas Consumer Electronics Show (by all accounts a 
+milestone of silicon decadence) with more verve and 
+insight than any American publication. Also keeps up 
+with the news in other foreign countries. 
+—Art Kleiner 
+Video World 
+John Sanders, Editor 
+£9.50 (about $22)/ 
+year (12 issues) from: 
+Galaxy Publications Ltd. 
+Hermit Place 
+252 Belsize Road 
+London NW6 4BT 
+England 
+“- 
+Typewriter for drunks? Rubber safety keyboard for 
+astronauts? No, it’s a specially designed ‘ergonomic’ 
+typewriter keyboard. Ergonomics is the science of fitting 
+machines to people rather than the other way round 
+which seems to be the aim of the rest of science. Called 
+the ‘Maltron’, presumably after Lillian Malt, the keyboard 
+trainer and designer, the machine is made by PCD Ltd 
+of Farnborough. 
+Key heights have been made to fit the unequal lengths of 
+people's fingers so that unnatural stretches are no longer 
+necessary. Keys for the middle fingers are set deeper into 
+the keyboard than the keys for the shorter ones, The 
+thumbs, which have been under-used all this time are 
+given up to eight keys each all within easy reach. Not 
+only does the keyboard also compensate for unequal 
+strengths of the fingers but due to the shape of the keys 
+it becomes almost impossible to strike the wrong keys. 
+The limitations of the ‘Qwerty’ layout are avoided in the 
+Maltron, which uses 90 percent of the letters of the 100 
+most used words in English in the home row (Qwerty 
+uses 44 percent). Similar ratios have been worked out 
+for six other European languages. 
+The high keying speed (up to 40 percent faster) makes it 
+possible to take dictation directly in plain language. 
+The Home Computer 
+Revolution 
+SP 
+RATER 
+AAO 
+8 
+Scientific Analysis on 
+the Pocket Calculator 
+Jon M. Smith 
+1975, 1977; 445 pp. 
+2nd Edition 
+$16.95 postpaid form: 
+John Wiley and Sons 
+One Wiley Drive 
+Somerset, NJ 08873 
+or Whole Earth 
+Household Store 
+No other introduction book to personal computing comes 
+close. 
+It’s not really about specific machines, but about 
+the heart and soul of this devilishly involving avocation/ 
+vocation. Except for the author’s previous book, 
+Computer Lib/Dream Machines (p. 536), it’s the most 
+entertaining computer book around. And it’s gleefully 
+low-priced. 
+Ted Nelson is an artist. 
+—Art Kleiner 
+e 
+Your computer store — you do have one, almost anywhere 
+in the USA — if you don’t mind driving, that is — your 
+computer store, anyway, gives advice, sells equipment, 
+and helps you with repair. They also may sell prebuilts, 
+possibly even prebuilt S-100 machines, assembled in the 
+back room and guaranteed by themselves. There you 
+can see the machines in operation, daydream with other 
+customers, or get advice from the staff. 
+An important function of the computer store is to 
+provide free information; and an attitude of general help- 
+fulness without regard to sales, with frank answers, 
+appears to be a widespread norm. Naturally they will 
+try to sell you the computers they prefer to sell, but in 
+general the computer stores seem to be fairly straight- 
+forward and honest about facts and advice. 
+They have to, to establish a reputation for integrity; 
+because the hobby grapevine is ferociously efficient. 
+Ted Nelson 
+1977; 224 pp. 
+$2.50 postpaid from: 
+The Distributors 
+702 South Michigan 
+South Bend, IN 46618 
+or Whole Earth 
+Household Store 
+

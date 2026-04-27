@@ -1,0 +1,250 @@
+Patents are one of those facets of the establishment that 
+both baffle and infuriate people. It’s a complex business. 
+This book gives the clearest and most comprehensive expla- 
+nation of the whole patent bit that / have ever seen. /t is at 
+the same time, a reference book intended to help you under- 
+stand patents, and an unintentional denunciation of the whole 
+process. 
+The author shows why we have to have patents, 
+what good they do, and how to get one. He also shows how 
+to get around patents, how long you have to wait, and how 
+much it will cost. He reveals the human biases involved in 
+the patent office, and admits that the government is so 
+poorly organized that they may issue conflicting patents to 
+two different parties at the same time! The book is indexed 
+in a way that permits you to easily find answers to questions. 
+If you need to know something about patents, this is it. 
+[Reviewed by Jay Baldwin] 
+Ideas, Inventions, and Patents 
+Robert A. Buckles 
+1957; 270 pp. 
+$1 0.95 postpaid 
+from: 
+John Wiley & Sons, Inc. 
+605 Third Ave., 
+New York, N.Y. 10016 
+or WHOLE EARTH CATALOG 
+1954,66; 473pp 
+Human Engineering Guide 
+from: 
+University of California Press 
+Buy this book and keep it at hand at all 
+times if you design or build anything that 
+will by used by, for, or come in contact with 
+people. Concise statement of ideas both 
+through the informative writing and clear 
+illustrations. 
+The authors have followed 
+their own guidelines and produced a device 
+(this book) which will do well what it was 
+designed to do, transfer a large amount of 
+information between people. If you want 
+information on human engineering, design 
+of equipment and work space, vision, 
+audition and body measurement, it’s all 
+in this book chapter by chapter. 
+The above 
+categories are a partial list of actual chapter 
+headings. This book should be used by all 
+design engineers, but it is not necessary to 
+be a design engineer or even an engineer to 
+use it. Really fundamental ideas clearly 
+stated can be understood by anyone. 
+[Reviewed by F. Le Brun] 
+2223 Fulton St. 
+Jigs & Fixtures for Limited Production 
+This book is a manual of tactics for making inexpensive jigs. 
+[t’s intended mainly for machine shops, but it can be quite 
+handy for anyone who has to make a number of similar 
+parts, such as for a dome. Jigs are also handy when a single 
+part has to be done with high accuracy. Anyone who is 
+into making things ore repairing various artifacts could 
+learn a bag of tricks from the book. 
+The author shows how 
+to convert commonly available objects into jigs; a vice into 
+a drilling jib. There’s a chapter on making epoxy tooling. 
+The language is non-technical, with most of the terms being 
+defined. For most makers, it won’t be bedtime reading, 
+but will be a good reference when the problems get tough. 
+[Reviewed by Jay Baldwin] 
+Jigs & Fixtures for Limited Production 
+Harold Sedlik 
+1970; 136 pp. 
+$10.00 postpaid 
+from: 
+~ 
+Society of Manufacturing Engineers 
+1 20501 Ford Rd. 
+Dearborn, Michigan 48128 
+orWHOLE EARTH CATALOG 
+jigs & fixtures 
+for limited Production 
+COR D:t bys 
+0 0 0 
+6 0:6", 
+.% 
+ili mt ! 
+- 
+$12.50 postpaid 
+Berkeley, Ca. 94720 
+or WHOLE EARTH CATALOG 
+restricted legal sense as meaning a completed and operable 
+— 
+device or system. Mere knowledge of the conception of an idea for 
+an invention is not sufficient prior knowledge to defeat an appli- 
+cant, or patent, of one who is the “first inventor’’ in the true sense 
+of being the first person to make or complete the invention in 
+operative form. This interpretation was handed down by the United 
+States Court of Customs and Patent Appeals in a test case brought 
+to clarify the meaning of this section of the Patent Act of 1952. 
+As soon as the invention is conceived the inventor should sit down 
+and write out a detailed description, complete with a drawing where 
+the subject lends itself to graphical representation, and as soon 
+thereafter as possible he should disclose and explain his invention 
+to someone who can understand it and who will sign his name and 
+the date at the end of the written description, as a witness to the 
+disclosure on that date. Very often this will be the earliest date 
+that the inventor can prove, even though he may have conceived 
+the invention in his mind much earlier. 
+‘Where possible, work should be held by jigs 
+or vises so that hands may be free to operate. 
+Hesitation — or the temporary and often minute 
+cessation from motion — should be analyzed; 
+its cause should be accounted for and, if possible, 
+eliminated. 
+Human Engineering Guide 
+for Equipment Designers 
+Wesley E. Woodson, Donald W. Conover 
+Apporent poth 
+VA of sun 
+When a click in one ear leads that 
+in the other by about 0.03 
+millisecond, the sound just begins 
+to shift toward the first side; 
+when there is a time difference 
+of 0.65 millisecond or more, 
+the sound appears completely 
+localized on the side of first 
+arrival, this localization remaining 
+until the time difference becomes 
+so great(3 milliseconds or 
+more) that fusion is lost and 
+the sound is heard separately 
+in the two ears. 
+Fig. 2-4. 
+Master part method of transferring hole locations. 
+If an item does not warrant special tooling, there may be an economic 
+advantage in using the master part system. The system, as the name 
+implies, uses a simulated Or actual part fabricated to slightly closer 
+tolerances than the intended product and used as a template or jig. 
+When a master part is used as a jig for locating holes, the master and 
+the part to be worked are clamped together as shown, and the hole 
+locations are transferred from the master to the Part with a dupli- 
+cating punch. 
+If possible, hardened bushings are inserted into the 
+master part, making it possible to transfer holes directly by drilling. 
+ee ecdee of drill bushings improves accuracy and increases 
+tool 
+life. 
+©. 
+mw. CURTISS, 
+YONA 
+HOR 
+AaE 
+serves 
+Hite 
+Aw 
+24. 
+1948 
+Drawings from two patents later issued to Glenn Curtiss when courts finally de- 
+cided that he was the inventor of the Flying Boat. 
+> 50 ae 
+= 
+GENERALLY 
+a 
+CONSIDERED 
+ze 
+COMFORTABLE 
+a 
+x= 
+w 
+30 
+> 
+2 
+aa 
+40) 
+a 
+10 
+e 
+65 
+75 
+80 
+85 
+TEMPERATURE 
+at 
+70 
+CONFIDENCE FACTOR 
+Since humans are used to evaluating things with 
+“all their senses’”” from the time they are born, 
+it is natural for them to expect this. Each of the 
+sensory inputs, in fact, raises the level of 
+confidence of the operator in what he is reveiving — 
+thus the converse of this, i.e., lack of certain 
+inputs, tends to reduce the operator's confidence 
+in the information he is receiving. 
+PART THREE 
+EDDIE’S FUNERAL 
+The mourners were lying around the room on mattresses, 
+smoking hash between hits on nitrous oxide. Nearly everbody 
+there was a St. Louis dealer, and since Eddie had been a dealer 
+The Native thought it would be nice if sample's of everybody’s 
+stuff was done, in honor of Eddie’s passing. Somebody do grass. 
+Somebody else do acid. Somebody else do DMT. Somebody 
+else do 1T-290. Somebody else do STP. Somebody else do peyote. 
+Somebody else do mescalin. Somebody else do psycilocybin. 
+Somebody else do reds, and everybody share the laughing gas to 
+tie the whole thing together, in honor of Eddie’s passing. 
+But that was just The Native coming on, just The Native doing 
+his usual thing. The Native got his name because he was always 
+talking about how nobody’‘s a native anymore. Nobody lives where 
+he was born, nobody's got real roots any more, and that’s why 
+peopls are so unhappy. The Native grew up in the Qzark Mountains 
+of Missouri. He was so homesick most of the time, all he ever 
+talked about was his family and his old home place back in the 
+Ozarks. People at home have got identity, said The Native. 
+They've got a history, and their lives are full of the most beautiful 
+rituals. The Native loved rituals, and he wanted Eddie's funeral 
+to be one, an elaborate ceremony where everybody would take 
+a different kind of dope and then do communal things like chant 
+and sing and mourn poor Eddie's Passing. 
+But none of the others were up to it. There were eleven people 
+at the funeral, besides The Native. Blue Ox was there, and Gilded 
+Lilly. Chuck, Friendly Persuasion, City Girl and the Crosstown 
+Rivals, plus Reed and Winston and Divine Right Davenport and 
+his chick who had just blown in from somewhere. They had all 
+been Eddie's friends, and they were all just as sorry as The Native 
+that Eddie was dead. But the hash and the nitrous oxide and three 
+TV sets all going at once were all that they could handle right then. 
+"Give me the hose,” said Bert of the Crosstown Rivals. 
+Bert's rival, Norton, had been sucking on the laughing gas almost 
+two minutes now, and Bert was getting antsy. His last flash had 
+been all about time, it had taken him down the passageway to 
+the very door of the rose garden, but as he was about to go in 
+the flash had started to wear off. Against his will he’d come 
+reeling up the same passage he had taken down, and that was a 
+disappointment. 
+If he could have gotten the gas hose when he 
+was supposed to, he could have made it back down in time to 
+keep the dream intact, for even though he'd become conscious 
+again the footprints still echoed clearly in his memory and showed 
+the way back to the garden. But stupid Norton had the greeds 
+and wouldn't let yo of the hose. 
+: 
+_{continued) 
+> 
+123 
+a
+,.
+Inventions 
+Industry 
+

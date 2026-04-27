@@ -1,0 +1,159 @@
+The General Mobile 
+Radio Service 
+by Benn Kobb 
+Instantaneous, two-way mobile voice communication 
+can save a lot of time and trouble in daily life, and be 
+very useful in managing group activities. 
+In the mid-1970s, when truck drivers set up rolling radio 
+networks to warn of speed-traps and help each other 
+find fuel during the oil embargo, Citizens Band (CB) 
+radio boomed. Though still somewhat useful for moni-. 
+toring traffic conditions and reporting emergencies, CB 
+today is plagued by interference, technical shortcom- 
+ings, and a subculture of recreational users. CB is not 
+suitable for many personal communications needs. 
+However, the General Mobile Radio Service (GMRS), 
+CB’s predecessor, offers professional quality, noise- 
+free, two-way communications on frequencies that 
+make smaller hand-held radios practical: GMRS is 
+making a comeback among folks who need radio to 
+coordinate their daily personal, business and family 
+activities. 
+Unlike amateur, commercial and governmental radio 
+services, where only certain types of information may 
+legally be transmitted, GMRS licensees can use their 
+channels to discuss any personal or business matter, so 
+long as proper station identification is used and mes- 
+sages are relatively brief. 
+An FCC license is required, but you don’t have to learn 
+Morse Code, pass a technical exam, or be a business to 
+get one. You simply have to fill out a license form 
+correctly and be at least 18 years old. The license costs 
+$30 and is good for 5 years. It permits you to operate on 
+one or two of GMRS’s eight channels. License forms 
+and instruction guides are available from your local 
+FCC office, or from the Personal Radio Steering Group 
+(see below). 
+If you own or have access to a scanner, (a radio receiver 
+often used to listen to police and fire communications), 
+program it to scan 462.550 - 462.725 MHz. That will 
+reveal what GMRS activity already exists in your area. 
+You'll want to know who your airwave “neighbors” are 
+before you begin the licensing process, so you can sign 
+up for the least-crowded channels. 
+A repeater is a relay station located on a tower or tall 
+building. Its purpose is to expand the range of hand-held 
+or vehicular radios, so you can communicate with a 
+family member or friend on the other side of town, even 
+though your small radio cannot reach that distance by 
+itself. Repeaters aren’t allowed in CB, and cannot be 
+used by unlicensed “walkie-talkies,” either. However, 
+they are one of GMRS’s major advantages. Repeaters 
+are usually set up and operated by local user coopera- 
+tives or public-service teams (volunteers who provide 
+radio communications in emergencies). They are often 
+open to anyone in the area who obeys GMRS regula- 
+tions and pays a small usage fee. 
+GMRS radios are identical to those manufactured for 
+the ultra-high-frequency (UHF) “business” bands. The 
+only difference is that the radio is tuned specifically for 
+GMRS. Look in the Yellow Pages under “Radio” for 
+dealers in your area. Expect to pay $500-$2000 for a 
+brand new handheld or vehicle-mounted transceiver. 
+Many GMRS users buy used equipment, which is plen- 
+tiful and usually cheaper than new. Local GMRS user 
+groups are often able to recommend good sources of 
+equipment. 
+Even though GMRS is classed by federal law as a “per- 
+sonal radio service,” the FCC has allowed large com- 
+mercial operations to usurp channels in many areas. 
+Cellular Telephones 
+(A Layman’s Guide) 
+Stuart Crump, Jr. 
+1985; 146 pp. 
+$9.95 postpaid from: 
+TAB Books, Inc. 
+Blue Ridge Summit, PA 17294-0550 
+1-800-233-1128 
+Cellular Mobile 
+Telephone Guide 
+A. Seybold & M. Samples 
+1986; 202 pp. 
+$9.95 
+($13.45 postpaid) from: 
+Howard Sams & Co. 
+4300 West 62nd Street 
+Indianapolis, IN 46268 
+1-800-428-7267 
+Neither of these two books are definitive, but 
+there’s not much else reliable. Cellular 
+Telephones introduces nicely with lots of dia- 
+grams. It will help you determine if you need one. 
+Cellular Mobile figures you're already sold on the 
+idea but need to demonstrate the cost/benefit ratio 
+to feel good about it. It then helps you choose one 
+to actually install in your car (all cellular radio is 
+car-bound so far). | doubt that anything can save 
+you from the sharks selling the gear. 
+— Kevin Kelly 
+o 
+In addition to radio energy being absorbed by trees and 
+walls, it also “bounces” around or is reflected by metals, 
+certain types of rock, and even dirt and water. Because 
+of these bouncing, reflecting, and absorbing effects on 
+radio signals, it is not possible to design a system that 
+will provide 100% coverage in any given area. If your 
+vehicle is parked and you find you cannot access the 
+system, perhaps moving the car just a foot or so will 
+make a great difference. When pulling up to a stop light 
+CELLULAR RADIO 
+These fleet-dispatchers, factories, and package-delivery 
+services are often intolerant of nonbusiness users of 
+GMRS. Fortunately, the FCC has proposed major revi- 
+sions to the rules of GMRS which are expected to take 
+effect in 1989. These should enhance access to the 
+service by individuals and families. 
+The not-for-profit Personal Radio Steering Group, Inc. 
+(PRSG), was established in 1982 to encourage and 
+assist individuals in getting licensed for and using 
+GMRS, and to fight against further commercial usurpa- 
+tion of GMRS channels. They publish the GMRS Na- 
+tional Repeater Guide ($3, 62 pp.); a booklet titled 
+“What is the GMRS?” (free for 45-cent SASE, 12 pp.); 
+and an informative monthly newsletter called the Per- 
+sonal Radio Exchange ($20/year). All are recom- 
+mended if you think GMRS may be appropriate for your 
+needs. 
+That’s what GMRS offers. While it does have limita- 
+tions, it’s one of the most accessible and functional of 
+all the services that utilize the public airwaves. 
+Personal Radio Steering Group, Inc., P.O. Box 2851, 
+Ann Arbor, MI 48103; 313/769-1616; Compuserve: 
+73016, 163. 
+or moving slowly in traffic, you might notice some “fad- 
+ing” or loss of signal. 
+4 
+The carriers have estimated that the average cellular 
+telephone bill will be in the neighborhood of $125 to 
+$150 per month. 
+Sd 
+As a general rule, you should remember one thing: 
+Whatever you say on a cellular phone can be heard by 
+other people. 
+—Cellular Mobile Telephone Guide 
+MOBILE TELEPHON 
+SWITCHING OFFIC 
+HOW CELLULAR WORKS. Cellular depends on a network of “cells” 
+(indicated on this diagram by the hexagon-shaped segments) that 
+cover a city. A low-powered radio transmitter and control equipment 
+is located near the center of each cell. This cell-site equipment is 
+connected to the “mobile telephone switching office” (MTSO), which 
+is the gateway to the regular landline telephone network. When you 
+place a car-phone call, the MISO monitors the strength of your 
+phone's signal at each of the cell sites near you. The closest site 
+handles your call. As you move from one cell to another, your signal 
+is automatically “handed off” to the next cell, giving you a clear, 
+strong signal. 
+—Cellular Telephones 
+87 
+

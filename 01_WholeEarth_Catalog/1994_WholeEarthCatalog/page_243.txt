@@ -1,0 +1,217 @@
+Robot Explorer 
+This friendly and informative newslet- 
+ter covers both experimental and 
+practical applications of robots. Fea- 
+tures include robot professionals and 
+hobbyists talking about their projects, 
+reports on robot events and competi- 
+tion, and coverage of new theory and 
+research. An “industry scrapbook” of 
+new products and an event calendar 
+complete the package. A pretty good 
+deal at eight issues for $14.95. 
+—Gareth Branwyn 
+e 
+The concept of hordes of ‘gnat’ robots re- 
+placing single mobile robots has been pro- 
+posed by Anita Flynn and others at the MIT 
+= ffordable Robot Arm. 
+Robot Explorer 
+Raymond GA Cété, Editor. 
+$14.95/year (8 issues). 145 Grove Street, 
+PO Box 458, Peterborough, NH 03458- 
+0458; 800/GO-ROBOT 
+Artificial Intelligence Lab. In fact, the con- 
+cept of building little machines capable of 
+group achievement is being studied so seri- 
+ously that the Al Lab is locally known as the 
+Artificial Insect Lab. 
+Mobile Robots 
+The undisputed bible for amateur ro- 
+bot-makers. It covers everything from 
+robotics theory to design, construction, 
+operation, and trouble shooting. The 
+detailed robot plans (for two different 
+‘bots) included in the book grew out 
+of work at MIT's Al Lab. 
+Authors Anita Flynn and Joseph Jones 
+have done an amazing job of covering 
+beginner- to advanced-level concepts 
+in a lucid and easy-to-follow, but still 
+rigorous manner. An extensive “Yellow 
+Pages” section covers suppliers, avail- 
+able products, and trade journals. | 
+couldn't be more jazzed by this 
+volume, —GB 
+e 
+The design and construction of mobile ro- 
+bots is as much an art as a science. The in- 
+tent of Mobile Robots: Inspiration to Imple- 
+mentation is to explain the skills involved in 
+a manner amenable to as broad an audience 
+as possible. Our aim is to teach you, the 
+reader, how to build a robot. With the re- 
+cent wide availability of home computers 
+and tremendous reductions in costs for 
+microelectronics, building mobile robots 
+with an assortment of sensors and actua- 
+tors is within the reach of nearly everyone. 
+e 
+Attention to Detail 
+Intermittent connections are the most frus- 
+trating to debug. The way to avoid this 
+problem is to build your circuit neatly and 
+carefully the first time. When soldering, do 
+not use gobs of solder. Use heat-shrink 
+tubing to cover exposed wires. 
+Connectorize liberally for quick disassem- 
+bly. Add strain reliefs to cable harnesses. 
+Wire things carefully the first time. Keep in 
+mind that a little quality goes a long way. 
+Mobile Robots 
+(Inspiration to Implementation) 
+Joseph L. Jones & Anita M. Flynn. 1993; 
+349 pp. ISBN 1-56881-01 1-3 
+$39.95 ($42.45 postpaid). AK Peters, Ltd., 
+289 Linden Street, Wellesley, MA 02181; 
+617-235-2210 
+Robot Clubs and Events 
+Robot clubs, competitions, and robot 
+art/performance groups can be found 
+throughout the US. One of the most 
+innovative of these is Austin, Texas’ 
+Robot Group. Their skill, creativity, and 
+sense of whimsy has created such 
+crowd-pleasing robotic performers 
+as a ferocious pneumatic pit bull, a 
+robo-band called The Shrinking Robot 
+Heads, and a number of odd flying 
+contraptions. The group also hosts the 
+Kevin 
+Derricks 
+annual RoboFest, an increasingly 
+popular showcase and meeting 
+place for robot enthusiasts. For more 
+info on the Robot Group, email: robot- 
+group@cs.utexas.edu. To find out 
+about other clubs and events, check 
+out the comp.robotics newsgroup and 
+Robot Explorer. —GB 
+The Robot Group: PO Box 164334, 
+Austin, TX 78716; 512/794-9105, email 
+robot-group@cs.utexas.edu 
+listser~M@oberon.com 
+Taming Technology 
+GARAGE ROBOTICS 
+LEGO Dacta 
+The plastic building blocks of your 
+childhood have become the standard 
+building blocks for amateur robots. 
+LEGO Dacta, the company's educa- 
+tional division, offers LEGO Technic 
+kits with applications in the sciences, 
+mathematics, and technology. 
+Besides wide variations on the blocks 
+themselves, the Technic line adds sen- 
+sors, motors, switches, lights, gears, 
+pneumatics, and computer control 
+hardware and software. You can buy 
+the components in kits with specific 
+course objectives, in large building sets, 
+or in separate parts packs. LEGO 
+components are perfect for miniature 
+robotics, because they're strong, versa- 
+tile, and reasonably priced (well: sort 
+of). They can be used for designing, 
+prototyping, or as your finished robot. 
+—GB 
+e 
+9609 9 Volt Technology Resource Set $199.00 
+1,733 pieces including new elements such 
+as: 9 volt motor and battery box, 9 volt 
+wire system, cam wheels, axle extenders, 
+and a metal crane hook. 
+LEGO Dacta 
+Catalog free. 555 Taylor Road/PO Box 
+1600, Enfield, CT 06803-1600; 800/527- 
+8339, fax 203/763-2466 
+The 6.270 Robot Builder’s Guide 
+First written as course materials for an 
+experimental LEGO Robot Design 
+class at MIT, the Guide has been reor- 
+ganized to make it more useful to 
+those teaching robotics, and to hobby- 
+ists looking to create ‘bots based on 
+LEGO technology and the Motorola 
+681 
+microprocessor. It takes you 
+through the assembly of the electronic 
+components, the building of the robot, 
+the application of various sensors, and 
+the programming of your model, using 
+a special C language (Interactive C, or 
+IO), especially developed for the 6.270 
+robot. The Guide starts with basic 
+electronics and soldering techniques, 
+and _ 
+builds toward a deeper (hands- 
+on) understanding of embedded sys- 
+tems, sensors and actuators, 
+microcontrol and programming. 
+—GB 
+e 
+6.270 is a hands-on, learn-by-doing class in 
+which participants design and build a robot 
+that will play in a competition at the end of 
+the class. From the student's perspective, 
+the goal of the class is to design a robotic 
+machine that will be able to navigate its way 
+around the playing surface, and successfully 
+interact with game objects, including the 
+opposing machine. 
+o 
+Fant Online Resources 
+Net Access to Robot Information 
+The Comp.Robotics Newsgroup: Informa- 
+tion and discussion on robots, covering indus- 
+trial applications, research and theory, and 
+amateur robotics. Net access: comp.robotics 
+The Comp.Robotics FAQ: A massive docu-— 
+ment (70+ pages) filled with answers to 
+FAQs, resources, contact information, and 
+more. Indispensable. Available by anony- 
+mous ftp at rtfm.mitedu in pub/usenet/ 
+news.answers/robotics-faq/part! and pai 
+The Hobby-Bot Mailing List: Covers 
+robotics in all its forms. Subscribe: 
+hobby-bot-request@a.cs.okstate.edu 
+The Mini Board Mailing List: For d 
+of robot control and robot contro 
+boards, especially the MIT Mini 
+and the 6.270 board. Send a mes 
+containing the word “help” 
+to: 
+“Oscar” The Robot Trashcan. 
+The 6.270 Robot Builder’s Guide 
+Fred Martin. 1992; 230 pp. 
+$15 postpaid from The MIT Media Lab/Epis- 
+temology and Learning Publications, 20 
+Ames Street, Room EI5-315, Cambridge, 
+MA 02139; 617/253-0330, fax 617/253- 
+6215; email el-pubs@media.mit.edu. 
+Also available by anonymous ftp at 
+cherupakha.media.mit.edu [18.85.0.47] 
+e 
+Detecting collisions can only be as good as 
+one’s collision sensors. Based on the 
+premise that such sensors are not perfect, 
+it is a good idea to add some kind of time- 
+based exit condition. This will prevent the 
+all-too-frequent case of a robot that is 
+stuck, but does not have its touch sensor 
+depressed. Many a robot simply does not 
+“believe” that it is stuck — its program 
+stays stuck in some loop, taking no 
+compensatory action. 
+239 
+

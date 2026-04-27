@@ -1,0 +1,108 @@
+Arnold Burke 
+of Temple, 
+Texas, and his 
+“self-contained 
+hydro-electric 
+power system,” 
+the machine 
+named “Jere- 
+miah 33:3.” 
+out that the wire connected a battery pack under a bunk in 
+an adjoining room to an electric pump in Jeremiah’s in- 
+nards. Burke was arrested and indicted on multiple 
+counts of theft and perjury. 
+Burke claimed he only installed the electric pump to 
+prevent the disclosure of Jeremiah’s real secret, and many 
+of his investors kept the faith. In the spring of 1980, 
+while Burke was on trial for one count of fraud, faithful 
+followers raised another $250,000 and bought out dis- 
+gruntled investors for sixty-six cents on the dollar! The 
+trial ended with the jury hung eleven to one for convic- 
+tion. That fall, Burke won a directed acquittal on another 
+charge of fraud. At last report, he was back in his labora- 
+tory, working the kinks out of Jeremiah’s design. 
+Kenyon Alternator 
+Jeremiah 33:3 was a classical perpetual motion ma- 
+chine of the type most inventors since Keely have aban- 
+doned. The newest wrinkle on the perpetual motion scene 
+is the “over-unity” motor. This is a device that requires an 
+external source of power, but supposedly produces more 
+power than it uses. The Kenyon Alternator was an excel- 
+lent example. 
+The Kenyon Alternator was invented in the late 1970s 
+by Dr. Keith Kenyon, then personal physician of former 
+Los Angeles mayor Sam Yorty, and was further developed 
+by Solar World, Inc.,a Glendale, California, producer of 
+wind turbines and other alternative energy devices. The 
+Kenyon Alternator was essentially an alternating-current 
+generator that reversed the roles of the usual components. 
+Instead of rotating coils of wire in a magnetic field, it had 
+permanent magnets mounted on the periphery of a wheel 
+and rotated them in an array of coils. 
+Solar World held a Hollywood-style press conference 
+and demonstration on its premises March 22, 1979. For- 
+mer Mayor Yorty and ventriloquist Paul Winchell were 
+present, and former astronaut Gordon Cooper was ex- 
+pected but didn’t show up. Representatives of five televi- 
+sion Stations and several radio stations and newspapers 
+126 
+were there. The Kenyon Alternator was turned by a five- 
+horsepower motor, and it produced enough electricity to 
+light a panel of one hundred light bulbs. Solar World per- 
+sonnel monitored instruments and posted figures on a 
+blackboard purportedly showing the motor to be using 
+5,936 watts while the generator put out 7,512 watts, or 
+nearly 27 percent more than input energy. They denied 
+that the device was a perpetual motion machine, saying its 
+energy source was probably neutrinos. (As neutrinos 
+typically pass through the earth without reacting, it’s not 
+clear how they could be harnessed by the Kenyon Alter- 
+nator.) 
+Rather than neutrinos, the “secret” of the Kenyon Al- 
+ternator seems to have been the monitoring instruments 
+and the way they were used. Simple AC voltmeters and 
+ammeters are calibrated for sinusoidal waveforms; if the 
+output of the Kenyon alternator wasn’t a sine wave, the 
+instrument readings were wrong. Furthermore, calcula- 
+tions of power must consider “power factor,” which de- 
+pends on the phase relationship between voltage and cur- 
+rent. Solar World considered the advertised (not meas- 
+ured) power factor of the drive motor, but they apparently 
+didn’t consider the power factor of the Kenyon Alternator 
+itself. 
+The acid test, of course, would be to hook the output 
+of the Kenyon Alternator up to the input of the motor that 
+drives it. Dr. Kenyon and his associates were aware of 
+this, and talked of building a Kenyon Motor for the ex- 
+periment. If this obvious and crucial test was ever per- 
+formed, I haven’t heard of it, and the Kenyon Alternator 
+faded away. 
+The Newman Energy Machine 
+Joseph W. Newman, an inventor from Lucedale, Mis- 
+sissippi, first got national attention on January 9, 1984, 
+when Dan Rather of CBS News gave a brief report on his 
+“energy machine.” The Newman Energy Machine is a di- 
+rect-current electric motor that differs from conventional 
+DC motors in several respects, including its very high 
+voltage and very low amperage. In his patent application 
+filed in 1979, Newman called it an “Energy Generation 
+System Having Higher Energy Output than Input.” In- 
+deed, Newman has claimed that the motor’s efficiency is 
+as high as 800 percent. After a long battle, the Patent Of- 
+fice refused to grant a patent, saying the device "smacks 
+of a perpetual motion machine.” Newman filed suit. 
+Newman’s case first went to court in mid-1984. After 
+some wrangling, Judge Thomas Jackson appointed a 
+“Special Master,” electrical engineer and patent attorney 
+William E. Schuyler, Jr., to investigate. On September 28, 
+1984, Schuyler reported: “Evidence before the Patent and 
+Trademark Office and the Court is overwhelming that 
+Newman built and tested a prototype of his invention in 
+which the output energy exceeds the external input en- 
+ergy; there is no contradictory factual evidence.” 
+The Patent Office remained skeptical and refused to 
+grant a patent. As with the Kenyon Alternator, there were 
+questions about the test instruments used. The Patent Of- 
+fice recommended that Newman turn the device over to 
+the National Bureau of Standards (NBS) for further test- 
+

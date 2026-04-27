@@ -1,0 +1,253 @@
+Arthur Asa Berger 
+Media Technology 
+and the Vote 
+Another sourcebook on politics and 
+communication technology that grew 
+out of a colloquium organized by the 
+Annenberg Washington Program. 
+Non-partisan, wide-ranging, and full of 
+juicy footnotes and bibliographies. 
+More issues than answers, suggestions 
+for research that needs to be done, 
+and lots of case histories by political- 
+campaign professionals about the 
+ways new technologies are changing 
+the electoral process. —HLR 
+e 
+We have a package that can take a map of 
+any scale and overlay data onto it — take 
+an existing database and throw it into the 
+map. The geographic analysis that we can 
+do will help with (1) finding out where par- 
+ticular points are in a political campaign's 
+database, (2) overlaying this database onto 
+actual maps and seeing what it means; and 
+(3) comparing the geographic relationships 
+among different sets of data. Thus, we can 
+facilitate redistricting because the computer 
+can now draw experimental boundaries and 
+tell us what those boundaries mean. We 
+can then shift the boundaries as desired. 
+ome elec- 
+tion day, 
+getting 
+out the vote 
+is 
+what counts. 
+If 
+you have access to 
+personal comput- 
+ers and learn how 
+to use simple data- 
+base programs, 
+you can gain an ad- 
+vantage: maintain- 
+ing and sorting da- 
+tabases for direct mail and walking- 
+order lists is the perfect kind of task 
+for an inexpensive computer. Com- 
+puters, used this way, have long been 
+powerful weapons for the wealthy 
+and knowledgeable political parties. 
+Now, personal computers and 
+grassroots political campaign tactics 
+can work together. Here’s one effec- 
+tive way: Seek volunteers who own 
+personal computers and have skills 
+in database management. 
+Profes- 
+sional campaign support companies 
+often charge naive campaigners big 
+Users can quickly modify a boundary on the 
+screen and ask, “How does this affect the 
+density of a certain age group, party affilia- 
+tion or ethnic group?” Then, they can shift 
+the boundaries again and repeat the calcula- 
+tions. The significance of tables of figures 
+also can be easily grasped when they are 
+displayed geographically. 
+MapInfo can work with multiple layers of 
+data. Ona 
+street map of a city we can dis- 
+play points representing the location of vot- 
+ers, and in addition, show boundaries. We 
+can display up to 50 layers of data and inde- 
+pendently turn any of them on or off. We 
+can also zoom in or out of any neighbor- 
+hood to the whole country. In this way 
+one can see the “nitty-gritty” — where 
+each voter lives, his or her party affiliation, 
+race, sex or age — or zoom back and see 
+the summary of that data for a county. 
+New Communication Technologies in Politics 
+This collection of papers asserts that, 
+to be effective, local political cam- 
+paigns must adopt the technologies of 
+direct mail, computer conferencing, 
+and market-polling software. Case 
+studies analyze the successes and 
+problems of campaigns that did so. 
+—Kevin Kelly 
+[Suggested by Robert Horvitz] 
+e 
+Without the computer, the success of 
+grass roots lobbying would not be possible. 
+Where we once compiled lists manually 
+from paper directories, we now purchase 
+brokered lists on computer tape and merge 
+them, letting the computer determine the 
+“strength” of a name based on the fre- 
+quency of its appearance. At the same 
+time, duplicate names are eliminated. 
+Eventually, more and more voter regis- 
+tration lists will be available on computer 
+tape, and will give us even greater targeting 
+capability. 
+Instead of manually entering ID numbers to 
+identify a potential participant, a bar code 
+will be entered with a wand band, much 
+like that currently used at the grocery 
+checkout counter. Such a procedure will 
+virtually eliminate the already minuscule 
+.005 percent current error rate. 
+Other changes are ahead. Computers have 
+made paperless phone banks possible: 
+phone list, book, tally sheet and message 
+will all be on a video terminal. The com- 
+puter dials the phone, so the worker will 
+not waste any time with disconnects or 
+misdialed calls. Today 60 percent of our 
+telephone efforts are wasted on that kind 
+of erroneous call — despite the impressive 
+percentage of volunteers per contact we 
+achieve. 
+In the next two decades, there will be new 
+levels of addressability. Eventually, two-way 
+cable like the experimental QUBE program 
+in Ohio will spread throughout the country. 
+By videotext, direct-satellite broadcast, or 
+Political Tools 
+COMPUTERS AS CAMPAIGN TOOLS 
+bucks for list processing. You can 
+save those costs and leverage your 
+power by using personal computers. 
+CompuMentor 
+(415/512-7784) is 
+the first of a new breed of nonprofit 
+organizations whose role is to match 
+nonprofit organizations, including 
+political organizations, with technol- 
+ogy-savvy mentors who want to do- 
+nate their services to a cause they 
+support. With one computer and 
+one person who knows how to use 
+it, take these steps: 
+* Get the list of registered voters on 
+magnetic tape or floppy diskettes, from 
+your local registrar of voters. 
+It 
+should cost very little; incumbents 
+controlling such fees want them as 
+low as you do. 
+* Get the walking-order address se- 
+quences for streets in your district, 
+again in machine-readable form, 
+again at very low cost — from your 
+main post office. 
+* Convert that data into a form that 
+your personal computers 
+can 
+handle. If you can’t do it yourself, 
+look for “media conversion 
+ser- 
+vices” in local computer publica- 
+tions. Check around; prices vary 
+widely. 
+* Put the data and other public records 
+into a personal computer database. 
+Then it’s a relatively simple task to 
+merge your databases and turn them 
+into a walking-order list of voters, or 
+Media 
+Technology 
+and the Vote 
+Joel L. Swerdlow, Editor. 1988; 240 pp. 
+ISBN 0-8133-0869-0; $15.95 postpaid. 
+Both from the 
+Annenberg 
+Washington Pro- 
+gram, 1455 Penn- 
+sylvania Avenue 
+NW, Suite 200, 
+Washington, DC 
+20004; 
+202/393-7100 
+New Communications 
+Technologies in Politics 
+Robert G. Meadow, Editor. 1985; 
+145 pp. ISBN 0-933441-00-2; $15 postpaid. 
+cable, you will be able to go to a cable 
+channel and broadcast a message directly 
+into the home. 
+As our process and methods get more so- 
+phisticated, the issue of privacy could be- 
+come more significant. the public must 
+eventually decide what information we — 
+both commercial and political communica- 
+tions consultants — have a right to know, 
+and what information will remain “behind 
+closed doors.” 
+a zip-sorted list needed for bulk- 
+mailing. 
+COMMUNITY POWER 
+VIA FAXMODEM 
+More and more people can now 
+receive messages by fax. Many who 
+have personal computers also have 
+faxes. Coupled with a faxmodem, 
+the personal computer can be used 
+as a powerful tool for organizing 
+quick community action — often 
+needed, as self-serving bureaucrats 
+and arrogant elected officials seek to 
+ram through policies before the 
+people can defend themselves. 
+Weekly community newspapers can 
+be too slow and/or unwilling to pro- 
+vocatively publicize politicians’ plans. 
+In the past year, my rural and moun- 
+tain neighbors and | have begun orga- 
+nizing an increasingly broad and ef- 
+fective fax-plus-leaflets network. 
+With a faxmodem plugged into the 
+telephone port on my computer, it’s 
+easy to draft a notice and fax it to 
+(computer maintained) lists of oth- 
+ers who are interested in these is- 
+sues, without ever having to touch 
+hardcopy, or to feed it, over and 
+over, through a manual fax. 
+Many of those who receive these fax 
+alerts have low-cost copiers at 
+home. Many have agreed to make 
+copies of the notices when they ar- 
+rive, and pass them along to neigh- 
+bors or post them on local bulletin 
+boards. 
+With the increasing availability of 
+computers and faxmodems, the 
+power to influence elections is there 
+for the taking. But that power isn’t 
+going to come to you automatically. 
+You have to believe strongly enough 
+in an issue or a candidate to go out 
+and exercise that power yourself. 
+—Jim Warren 
+and Howard Rheingold 
+Ortner Great Resources 
+| Public Opinion Polling: Celinda C. Lake 
+& Pat Callbeck Harper. 1987, Island Press. 
+The Electronic Commonwealth: Abramson, 
+Arterton and Orren. 1988, Basic Books, Inc. 
+289 
+

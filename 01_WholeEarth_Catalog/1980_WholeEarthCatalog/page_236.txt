@@ -1,0 +1,276 @@
+DON 
+RYAN 
+Y 
+2) 
+i 
+= 
+= = 
+INSU 
+Lossnay heat exchange ventilators 
+When Amory Lovins first told me about this air-to-air 
+heat exchanger, | found its claimed performance hard to 
+believe — it'll retrieve about 75% of the heat from stale 
+air on the way out of your building! In superinsulated 
+low-infiltration homes, stale air can be a serious problem. 
+In some construction such as brick, there can even be a 
+buildup of mildly radioactive gases inherent in many 
+building materials unless there is a considerable air change 
+rate. But high change rates meant high heat losses until 
+this simple and surprisingly cheap device came along. 
+It’ll work backwards too, keeping in the cool air in 
+summer and reducing air conditioner loads. 
+In either 
+case, the interior humidity is more or less unaffected. 
+How to Build a Superinsulated House 
+Not really how-to, but a chatty selection of things to 
+think about when planning a building in very cold cli- 
+mates. Most of the tips come from hard experience in 
+Fairbanks, and represent the beginning of a documen- 
+tation of proven cold weather building strategies. 
+It’s 
+worth a look. 
+The bibliography includes specialized 
+papers from U. Alaska on such subjects as floors for 
+arctic shelters. 
+—J. Baldwin 
+8 
+VB vs Ventilation 
+The colder your outside design temperature, the more 
+important a leakfree vapor barrier becomes, and the less 
+you can rely on ventilation. 
+If the temperature stays 
+under 32 degrees for an extended period of time, any 
+moisture which gets into the insulation will freeze there, 
+melting only when the temperature warms up. 
+In milder climates you can get away with a less than 
+perfect vapor barrier, provided you have plenty 
+of ventilation. 
+f 
+c 
+yD 
+: 
+me’ 
+N_& VENTILATION 
+Intake 
+— 
+(exchanged) 
+air 
+Flat 
+Amazing! Lossnays come in many sizes ranging from 
+a bathroom window unit to a huge industrial monster. 
+By Mitsubishi. 
+—J. Baldwin 
+[Suggested by Amory Lovins] 
+Lossnay 
+$104 - $18,000 
+Catalog 
+1 from: 
+Melco Sales Inc. 
+3030 E. Victoria Street 
+Compton, CA 90221 
+How To Build a 
+Superinsulated House 
+(Cold Weather Edition 
+Project 2020) 
+Ed McGrath and Friends 
+1978; 37 pp. 
+$7 postpaid from: 
+Project 2020 
+Box 80707 
+Fairbanks, AK 99708 
+But any moisture in the insulation makes it much less 
+effective (R19 fiberglass performs as R9.5 when 3% of 
+the weight of the insulation is water), so if you can 
+arrange it, a good VB is desirable, even in comparatively 
+mild climates. 
+a 
+) 
+ae 
+: 
+y 
+ee 
+Lag 
+SS ae oe 
+——— 
+f ‘i 
+» 
+Room air circulator 
+A vertical temperature difference of 15°F in rooms with 
+8-foot ceilings is not uncommon. 
+Hot air rises: to main- 
+tain a 70° temperature near the floor of such a house 
+requires at least 85° of unusuable heat at the ceiling. 
+Recycling the hot air with a circulator makes room air 
+temperature more uniform, resulting in less work 
+for the furnace. 
+An air circulator is a hollow vertical tube sitting on top ofa 
+squirrel cage blower that is mounted in a box. 
+The fan 
+sucks hot air down the tube and blows it out at the floor. 
+To build one yourself requires not much time or cost. 
+All you need is a 6-inch diameter tube that extends to 
+6 inches below the ceiling. Plastic pipe, cardboard, or 
+wood (four 1 X 6s to make a square tube) work equally 
+well. Sheet fiberglass, held in a tube shape by wooden 
+collars, also does the trick. 
+Below the tube the fan sits in a box with a vent in one 
+side. 
+The whole unit is light enough to pick up and 
+move from room to room. 
+For remodeling or new construction, consider building a 
+circulator into the wall as a permanent fixture, similar 
+to a wall-mounted gas furnace. One fan could then 
+service two rooms simultaneously. 
+This is also an 
+effective way of transferring warm air from a heated 
+room to an adjoining room that has no heat source, as 
+long as you provide for a return of cool air to the heated 
+room. A door or a connecting hallway will do; the point 
+is to equalize the pressure between the two rooms so the 
+blower doesn’t work so hard. 
+Electric blowers are rated by cubic feet of air moved 
+per minute. Air conditioning or electrical supply houses 
+sell them. Size the motor so that the blower is able to 
+cycle a room’s volume of air 3 times each hour (1/20th of 
+a volume change per minute). 
+With this air flow rate, 
+you can get your floor and ceiling air temperatures to 
+within 2-3° of each other. 
+—Richard Nilsen 
+[Suggested by Jay McGrew 
+and Don Frey] 
+2 a 
+PES 
+>. 
+F 
+PaaS 
+a 
+— 
+\ 
+N 
+a 
+The Handbook of Moving Air 
+The ventilation professionals show how to control the air 
+circulation in your humble abode. They cover both nature- 
+powered methods and equipment as well as mechanical. 
+An architect’s office would probably wish for more 
+engineering features, but this paper will do just fine for 
+most of us. 
+The material is not copyrighted; a com- 
+mendable attitude. 
+—J, Baldwin 
+The Handbook 
+of Moving Air 
+(A Compilation by The 
+American Ventilation 
+Association) 
+Harrison A. Dunlavy, 
+Editor 
+1976; 55 pp. 
+NOT Lee 
+e 
+$2 postpaid from: 
+American Ventilation 
+Association 
+P.O. Box 7464 
+Houston, TX 77008 
+Ni VENTILATED 
+IN 
+INSULATED 
+f/ SS 
+The important part of this sketch is that it shows a hot 
+attic causes a hot ceiling which causes a hot living area. 
+e 
+The every day process of living in the home generates sur- 
+prising quantities of water vapor. Cooking, bathing, washing 
+clothes or dishes, all add water vapor to the air. Each member 
+of the family contributes from 1-1 /2 to 2 Ibs. of water vapor 
+each day. The total water vapor by a family of 4 living in 
+a modern home adds up to 150 Ibs. or 18 gallons per week. 
+Room 
+(unchanged) 
+air 
+Partition 
+- — 
+Corrugated 
+Paper spacer—_ 
+a Fresh warm air 
+ea Fresh cool air 
+Stale warm air 
+| | 
+Stale cool air 
+Insulation 
+The real name of the game for saving energy in dwellings 
+is insulation. 
+This is particularly true of existing struc- 
+tures that may not be easily adapted to solar or other fom 
+forms of “alternative” energy. 
+These two booklets give 
+very useful information. 
+\nsulation Manual shows clearly 
+how to figure insulation needs for heating and air con- 
+ditioning with a large variety of materials and construc- 
+tion methods. 
+|ntended for contractors, it has tables for 
+computing the needs in al// 50 states. Optimum Insulation 
+Thickness in Wood-Framed Homes shows how to figure 
+cost versus thickness, cost being both insulation costs 
+and energy costs saved over the life of the building. 
+This book covers fiberglass only, but their methodology 
+could easily be adapted to other materials. 
+The two 
+books together should enable you to do a pretty 
+rational job. 
+For handy techniques of ‘‘movable insulation,” 
+see 
+—J. Baldwin 
+pp. 186-187. 
+Insulation Manual 
+NAHB Research 
+Foundation 
+1971; 44 pp. 
+$10 postpaid from: 
+National Association 
+of Home Builders 
+Research Foundation 
+P.O. Box 1627 
+Rockville, MD 20850 
+Optimum Insulation 
+Thickness in Wood- 
+Framed Homes 
+(USDA Forest Service 
+General Technical 
+Report) 
+A.E. Oviatt 
+1975; 37 pp. 
+No. 001-001-00394-8 
+$ .85 postpaid from: 
+Superintendent 
+of Documents 
+U.S. Govt. Printing Office 
+Washington, D.C. 20402 
+COST 
+PER 
+1,000 
+FT? 
+PER 
+YEAR 
+FOR INBULATION 
+AND 
+OPERATION 
+IN 
+DOLLARS 
+& 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+INSULATION THICKNESS IN INCHES 
+Optimum roof-ceiling insulation thickness. 
+

@@ -1,0 +1,171 @@
+WFF ‘N PROOF 
+The WFF ‘N PROOF games came out of the 
+ALL project (Accelerated Learning of Logic) 
+at Yale Law School. 
+This project was estab- 
+lished in 1960 to develop materials to teach 
+mathematical logic to elementary school stu- 
+dents. The authors’ first principle in design- 
+ing the games was that they be fun to play. 
+The primary aim of WIFF ‘N PROOF is to encour- 
+age a favorable attitude toward symbol manipulation 
+activities in general and, incidentally, to teach some- 
+thing about mathematical logic and provide practice 
+in abstract thinking 
+[From the introduction to the WIFF ‘N PROOF manual.] 
+WFF ‘N PROOF is a series of 21 games. The 
+first ones can be played by children (starting 
+around age eight), the last ones are difficult 
+enough to interest logicians. The first game 
+can be bought separately under the name of 
+just ‘WFF’. 
+It is the best game and children 
+always like to play it. In it you learn what 
+a WFF (well formed formula) is, and there 
+is no nicer way of doing that. The rest of 
+the games teach you about constructing logi- 
+cal proofs. They are more tedious and a good 
+teacher can find ways of doing this which are 
+more fun. There’s no harm in getting the 
+whole set, however, and using it as long as it 
+works. 
+[Reviewed by Jane Burton] 
+WFF $1 -50 
+postpaid 
+WFF ‘N PROOF $6.50 postpaid 
+from: 
+WE 
+ROOF 
+PC 
+1 
+Ne 
+1, Conn 06501 
+or. 
+5ok stores 
+Also worth investigating from WFF ‘N PROOF are: 
+Tac Tickle $1 25 postpaid (We play it in bed) 
+The REAL Numbers Game $1 25 
+postpaid 
+On - Sets: The Game of Set Theory $4.50 
+postpaid 
+Equations 
+$3.50 
+postpaid 
+Dr. Nim 
+Arrange 15 matches in 3 rows with 3 in the 
+first row, 5 in the second row, and 7 in the 
+third row. 
+td 
+US 
+ECA | 
+Pests 
+This is a game for two players. You win by 
+forcing your opponent to pick up the last 
+match. When it’s your turn, you play by 
+taking as many matches as you like from 
+any row (you may take the whole row if you 
+like) but from one row only. This is the game 
+of NIM and is actually a logical puzzle, for the 
+first player can always win once he knows the 
+winning strategy. The puzzle is to figure out 
+that strategy. 
+Dr. Nim is a simple but amazingly clever com- 
+puter which is programmed to play a perfect 
+game of NIM with you. But Dr. Nim goes sec- 
+ond so it is possible to beat him. He will win 
+every time, however, until you figure out the 
+winning strategy. 
+Dr. Nim is played with marbles instead of 
+matches and the marbles are taken off the 
+board by being released by a mechanical 
+trigger When it is Dr. Nim’s turn to play you 
+press the trigger once for him and then, if it’s 
+in his best interest to release more marbles, 
+he will do so by running the marble over the 
+trigger. 
+There’s a good manual that comes with the 
+game which tells you a little about computers 
+and computer logic. 
+It's the best way | know 
+to give kids (or grown-ups) an idea of how 
+computers work. 
+[Suggested and reveiwed by Jane Burton] 
+from the Manual: 
+Man has a stream of consciousness, an identity, he 
+thinks about himself, he philosophizes one minute 
+and proceeds to solve a problem the next. 
+He has 
+a huge recognition memory that functions effort- 
+lessly. 
+Having met a person only once, for example 
+and seen him from only one angle, he recognizes 
+him again in a different position. 
+Of course, he has 
+difficulty recalling his name, but his memory seems 
+to be designed primarily for recognition, not recall. 
+If he goes into a movie in the middle, he recognizes 
+immediately the point at which he came in because 
+he recognizes that he has seen and heard this part of 
+the film before. 
+Yet he cannot recall what the actors 
+are going to say next. When they say the next sen- 
+tences, he recognizes immediately that he has seen 
+and heard them before, however. 
+from: 
+Edmund Sc’ sntific Co. 
+100. F 
+rp Building 
+Dr. Nim 
+Bar 
+New Jersey 08007 
+$3.50 postpaid 
+c. Stu 
+J. stores 
+te 
+i, 
+- 
+The Propaganda Game $5.50 postpaid 
+We Built Our Own Computers 
+Time was, kids built their own radios. Now 
+it's rockets and computers, and so much the 
+better. Once you've built one computer you 
+have a far more sophisticated relationship with 
+all computers. 
+This British text, prepared by 
+five school boys who indeed built their own 
+computers, is an excellent introduction to 
+hands-in technique. 
+eeuve 
+[Suggested by Jane Burton] 
+We Built Our Own Computers 
+ed. A. B. Bolt 
+$1 95 postpaid 
+from: 
+Car 
+‘je University Press 
+Vk , Bt wit 
+32 
+7th St. 
+N 
+N. W. 10022 
+ourown 
+Computers 
+Liectric Logical Computer Exeter 
+Motor to 
+; 
+—s 
+nve 
+uniselector 
+t 
+dnve uniselee 
++Uniselector drum 
+Brushes to 
+i 
+Varrahle 
+Variables 
+- 
+irtables 
+«— 
+Problem board 
+= Control panel 
+

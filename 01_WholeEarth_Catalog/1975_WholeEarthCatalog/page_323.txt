@@ -1,0 +1,276 @@
+(36 is tee 
+‘ej 
+Af 
+Oe 
+eee 
+i" 
+' 
+: 
+An Introduction to Cybernetics 
+Thus there exist factors, such as ‘height of threshold” or ‘‘pro- 
+: 
+portion of variables constant’, which can vary a large system con- 
+tinuously along the whole range that has at one end the totally- 
+joined form, in which every variable has an immediate effect on 
+every other variable, and at the other end the totally-unjoined form, 
+in which every variable is independent of every other. Systems can 
+thus show more or less of ‘‘wholeness’’. 
+_ We are migrating from a world governed primarily by the 
+_laws of thermodynamics to a world governed primarily by 
+} cybernetics——a weightless world (Fuller says ““metaphys- 
+_ical’’) whose events are the impinging of information on 
+| information, whose basis is survival and direction is growth. 
+Thought, society, economics, media, evolution 
+This earth contained carbon and other necessary elements, and it is 
+a fact that many combinations of carbon, nitrogen, and a few others 
+are self-reproducing. 
+It follows that though the state of ‘’being 
+lifeless’ is almost a state of equilibrium, yet this equilibrium is 
+unstable, a single deviation from it being sufficient to start a 
+trajectory that deviates more and more from the “‘lifeless’’ state. 
+What we see today in the biological world are these ‘‘autocata- 
+lytic’’ processes showing all the peculiarities that have been 
+imposed on them by two thousand million years of elimination 
+of those forms that cannot survive. 
+The two main entries to understanding in this realm are 
+| Norbert Wiener (see pp. 16 & 307) and Ashby. 
+Wiener’s books are wider, more inspiring. Ashby is more 
+thorough. 
+__ SB 
+; 
+[Suggested by Dave Evans] 
+An Introduction 
+to Cybernetics. 
+W. Ross Ashby 
+| 
+The organisms we see today are deeply marked by the selective 
+| 1958; 295 pp. 
+action of two thousand million years’ attrition. Any form in any 
+way defective in its power of survival has been eliminated; and 
+today the features of almost every form bear the marks of being 
+adapted to ensure survival rather than any other possible outcome. 
+Eyes, roots, cilia, shells and claws are so fashioned as to maximise 
+the chance of survival. And when we study the brain we are again 
+studying a means to survival. 
+from: 
+: 
+5 
+Barnes & Noble, Inc. 
+105 Fifth Ave. 
+New York, N.Y. 10003 
+$4.75 postpaid 
+or WHOLE EARTH CATALOG 
+\ 
+One way of blocking the flow (from the source of disturban\ 
+to the essential variable E) is to interpose something that acts 
+simple passive block to the disturbances. Such is the tortoise\ 
+shell, which reduces a variety of impacts, blows, bites, etc. to ¢ 
+negligible disturbance of the sensitive tissues within. 
+In the san 
+— 
+class are the tree’s bark, the seal's coat of blubber, and the human 
+skull. 
+At the other extreme from this static defence is the defence by 
+skilled counter-action+—the defence that gets information about 
+the disturbance to come, prepares for its arrival, and then meets the 
+disturbance, which may be complex and mobile, with a defence that 
+is equally complex and mobile. This is the defence of the fencer, in 
+some deadly duel, who wears no armour and who trusts to his skill 
+in parrying. This is the defence used mostly by the higher organisms, 
+who have developed a nervous system precisely for the carrying out 
+of this method. 
+What is an amplifier? An amplifier, in general, is a device that, if 
+given a little of something, will emit alot of it. A sound-amplifier, 
+if given a little sound (into a microphone) will emit a lot of sound. 
+And a money-amplifier would be a device that, if given a'little 
+money, would emit a lot. 
+Such devices work by having available a generous reservoir of 
+what is to be emitted, and then using the input to act as 
+controller to the flow from the reservoir. 
+Information 
+; 
+The September 1966 issue of Scientific American was 
+devoted entirely to the new technology of information. Now 
+available as a paperbound book, it is the best introduction 
+| we’ve seen to computer science. Articles include: ‘Computer 
+Logic and Memory”, “Computer Inputs and Outputs”, 
+“Systems Analysis and Programming”, “’Time-sharing on 
+| Computers”, “The Transmission of Computer Data”, “The 
+‘Uses of Computers in Technology”, “The Uses of Computers 
+ann 
+| in Organizations”, “The Uses of Computers in Education”, 
+ie 
+“Information Storage and Retrieval’, and “Artificial 
+Intelligence”. 
+A comprehensive review of the 
+extraordinary new technology of 
+Information 
+—SB 
+‘from: 
+W. H. Freeman & Company 
+~ 
+660 Market Street 
+$2.50 postpaid 
+San Francisco, CA 94104 
+Information 
+1966; 218 pp. 
+; 
+or WHOLE EARTH CATALOG 
+The computer is almost exactly what man is not. It is capable of 
+| 
+Paying undivided attention to unlimited detail; it is immune to 
+| 
+distraction, precise and reliable; it can carry out the most intricate 
+‘and lengthy calculation with ease, without a flaw and in much less 
+than a millionth of the time that would be required by its human 
+| counterpart. 
+It is emotionless,or so we suppose. 
+It suffers neither 
+| boredom nor fatique. 
+It needs to be told only once; thereafter it 
+| remembers perfectly until it is told to forget, whereupon it forgets 
+| instantly and absolutely. 
+Critical Path Method 
+=e 
+] 
+“4 
+| Most construction Ive been around was under conditions of 
+| “The rains are due next week” or “’/f we don’t get the dome 
+| covered by the first snow, we’ve blown it for the winter.“ 
+| Time pressure. At the miraculously complete and on-time 
+| Expo 67 in Montreal the magic ingredient was CPM—— 
+Critical Path Method. 
+It’s the analysis of what must. be done 
+, in sequence (foundation, then floor) and what can be done 
+concurrently (while the foundation is being dug in, the girls 
+can cut the roof panels). 
+The maximum necessary sequence 
+is your minimum construction time, and is the critical path. 
+_ Any delays on it slow down the whole operation. A clear 
+CPM map, using now-standard symbols, can vastly simplify 
+coordination. 
+The technique is useful for any group oper- 
+ation that’s time-bound. 
+This book /s the briefest clearest 
+on CPM, 
+PSP 
+Simulated waterfall spills over the edge of a cliff and splashes into a 
+pool in this computer experiment performed by John P. Shannon at 
+the Los Alamos Scientific Laboratory as part of a study of dynamic 
+behavior of fluids with the aid of numerical models. 
+~ 
+a 
+| Critical Path Method 
+from: 
+, 
+§) A. T. Armstrong-Wright Humanities 
+Press, Inc. 
+| 
+| 
+EVAN 
+CONSTRUCT 
+DOOR 
+NSTALL..DOOR 
+PAINT 
+‘DOOR 
+5 
+l Ons l 
+1969; 113 pp. 
+303 Park Avenue South 
+‘ 
+i 
+New York, N. 
+Y. 10010 
+\] $4.25 postpaid 
+«ie 
+or WHOLE EARTH CATALOG 
+| 
+: 
+| 
+CONSTRUCT 
+PAN eZ\! 
+INSTALL WALL 
+UNITS 
+WALL: 
+UNITS 
+G) 
+PAINT 
+WALL. 
+UNITS 
+In the above example, the required time for completing the project 
+is 25 days and the project end-event time is calculated as ‘‘day 25’. 
+Assume that the owner is anxious to complete the garage before a 
+new car is delivered on “‘‘day 15”, it will thus be necessary to reduce 
+the critical path by 10 days if this scheduled date is to be achieved. 
+In this case it may be a simple matter of doubling the labour on 
+activity 1—3 ‘Construct wall units” in the hope of reducing the 
+duration by 10 days. 
+For example of CPM in use, see p. 300. 
+Systems Thinking 
+Well, this should be in “Understanding Whole Systems”. 
+It’s 
+an excellent introduction to systems theory. 
+/t’s here so you 
+can connect it up with cybernetics and your own bodily and 
+social open-system functioning. 
+In the light of systems thinking 
+statements like “He not busy being born is busy dying” have 
+precise truth. 
+—SB: 
+Systems Thinking 
+F. E. Emery, ed. 
+1969; 398 pp. 
+$4.25 postpaid 
+from: 
+Penguin Books, Inc. 
+7110 Ambassador Rd 
+Baltimore, Md. 21207 
+72 Fifth Ave. 
+New York, N.Y. 10011 
+or WHOLE EARTH CATALOG 
+In physics; the theory of open systems leads to fundamentally new 
+principles. 
+It is indeed the more general theory, the restriction of 
+kinetics and thermodynamics to closed systems concerning only a 
+rather special case. 
+In biology, it first of all accounts for many charac- 
+teristics of living systems that have appeared to be in contradiction to 
+the laws of physics, and have been considered hitherto as vitalistic 
+features. Second, the consideration of organisms as open systems yields 
+quantitative laws of important biological phenomena. 
+e.. 
+——~, 
+It is events rather than things which are structured, so that social 
+structure is a dynamic rather than a static concept. 
+Activities are 
+structured so that they comprise a unity in their completion or closure. 
+A simple linear stimulus-response exchange between two people would 
+not constitute social structure. To create structure, the responses of 
+A would have to elicit B’s reactions in such a manner that the responses 
+. 
+of the latter would stimulate A to-further responses. 
+But the rim of his cup finds his mouth in there somewhere and 
+he drinks. 
+And then he wipes his mouth and drinks again. 
+e 
+“I'm awake.” 
+e 
+Emmit raises 
+) 
+Emmit lifts his head, like a bird alerted. 
+He raises his bearded head and looks at his nephew in the big 
+bed across the room. 
+He looks. 
+For a long time he looks, and doesn’t speak. 
+e 
+But then he lifts his cup in a neat salute and says you had a right 
+smart of sleep, old bud. How long 
+How long have | been sleeping? D.R. asks. 
+e 
+About a day. 
+e 
+Then silence. Do! remember coming here? 
+Information 
+Communications 
+}
+

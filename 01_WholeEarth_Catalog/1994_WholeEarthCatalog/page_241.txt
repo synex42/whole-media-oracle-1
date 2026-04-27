@@ -1,0 +1,293 @@
+Garage Virtual Reality 
+Three years ago, you couldn't get 
+away with spending less than 
+$100,000 for a VR system. Linda 
+Jacobson’s book is about the under- 
+ground networks of inventors out there 
+who pried Mattell’s PowerGlove apart 
+and tumed a toy into the input device 
+for cheap VR systems. The military 
+and the infotainment industries won't 
+be alone in the VR field for long. Just 
+as a teenage Steve Wozniak started 
+the personal-computer revolution, 
+some kid who's messing with VR today 
+is going to have an enormous impact 
+on the future. 
+If we are going to make intelligent de- 
+cisions about technologies of the fu- 
+ture, we need to understand the full 
+implications, beneficial and otherwise, 
+of today's technologies. | suspect that 
+the technological revolutions of the 
+future aren't all going to come from 
+the big research labs. If you want a 
+glimpse of tomorrow, pay attention to 
+those kids who are prying open elec- 
+tronic toys in garage laboratories: as 
+Linda Jacobson points out, garage 
+technology is an old and spectacularly 
+successful American tradition. 
+And for those of you who are teenage 
+VR hackers, this thick compendium of 
+cheap VR lore is the motherlode: ev- 
+erything you need to know. It comes 
+with an IBM-compatible, Macintosh, or 
+Amiga version of Virtual Reality Stu- 
+dio! — a 3D graphics toolkit. — HLR 
+Garage Virtual Reality 
+(The Affordable Way to Explore Cyberspace) 
+Linda Jacobson. 1993; 439 pp. 
+ISBN 0-672-30389-2 
+$29.95 ($32.95 postpaid). Prentice Hall 
+Press/Order Processing Center, PO Box 
+11071, Des Moines, IA 50336-1071; 
+800/947-7700, fax 514/284-2607 
+Front Display—Exploded View 
+ce-rrc > 
+| 
+Plasnc Fresnet Lenses ———— 
+Convex Side Forward 
+Some of the information in the following 
+list was derived from FTP and VR data site 
+lists that appear in the USENET newsgroup 
+sci.virtual-worlds, posted by Bill Cockayne 
+of Apple Computer and Toni Emerson of 
+the Human Interface Technology Lab. Al- 
+though the net addresses were accurate 
+when this book was published, and most 
+sites stem from stable educational and 
+corporate institutions, keep in mind that 
+net addresses, like normal (snail-mail) 
+addresses, can change over time. 
+e 
+Just the FAQs 
+Virtual Reality FAQ 
+Host: ftp.u.washington.edu 
+Directory path: /public/virtual-worlds/ 
+theralfa 
+Maintained by Mark A. DeLoura 
+(deloura@cs.unc.edu) 
+Power Glove FAQ (Glove-List) 
+Host: cogsci . uwo.ca (129.100.6.10) 
+Maintained by Eric Townsend 
+(jet@well.sf.ca.us) 
+(This FAQ also is available directly from the 
+glove-list file server. See the glove-list infor- 
+mation in the section titled “Electronic 
+Mailing Lists.”) 
+Power Glove Serial Interface (PGSI) FAQ 
+Host: ftp.cso.uiuc.edu 
+(128.174.5.59) 
+Directory path: /ACM/PGSI 
+Address: (pgsi@uiuc. edu) 
+Advanced Gravis UltraSound FAQ 
+Host: rtfm.mit.edu 
+Directory path: pub/usenet/news.answers 
+maintained by Dave DeBry 
+(ddebry@dsd.es.com) 
+e 
+Anonymous FTP Sites 
+General Information 
+Host: ftp.u.washington. 
+edu 
+(140.142.56.1) 
+Directory path: /public/virtual-worlds 
+Directory path:/public/hitl 
+Directory path: /public/virtual-worlds/virtus 
+Directory path: /public/VirtualReality 
+Probably the world’s best-know VR information 
+base, this site stores, among other goodies, 
+sci.virtual-worlds archives, “TheRealFaq,” code 
+for VEOS (Virtual Environment Operating Sys- 
+tem), and self-running Virtus WalkThrough 
+demos. Be sure to make your way down the di- 
+rectory path: /public/virtualreality/hitl/bibliogra- 
+phies, where the meticulously maintained VR 
+Update (filename vru-vol| rev.txt) lists all recent 
+VR books and articles. 
+Host: stein.u.washington. edu 
+(140.142.56.1) 
+Directory path: /public/virtual-worlds 
+Home of sci.virtual-worlds, this is the place 
+to log on to when you can’t access 
+ftp.u.washington. edu (and vice 
+versa). Check out that FAQ! 
+Host: sunee. uwaterloo.ca 
+proverbial much, much more. Some of the 
+demos support the Mattel Power Glove and/ 
+or LCD shutter glasses. Here are some other 
+directory paths of interest to garage VR types. 
+pub/amiga (files related to the 
+Commodore Amiga) 
+pub/glove (files and programs related 
+to Power Glove) 
+pub/netgame (files related to networked 
+games and VR) 
+pub/polyblit (Dave Stampe’s speedy 
+polygon code for 386 PCs) 
+pub/raytracers (raytracing graphics 
+packages) 
+pub/sound (C source for playing sound 
+files on a PC) 
+pub/vgif (GIF viewer) 
+Host: sunsite.unc.edu 
+(152.2.22.81) 
+Directory path: /pub/academic/computer- 
+science/virtual-reality 
+e 
+Based at the University of North Carolina, 
+which houses one of the world’s leading VR 
+research labs, this site contains academic pa- 
+pers, VR demos, articles, a partial mirror of 
+sci.virtual-worlds and the glove-list, 3D images 
+and software, DOS VR programs, Power 
+Glove software and information, REND386, 
+and other fun stuff. 
+Host: avalon.chinalake.navy.mil 
+(129.13 1.31.11). 
+Directory path: /pub 
+Mirrored on ftp.kpc.com 
+(144.52.120.9) 
+Directory path: /pub/mirror/avalon 
+This is a massive data bank for 3D graphic 
+objects archived in various formats, including 
+utilities to convert between formats and 
+documents that explain file formats. 
+Host: wuarchive.wust1.edu 
+This Seattle-based site mirrors the sci.virtual- 
+worlds archives. It also contains Power Glove in- 
+formation and a wealth of graphics archives, includ- 
+ing source code, in the directory path/graphics. 
+Host: parcftp.xerox.com 
+Directory path: /PUB/MOO/PAPERS 
+Site of the LambdaMOO MUD ( see the sec- 
+tion titled “In the MUD”), this Xerox Palo 
+Alto Research Center storehouse contains 
+scads of information on multiuser dungeons/ 
+dimensions (MUDs) — also known as text- 
+based virtual realities— and electronic 
+communication in general. 
+Host: ftp.apple.com (130.43.2.3) 
+Directory path: /pub/vr 
+Direct from Apple Computer headquarters in 
+Cupertino, California, this cyberplace contains 
+information on Macintosh-based VR, news of 
+Taming Technology 
+DESKTOP REALITY 
+This relatively new site stores papers and other 
+documentation about VR systems developed at 
+the National Center for Supercomputing 
+Applications (no garage VR here!). 
+& 
+LCD Shutter Glasses Information and Code 
+Host: wench. ece.jcu.edu.au 
+Directory path: /pub/sega/ 
+[320x400 hicolor] 
+Host: wuarchive.wustl.edu 
+(128.252.135.4) 
+These sites contain documentation and code 
+for interfacing Sega shutter glasses with IBM 
+PCs and compatibles. 
+Host: vega. hut. fi 
+directory path: /pub/mac/finnish/seg3d 
+This is the place for source code and docu- 
+mentation for interfacing the Macintosh with 
+Sega LCD shutter glasses. It also provides 
+ASCIl and GIF versions of the documentation. 
+Macintosh VR Information 
+Host: ftp.apple.com (130.43.2.3) 
+Directory path: /pub/vr 
+Maintained by Bill Cockayne 
+(billc@apple.com) 
+Dip into this treasure chest of Macintosh VR 
+applications, self-extracting archives (Power 
+Glove interface diagrams, programs and com- 
+piler for Ron Menellis 68HC! | Glove inter- 
+face, a Glove rotation control demo, and lots 
+more). The updated list of FTP sites goes by 
+the filename vr_sites. 
+e 
+News Groups 
+Usenet News Groups: sci.virtual-worlds 
+and sci.virtual-worlds.apps 
+This inimitable pair of news groups contains 
+the most active, well-known VR discus- 
+sions, read by more than 15,000 people 
+around the world. They cover develop- 
+ments in the field of virtual worlds 
+technologies (sci.virtual-worlds) and appli- 
+cations (sci.virtual-worlds-apps). Together 
+they serve as an international forum in 
+which regular participants contribute news, 
+insights into technological developments, 
+opinions on scientific and philosophical is- 
+sues, and discussions of the use of virtual 
+worlds in commercial and social settings. 
+Co-moderators from around the world 
+contribute to both discussions, keeping it 
+topical and “flame-free.” 
+Several FTP sites (listed earlier) “mirror” 
+sci.virtual-worlds, reflecting the daily activi- 
+ties for those who can’t directly access the 
+newsgroup. 
+Excerpts of these newsgroups occasionally 
+appear on CompuServe, GEnie, BIX, and 
+the WELL’s VR conference. 
+CAD projects, and a regularly updated list of 
+FTP sites. It’s also the home of the Mac VR 
+programs Gossamer and Dr.StrangeGlove. 
+Host: ftp.ipa.fhg.de (129.233.17.68) 
+Directory path: /pub/virtual-reality 
+Welding Goggle without Lons 
+© 
+Angle iron =| 
+| 
+Clear Satety Lens. 
+Rubber Gasket 
+(Spacer and Light Seal) 
+' 
+n 
+Plastic Project Box 
+(Eyehotes Cut in Bottom) — 
+Plastic 
+SS 
+Wing Nut 
+(129.97.50.50) 
+Directory path: /pub 
+Directory path: /pub/rend386 
+Directory path: /pub/vr 
+A requisite stopover for all VR net travelers, 
+this University of Waterloo site overflows 
+with useful files and programs, including Dave 
+Stampe and Bernie Roehl’s notorious screen- 
+rendered REND386 and its demos (read the 
+text files first; they explain how to run the 
+Based in Germany, this site contains files de- 
+scribing the work of Fraunhofer Institute for 
+Manufacturing Engineering and Automation 
+(IPA) in Stuttgart — specifically, the Demon- 
+stration Centre for VR, founded in 1991. 
+‘ 
+Va X %a' Bolt 
+- 
+v6 nat ee 
+Oitlusion Plexiglass 
+| 
+27" of 
+3° LCD Video Screen 
+ears 
+i 
+demo), a cool 3D wireframe object-viewer 
+na ae 
+(which lets you use your mouse to pivot an 
+Host: ftp.ncsa.uiuc.edu 
+ex haan pee 
+as 
+object about ), quasi-VR demos for 386 PCs, 
+(141.142.20.50) 
+perches ames | 
+A 
+Jerry Isdale’s “What Is VR?” article, and the 
+Directory path: /VR 
+

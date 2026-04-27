@@ -1,0 +1,161 @@
+Fundamentals of Interactive 
+Computer Graphics 
+For those who dream of flying not as an airplane flies 
+but as a bird flies, or dream of trekking across alien land- 
+scapes, here at last is an exhaustive prescription for making 
+the visual dimension of these dreams concrete. 
+Fundamentals sketches out the techniques for generating 
+realistic visual images from computer models. It actually 
+shows how to do it. [Programming skills are mandatory 
+—KK.] Hardware, software techniques, actual code (in 
+PASCAL) — it’s all presented with an unusual and re- 
+freshing concern for convenient, intuitive user controls 
+(currently fashionable buzz phrase: ‘‘human factors 
+engineering’’). 
+You can get a good long look at one state-of-the-art ap- 
+plication of these techniques in the NASA Jet Propulsion 
+Laboratory documentary on the Voyager Saturn fly-by. 
+AutoCAD e Generic CADD 
+e EASY3D 
+Good uses for computer graphics: jobs that demand con- 
+stant alterations, pictures constructed with numerical 
+precision, designs built solely from data, and graphics 
+that make use of repeating template patterns. The best 
+computer aided design (CAD) program for personal 
+computers: AutoCAD. 
+This well-proven program has earned a remarkably good 
+reputation for being fast, versatile, and agreeable with 
+hundreds of customized peripherals (like color printers 
+and digitizing tablets) that let it do practical work. It can 
+rotate objects through 3D, scale up or down size, and 
+‘freeze’ particular features of the design that you don’t 
+want to change. A typical application would be to draw 
+an engineering or architectural project assembled out of 
+7 FEE C2" 
+INSULATION 
+Microcomputer Graphics 
+| am using Microcomputer Graphics to learn the fun- 
+damentals of two- and three-dimensional computer 
+graphics. This book is for beginners. It takes you from 
+programming the computer to drawing a line, to drawing 
+objects that appear solid. Along the way you learn about 
+2-D and 3-D object scaling, rotation, and translation; line 
+clipping; 3-D projection; and hidden-line and hidden-sur- 
+face routines. Each step is short and succinctly explained 
+with lots of illustrations. 
+—Charlie Richardson 
+> 
+To obtain a two-dimensional (screen) representation of a 
+three-dimensional object we'll next develop a method for 
+projecting each point of the object onto a plane... . 
+Both these draw- 
+ings were created 
+with AutoCAD, 
+showing the pro- 
+gram’s versati- 
+lity. Although it 
+looks as if the 
+entire drawing is 
+on one layer, 
+in both cases, 
+various pieces 
+are actually 
+RUBY CRYSTAL LASER 
+drawn on sep- 
+arate layers. 
+~ COMMUNICATIONS 
+3 17 
+COMPUTER GRAPHICS 
+Light source \ 
+\_ at infinity 
+By 
+' 
+Polygon 
+casting shadow 
+(Far left) Mountain 
+scenes created with 
+fractal surfaces. 
+(Left) A computer- 
+generated strawberry, 
+showing both diffuse 
+and specular reflection. 
+Shadow on top 
+face of cube 
+Face 
+completely in 
+shadow, so no 
+Shadow on 
+} detail polygon 
+. 
+. 
+. 
+° 
+° 
+front face of 
+| 
+added 
+This movie includes several minutes of computer-sim- 
+cube 
+ulated outer planet fly-bys. 
+—Ken Crossen 
+@ 
+Shadow algorithms for point light sources are identical 
+to hidden-surface algorithms! The hidden-surface algo- 
+; 
+rithm determines which surfaces can be seen from the 
+ror) caraauisatasieniee 
+viewpoint, and the shadow algorithm determines which _ light source. 
+: 
+surfaces can be “‘seen’’ from the light source. The sur- 
+faces that are visible both from the viewpoint and from 
+the light source are not in shadow. Those that are visible 
+from the viewpoint but not from the light source are in 
+shadow. This logic can easily be extended to multiple 
+light sources. 
+standard components, compile a list of materials, and 
+then amend the whole drawing to fit a substituted, 
+smaller part. Ughhh. If you need to do this more than 
+once, buy a computer slave. 
+AutoCAD is an expensive professional system. You can 
+get an abbreviated jolt by plugging in Generic CADD, a 
+$100 clone that similarly sketches, but without 3D rota- 
+Fundamentals of 
+tion. The best performer on the Macintosh is EASY3D, 
+Interactive 
+which does. Picture processing, like word processing, will 
+Computer 
+make a bad design quickly bad, or a good design 
+Graphics 
+quickly over. 
+—Kevin Kelly 
+TD isey Gad Ae van Dam 
+AutoCAD: $300-$2,750 from Autodesk, Inc., (415) 331-0356. 
+1982; 674 pp. 
+Generic CADD: $99.95 from Generic Software, 
+$42.95 
+(206) 885-5307. 
+($44.15 postpaid) from: 
+EASY3D: $104 from Enabling Technologies, 
+Addison-Wesley Publishing 
+(312) 427-0408. 
+Company 
+1 Jacob Way 
+Reading, MA 01867 
+or Whole Earth Access 
+MUBY CRYSTa ROD 
+Wie 
+Microcomputer 
+Graphics 
+Roy E. Myers 
+(for the Apple Computer) 
+1982; 282 pp. 
+(for the IBM PC) 
+1984; 268 pp. 
+$1 4.38 each (postpaid) 
+from: 
+Addison-Wesley 
+Publishing Co. 
+1 Jacob Way 
+Reading, MA 01867 
+or Whole Earth Access 
+

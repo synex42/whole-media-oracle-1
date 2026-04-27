@@ -1,0 +1,302 @@
+The French-built Aerowatt, distributed by Pennwalt Corp. 
+WIND POWER 
+Dependable wind-generated electricity in useful amounts is not 
+easy to come by. The dream of a simple machine whirring 
+away on the roof of a log cabin in the wilderness, with people 
+inside enjoying modern conveniences turns out to be elusive. 
+Commercially available machines large enough to provide 
+power for business-as-usual in a home are very expensive. 
+Rebuilding a suitable antique machine often takes more 
+money than predicted by the time you get it up on a tower 
+and provide the batteries and controls. Most homebuilt 
+machines have been capable of only low output and have 
+been subject to maddening breakdowns. 
+The biggest 
+problems are money and reliability. Weather tends to be 
+more powerful than most people think. We know of at 
+least one installation of an expensive imported 
+unit that blew completely away in a mountain storm. 
+Ice, 
+dust, corrosion, hailstones, insects, lightning, bullets, 
+maintenance, metal fatigue, and very high wind forces are 
+all problems that must be faced if wind machines are to be 
+Practical. 
+Because of the high costs of making and testing prototypes, 
+some of the more dramatic work is being done by large 
+companies who have the staff and facilities. One of the 
+reasons for the high cost of existing machines is the low 
+production rate. If these corporations come up with good 
+designs and mass produce them, we’‘ll see a cost decline. 
+But it’s doubtful that wind power will ever be cheap. 
+eoredirg the costs over a community is one way to reduce 
+e 
+bite. 
+—JB 
+ANNOTATED 
+WIND ENERGY BIBLIOGRAPHY 
+by Windworks 
+Box 329 Route 3 
+Mukwonago, WI 
+53149 
+414-363-4408 
+15 June 1974 
+The Winds 
+(The Origins and Behavior of Atmospheric Motion) 
+George Hidy 
+Van Nostrand Co. 
+1967; 174pp. $3.95 
+Simple principles of physics are used to explain the features 
+of atmospheric motion. The book is primarily concerned 
+with airflow below 35,000 feet, but the upper atmosphere 
+is mentioned briefly. Drawings, graphs, and equations are 
+used to illustrate the principles of fluid dynamics involved. 
+It is technical in nature and, while not required reading for 
+the home builder, can be of great value in understanding how 
+and why the winds behave as they do. The address of the 
+publisher: 
+D. Van Nostrand Co., 300 Pike St., Cincinnati, 
+OH 45202. 
+Climatic Atlas of the United States 
+U.S. Department of Commerce 
+1968; 80pp. $4.25 
+This is a complete source of climatalogical information for 
+the United States. Besides information on precipitation, 
+temperature and sunshine it includes the following wind 
+information: monthly and annual prevailing direction, fastest 
+wind, surface wind roses, annual percentage frequencies and 
+annual mean wind speed. This data is collected by 
+approximately 150 reporting stations across the U.S. The 
+Department of Commerce also offers a monthly report for 
+each state. It costs $2.40 per year or $.20 per month. Either 
+of these is available from: Environmental Data Service, 
+National Climatic Center, Federal Building, Asheville, North 
+Carolina 28801. 
+Windmills and Watermills (See pg. 69) 
+John Reynolds 
+Praeger Publishers 
+1970; 196pp. $12.50 
+This survey of man’s earliest machines is well illustrated 
+with detailed photographs and drawings. It is accompanied 
+by a comprehensive text that follows millwrights and their 
+mills through succeeding generations of development. It’s 
+not oriented towards the ‘how-to’ but how it was done. The 
+book shows a healthy respect for the men and their machines. 
+Publishers address: Praeger Publishers, P.O. Box 1323, 
+Springfield, MA 01101 
+: 
+Electric Power From the Wind 
+Electric Power from the Wind answers most of the 
+beginner’s questions about wind power so he won’t 
+have to bother anyone unless he wants to really get 
+into it. 
+: 
+—JB 
+Electric Power 
+From the Wind 
+Henry Clews 
+1973; 29pp. 
+$2.00 postpaid 
+Our batteries are ‘“‘Century House Lighting” batteries made 
+by the Century Storage Battery Co., Ltd. in Australia 
+and distributed through Quirk’s. They come in completely 
+transparent polystyrene cases and have built in “gravity ball” 
+indicators which tell you at a glance their state of charge. 
+In our house, they are mounted in a long row under a bench 
+which can be folded up to inspect them. So far they have 
+required no attention whatever. Quirk’s claims that the 
+average life of these batteries used in this application is 
+15 to 20 years. 
+from: 
+Solar Wind Co. 
+P.O. Box 7 
+East Holden, ME 04429 
+In our main fuse box we have 15 Amp fuses, so | guess if 
+you want to compare our wind electric system to the Power 
+Company service, you could say we have a 15 Amp service. 
+But since the tools are used during the day and the lights at 
+night, we’ve had no problem with overloads as yet. We 
+estimate that with our system, which has been in operation 
+since August 15, 1972, that we are getting about 110 
+Kilowatt-hours of electrical energy per month. This is on 
+the order of one fourth the amount of power that the 
+average American family consumes from the Power Company. 
+Wind Energy Bibliography 
+A comprehensive bibliography of information you 
+can use to design wind powered devices and systems. 
+Includes theory, design, aerodynamics, tower design, 
+storage systems etc. Nicely done. 
+—JB 
+Wind Energy 
+from: 
+Bibliography 
+Windworks 
+is 
+1973; 65pp. 
+Box 329 Rt. 3 
+Mukwonago, WI 53149 
+$3.00 postpaid 
+or Whole Earth 
+ls There a Place for the Windmill in the 
+- 
+Less Developed Countries 
+Marshel Merriam 
+Technology and Development Institute 
+Working Paper Series No. 20 
+1972; 36pp. 
+This is a study of the state of the art of windmills in respect 
+to the less developed countries. It is not technical in nature, 
+but covers the components involved in a wind energy system. 
+It is written in an easy to understand manner, with chapters 
+on appropriate uses for windmill output, selection of a type 
+of windmill, will the wind be sufficient, and economics ina 
+LDC context. There are useful appendicies on windmill 
+manufacturers and the characteristics of available windmills. 
+It serves as a basic introduction to the utilization of wind 
+power. The publisner’s address: Technology and Development 
+Institute, The East-West Center, Honolulu Hawaii 96822. 
+Electric Power From the Wind 
+Henry Clews 
+Solar Wind Publication 
+1973; 29pp. $2.00 
+This is a basic publication dealing with domestic scale wind 
+electric plants. Henry Clews is the U.S. distributor for the 
+Swiss made Elektro and the Australian Dunlite wind 
+generators, and much of the information in the booklet is 
+based on his experience gained powering his homewith wind 
+generator power. It is an introduction to the subject, non- 
+technical in nature, and he'll include price lists of the 
+commercial units he offers. A revised version of the booklet 
+will be available in the Fall. Write: Solar Wind PO Box 7, 
+East Holden, Maine 04429. 
+Proceedings of the United Nations Conference on 
+New Sources of Energy 
+Rome 21-31 August 1961 
+Volume 7, Wind Power 
+1964; 408pp. out of print 
+This is the most complete technical reference on the use of 
+wind power. Because it is a publication of papers presented 
+ata conference it lacks the continuity of a book, but those 
+who attended the conference were active in various aspects 
+of wind energy so much of the information is based on 
+experience. The papers are divided into three subject areas: 
+Studies of wind behavior and investigations of suitable sites 
+for wind driven plants (177 pages), The design and testing 
+of wind powered plants (125 pages), and recent developments 
+and potential in wind power utilization (101 pages). The 
+Papers present experience gained in the operation of wind 
+generators ranging from 2 to 100 kw, and includes 
+information not available any where else, as in the case of 
+“The Aerodynamic Layout of Wing Blades of Wind Turbines 
+with High Tip Speed Ratios’ by Hutter. Summarys for all 
+the papers are also given in French. Although this volume 
+and the companion volumes on geothermal and solar energy 
+are out of print, there are plans to reprint them. For 
+— 
+information write: United Nations Publications LX 2300 
+New York, New York 10017. 
+Po 
+hn 
+: 
+ae 
+Wind and Windspinners 
+: o 
+By golly, somebody at last has done a good job of 
+spelling out what is involved in making a wind 
+— 
+electric system yourself. The design is for the well- 
+known Savonius Rotor (“S” rotor), which is not a 
+particularly efficient type, but is easy to build. The 
+author is honest about it all, and gives a commenda 
+amount of numbers and tables necessary to figure 
+out expected performance for this and other machi 
+He also discusses the toughest riddle of the S rotor: 
+how to get it up on a tower where the wind is and 
+yet keep things simple. Altogether it seems to be 
+very complete information and you could actually 
+make a workable machine from these instructions. 
+—JB 
+The wind (this is A.T. wind energy) can only transfer 12 
+percent of its energy to the S-rotor. After transfer thru 
+the gearing to the alternator, only 10.8% of the original is 
+eft. The alternator takes this mechanical energy and 
+transforms it into electricity, and only 5.4% is still in usable 
+form (as electricity). Trundle this electricity down the wire: 
+to the eagerly waiting batteries. 
+. 
+. only 4.86% of the origina 
+energy arrives to be stored. Then when this electric energy 
+pulled out and used, we find that all but 3.89% has 
+disappeared! We scoot this off thru wires, hoping we won't 
+lose much more, (but we lose 40% along the way) finding 
+Power From the Wind 
+The story of the development, testing and failure of the 
+huge wind generator at Grandpa’s 
+Knob, Vermont, in the 
+1940's by the designer himself. While obviously not 
+everyone’s interested, this story will fascinate those who are 
+seriously into wind power. 
+In addition to being a documen 
+account of a real project, Mr. Putnam provides many 
+charts 
+and a Jot of data to support his design decisions. He uses thé 
+data to make a proposal for future machines that would not 
+fail. There is a great deal of attention paid to characteristics 
+of wind, and how to determine a good site for a generator. 
+If youve never read a book documenting a project, this is a 
+good one to read. Not only is the subject interesting, but 
+the book clearly shows how engineers work, what their 
+problems are, and how they go about solving them. It also 
+The Generation of Electricity by Wind Power 
+E.W. Golding 
+" 
+Philosophical Library (US publisher) 
+1965; 318pp. out of print 
+Golding, who was active in the design and testing of English: 
+built wind generators during the 1950's, collected much of 
+the information that was available at that time. The result is 
+an extensive treatment of the history and types of windmills 
+wind characteristics and large-scale wind power installations. 
+The area most extensively treated is wind, with chapters on 
+the energy obtainable, wind characteristics and distribution, 
+wind power sites, and wind measurements. It offers a good 
+balance between technical and non-technical information, 
+and includes an extensive bibliography. The publisher is 
+considering republishing, their address is: The Philosophical 
+Library, 15 East 40th Street, New York, New York. 
+| 
+Windmilts 
+E.N. Fales 
+in 
+Standard Handbook for Mechanical Engineers, 7th ed. 
+Baumeister & Marks 
+McGraw-Hill 
+1958; pp9-8 to 9-13 $31.00 
+These five pages offer a complete introduction to the design 
+and operation of windmills. There are a number of simple 
+equations dealing with the power available, axial thrust, tip 
+speed ratio, and forces acting on the blades. Also dealt with 
+is the difference between basic windmill designs and wind 
+characteristics relating to wind generators. This is only a 
+small section of a book that offers a wealth of technical 
+information, many times worth the price. The publishers 
+address: McGraw-Hill Book Co., Princeton Road, Highstow 
+New Jersey 08520. 
+Wind Power for Remote Microwave Stations 
+Ulrich Hutter 
+Automatic Power 
+1959 (aprox.) 16pp. 
+This small informative paper puts Dr. Hutter’s aerodynamic 
+concepts and experience in an easily understood format. T 
+subjects dealt with include wind behavior, tip speed ratios, 
+matching the power output to the load, and a description 0 
+Hutters own design, the WE-10. The WE-10 was a 10 meter, 
+10kw wind generator that was in production from 1950- 
+1960 and distributed in the United States by Automatic 
+Power Inc., 205 Hutcheson Street, Houston Texas 77003. 
+Theory of Wing Sections 
+Including a Summary of Airfoil Data 
+Ira Abbot and Albert von Doenhoff 
+Dover Publications 
+1959; 683pp. $4.00 
+This is the standard reference on airfoil design. It includes 
+

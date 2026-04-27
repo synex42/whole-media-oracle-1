@@ -1,0 +1,228 @@
+ELECTRONIC MUSIC 
+> 
+by Don Buchla 
+Don Buchla is a designer-builder of electronic music 
+: instrumentation in Berkeley, California. 
+—SB 
+na 
+‘ 
+SOFTWARE 
+_ Recent years have witnessed a coalition in hardware function 
+and a consequent refinement of technique that provide us 
+with some common ground for communication. A former 
+__ 
+information vacuum is now occupied by a respectable body 
+___ of literature that includes several excellent books and a 
+: 
+worthy periodical. 
+‘Many current books deal with seemingly arbitrary combi- 
+Nations of various aspects of electronic music—— future 
+works will hopefully exhibit increased focus and might even 
+Carry meaningful titles. To assist you in selecting books that 
+address your areas of interest, I’ve prepared a multidimen- 
+‘sional table, with numbers that indicate the coverage that 
+each author grants to particular topics. These numbers 
+Primarily indicate depth of coverage, but are occasionally 
+influenced by accuracy and comprehensibility. 
+no treatment 
+incidental (en passant) 
+superficial treatment 
+introductory treatment 
+comprehensive treatment 
+exceptionally thorough 
+1 
+aononwe 
+st 
+bouow 
+wo wa 
+To clarify a couple of table headings, ‘‘general”’ implies 
+applicability to a wide range of current instrumentation; 
+“specific” refers to qualitative, frequently comparative 
+data about specified brands of instrumentation. And 
+“classical’’ technique, for the sake of this presentation, is 
+in addition to rather than inclusive of ‘tape’ technique. 
+The Technique of Electronic Music, Thomas Wells & Eric 
+S. Vogel, 1974; 291pp., about $10, from University Stores, 
+Inc., P.O. Box 7756, Austin, TX 78712. 
+The authors contend that ‘‘a knowledge of the basic 
+technical processes of electronic music production is essen- 
+tial for those working in this medium.” Their presentation 
+“assumes a rudimentary knowledge of mathematics,”’ is 
+clearly written and illustrated, technically accurate, and 
+abundantly referenced. 
+The Development and Practice of Electronic Music, Jon H. 
+Appleton and Ronald C. Perera, editors, 1975, about $12, 
+-from Prentice—Hall, Inc., Box 500, Englewood Cliffs, NJ 
+07632, or P.O. Box 18501, Salt Lake City, UT 84118. 
+A comprehensive study by six authorities, each reporting 
+in depth on a particular aspect of the art. Contributors 
+are: 
+Otto Luening, A. Wayne Slawson, Gustav Ciamaga, 
+Joel Chadabe, John E. Rodgers, and Gordon Mumma. 
+Available soon. 
+= 
+Electronic Music Synthesis, Hubert S. Howe, Jr., 1974, 
+$12.50, from W. W. Norton & Co., 500 5th Ave., 
+New York, NY 10036. 
+A lucid, thorough guide to current studio instrumentation 
+and technique, intended for and appropriate to the pre- 
+sentation of advanced technical courses. 
+Introduction to the Physics and Psychophysics of Music, Juan 
+G. Roederer, 1973; 161pp., $5.90, from Springer Verlag, New 
+York, Inc., 175 Fifth Ave., New York, NY 10010. 
+Sound, being the stuff that music is made of, should be of 
+considerable interest to musicians. This is the most thorough 
+The Music Easel Weasel 
+and clearly presented, not-too-technical explanation of sound 
+that I’ve encountered. 
+Electronotes: Newsletter of the Musical Engineering Group, 
+B. A. Hutchins, editor & publisher, $6/year, from Musical 
+Engineering Group, 203 Snyder Hill Rd., Ithaca, NY 14850. 
+Electronotes is a bimonthly newsletter established in 1972 to 
+facilitate communication among engineers and musicians 
+interested in the design and construction of electronic music 
+hardware. Schematics and construction details are accompa- 
+nied by theory and application notes; product reviews, surplus 
+sources, literature reviews and classified ads are regular features. 
+A much needed and beautifully executed endeavor. 
+Electronic Music Systems: Structure, Control, Product, 
+Frank L. McCarty. To be published in a forthcoming issue of 
+Perspectives of New Music. Princeton Univ. Press, Princeton, 
+NJ 08540. $6.00 semiannually or $5.00 per copy. 
+This article is a thorough enumeration and evaluation of the 
+design philosophies and hardware characteristics of currently 
+available systems. Directed to designers as well as musicians, 
+McCarty suggests numerous improvements. 
+The Evolution of Electronic Musical Instruments in the 
+United States, Thomas L. Rhea, 1972, 250pp., from University 
+Microfilms, 300 
+N. Zeeb Rd., Ann Arbor, Ml 48106 
+A fascinating, remarkably thorough compendium of musical 
+instruments and their inventors. 
+Illustrations are not included 
+in this edition, but might be obtainable from the author 
+(Box 274, Hendersonville, TN). 
+The synchronous motor used in the instrument was first used 
+by Laurens Hammond in an electric clock, the first product 
+of the Hammond Company. When the depression caused this 
+market to be flooded with similar clocks, Hammond, an 
+inventor of considerable talents, invented a device that 
+shuffled a pack of playing cards into four piles, and he built 
+the device into a bridge table. Some 14,000 of these devices 
+were sold in 1932, but the line was discontinued again due 
+to the depression. In 1933, Hammond began to search for 
+Schwartz. 
+two years 
+0, 
+elp 
+of 
+Jol 
+research engineer, Hammond constructed 
+a 
+now-famous instrument. 
+PaO 
+se 
+Electronic Music: Systems, Techniques, and Controls, 
+Allen 
+Strange, 1972, 160pp., $3.95, from Wm. C. Brown C 
+: 
+2460 Karper Blvd., Dubuque, |A 52001. 
+a. 
+A practical operations manual for composition and 
+: 
+performance. Organization is by process, with each section 
+offering appropriate acoustic fundamentals, extensive infor- 
+mation on technique, and, frequently, application examples 
+via patch charts, actual scores, and references to co 
+Y 
+available recordings. The annotated bibliography i 
+excellent guide to pre-1971 materials. 
+Age 
+; 
+* 
+Principles and Practice of Electronic Music Gilbert Trythall, 
+1973; 213pp., +7"' record, $5.95, from Grosset & Dunlap, 
+Inc., 51 Madison Ave. New York, NY 10010. 
+_ 
+| 
+A comprehensive introductory course, with emphasis on tape 
+recording and classical studio technique. 
+beer 
+fits 
+ec ete 
+Biofeedback and the Arts: Results of Early Experiments, 
+David Rosenboom, ed., 1974, about $10.00 from, Aesthetic 
+Research Centre of Canada, Publications Dept., P.O. Box 
+3044, Vancouver, B.C., Canada V6B 3X5. 
+ae 
+Rosenboom and his collaborators are engaged in work that 
+has profound implications for the creative arts. This wide- 
+ranging collection includes schematics and construction 
+details for low-cost bio feedback instrumentation. eluci- 
+— 
+dation of some problems and possibilities concerning live’ 
+electronic music performance, and scores for “Brain Music 
+for John and Yoko” and ‘‘Portable Gold and Philosophers’ 
+Stones (music from brains in fours). Excerpts follow. — 
+Iam not very interested in art-world conceptual game 
+playing. I am interested in realization. 
+‘ 
+We began to realize that one of the most likely developmenit 
+in the performance of music will involve the direct use of 
+brain electrical outputs by means of electronic pick-up 
+— 
+systems and we have obtained quite dramatic results in this -
+way. 
+If there is anything of real significance that a musician cou 
+teach the world of the scientist, it is how to live intimately 
+with his own theory. 
+pie 
+eee 
+e 
+We must beware of a new inquisition. 
+The choice of w it 
+should be the next note should be simultaneously life’s 
+most important work and an arbitrary one. 
+oe 
+Electronic Music: A Listener’s Guide, Elliott Schwartz 
+1973; 306pp., $12.50, from Praeger Publishers, Inc., P. 
+Box 1323, Springfield, MA 01101. The Liberation of 
+Sound: An Introduction to Electronic Music, Herbert 
+Russcol, 1972; 315pp., $10, from Prentice-Hall, Inc., 
+Box 500, Englewood Cliffs, NJ 07632, or Box 18501, 
+Salt Lake City, UT 84118. 
+wh 
+Two books that deal primarily with contemporary electronic 
+music and its roots. 
+Both have extensive discographies. 
+— 
+3 
+~ Elliott Schwartz includes description of modern instru-. 
+mentation. 
+Herbert Russcol provides us with chronologies, 
+anecdotes, and extensive quotations. Some Russcol 
+excerpts: 
+te 
+Asked who was doing the best work in electronic music 
+Xenakis replied “The Bell Telephone Company”’. 
+Y 
+... the story goes that his piece, “Kontakte”, was originally 
+devised for four percussion players, who, confronted 
+by 
+problems posed, took to drink, so that Stockhausen was 
+obliged to realize three parts by electronic means. 
+All this brings us to the fascinating thesis that the nature 
+the Buchla machine-beast itself decidely influenced the 
+) 
+of (Subotnick’s) music. 
+A 
+: 
+[Let's hope so. (D.B.)] 
+The New World of Electronic Music, Walter Sear, 
+$4.95, from Alfred Publishing Co., 75 Channel Drive 
+Washington, NY 11050. 
+: 
+art 
+A well organized introductory primer. 
+we 
+

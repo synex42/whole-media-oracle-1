@@ -1,0 +1,152 @@
+What Is a 
+Crystal? 
+Crystalline solids: There are two 
+types of solids: crystalline and amor- 
+phous (glasses). Crystalline solids 
+have regular, repetitive, three-dimen- 
+sional molecular structures. All min- 
+erals and metals are crystalline, com- 
+posed of thousands of tiny crystals 
+wedged together at “grain bounda- 
+ries”; only a few minerals form the 
+familiar large “single crystals” such 
+as quartz (silicon dioxide in hexago- 
+nal crystals) and diamonds (carbon in 
+tetrahedral crystals). Amorphous or 
+non-crystalline solids are sometimes 
+Isometric 
+Tetragonal 
+Modern Uses 
+of Crystals 
+Many “crystal power” proponents 
+point to the use of crystals in modem 
+technology as proof of their claims. 
+What exactly are the roles of crys- 
+tals in electronic devices? 
+Radios, TVs: 
+Thin slices of quariz 
+crystals are used as frequency tuning 
+devices because they oscillate at 
+precise electronic frequencies, rang- 
+ing from thousands of cycles per sec- 
+ond (AM frequencies) to millions of 
+cycles per second (FM and TV fre- 
+quencies). This crystal oscillation 
+occurs in asymmetric crystals be- 
+cause they are piezoelectric: elec- 
+trical fields cause mechanical strains 
+and deformations; placed in an oscil- 
+lating circuit, these tuning crystals 
+precisely select the desired fre- 
+quency, which is then amplified so 
+we can see or hear the broadcast. 
+integrated circuits: Specially 
+grown single crystals of silicon or 
+Monoclinic 
+referred to as “solid liquids” because 
+their molecules are so tangled in the 
+liquid state that they cannot “un- 
+tangle” and form crystalline solids. 
+Common examples are plastics and 
+glass. 
+Crystal symmetry: Because crys- 
+tals grow in regular, repeated, three- 
+dimensional pattems, they can be 
+symmetrical about a point, a line, or 
+a plane. 
+Crystal systems: All crystals can be 
+classified into one of seven crystal 
+systems (see illustrations below). 
+Crystal growth: Crystals grow at 
+the rate of 16 trillion atoms per hour. 
+Those that we find or buy grow in one 
+of five ways: 
+Orthorhombic 
+germanium six inches in diameter are 
+sliced into thin wafers; the micro- 
+scopic circuitry is then etched and 
+deposited on this wafer using pho- 
+tolithography techniques. The fact 
+that the wafers are crystals has little 
+to do with the operation of integrated 
+circuits; the wafer substrates must 
+be single crystals to provide uniform 
+semiconducting properties so that 
+the thousands of tiny transistors 
+manufactured through photolithogra- 
+phy will behave in a predictable, uni- 
+form manner. 
+Sonar devices: Piezoelectric crys- 
+tals not only produce an electrical 
+field when mechanically deformed, 
+but the reverse process also takes 
+place: when an electrical field is ap- 
+plied to such crystals, they contract 
+or expand accordingly — converse 
+piezoelectricity. Thus, plates of 
+quartz crystals can be used to detect 
+and transmit underwater sound 
+waves. 
+Strain gauges: Piezoelectric crys- 
+tals such as quartz can also be used 
+as strain gauges to detect minute 
+strains and deformations in metals; 
+Hexagonal 
+Crystallization from molt. 
+as volcanic magma cools, me 
+gem crystals crystaie fro! 
+melt. 
+Sublimation from gas: hot vo 
+gases pass over cool surfaces 
+ar 
+deposit crystals of sulphur, 
+halite, etc. 
+Evaporation of water solution. 
+arid, desert regions, water containi 
+dissolved minerals evaporates an 
+leaves crystals known as evaporite 
+can also occur in underground | 
+and openings. 
+Metamorphism: earth shifts an 
+canic pressures can change the cr 
+talline structure of existing roc 
+minerals. 
+Weathering: acidic water chemi 
+attacks and changes minerals. __ 
+Trigonal 
+Triclinic 
+as the metal deforms, the strain 
+gauge (again, a thin slice of quartz 
+_ 
+crystal) produces a corresponding _ 
+electrical current that tells the re- 
+searcher how much strain and defor- _ 
+mation has taken place. 
+Pressure gauges: Using the same : 
+principle as in strain gauges, piezoe- - 
+lectric crystals can also be used s 
+pressure gauges. 
+Temperature sensors: Some pie 
+zoelectric crystals are also pyroelec- 
+tric: changes in temperature pro; 
+duce an electrical field across the 
+crystal, which in turn produces a cur- 
+rent which can be used to measure _ 
+the temperature change. Quartzis 
+| 
+somewhat pyroelectric, but tourma-_ 
+line has the strongest pyroslectitcal 
+properties. 
+Non-electrical uses: Quartz and re 
+lated minerals are also used In 
+— 
+enormous tonnages in the construc- 
+| 
+tion and manufacturing industries: 
+_ 
+as building stone, as aggregate in 
+concrete, as sand in mortar and ce-_ 
+ment, as a flux in metallurgy, in the 
+manufacture of glass and ceramics, 
+as an abrasive, and as an inert filler. 
+

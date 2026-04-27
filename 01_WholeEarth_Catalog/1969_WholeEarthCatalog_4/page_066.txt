@@ -1,0 +1,225 @@
+The patterns we observe on the shore 
+of a river when the mud has been 
+dried up by the sun (98) seem to be 
+quite irregular; nevertheless as a 
+rule they show right angles. This 
+can be explained by assuming the 
+cracking to be an effect of contraction; 
+the line appearing as a fissure has, 
+by a principle of mechanics, to make 
+the work of disjunction as small as 
+possible. The work js proportional 
+to the areas of the sections and the 
+lines must have a course such as to 
+minimize the surfaces laid open by 
+the fissure. This procedure gives 
+right angles if the clay is homogeneous; 
+the varying thickness of the layer 
+accounts for the curvature of the lines. 
+This remark supplies in many cases 
+a means of deciding which line appeared 
+earlier and which later: the older of 
+the two splits passes right through the 
+point of junction. Thus we can 
+follow the genealogy of splits and 
+eventually find the ancestors of 
+the whole system. 
+Suppose the pattern was composed initially of 
+two regions, A. and B. A new line appears, 
+joining two points of two already existing 
+arcs and giving rise to a new region C (100); 
+since the new line breaks up two arcs into two 
+Parts each, the number of arcs increases by 
+three. After 7 steps we have? more regions 
+and 3/7 more arcs. Since there were initially 
+two regions and three arcs, we now have +2 
+regions and 3 + 3 arcs. 
+WOOCOOOOOOHOGOHK 
+Mathematical Models 
+H. Martyn Cundy & A. P. Rollett 
+1961; 286 pp. 
+$6.50 postpaid 
+from: 
+Oxford University Press 
+16-00 Pollitt Drive 
+Fair Lawn, N. J. 07140 
+or WHOLE EARTH CATALOG 
+POLYHEDRA 
+3.9.4, Great stellated triacontahedron. V(3.§)? 
+i 
+64 
+~. 
+H. STEINHAUS 
+H. Steinhaus 
+1950, 1969; 311 pp. 
+$7.50 postpaid 
+from: 
+16-00 Pollitt Drive 
+SNAPSHO : : 
+Fair Lawn, N. J. 07140 
+or WHOLE EARTH CATALOG 
+From 
+these 
+four small 
+boards 
+(1) we can 
+compose a square or an equilateral triangle, 
+according as we turn the handle up or down. 
+The proof is given by sketch (2). 
+Obviously, for any model which is to be at all 
+permanent, cardboard will be used. 
+The card should be white with a good surface, and 
+fairly thin, about the thickness of a plain postcard. 
+Thick cardboard makes ugly corners, and allowance 
+ought to be made for its thickness in drawing the 
+net. 
+It is useful, however, to cut flat sheets of thick 
+card for internal strengthening in some of the 
+stellated and interpenetrating polyhedra. 
+3.7 
+POLYHEDRA 
+3.7.12. Great rhombicosidodecahedron (cont.) 
+Fic. 137 
+When the dimensions of the model have been decided 
+on, the net can be constructed on the cardboard. in 
+the case of a complicated net this is facilitated by 
+pricking through vertices from a template drawn on 
+tracing paper, but it must be done very accurately. 
+Tabs are then added to alternate outside edges, care 
+being taken to ensure that the angle at the shoulder 
+of the tab is small enough to admit of the tab’s 
+being cemented to its appropriate face. The net can: 
+now be cut out with a razor-blade and the edges 
+scored half-through for bending. (Where edges have 
+to be scored on the back—in the stellated polyhedra— 
+this is indicated in the diagrams.) The face of the 
+net becomes the outside of the polyhedron. 
+For joining, a quick-drying cement, such as balsa- 
+wood cement as used for model aircraft, is essential. 
+After the cement has been applied to a tab, the 
+edges to be joined are brought together, and the tab 
+can be held down with a small wire paper-fastener 
+while the cement dries. This is particularly useful 
+in small models when the fingers cannot easily get 
+inside, and near the finish of any model when there 
+are several edges to be joined at once. A thin wire 
+probe is sometimes useful in getting the last face to 
+adhere. 
+Mathematical Snapshots 
+Oxford University Press 
+Vas 
+| bt eb an 
+it? 
+3090100190101 
+1010111 
+A IAA IAI 
+* 
+Mathematics 
+As far as we’re concerned, these are the 
+Mathematical Snapshots operates by visibility. 
+The World. 
+What’s going on mathematically is plain as day 
+anecdotes, a 
+in the diagrams and illustrations. 
+It’s like 
+learning history by anecdotes. 
+The whole purpose of the book is enabling 
+you to make your own geometric forms in the 
+world, Like learning history by psychodrama. 
+WK 
+K 
+* 
+K 
+aK 
+3K 
+> 
+WK 
+fo 
+Mathematical Models /s a classic of 4-D technique. 
+2K 
+2K 
+3K 
+xe 
+~ 
+[Suggested by Sim Van Der Ryn] 
+aK 
+x 
+4 
+Problem 36 of the papyrus begins: ““Go down | 
+times 3, 1/3 of me, 1/5 of me is added to me; 
+James Newman 
+return |, filled am 1. What is the quantity saying 
+1956; 2469 pp; 4 vol: 
+$12.95 postpaid 
+— 
+from: 
+|
+Simon & Schuster, 
+In 
+630 Fifth Avenue _ 
+’ New York, N. Y. 100 
+g ie 
+or WHOLE EARTH 
+arr 
+z 
+SS 
+3 
+aa 
+sat
+s 
+YOO 
+IGOR 
+00D 
+C0 
+COORD 
+Here (Figure 45 ) is a page from Haeckel’s 
+Challenger Monograph showing the skeletons 
+of several Radiolarians. Numbers 2,3, and 5 
+are octahedron, icosahedron, and dodecahedron in 
+astonishingly regular form; 4 seems to have a 
+lower symmetry. 
+he World of 
+-Mathematics 
+James R. Newma 
+Gj 
+ORO 
+2.5. CURVE 
+One very old method of ex 
+Se 
+4 MMM 
+MM MS 
+NAN) 
+¥ 
+PE 
+andone Wiehe 
+The exterior perimeter of a net of a polyhedron 
+which is all in one piece becomes a ‘tree’ of edges on 
+the solid. This tree may be branched, but every edge 
+is double and occurs twice on the perimeter of the 
+net. It is evident that if these edges are numbered 
+consecutively round thenet every even edge will be 
+joined to an odd edge in the final solid. This means 
+that tabs need only be attached to the even edges. 
+a 
+In the nets which follow, tabs are not shown unless 
+there is special need to do so. In all other cases the 
+ua c one A diodele nao 7 
+rule is: attach tabs to alternate edges round the net. 
+originated in a book by Mrs. E. 
+mic Approach to Mathematics, a
+There is an exception in the case of the last face, 
+has recently been revived, both 
+which is best left free of tabs. The missing tabs 
+ot 
+* 
+. 
+nit 
+must be added to the other edges, and are best 
+% 
+peicelly. ; 3 es af i "e
+made large, so that a platform can be built up to 
+ys stitching with coloured 
+| 
+which the last face can be stuck. 
+pricked in cardboard. 
+

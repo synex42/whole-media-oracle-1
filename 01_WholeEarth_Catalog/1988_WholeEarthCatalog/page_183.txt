@@ -1,0 +1,242 @@
+OBOT experimenters are like hackers waiting to happen. Twenty years ago, people 
+ie 
+interested in computers had to work with clumsy analog equipment, throwing 
+— Heathkit ’ 
+switches by hand and writing reams of code in low-level languages, all to tell the 
+machine how to add a few lousy integers. Today, computer jocks are starting their own 
+multi-million dollar companies and hacking their way into corporate databases. Not so with 
+robot freaks. They’re still dealing with enormous programming and mechanical problems. 
+Think about it — how do you explain to a near-blind contraption that looks like a stripped 
+down cash register on roller skates that it has just bumped into a wall and that it shouldn’t 
+do it again? What about the dozens of tiny movements and corrections you make uncon- 
+sciously when picking up a glass of water? All of that information must be programmed into 
+a robot. Then you have to hope that the mechanics all work right. On top of that, finding 
+parts for your robot can be very difficult. And expensive. Finding people who share your 
+interest in robots can be even harder. 
+The following lists of robot clubs and suppliers is not meant to be comprehensive, but to 
+give someone who is interested in robots a place to start. Robot experimenting is not easy, 
+but it is a wide open field, where you can let your intelligence and imagination run wild. 
+Optional Autodock System 
+With patience and some luck you can be out overturning the world in no time. 
+Robotics Groups 
+Connecticut Robotics 
+Society 
+Al Vitello, President. 15 Abbey Road, 
+East Hampton, CT 06424; 
+203/267-7485 
+Homebrew Robotics 
+Club 
+91 Roosevelt Circle, Palo Alto, CA 
+94306; 415/494-8499 
+In “How 
+to Build a 
+Computer Con- 
+trolled Robot” 
+National Service 
+Robotics Association 
+P.O. Box 3724, Ann Arbor, MI 48106; 
+313/994-6088 
+by Ted Loofbourrow. 
+The low voltage DC 
+ss 
+PM field reversible motor is geared 
+— Richard Kadrey 
+D) Medusa Robot Has Elec- 
+tronic Brain 
+At your command, Medusa starts 
+to hobble on its four legs. Stops 
+automatically after a preset 
+time. You register your com- 
+mand through a sound sensor, 
+including a consdensor micro- 
+phone and transistor. Two crank- 
+shaft legs on each side. Powered 
+by two 1.5V N size batteries (not 
+included). Clear plastic body. 
+P36,633 
+$37.95 
+Electronic Voice 
+Synthesizer 
+Temperature and 
+Sound Sensors 
+Optional on-board 
+5%" DSDD Disk Drive 
+Rechargeable Gelled 
+Electrolyte Battery 
+Two-wheel Dual Servomotor 
+Drive System 
+HERO’ 2000 
+ROBOT SUPPLIES 
+179 
+360° Sonar and 
+Light Scanner 
+16-bit Master Processor 
+and Eleven &bit 
+Slave Microprocessors 
+Articulated Arm 
+Gripper with 
+Sense of Touch 
+Radio Remote Control Console 
+with Keyboard, Display, and 
+Teaching Pendant Mode 
+— Herbach & Rademan 
+MOTORIZED WHEEL ASSEMBLY 
+Perfect for motorizing nu- 
+merous devices such as carts, 
+wagons, turntables and ro- 
+bots. “The Wheel” 
+Is sim- 
+Ilar to the one featured 
+12 VDC 
+Speed approx. (no load) 200 RPM 
+Current (no load) 
+~=9=92 Amps 
+Pulling force approx. © 20 Ibs. 
+Stall current 
+10 Amps 
+6 VDC 
+90 RPM 
+1.75A 
+8 Ibs. 
+8 Amps 
+Mounting post, heavy ‘wall steel 
+tubing 5” long, %" dia. Heavy duty 
+plastic: gears drive the tire which is 
+enclosed in a metal shroud. New. 
+HaR¢TM21K460 
+$29.95 EA. 
+= 
+\ 
+J 
+j 
+down to drive the 4% dia. x 1%" W rubber wheel. Motor operates on 6or 12 VDC 
+Robotics Society of 
+America 
+36 Newell Street, San Francisco, CA 
+94133; 415/673-2376 
+Sources 
+eee 
+FUJITSU 
+Edmund Scientific 
+Catalog $5 from: Edmund Scientific 
+Company, 101 E. Gloucester 
+Pike,Barrington, NJ 08007; 609/573- 
+6250 
+Heathkit 
+Catalog free from: Heath Company, 
+P.O. Box 1288, Benton Harbor, Ml 
+49022; 800/253-0570 
+Herbach & Rademan 
+Catalog free from: H & R Corporation,401 E. Erie 
+Avenue, Philadelphia, PA 19134; 215/426-1708 
+World of Robots 
+Catalog $6.25 (includes $5 gift certificate) from: World 
+of Robots,55 Earle Street, Milford, CT 06460; 
+203/877-4400 
+& can be rhéostat speed controlled. Shipping Weight each, 4 Ibs. 
+— Herbach & Rademan 
+5 to 6 VDC RELAY 
+FOR ROBOTIC 
+| 
+APPLICATIONS 
+m.| 
+4 PDT Relay with low 
+P 
+power consumption. 
+Ideal for use with our 
+| TM22K638, 6 V Dual 
+Motor Drive for reversing or for other 
+robotic applications. Can be inter- 
+faced with 5 V solid state devices. 
+Coil resistance 60 N, 415 mW, 80 mA 
+@ 
+5 V, 600 mW, 100 mA @ 6 
+V. 
+Contacts rated 2 A, 28 VDC or 120 
+VAC non-inductive. Wrap type con- 
+nections tinned for soldering. Plastic 
+encased, 1% H x % x 14"; 2 tapped 
+mtg holes in metal base, or cementin 
+place. New. Wt, 3 ozs. 
+HaRxTM22K751_ 4 @$2.50EA. 
+Even if you live in a big city, 
+finding just the right motor 
+to operate that servo arm 
+for your robot can be a 
+problem. That’s why mail order 
+suppliers are so helpful. Her- 
+bach & Rademan’s catalog is for 
+the real “hands-on” type; they 
+sell everything for the experi- 
+menter, from EPROMs to rubber 
+wheels, from stepping motors to 
+rechargeable batteries. World of 
+Robots catalog is geared more 
+toward robot kits and educa- 
+tional products, including videos. 
+They also offer enabling robots 
+for the handicapped and a robot rental service. 
+Besides general electronic products, both Edmund 
+Scientific and Heathkit offer several kit robots, with 
+Heathkit’s HERO 2000 earning the reputation as 
+one of the most popular and versatile personal ro- 
+bots available. The key to selecting a catalog is 
+knowing what you want. Are you designing a robot 
+from the ground up, or do you want to try a kit to 
+get started? 
+$2.956A. 
+— Richard Kadrey 
+ROBOT ARM II - affordable robotics 
+for your Apple 
+II and Ile computer. 
+The Robot Arm 
+II proves that learning can be fun! 
+The Robot Arm 
+II movements are: Forward, Reverse, Right, Left. Hand 
+rotate, Jaw open/close, 
+Wrist up/down & Arm up/down. 
+Robot Arm 
+Il 
+$249.95 
+> 
+oo 
+ay 
+Vv 
+LS 
++f 
+i) 
+147 
+h 
+ee 
+ow 
+ie 
+igh 
+at 
+maximum 
+arm 
+extension 
+Sa 
+— World of Robots 
+Robot Resources 
+(The International Robotics 
+Newsletter) 
+Jacob Mendelssohn, Editor 
+$12/year 
+(eight issues) from: 
+Robot Review 
+c/o Science Museum of 
+Connecticut 
+950 Trout Brook Drive 
+West Hartford, CT 06119 
+203/236-2961 
+Under the editorial direction of Ray Cote (editor of 
+the now defunked Robot Experimenter), Robot 
+Resources is the only magazine dedicated to 
+people interested in working with and building 
+robots. The first issues contain reports on the robot 
+experiments of a group of third graders, as well as 
+an explanation of strategic arm torques with 
+enough details that you can apply the information 
+to your own robot experiments. 
+— Richard Kadrey 
+

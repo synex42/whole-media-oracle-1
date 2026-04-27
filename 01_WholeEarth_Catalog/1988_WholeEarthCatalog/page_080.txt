@@ -1,0 +1,123 @@
+COMPUTER BULLETIN BOARDS 
+The Bulletin Board Proletariat 
+VOLUNTEER PROLETARIAT 
+maintains one of the most invisible 
+communication undergrounds 
+going. Linked by phone lines, a 
+web of computer bulletin board systems (BBSs) 
+work night-duty collating messages and elec- 
+tronic mail for free. Regulars patronize small- 
+time BBSs because they can feast on immediate 
+gossip about very specialized subjects. Name a 
+topic and there is almost certainly a BBS dedi- 
+cated to it somewhere. 
+To get onto a BBS, you dial a phone number with 
+your computer, and after reading the welcome 
+message, you follow a menu of choices until you 
+arrive at a topic you like. You can then read 
+messages left by others (the bulletin board aspect) 
+and post some of your own by typing them in. 
+The result is a public answering machine, on 
+which anyone can read all messages. Comments 
+are served to you intelligently so that you read 
+only the ones posted since you last checked in, no 
+matter how long that’s been. If you’ve been gone 
+two weeks, you read two weeks’ worth, and then 
+you’re caught up to the center of what is being 
+said. It'll seem to the other callers that you were 
+there all along, keeping quiet. The sum is a col- 
+lective conversation that continues for weeks or 
+months, and which happens at your convenience. 
+In theory they stick to one topic. In practice 
+there’s enough continuity to keep it informative, 
+and enough diversity to keep it alive. 
+Any old computer will let you in. You fit it out 
+with a telephone adapter, called a modem (about 
+$100), and plug it into the phone jack. You’ll find 
+listings of public BBSs in the back of Computer 
+Shopper ($18/year from Patch Publishing, P.O. 
+Box F, Titusville, FL 32781), in regional tabloids 
+like California’s Computer Currents and Mi- 
+crotimes, and at user-group meetings. Once you 
+find one, it’ll lead you to many others, board 
+hopping as long-distance as you care to. Pirate 
+boards, the truly underground BBSs where teen- 
+age hackers boast of their exploits, appear and 
+disappear so fast they can only be found by hop- 
+ping. 
+Propelling much of the drive in regular use of 
+BBSs is the superhighway of PC Pursuit (800/ 
+336-0437). Run by Telenet, PC Pursuit lets any- 
+one call BBSs located in most cities for a flat 
+$25-per-month fee, unlimited time, as long as it’s 
+in the evening. Without PC Pursuit many notable 
+BBSs would be out of reach for half the country. 
+No one knows exactly how many bulletin board 
+systems there are. The best guess is that there are 
+about 7,000 operating at one particular time. They 
+(818) 
+24 
+comes a hassle to maintain over the long stretch. 
+While it’s up and running, though, it’s promoting 
+a new brand of conversation. BBS sysops (system 
+operators) keep them going because of the unsur- 
+passed advantages of having people from all over 
+the country calling in at their own expense to post 
+amazing messages on the very subject one cares 
+about. 
+BBSs are a gathering medium, not a broadcasting 
+channel. The ones that work sculpt a comfortable 
+visiting space to welcome comments. Dave 
+Hughes, the pioneer tele-communications vision- 
+ary, says the acid test for a BBS is if it averages 
+one posted message for every two calls in. Any 
+fewer messages and it will fade rapidly. 
+To start your own home-based BBS, you’ll need 
+a computer, modem, and one of these recom- 
+mended software packages. For the Apple, we 
+suggest GBBS. It’s easy to set up in less than an 
+hour, takes customized modifications superbly, 
+and tends to be crash-proof. Consensus in the 
+Macintosh world is that Red Ryder Host is the 
+ticket for a home-based Mac BBS. Since it 
+doesn’t matter too much what computer you use, 
+the most efficient way is to run your BBS on an 
+IBM clone. The choice for IBM and compatible 
+is TBBS. It’s programmable by amateurs, and has 
+been around a long time. Release 2.1 comes in 
+three flavors. Single phone line (still about $300); 
+Eight and sixteen line, which will take up to eight 
+and sixteen phone lines, respectively ($895 for 8 
+lines; $1495 for 16 lines). Another option allows 
+you to send mail to the free-forwarding FIDO 
+service linking up BBSs at night ($100). With 
+both FIDO mail and 8 or 16 lines in, a souped-up 
+BBS approaches the capabilities of a local tele- 
+conferencing system like the WELL. In fact, 
+having both public and private access to your 
+personal answering machine is the innovation 
+brewing here. A BBS may be part of the house- 
+hold furniture someday. 
+TBBS: Version 2.0. For IBM and compatibles; 
+needs 384K and hard disk for single line. Not 
+copy-protected. $300 for single line, $895 for 8 
+line, $1495 for 16 line, $100 for FIDO mail; from: 
+eSoft, 4100 South Parker Road/Box 305, 
+Aurora, CO 80014; 303/699-6565. 
+GBBS: Version 1.3. For Apple family; needs two 
+drives. Not copy-protected. $128 postpaid from: 
+L & L Productions, P. O. Box 5354, Arvada, CO 
+80005; 303/420-3156. 
+Red Ryder Host: Version 1.4A. For Macintosh, 
+Mac Plus, and Macintosh SE; needs 512K. Not 
+copy-protected. $60 postpaid from: FreeSoft, 
+150 Hickory Drive, Beaver Falls, PA 15010; 412/ 
+846-2700. 
+N@SS. Freg a 
+.CONSCious- 
+ap 300/1200 
+| things Should 
+come and go with the irregularity of phone line 
+» (415) 937. 
+static. Immensely easy to start, a BBS usually be- 
+

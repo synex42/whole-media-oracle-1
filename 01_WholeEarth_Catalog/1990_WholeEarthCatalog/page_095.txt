@@ -1,0 +1,184 @@
+%WEA — Available from Whole Earth Access, see p. 2. 
+A 
+VITA 
+For 25 years, Volunteers in Technical Assistance 
+has been a reliable source of expert advice and an 
+experienced stack of publications. You don’t join 
+VITA as you would the Peace Corps, for instance, 
+but you can make your special knowledge avail- 
+able through them. Their record of action is 
+inspiring; see for yourself in VITA News. —JB 
+VITA News, Margaret 
+Crouch, Ed.; $15/year, (4 
+issues), from: Volunteers 
+in Technical Assitance 
+1815 N. Lynn St., # 200 
+Arlington, VA 22209 
+(703) 276-1800 
+Packet radio allows commu- 
+nication in areas where the 
+only power available is batteries or solar cells. 
+Each station in a packet radio system consists of a 
+personal computer, radio transceiver, terminal 
+node controller (TNC) — a modem-like device — a 
+printer, and an antenna. Messages are entered 
+into the computer. In swift bursts of energy, the 
+TNC breaks the message into small pieces 
+(packets) that are transmitted by radio to the 
+receiving computers. There, another TNC decodes 
+the packet, which appears on the computer screen 
+and can be printed. 
+Hamid Ali Mohamed sends the first packet radio 
+message in Sudan. The radio network was installed 
+and local operators were trained by VITA Vol- 
+unteers Mark Oppenheim and David Henderson. 
+APPROPRIATE TECHNOLOGY 93 
+TOOL 
+Netherlands-based TOOL is another lively techni- 
+cal assistance organization working all over the 
+world. A written description of their work would 
+sound a lot like ITDG, though I’m sure that mem- 
+bers of both groups would be quick to point out 
+differences. From what I’ve seen, there is no 
+difference in competence. TOOL maintains a huge 
+reference library, and 500-item publications list of 
+interest to those actually working in the field. Their 
+TOOL 
+Catalog free from: 
+TOOL-Reference Centre 
+Entrepotdok 68a/69a 
+1018 AD Amsterdam, The 
+Netherlands; (0) 20-264409 
+AT-SOURCE; Dfl25/year 
+(4 issues) from: AT- 
+SOURCE, P. O. BOX 41 
+6700 AA Wageningen 
+The Netherlands 
+Source 
+quarterly magazine — AT Source — features 
+extensive, detailed background information articles 
+on problems needing and receiving attention. A 
+student of mine found that the March 89 issue on 
+the world firewood shortage was the best overview 
+available. TOOL publishes in English. —JB 
+ees 
+A 
+aa 
+When cultivating new land, the rural population have 
+since time immemorial spared specific valuable trees. 
+* 
+Bridging the Global Gap 
+The first comprehensive guide that connects you 
+to the many groups engaged in people-to-people 
+exchanges between the First and Third Worlds. 
+The authors cover the spectrum of popular ini- 
+tiatives: alternative trade organizations, sister-city 
+programs, technical assistance programs for the 
+Third World, peace groups, alternative tourism and 
+more. The first part of the book consists of first- 
+person accounts by veterans of grassroots global 
+exchanges, and the final third is a well-designed 
+resource guide to organizations. Global Exchange, 
+the organization that spawned this guidebook, has 
+performed a mighty service to anyone who, in the 
+Bridging the Global Gap 
+Medea Benjamin and Andrea 
+Freedman; 1989; 336 pp. 
+$11.95 ($13.75 postpaid) 
+from: Global Exchange 
+2141 Mission Street #202 
+San Francisco, CA 94110 
+(415) 255-7296 
+%*WEA 
+ifda dossier 
+This little journal is a forum for ideas and tech- 
+niques intended to improve the lot of those living 
+under unfortunate circumstances. The articles 
+tend to address issues you don’t see in slick mag- 
+azines and university papers, the sort of things 
+comfortable people don’t often think about. Lots to 
+learn here. Even the most humble article will 
+reveal to most USA readers the naive simpleminda- 
+edness of our worldview. —JB 
+e 
+The “carnivorous” fishermen of the coasts of Gu- 
+jarat and Maharashtra, once considered as the 
+lowest of the low, devoted the fruits of their bhakti 
+to the creation of “floating temples” or matsyagan- 
+face of dismal news about rainforests and poverty, 
+longs to stop wringing hands and do something to 
+connect to the world beyond our borders. There’s 
+nothing else like it available. —Richard Schauffler 
+e 
+The internationalism we describe in this book is 
+based on a healthy combination of honest self-in- 
+terest mixed with deep compassion. It recognizes 
+that the interests of the Third World poor coincide 
+with the interests of the majority of North Ameri- 
+cans. Less poverty abroad would mean fewer 
+companies abandoning the United States in 
+search of cheap labor; higher standards of living in 
+Third World countries would mean more markets 
+for our goods; greater democracy overseas would 
+mean less U.S. tax dollars wasted on military aid 
+to repressive regimes. As the late President of 
+Mozambique, Samora Machel, stated, “Interna- 
+tional solidarity is not an act of charity. It is an act 
+of unity between allies fighting on different terrains 
+toward the same objectives. The foremost of these 
+objectives is to aid the development of humanity to 
+the highest level possible.” 
+dhas. The name refers to the first incarnation of 
+God Vishnu as a fish. Here again, the idea started 
+with a number of fishermen (Dada calls them 
+sagarputras or sons of the sea) who knew only 
+how to fish and to navigate. Dada suggested that 
+they offer their bhakti by setting a day’s fish of 
+their catch in a month for buying motorised boats, 
+tools and tackles. 
+Although the experiment is only 8 years old, the 
+“impersonal wealth,” thus produced, has already 
+enabled the fishermen to buy over 14 boats. 
+ifda dossier; $32/year (6 issues) 
+from: IFDA, 4 Place du Marché, 
+1260 Nyon, Switzerland 
+Phone 41 (22) 61 82 81 
+Micro-Hydropower 
+Sourcebook 
+We review this book as an example of the current 
+crop of incredibly detailed and experienced 
+technical books now available. This one is admit- 
+tedly above average, so in addition to being a 
+peerless presentation of the subject, it serves as 
+an inspiration to other authors. With Sourcebook 
+in hand, just about any intelligent, English-literate, 
+shop-savvy person could manage the develop- 
+ment of a small hydropower system. The basic 
+engineering is done in layperson’s terms, along 
+with a little lesson in how to think about it. The 
+drawings show what you need to know, and they 
+don't waffle over difficult details that must be right. 
+(There is ample opportunity for disaster and 
+chagrin in the small hydropower business.) | don’t 
+think I’ve ever seen a better working manual, 
+especially for something so complex. —JB 
+Micro-Hydropower 
+Sourcebook, Allen R. 
+Inversin; 1986; 285 pp. 
+$32.50 ($36.50 post- 
+paid) from: NRECA 
+International Foundation 
+Attn.: Sourcebook, 1800 
+Massachusetts Ave. N.W. 
+Washington, DC, 20036 
+(202) 857-9500 
+HYDROPOWER 
+MICRO-HOIRCEBOOK 
+oe 4 
+AN 
+vet 
+: " at sae san 
+- 
+A Multi Purpose Power Unit runner being 
+fabricated, Kathmandu, Nepal. 
+

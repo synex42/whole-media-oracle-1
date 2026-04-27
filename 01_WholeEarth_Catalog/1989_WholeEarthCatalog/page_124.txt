@@ -1,0 +1,126 @@
+until friction slows the wheel below a critical speed, when 
+it stops. The permanent lack of balance is an illusion, but 
+a persistent one. Some years ago, I gave a seminar on 
+perpetual motion swindles to the Iowa State University 
+Department of Engineering. Afterward, a student ap- 
+proached me to show me a drawing of his invention—an 
+almost identical overbalancing wheel, except that he had 
+straight spokes set at skewed angles instead of curved 
+spokes! Nothing I had said or could say would shake his 
+confidence in this device. 
+The Wheel of Orffyreus 
+There are, of course, stories of wheels that did work. 
+The most famous perpetual motion machine of the classic 
+period was the so-called Wheel of Orffyreus.' “Orffy- 
+reus” was in fact one Johann Ernest Elias Bessler, who 
+was born in Zittau, Saxony, in 1680. He constructed his 
+pseudonym by writing the letters of the alphabet in a cir- 
+cle; selecting those opposite the letters of “Bessler,” he 
+obtained “Orffyre,” which he Latinized into “Orffyreus.” 
+Beginning in about 1712, he constructed a series of sup- 
+posedly self-moving wheels, whose mechanisms he al- 
+ways kept concealed. 
+In about 1717, Orffyreus settled in Hesse-Cassel, 
+where the Landgrave took him under his wing. Bessler 
+was made Town Councillor and provided with work space 
+in the Landgrave’s castle near Cassel. By the end of the 
+year, he had built his largest machine, a hollow wheel 
+about 12 feet in diameter and 14 inches thick. The lightly 
+constructed wooden wheel was covered by canvas to keep 
+the interior mechanism from prying eyes. The central 
+axle was about 6 inches in diameter, with each end termi- 
+nating in a 3/4-inch axle turning in a bearing. If givena 
+slight shove, it would rotate and stop, but if started turn- 
+ing briskly, it would pick up speed, stabilize at about 25 
+rpm, and continue turning. Under load, it slowed to about 
+20 rpm. Weights could be heard shifting position as it 
+turned. 
+On October 31, 1717, Orffyreus was requested to 
+move the machine to a different room of the castle which 
+he did. It was up and running on November 12. The 
+wheel was set in motion and the room sealed up. Two 
+weeks later, the seals were broken and the room opened. 
+The wheel was revolving as when last seen. The room 
+was resealed and not opened again until January 4, 1718. 
+Once again, the wheel was found revolving at its custom- 
+ary rate. 
+The Landgrave assumed that the wheel had been turn- 
+ing all this time, and he gave Orffyreus a certificate de- 
+scribing the test and the precautions taken. Others were 
+more skeptical. Perhaps they were motivated, as Bessler 
+alleged, by jealousy, but there was also the matter of 
+Bessler’s servant girl. She ran away from him and talked, 
+despite a terrible oath of silence he had made her swear. 
+The girl claimed that at certain times she was instructed to 
+turn a small wheel concealed in anothér room, which she 
+believed powered the large wheel! 
+At the request of the Landgrave, Professor ’s Grave- 
+1. The most extensive modern treatment of this famous device 
+is by Rupert T. Gould in his 1928 book Oddities (see p. 82). 
+122 
+From left to right: 
+The “self-acting 
+pump” of P. 
+Valentine Stansel 
+(1658); the “Wheel 
+of Orffyreus” 
+(1717); astronomer 
+James Ferguson's 
+overbalancing 
+wheel (1770); and 
+the overbalancing 
+wheel of J. Mitz 
+(1658). 
+sande of Leyden University made a superficial examina- 
+tion of the Wheel of Orffyreus, as much as the inventor 
+would allow. He paid special attention to the axles and 
+their bearings, but he found no concealed drive mecha- 
+nism there. (In my opinion, the drive mechanism was in 
+plain sight! Two compound pendulums, one linked to 
+each end of the axle, supposedly regulated the speed. The 
+obvious assumption was that they were driven by the 
+wheel. Professor ’s Gravesande never seems to have con- 
+sidered that a concealed mechanism might drive the pen- 
+dulums, which in turn drove the wheel.) Ironically, 
+Bessler destroyed the wheel despite the fact that ’s Grave- 
+sande gave the machine a clean bill of health. 
+By the late nineteenth century, a huge and imaginative 
+variety of energy creation schemes had been proposed and 
+attempted. Besides the clanking mechanical wheels, in- 
+ventors tried to use capillary action to lift water or to 
+drive wheels by magnetic forces rather than gravity. Oth- 
+ers tried to achieve unbalanced buoyant forces by wheels 
+or chains of self-wringing sponges. Except for the frauds 
+—and there were plenty of these—nothing worked. 
+While the perpetual motionists were failing, scientists 
+and engineers were succeeding in understanding what en- 
+ergy is and how it can be controlled. This new field of 
+thermodynamics eventually sharpened the definition of 
+perpetual motion and brought a general consensus that it 
+is impossible. 
+Kinds of Perpetual Motion Machines 
+A perpetual motion machine would be a device or 
+system that successfully circumvented one of the laws of 
+thermodynamics. The three laws of thermodynamics can 
+be simply stated: (1) You can’t win, (2) you can’t break 
+even, and (3) you can’t get out of the game. 
+The first law of thermodynamics is the conservation 
+law, which says energy can be neither created nor de- 
+stroyed. (Under exotic circumstances, energy can change 
+to matter and vice-versa, but we needn’t worry about that 
+here.) The classical overbalancing wheel attempts to pro- 
+duce energy from nothing. But you can’t win. 
+The second law of thermodynamics is the law of en- 
+tropy. It says heat flows spontaneously from a hot body to- 
+a cold one, but not the other way. This obvious idea has 
+subtle consequences. It means energy tends to dissipate, 
+and much of the energy in the universe cannot be har- 
+nessed to do useful work. The second law limits the 
+‘tenctiil
+ic 
+eaea 
+tesa 
+aad 
+teed 
+ee 
+

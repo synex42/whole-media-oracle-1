@@ -1,0 +1,301 @@
+236 Taming Technology 
+VIRTUAL REALITY 
+> World 
+t head-mounted display. 
+e 
+NFORMATION PLUGS Us into the world of. 
+computerized productivity, but the 
+open space of books balances 
+ee 
+‘ 
+| 
+our computer logic with the graces of 
+intuition. —Michael Heim 
+This illustration shows the fiber-optic loops that measure 
+the amount of bend or flex of a body joint like a knuckle or 
+a wrist. The 6DOF sensor keeps track of the position and 
+— i > Future 
+, 
+L 
+on 
+ke 
+Inventing the 
+orientation of the hand in virtual space. 
+Gyewart Brasil _ 
+qunee dele 
+| 
+EIR A 
+Ny 
+efe 
++ 
+- 
+a 
+Se 
+> Artitiial healt Il 
+ooks: teachers, companions, 
+— 
+entertainers — misleaders? 
+Sometimes. When a trendy, 
+complex topic such as virtual reality 
+engages many authors, some inevita- 
+bly spread confused or erroneous 
+information. Which of the growing 
+stack of “virtual reality” books offer 
+the truth, are worth the trees, and 
+aren’t simply attempts to cash in on 
+the hype? 
+The standouts treat VR not only as a 
+computer-human interface but as a 
+problem-solving tool, communications 
+medium, and art form. They don’t con- 
+found VR with multimedia and cyber- 
+stuff. They offer unique perspectives 
+based on firsthand experiences with 
+VR and the people behind it. 
+Start with The Media Lab by Stewart 
+Brand (seep. 256), the 1987 book that 
+was the first (I believe) to mention 
+“virtual reality.” 
+Then turn to Howard Rheingold’s 
+groundbreaking Virtual Reality. The 
+1991 bestseller delves into the work 
+and credos of VR leaders and legends 
+around the world. Their eagerness 
+to document their achievements, 
+and to correct the mass-media hype, 
+unlocked many doors for Rheingold. 
+As he tracks the development of VR, 
+he dips into the history of computer 
+graphics, developmental psychology, 
+theater, the Internet, and other 
+deep, diverse subjects. 
+Myron Krueger’s 1991 Artificial Real- 
+ity Ilis required reading, although VR 
+fanatics prefer the out-of-print | 983 
+Artificial Reality. Krueger focuses pri- 
+marily on his work with computer- 
+controlled, responsive audiovisual 
+environments; he coined the phrase 
+“artificial reality” in 1975 to describe 
+them. 
+AR II traces his development of 
+this “culture-defining idea” and 
+poses the human/computer-inter- 
+face question as a problem in aes- 
+thetics. Enriched with illustrations 
+and photos, Krueger’s is a very per- 
+sonal and opinionated account that is 
+fun to read. 
+In Virtual Reality: Through The New 
+Looking Glass, VR industry technoids 
+Kevin Teixeira and Ken Pimental 
+present fundamental information on 
+how “virtual worlds” are created, 
+produced and experienced. This pa- 
+perback is thorough, easy to under- 
+stand, and liberally spiced with dia- 
+grams, photos, and drawings. 
+It 
+includes a comprehensive product 
+resource guide. The authors clearly 
+describe how VR technologies work, 
+who benefits from using them, and 
+the challenges that concern virtual 
+worldbuilders and tool developers. 
+Michael Heim’s Metaphysics of Virtual 
+Reality tells skeptics why they should 
+appreciate VR and cautions VR zeal- 
+ots to cool their jets. Heim is an Tao- 
+savvy philosophy teacher whose first 
+virtual journey sent his philosophical 
+seismograph into seizure. The result- 
+ing warmhearted, coolheaded essay 
+collection views computing from an 
+ontological perspective, pondering 
+the erotic allure and the philosophi- 
+cal problems of cyberspace. 
+New technology changes faster than 
+publishers can update the books about 
+it. Two periodicals — an industry 
+newsletter and an academic research 
+report — will keep you up to date. 
+CyberEdge Journal covers interna- 
+tional VR territory in the snappy, 
+analytical style that epitomizes good 
+newsletters. This bimonthly, 24- 
+page newsletter details new applica- 
+tions, products, and events, and runs 
+conference and lab reports, book 
+reviews and opinion pieces. 
+Presence is the place where VR’s 
+most respected researchers report 
+the results of their inquiries. The 
+quarterly journal digs into the design 
+of interactive environments that 
+support sensory immersion via elec- 
+tronic and electromechanical de- 
+vices. It explores human cognitive 
+and 
+sensory 
+motor 
+systems, 
+telerobotics, and simulation soft- 
+ware. To balance this technoid slant, 
+the impact of “transformed pres- 
+ence” on philosophy, aesthetics, and 
+culture comes under examination. 
+Presence also treats VR as a source of 
+humor; one issue ran a techno-paper 
+called “A Nose Gesture Interface 
+Device: Extending Virtual Realities.” 
+—Linda Jacobson 
+e 
+| didn’t know the rules of “molecular dock- 
+ing” — a tool for helping chemists find mol- 
+ecules shaped like the keys to specific pro- 
+teins — the way a chemist knows them, but 
+| could fee! them, through my hand and the 
+force-reflective feedback mechanism built 
+into the ARM, the Argonne remote manipu- 
+lator. The metal grip felt like the handlebar 
+of a gargantuan, well-lubricated Harley. 
+We can’t stop VR, even if that is what we 
+discover is the best thing to do. But we 
+might be able to guide it, if we start think- 
+ing about it now. —Virtual Reality 
+e 
+In 1972 | submitted a proposal for a two- 
+way installation titled VIDEOPLACE. . . . 
+The piece consist[ed] of two environments, 
+each containing a rear-screen video projec- 
+tion of a composite image of two partici- 
+pants. A single participant would enter each 
+of the separate environments, and each 
+screen would display both people’s video 
+images. If their images chanced to touch, 
+sound would be generated. Thus, two 
+strangers would be placed in a situation 
+where their normal embarrassment about 
+touching would be conflicting with their 
+desire to explore this unexpected way 
+of interacting. 
+All our traditional art forms have one thing 
+in common: They assume a passive audience. 
+Passivity was appropriate when most hu- 
+mans toiled physically. After centuries of ef- 
+fort, however, we have all but eliminated the 
+necessity for physical exertion. Ironically, 
+since our bodies require a certain amount of 
+exercise for health, we face a new problem 
+— how to make our lives more active. 
+Sports fulfill this need for some people, but 
+there is a place for new forms of art and en- 
+tertainment that involve our bodies rather 
+than deny them. —Artificial Reality II 
+e 
+Keep in mind that current VR systems only 
+have a vague understanding of real physical 
+properties. Dropping a virtual glass onto a 
+virtual floor of a kitchen doesn’t cause it to 
+shatter or make a sound unless the world 
+designer specifically programmed it to do so. 
+Virtual prototyping promises to turn the 
+engineer back into an artisan. He will be 
+able to work with the design as if it were a 
+malleable yet solid object, be able to move 
+and handle the product as if he were craft- 
+ing it ina workshop, and then produce it 
+himself without leaving his office. —Virtual 
+Reality: Through The New Looking Glass 
+e 
+Our love affair with computers, computer 
+graphics, and computer networks runs 
+deeper than aesthetic fascination and 
+deeper than the play of the senses. We are 
+searching for a home for the mind and the 
+heart. Our fascination with computers is 
+more erotic than sensuous, more spiritual 
+than utilitarian. 
+The final point of a virtual world is to dis- 
+solve the constraints of the anchored world 
+so that we can lift anchor — not to drift 
+aimlessly without point, but to explore an- 
+chorage in ever-new places and, perhaps, 
+find our way back to experience the most 
+primitive and powerful alternative embed- 
+ded in the question posed by Leibnitz — 
+Why is there anything at all rather than 
+nothing? —The Metaphysics of Virtual Reality 
+lll 
+> 
+> 
+te) 
+RS 
+K 
+\ 
+if 
+yh » 
+throdgrire new 
+y 
+looking glass 
+entel & Havin Zeivcir® 
+Ken, Minn 
+Virtual Reality 
+(The Revolutionary Technology of Com- 
+puter-Generated Artificial Worlds and 
+How It Promises to Transform Society) 
+Howard Rheingold. Touchstone Books, 
+1991; 416 pp. ISBN 0-671-77897-8 
+$12 ($15 postpaid). Simon & Schuster/ 
+Order Dept., 200 Old Tappan Road, Old 
+Tappan, NJ 07675; 800/223-2336 
+The Media Lab 
+(Inventing the Future at MIT) 
+Stewart Brand. Penguin Books, 1987; 
+304 pp. ISBN 0-14-009701-5 
+$14.95 ($16.95 postpaid). Penguin USA/ 
+Consumer Sales, 120 Woodbine Street, 
+Bergenfield, NJ 07621; 800/253-6476 
+Artificial Reality II 
+Myron W. Krueger. 1991; 286 pp. 
+ISBN 0-201-52260-8 
+$29.25 ($33.25 postpaid). Addison-Wesley 
+Publishing Co./Order Dept., | Jacob Way, 
+Reading, MA 01867; 800/447-2226 
+Virtual Reality 
+(Through the New Looking Glass) 
+Ken Pimentel & Kevin Teixeira. intel/ 
+Windcrest, 1993; 301 pp. 
+ISBN 0-8306-4064-9 
+$32.95 postpaid. TAB Books Inc./Retail 
+Order Dept., 13311 Monterey Avenue, Blue 
+Ridge Summit, PA 17294; 800/822-8138 
+The Metaphysics of Virtual Reality 
+Michael Heim. 1993; 175 pp. 
+ISBN 0-19-5081 78-1 
+$21 ($23 postpaid). Oxford University 
+Press/Order Dept., 2001 Evans Road, 
+Cary, NC 27513; 800/451-7556 
+CyberEdge Journal: $129/year (6 issues). 
+| Gate Six Road, Suite G, Sausalito, CA 
+94965; 415/331-3343. 
+Presence: Thomas B. Sheridan, Editor. 
+$50/year (4 issues). MIT Press Journals/ 
+Circulation Dept., 55 Hayward Street, 
+Cambridge, MA 02142; 617/253-2889; 
+Fax: 617/258-6779. 
+Virtual Reality Technology: Grigore Burdea 
+& Philippe Coiffet. 1994, John Wiley & Sons. 
+Virtual Reality (Applications and Explorations): 
+Alan Wexelblat, Editor. 1993, Academic Press. 
+Virtual Reality and the Exploration of 
+Cyberspace: Francis Hamit. 1993, 
+Sams Prentice Hall Computer Publishing. 
+Virtual Reality Creations: Dave Stampe, 
+Bernie Roehl & John Eagen. 1993, 
+Waite Group Press. 
+CyberArts (Exploring Art & Technology): Linda 
+Jacobson, Editor. 1992, Miller Freeman Publications. 
+The Art of Human-Computer Interface 
+Design: Brenda Laurel. 1990, Addison-Wesley. 
+

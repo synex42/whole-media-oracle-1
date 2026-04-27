@@ -1,0 +1,340 @@
+_COMMUNICATIONS 
+753 
+Crash Course in Microcomputers 
+2 HOME COMPUTERS 
+Here at the Whole Earth we’ve been dodging a deluge of 
+| 
+smarmy new books about buying and operating small 
+{ 
+computers. Many seem like they’ve been written right 
+from last year’s manufacturer’s handouts. 
+Even the good 
+ones are often out of date before the ink dries. 
+Here’s the considered consensus of those |‘ve consulted: 
+if youre thinking of buying a computer, and you expect 
+to follow the advice of a book and get a readymade sys- 
+tem, you're asking for trouble. 
+You'll be taking your 
+own individual needs and fitting them to someone else’s 
+standardized set-up. 
+: 
+The best course involves a little work: read enough so 
+you know what you’re talking about, figure out what 
+your needs are, and find a computer store near you (or 
+the few reputable mail order stores listed on p. 529) 
+who can help you choose what you need. 
+If you want 
+to know what machines are available, follow Byte or 
+Recreational Computing for a few issues (pay particular 
+: 
+attention to the ads and letters). 
+If possible, arrange to 
+: 
+practice and play on someone else’s machine, even if it’s 
+only to run some programs. 
+To get that quick know-what-you ‘re-talking-about intro, 
+; 
+the best book we’ve seen is The Howard Sams Crash Course 
+in Microcomputers. 
+/t’s a step-by-step garden path intro- 
+duction to all the mystifying jargon (and it even makes it 
+seem like not-jargon). 
+It doesn’t talk about specific 
+: 
+machines, but in an evening or two’s reading it will give 
+you the understanding to talk back to folks at the com- 
+puter shop. And when making a $1000 - $20,000 pur- 
+chase, it’s better to talk back smartly than dumbly, yes? 
+—Art Kleiner 
+e 
+The major investment in any programming project is the 
+programmer's time. A significant amount of time is 
+usually required to develop a useful piece of software. 
+That is why software is so expensive. 
+In fact, the hard- 
+ware turns out to be the least expensive part of the 
+system in most computer installations. Software is 
+always the major expense. 
+Good SmallComputer Resources, 
+Games, and Software 
+by Bob Albrecht & 
+Don’‘t Bother Me, 
+the ComputerTown, 
+ee Leeming 
+" 
+vailable 
+Tor purcnase 
+USA Staff 
+or rent. Contact: 
+5 
+David Shepardson, 
+Cursor Magazine 
+BnelPacs 
+P.O. Box 550 
+900 Third Street 
+San Francisco, CA 94107 
+A one hour TV documen- 
+tary aired on PBS January 
+6 & 7, 1980. 
+Goleta, CA 93017 
+Monthly cassette maga- 
+zine for Commodore 
+PET computer. $36/year 
+(12 issues). 
+Computer Informa- 
+tion Exchange 
+Box 158 
+San Luis Rey, CA 92068 
+Cload Magazine 
+P.O. Box 1267 
+Goleta, CA 93017 
+Monthly cassette maga- 
+zine for Radio Shack 
+TRS-80. $36/year 
+(12 issues). 
+Adventure, International 
+P.O. Box 3435 
+Longwood, FL 32750 
+Best source of adventure 
+games for TRS-80. Soon 
+will add adventure games 
+for other computers. 
+Catalog free. 
+Cybernautics 
+P.O. Box 40132 
+San Francisco, CA 94140 
+Their games — Taipan, 
+Galactic Empire, Galactic 
+Trader and Galactic 
+Invasion — are far supe- 
+rior to older games such 
+as Hammurabi, Kingdom, 
+Star Trek, etc. (for 
+TRS-80). 
+Catalog free. 
+DUNJONQUEST 
+. 
+CIE publishes a news- 
+paper called S-80 Bulletin, 
+S-80 Computing Magazine 
+and People’s Software — 
+inexpensive cassettes 
+with lots of programs. 
+Information free. 
+TRS-80 Software Source 
+Computermat, Box 1664 
+Lake Havasu, AZ 86403 
+Latest edition lists more 
+than 4000 software 
+items for TRS-80. 
+Catalog free. 
+Swordquest from 
+Fantasy Game Software 
+P.O. Box 1683 
+Madison, WI 53701 
+One of the favorite games 
+of kids in Computer- 
+Town, USA! Someone 
+should write a book 
+about what kids can 
+learn from this game! 
+Hmmm... maybe we will. 
+Catalog free. 
+The PET Program 
+Exchange 
+Box 516, 
+Montgomeryville, 
+PA 18936 
+$1 per program plus $1 
+per cassette. 
+Up to 12 
+programs on a C-30 
+cassette. 
+Software is supplied ina 
+variety of media such as 
+Paper tape, magnetic tape, 
+hard disk, or floppy disk 
+isa 
+dulce 
+nanan. 
+% 
+The Howard W. Sams 
+Crash Course in 
+Microcomputers 
+Louis E. Frenzel, Jr. 
+1980; 264 pp. 
+$1 7.50 postpaid from: 
+Howard W. Sams 
+and Company 
+4300 West 62nd Street 
+Indianapolis, IN 46268 
+or Whole Earth 
+Household Store 
+Compute Magazine 
+900-902 Spring 
+Garden Street 
+Greensboro, NC 27403 
+Specializes in PET, Atari, 
+and Apple Computers. 
+If you are a teacher and 
+have a PET, do get the 
+Jan-Feb 1980 issue. 
+It 
+has a page which shows 
+all educational stuff 
+published in a full year 
+of CURSOR broken 
+down by grade level 
+and skills. 
+The Computing Teacher 
+Computing Center 
+Eastern Oregon 
+State College 
+LaGrande, OR 97850 
+$10/year (7 issues). 
+Interface Age Magazine 
+16704 Marquardt Avenue 
+Cerritos, CA 90701 
+! believe this will be the 
+best general magazine for 
+beginners to intermediates 
+in the 1980s. $18/vear 
+(12 issues). 
+The Software Exchange 
+P.O. Box 68 
+Milford, NH 03055 
+Probably the most 
+complete source of 
+software, books, maga- 
+zines for the TRS-80. 
+Catalog free. 
+80 Software Directory 
+Howie D. Blasi 
+ComputerMat 
+Box 1664 
+Lake Havasu, AZ 86403 
+Latest edition has over 
+5000 TRS-80 Software 
+listings from over 450 
+vendors. 
+Iridis 
+Box 550 
+Goleta, CA 93017 
+Cassette magazine for the 
+Atari. New, | haven’t 
+seen acopy yet. 
+= 
+An Introduction to Microcomputers 
+Designing and programming microcomputers at the 
+assembly language level is the core of much of the hobby- 
+ist and small-computer inventing work of the past five 
+years. 
+It’s an ever-expanding territory, and the standard 
+atlas (as Marc Le Brun calls it) is this three-volume set. 
+Volume One has the universal principles; Volume Two 
+describes specific circuit designs made by different 
+designers and how to program with them; and Volume 
+Three deals with support devices like terminals and 
+memory storage systems. All three volumes used to be 
+paperbacks; then Volumes Two and Three became 
+looseleaf-bound, updated into 1980 with bimonthly 
+supplements. Henceforth, supplemental “‘handbooks”’ 
+will be published to keep them from obsolescing. Adam 
+Osborne is one of the most charming computer writers 
+around, with a regular column in \nfoWorld (p. 357). 
+His program listings and other publications are 
+also reputable. 
+—Art Kleiner 
+An Introduction 
+to Microcomputers 
+Volume One: 
+Basic Concepts 
+Adam Osborne 
+1975, 1980; 480 pp. 
+2nd Edition 
+$13.75 Postpaid 
+Volume Two: Some 
+Real Microprocessors 
+Adam Osborne 
+and Jerry Kane 
+1975, 1979; 1400 pp. 
+$56.25 postpaid 
+(Includes binder 
+and updates) 
+Volume Three: Some 
+Real Support Devices 
+Jerry Kane and 
+Adam Osborne 
+1975, 1979; 700 pp. 
+$46.25 postpaid 
+(Includes binder 
+and updates) 
+Publications catalog 
+free 
+all from: 
+Osborne/McGraw-Hill 
+630 Bancroft Way 
+Department UB 
+Berkeley, CA 94710 
+Computer Graphics Primer 
+A good book on the possibilities in small computers for 
+interactive and animated graphics. Many of the possibili- 
+ties are just beginning to be explored. 
+There is probably 
+no more exciting a reason for getting a computer of your 
+own (or playing on someone else’s). 
+This book is the 
+manual youl need; it shows some of what high-powered 
+graphics labs are doing, then provides lots of beginners’ 
+techniques which aim towards emulating them. 
+The book 
+depends on BASIC and to a lesser extent Apple computer 
+graphics — having access to both would help. 
+—Art Kleiner 
+e 
+The best way to approach learning graphics is by tying it 
+into an existing project you are already turned on about. 
+For example, if you're into electronics you may wish to 
+develop a 24-trace digital storage scope for designing and 
+trouble-shooting computers. 
+You could use a graphics 
+computer to draw the traces on the television that were 
+picked up by your custom interface. 
+If you're into 
+astronomy you might wish to computerize a starmap and 
+have a microplanetarium in your bedroom. 
+If you like 
+playing with the stock market you could get a high- 
+resolution computer to spit out accurate Dow Jones 
+reports just like the graphs in the newspaper. 
+This example of a memory-mapped video display has 
+40 lines and 86 characters per line. 
+Computer Graphics 
+Primer 
+Mitchell Waite 
+1979; 184 pp. 
+$12.95 postpaid from: 
+Howard W. Sams and Co. 
+4300 West 62nd Street 
+Indianapolis, IN 46268 
+or Whole Earth 
+Household Store 
+Tektronix, inc., 4051 
+Graphic Computing 
+System, $6000 with 8K 
+RAM, 3M tape drive. 
+Storage tube-type 
+crt means selective erase 
+of screen graphics is not 
+possible; however, this 
+computer offers more 
+dot resolution for the 
+money than anything 
+else on the market. 
+Has powerful graphics 
+software for bargraphs 
+and piecharts, as well as 
+HP-like graphic 
+commands. 
+Example of output of digital plotter 
+

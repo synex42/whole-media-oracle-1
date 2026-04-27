@@ -1,0 +1,246 @@
+dberheim OB-X programmable polyphonic synthesizer 
+Fairlight CMI 
+DIGITAL SYNTHESIZERS 
+Fairlight CMI, 15 Boundary Street, Rushcutters Bay, 
+Sydney, Australia 2011. Australians make this item. 
+Find a sound you like. Put it up on an oscilloscope. 
+Trace the waveform with a light-pen on the graphics 
+display screen of the Fairlight or play back a sound off 
+a tape recorder or mike. Enter the program on floppy 
+disc and you’ve got that retrievable sound forever. 
+You 
+can create any waveform with this unit. 
+The use of 
+floppy disc assures the sonic artist that all is absolutely 
+repeatable. Program complex musical compositions and 
+hear them retrieved and played back without the key- 
+board. 
+“Look, ma...” Having eight-note polyphony 
+means that eight different voices can be played at the 
+same time. 
+You won’t need any previous knowledge 
+of computers or programming. 
+There’s lots more but 
+you'll have to write them. 
+TO-BE-INTRODUCED-IN-1980-BUT- 
+NOT-YET-ON-THE-MARKET (April, 1980) 
+Yamaha TRX (Touch Response X), Yamaha Interna- 
+tional, P.O. Box 6600, Buena Park, CA 90622. The TRX 
+is a performance-oriented, 88-key system that looks like 
+a small baby grand in a walnut case. 
+It is 16-note poly- 
+phonic. 
+In order to produce a sound, you have four 
+tone modules (equivalent to four synthesizers/note in 
+analog terms). 
+This means, for instance, that for the 
+same note you can have possible a plucked sound, a 
+percussive sound, a string or organ sound. 
+The keyboard 
+scaling allows all characteristics of sound to be change- 
+able across the entire range of the keyboard. Depending 
+on how you change your touch you will get a plucked 
+string, an organ, or percussive feels. 
+The key result here 
+is that this instrument truly sounds acoustic and there- 
+fore is a remarkable adjunct to performance and 
+recording synthesizers. 
+Audity, E-mu Systems, 417 Broadway, Santa Cruz, 
+CA 95060. The Audity is a totally computer-controlled 
+polyphonic synthesizer system planned for release in the 
+summer of 1980 by E-mu Systems, Inc. 
+It is designed to 
+allow the sonic artist to rapidly realize complex multi- 
+line orchestrated music without the aid of tape recorders 
+or orchestras. 
+The user can create a library of sounds on 
+magnetic disk and assign any combination of these sounds 
+to any combination of musical lines played either live or 
+by the polyphonic sequencer. 
+The system stores not only 
+single sounds but entire orchestrations and groups of 
+~ 
+ae 
+oe 
+dl 
+ELECTRONIC MUSIC 
+orchestrations. 
+For the first time the sonic artist can 
+experiment with voice assignment in real time, while his 
+composition is actually being played. With the touch of 
+a button the artist can change a single voice or the entire 
+orchestration and hear the resu/ts immediately. 
+The 
+system consists of three elements: an electronics rack 
+containing the disk drives, the main system CPU (Central 
+Processing Unit), and up to 64 voice cards; a console con- 
+taining the synthesizer contro/ panel, controls for sound 
+storage and retrieval, and an alphanumeric display; and 
+a polyphonic keyboard/sequencer with the capacity to 
+store up to 6000 notes. 
+Synclavier 11, New England Digital Corporation, Main 
+Street, Norwich, VT 05055. About the size of a Mini- 
+Moog, this exceptional digital instrument manufactured 
+by New England Digital Corporation in Vermont is avail- 
+able in 8, 16, 24 and 32 voices. 
+Up to 96 different 
+harmonics can be programmed for one polyphonic voice; 
+also, multiple vibratos and portamentos. 
+Sixty-four 
+sounds are pre-programmed any of which can be modi- 
+fied or create your own aural visions. And here’s the 
+kicker! 
+This instrument is equipped with a 16-track 
+digital memory recorder giving the sonic artist virtually 
+the same contro/s as with a 16-track tape recorder in 
+syne. Storage is unlimited and accomplished with 
+floppy disc. 
+It goes without’saying that the sounds of 
+violins, celli, xylophones, bells and brass “sound” almost 
+indistinguishable from the real thing. 
+/t should be said 
+that this instrument will be on the market by the time 
+the Catalog js in print. 
+Prophet 5, Sequential Circuits, 3051 North First Street, 
+San Jose, CA 95134. Sequential Circuits makes this 
+analog/digital hybrid. 
+It is a 5-voice (they also have a 
+10-voice instrument called the Prophet 10), closed 
+system. 
+The unit features a digital storage memory with 
+all functions programmable. 
+It also includes an “edit” 
+mode. Portable, cosmetically and functionally well- 
+designed, the Sequential Circuits people really under- 
+stood the meaning of human engineering and elegant 
+simplicity. 
+The updated version contains a built-in 
+cassette interface for unlimited storage of settings and a 
+variable scaling program which allows each note or key 
+to be scaled independently. ab 
+Prophet 5 
+Computer Music Journal 
+The acknowledged place to look for ongoing news about 
+computer-generated music and its makers. 
+Innovations 
+in computer music come so quickly that a journal is 
+needed. CMJ was /ong published by the People’s Com- 
+puter Company, but recently moved to the MIT Press. 
+The first issue from MIT 
+has been delayed, so we haven’t 
+seen it yet, butall the issues we’ve seen up till now 
+have been first-class. 
+—Art Kleiner 
+Computer Music 
+Journal 
+Curtis Roads, Editor 
+$20 /year (4 issues) 
+Journals Department 
+The MIT Press 
+28 Carleton Street 
+Cambridge, MA 02142 
+Up until recently, all music was real time, in that musi- 
+cians played their instruments and the music was heard 
+immediately. Now with the computer, it is not only 
+possible, but it is usually essential to compute the 
+cual 
+pt 
+es) 
+6. 
+8 
+4) 
+@ a6 
+0) 
+.6 
+0 
+(6160/8) 
+@ 
+~ COMMUNICATIONS 
+' 
+479 
+BOOKS 
+Although nothing replaces “hands on” experience when 
+working with synthesizers, | can recommend three books 
+out of many excellent ones that might help clarify some 
+of the myths, mysteries, expressions and techniques with 
+regard to the control of sound and synthesis. 
+For beginners: The Nonesuch Guide to Electronic Music, 
+/ 
+by Paul Beaver and Bernard L. Krause, 1968. New 
+|! 
+edition to be released by Nonesuch records in 1981; 
+$14.88 postpaid from King Karol or Moby Music 
+(p. 482). Includes three 12” records of sounds and a 
+book of what sound is all about in lay terminology. 
+Also, 
+an extensive bibliography and glossary of terms. 
+Avail- 
+able through Nonesuch Records. 
+Beginner - Intermediate: Synthesis, An Introduction to 
+the History, Theory, and Practice of Electronic Music 
+] 
+by Herbert A. Deutsch, 1976; $6.95 postpaid from 
+Alfred Publishing Company, 15335 Morrison Street, 
+Sherman Oaks, CA 91403. /ncludes a 7” record. 
+It is 
+| 
+comprehensive in its explanation of musical synthesis. 
+| 
+Intermediate 
+- Advanced: Electronic Music, Systems, 
+Techniques, and Controls by Allen Strange, 1972; $7.95 
+postpaid from: William C. Brown Company, 2460 Kerper 
+Bivd., Dubuque, 1A 52001. Clear and comprehensive 
+explanations of the understanding and contro/ of sound. 
+Includes an excellent bibliography. 
+Digital information — it is usually the case that each 
+\ 
+manufacturer of digital equipment has an application 
+manual or application notes. 
+| can’t imagine any worth 
+their salt that wouldn’t. 
+There might be a slight charge, 
+but write to them. 
+If you are interested it will be worth 
+every penny. 
+© 
+numbers representing the sound first, store them on some 
+medium, such as rotating disk storage, then play them 
+back later. This separation of the computing phase and 
+the listening phase is a bit annoying in that it means you 
+cannot listen to your piece as it is produced, but it gives 
+us the aforementioned advantage that pieces of arbitrary 
+i 
+complexity can be realized. They just take more and 
+more computer time. With analog synthesizers, one 
+eventually runs out of modules (oscillators and filters 
+and such). With the computer, one simply runs out of 
+patience or computation time. 
+ORIGINAL TRUMPET 
+MODIFIED TRUMPET 
+WITH TROMBONE SPECTRAL ENVELOPE 
+ORIGINAL 
+TROMBONE 
+Exchange of spectral envelopes between the trumpet and 
+the trombone to form the modified trumpet and modified 
+trombone (not shown). 
+0 
+1.6, 1e) 6) Si ene @ 
+6 006 
+Sue 6) 6 Behe 
+© 
+0 sb 
+6 
+@ 
+0 
+0 
+& 
+© 
+THE RISING SUN 
+NEIGHBORHOOD NEWSLETTER 
+If Woody Allen never dies, he’s going to feel 
+really silly. 
+econ la 
+bites LI 
+; 
+

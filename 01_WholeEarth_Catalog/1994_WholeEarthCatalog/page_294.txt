@@ -1,0 +1,262 @@
+Political Tools 
+290 
+HUNDRED 
+YEARS 
+AGO, 
+Americans were 
+dis- 
+cussing the benefits 
+of electricity and arguing 
+about who should build and run the 
+electrical power networks. Would 
+the cities be served and the rural 
+areas ignored? Should the cities own 
+their own power system or should 
+private companies? In Europe many 
+of the benefits of electricity were 
+seen as a social good; in America 
+these were seen as a business. Politi- 
+cal policy as well as market condi- 
+tions determined who had access to 
+the new technology. 
+——————————<mM 
+LLL 
+L!UmU 
+COMMUNITY NETWORKS 
+La Plaza de Taos TeleCommunity Foundation in New Mexico is designing a community network 
+with a new interface. Pictured is the start-up screen with a photograph of the historic plaza sur- 
+rounded by icons representing the kinds of local and national information available to users. 
+The debates about the so-called in- 
+formation superhighway in some 
+ways parallel the discussions held a 
+century ago. While some of the de- 
+cisions are going to be made at the 
+national, state, or corporate level, 
+local residents are realizing they 
+have a great deal to say and do about 
+how the national information infra- 
+structure will look in their town, 
+county, region, or Indian reserva- 
+tion. Many different groups are 
+working on this challenging problem, 
+some since the 1970s but most since 
+1990 or later. This movement 
+is 
+called community networking or 
+civic networking. There is no single 
+national organization, no books 
+available as this Catalog goes to 
+press, no journals, and no annual 
+tradeshow. Nevertheless, a great 
+deal of activity is taking place online 
+and in schools and community cen- 
+ters and libraries as these civic net- 
+works take hold. 
+These networks have provided 
+healthcare and employment infor- 
+mation, community discussion of 
+local issues, citizen grassroots orga- 
+nizing around local issues, timely in- 
+formation about local services 
+(libraries, city halls, zoning regula- 
+tions, city council proceedings, etc.) 
+to community residents. These com- 
+munity networks have been orga- 
+nized by grassroots groups of 
+computer enthusiasts, community 
+workers, teachers, librarians, and 
+businesspeople, but some are for- 
+profit ventures; these may become 
+services provided by large compa- 
+nies running local systems. No mat- 
+ter what your interest or talent, you 
+can help start or even help operate 
+a community network. You can 
+help support these networks even as 
+a user. 
+The formation of these networks is 
+akin to an electronic barn raising. 
+Different elements of the commu- 
+nity gather to work toward a com- 
+mon goal, and one of the first ben- 
+efits is that people who may have 
+never met before begin to discuss 
+important issues concerning infor- 
+mation and its dissemination, as well 
+as how they communicate with the 
+government and with each other. 
+The local information for the net- 
+works comes from many sources: 
+the city, nonprofit social organiza- 
+tions and hobbyists, the school dis- 
+trict, university, political parties, the 
+library, and religious groups. Some 
+community networks exclude busi- 
+ness activity from their information 
+mix, but others see it as an ingredient 
+crucial to the success of the system. 
+Because of the growing interest in 
+access to the Internet, most commu- 
+nity networks allow the user to 
+reach at the very least a limited set 
+of destinations on the Internet and 
+to exchange email with people 
+worldwide. 
+Some systems serve as information 
+refineries. Boulder Community Net- 
+work in Colorado ferrets out infor- 
+mation from local sources such as 
+the United Way, the city, the library, 
+the school district, the newspaper, 
+and local businesses to help them 
+arrange the information in the cor- 
+rect electronic formats, mount it on 
+the file server, and pump it to other 
+networks or BBSs. These same sys- 
+tems are engaged in training and 
+providing support to the local com- 
+munity (computer and network 
+training, consulting on how they can 
+use telecommunications to further 
+their mission, interagency communi- 
+cation), so each network has a large 
+amount of personal contact. 
+Most community networks consist 
+of a single computer connected to 
+Organizations 
+National Public Telecomputing Network: 
+34555 Chagnn Blvd., Moreland Hill, OH 
+44022; phone and fax: 216/247-3328, 
+Intemet: info@nptn.org Assists organizing 
+groups that want to start a Free-Net in 
+their town or community. Many of their 
+materials are on the anonymous ftp site 
+at: nptn.org (cd into: /pub/info.nptn). 
+yal Online Resources 
+Art McGee’s List of Community! 
+Rural Electronic Mailing Lists 
+Art McGee maintains a list of electronic 
+— 
+mailing lists that is now too long to indude 
+on this page. If you have email access, t 
+list of lists will connect you with all 
+community and rural networking eni 
+asts you have time to meet. 
+The latest version of this list is av 
+anonymous FTP from ftp.ne 
+directory: pub/amcgee/com 
+only have access to email, thei 
+use FTPmail to do the same 
+help message to: 
+ia 
+ftp-request@netcom.com 
+access this list by sendin 
+fingering: amcg 
+: 
+This last address is 
+correspondence, pl 
+D 
+Sources of Information about Community Networking 
+International Association of Community 
+TeleService Centers: 44 avenue de la 
+Mare, Batiment “B", F-06100 Nice, 
+France; phone: 33-93-8|-9 1-84, fax: 33- 
+93-8 |-50-75, Internet: lars.engvall@sp | .y- 
+net.fr This organization studies existing 
+centers and helps in the creation of new 
+ones in both developing and industrialized 
+nations. 
+Center for Civic Networking: PO Box 
+65272, Washington, DC 20037; 202/ 
+362-3831, Intemet: rciville@civicnet.org 
+CCN provides technical assistance on a 
+consulting and a partnering basis in the 
+planning of civic networking projects. They 
+work on both the state and federal level to 
+bring about policy changes that will help 
+community networks to flourish. 
+Community Technology Development Center: 
+8260 Willow Oaks Corporate Drive, Suite 
+700, Fairfax, VA 22031; Intemet: 
+info@commtech.org Conducts and dis- 
+tributes research on community networking 
+technologies and systems, and assists 
+groups with the organization and deploy- 
+ment of community networks and 
+network-based information services. 
+The Morino Institute: 768 Walker Road, 
+Suite 289, Great Falls, VA 22066; phone: 
+703/759-0477, fax: 703/759-9548, 
+Internet: info@morino.com Provides fel- 
+lowships, education programs and facilita- 
+tion of pilot and research projects to help 
+individuals and communities work toward 
+social change through the potential of 
+electronic communications. 
+Books 
+Several works are in the planning stage, 
+but only these volumes could be listed at 
+press time. 
+Community Networks (Building a New 
+Participatory Medium): Douglas Schuler. 
+1995, Addison-Wesley. For ordering infor- 
+mation, contact | Jacob Way, Reading, 
+MA 01867, 800/447-2226. Schuler wrote 
+the definitive article on community net- 
+works in the January | 994 issue of the 
+Communications of the ACM. His book will 
+expand on the article's themes. 
+Emerging Communities (Integrating Net- 
+worked Information into Library Services): 
+Ann Bishop, Editor. 1994; 304 pp. ISBN 
+0-685-6482|-4. $30 ($33 postpaid). 
+University of Illinois at Urbana-Champaign, 
+Graduate School of Library & Information 
+Science/Publications Office, University of 
+Illinois, 501 E. Daniel Street, Champaign, 
+IL 61820; 217/333-1359. Contains a 
+large section of papers on community 
+networks. The papers may also be found 
+online on ftp.cni.org in the CNI/docu- 
+ments/illinois.dpc/text folder. 
+Electronic Sources 
+Boulder Community Network runs a World 
+Wide Web server. The address is http:// 
+www. cs.colorado.edu/homes/bcn/ 
+public_html/Home.htm 
+Peter Scott of the University of 
+Saskatchewan maintains pointers to other 
+networks on his home page: http:// 
+www.usask.ca/~scottp/free.htm| 
+The WELL gopher — gopher.well.sf.ca.us 
+(port 70) — contains a large sub-directory 
+of 
+information on community networks, in- 
+cluding papers, discussions, and organizing 
+information. 
+There are numerous community systems, 
+but some are so busy handling local callers 
+that they may be hard to reach by modem 
+or the Internet. Here are some representa- 
+tive systems to try: 
+Big Sky Telegraph: Western Montana 
+College. 710 S. Atlantic Ave., Dillon, MT 
+59725; modem (1200 baud): 
+406/683-7680, Internet: 192.231.192.1 
+Columbia Online Information Network 
+(COIN): University of Missouri Campus 
+Computing. 200 Hinkel Building, Columbia, 
+MO 61211; modem: 314/884-7000, 
+Intemet: bigcat.missoun.edu 
+Victoria Free-Net: Vancouver Island 
+Advanced Technology Centre, Suite 203- 
+1110, Govemment St, Victoria, BC V8W 
+| ¥2 Canada; modem: 604/595-2300, 
+Internet: freenet.victoria.bc.ca 
+Wellington Citynet: Wellington City 
+Council. PO Box 2199, Wellington, 
+New Zealand; modem: 64-4-80 |-3060, 
+Intemet: 192.54.130.34 
+See the Community Domain 
+beginning on page 121 
+

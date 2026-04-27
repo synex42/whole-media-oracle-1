@@ -1,0 +1,251 @@
+the kitten the finer 
+Design for a Brain 
+This is a reputation review. Ashby’s book is found prominent 
+in the bibliography and footnotes of every text we've seen on 
+computers and the mind, It’s technical going to read but 
+worth it for the insights of prime work. 
+Finding an optimum is a much more complex operation than finding 
+a value that is acceptable (according to a given criterion). Thus, 
+suppose a man comes to a foreign market containing a hundred kinds 
+of fruit that are quite new to him. To find the optimam 
+for his 
+palate he must (1) taste-all the hundred, (2) make at least ninety-nine 
+comparisons, and (3) remember the results so that he can finally go 
+back to the optimal form. On the other hand, to find a fruit that is 
+_ acceptable he need merely try them in succession or at random 
+(taking no trouble to remember the past), stopping only at the first 
+that passes the test. To demand the optimum, then, may be excessive; 
+all that is required in biological systems is that the organism finds a 
+state or a value between given limits. 
+The development of life on earth must thus not be seen as something 
+remarkable. On the contrary, it was inevitable. It was inevitable in 
+the sense that if a system as large as the surface of the earth, basically 
+polystable, is kept gently simmering dynamically for five thousand 
+million years, then nothing short of a miracle could keep the system 
+away from those states in which the variables are aggregated into 
+intensely self-preserving forms. 
+This is the learning mechanism. 
+Its 
+peculiarity is that the gene-pattern 
+delegates part of its control over 
+the organism to the environ- 
+ment. Thus, it does not 
+specify in detail how a kitten 
+shall catch a mouse, but 
+provides a learning mech- 
+anism and a tendency to 
+play, so that it is the 
+mouse which teaches 
+bs SCIENCE PAPERBACKS 
+Design fora 
+Brain 
+W. ROSS ASHBY 
+points of how to 
+catch mice. 
+Design for a Brain 
+W. Ross Ashby 
+1952, 1960; 286 pp. 
+$2.50 postpaid 
+from: 
+Barnes & Noble, Inc. 
+105 Fifth Avenue 
+New York, N. Y. 10003 
+Economy Bookstore 
+171 W. Madison 
+Chicago, IIlinois 60602 
+or WHOLE EARTH CATALOG 
+PO 
+N= 
+Desk-top Calculators 
+The Hewlett-Packard 9100A is now $4400. 
+If you have to deal with 
+problems which require a considerable capacity then the Wang 700 
+. should be a great deal better than the HP since its total memory under 
+program control (core plus tape) will be about 70 times as much as 
+HP’s. For people that order a 700 before it is being produced Wang 
+loans a 370 with two card readers, a system which in some ways is 
+already better than the HP. Such a 370 system costs $4700. 
+Deficiencies of 370 compared with HP: 
+Much slower 
+Does not have wired in programs for trig functions and some 
+other functions (but programs can be fed in on cards) 
+Can not handle as wide a range of numbers fonty from about 
+10°10 to 10*9 instead of nearly 10°100 to 19+100) 
+Much less convenient to write and correct programs 
+Results of a computation cannot be read out onto a magnetic 
+card or tape for later use (this can be done on the HP 
+altho the salesman may not realize it) 
+Not as good a display 
+Advantages of 370 compared with HP: 
+Greater capacity (28 registers com- 
+pared to 19 for HP with no 
+. 
+program, with 160 step 
+program 370 still has 28 
+registers but HP has only 7 
+—160 steps is maximum 
+size program for 370 with 
+two card readers without 
+feeding cards in manually, 
+compared to 196 for HP 
+but another card reader 
+would bring it up to 240) 
+Ability to use subroutines (but 
+not subroutines within 
+subroutines)—with HP a 
+~ subroutine must be 
+rewritten every place it 
+is used in the main program 
+thus using up precious 
+capacity. 
+9999 
+1.286 
+The 700 should be as good or better in all 
+these respects, except the display, as well 
+as having some other big programming 
+advantages—particularly indirect addressing 
+of registers in which the computer decides 
+which register to go to thus saving much 
+capacity as well as making programs easier 
+to write. 
+[Reviewed by Craige Schensted] 
+‘Hewlett-Packard information from: 
+. Mathematical Constants 
+. Physical Constants and 
+. Exponential Integral and Related 
+.. Gamma Function and Related 
+. Error Function and Fresnel 
+. Legendre Functions 
+. 
+Bessel Functions of |nteger 
+. 
+Bessel Functions of Fractional 
+. 
+Integrals of Bessel Functions 
+.. Struve Functions and Related 
+Rint6eees 
+* 
+Information 
+The September 1966 issue of Scientific American was 
+devoted entirely to the new technology of information. Now 
+available as a paperbound book, it is the best introduction 
+we’ve seen to computer science. Articles include: “Computer 
+Logic and Memory”, “Computer Inputs and Outputs”, 
+“Systems Analysis and Programming”, “Time-sharing on 
+sf 
+Computers”, “The Transmission of Computer Data”, “The 
+4 
+Uses of Computers in Technology”, “The Uses of Computers 
+: 
+in Organizations”, “The Uses of Computers in Education”, 
+“Information Storage and Retrieval”, and “Artificial 
+Intelligence”. 
+a 
+Information 
+ied 
+1966; 218 pp. 
+SCUENTIFIG 
+AMERICAN 
+Book 
+A comprahansive review of the 
+extreodinery new technology of 
+[ nformation 
+from: 
+W. H. Freeman & Company 
+660 Market Street 
+$2.50 Postpaid 
+San Francisco, CA 94104 
+or WHOLE EARTH CATALOG 
+The computer is almost exactly what man is not. It is capable of 
+paying undivided attention to unlimited detail; it is immune to 
+distraction, precise and reliable; it can carry out the most intricate 
+and lengthy calculation with ease, without a flaw and in much less 
+than a millionth of the time that would be required by its human 
+counterpart. 
+|t is emotionless, 
+or so we suppose. It suffers neither 
+boredom nor fatique. It needs to be told only once; thereafter it 
+remembers perfectly until it is told to forget, whereupon it forgets 
+instantly and absolutely. 
+Simulated-waterfall spills over the edge of a cliff and splashes into a 
+3 « pool in this computer experiment performed by John P. Shannon at 
+the Los Alamos Scientific Laboratory as part of a study of dynamic 
+behavior of fluids with the aid of numerical models. 
+Siiitiesuae 
+een 
+Handbook of Mathematical Functions 
+Handbook of Mathematical Functions With 
+Designed for the person who needs but does not have access 
+Formulas, Graphs, and Mathematical Tables 
+beat 
+3 
+pk 
+1964, 1968; 1046 pp. 
+to powerful computer facilities, this Government bargain is 
+@ modernized version of the classical tables of functions of 
+$6.50 postpaid 
+Jahnke-Emde. 
+from: 
+[Suggested by Mrs. W. B. Mohin] 
+Superintendent of Documents 
+U. S. Government Printing Office 
+CONTENTS 
+Washington, D. C. 20402 
+. Confluent Hypergeometric 
+Functions 
+. Coulomb Wave Functions 
+Conversion Factors 
+. Hypergeometric Functions 
+. Elementary Analytic Methods 
+16. Jacobian Elliptic Functions 
+‘ 
+a 
+. Elementary Transcendental 
+and Theta Functions 
+Handbook of Mathematica! Puncti 
+Functions 
+17. Elliptic Integrals 
+Wik 
+Cas 
+Logarithmic, Exponential, 
+18. Weierstrass Elliptic and 
+Formplan Graphs: 
+aa Metheds 
+Circular and Hyperbolic 
+Related Functions 
+: 
+Functions 
+2 
+: 
+. Parabolic Cylinder Functions 
+. Mathieu Functions 
+. Spheroidal Wave Functions 
+. Orthogonal Polynomials 
+. Bernoulli 
+and Euler 
+Polynomials, Riemann 
+Zeta Function 
+. Combinatorial Analysis 
+. Numerical Interpolation, 
+Differentiation and 
+Integration 
+. Probability Functions 
+. Miscellaneous Functions 
+. Scales of Notation 
+. 
+Laplace Transforms 
+Functions 
+Functions 
+Integrals 
+Order 
+Order 
+Functions 
+Hewlett-Packard Model 9100A Culeulator keyboard and dispicy. Hyperbolic, trigonometric, ond 
+ceardinate transformation funesions at left, progeamminy functions right. Display is decimal. 
+Wang information from: 
+Wang Laboratories, Inc. 
+836 North Street 
+Tewksbury, Mass. 01876 
+P. O. Box 301 
+Loveland, Colorado 80537 
+

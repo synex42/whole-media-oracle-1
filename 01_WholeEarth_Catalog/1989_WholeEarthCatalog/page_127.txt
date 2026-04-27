@@ -1,0 +1,135 @@
+pumps. You can purchase a distributorship and get in on 
+the ground floor. 
+In 1978 and 1979, farmers and investors from all over 
+America bought distributorships for a pump motor being 
+developed by Stewart Energy Systems of Idaho. Stew- 
+art’s motor was essentially a closed-cycle steam engine, 
+except that it used freon instead of water as a working 
+fluid. Potential investors were shown a working model, 
+but it ran off a conventionally fired boiler. It seems that 
+inventor Robert Stewart had not yet perfected the heat ex- 
+changer that was to draw the energy out of the well water 
+by dropping its temperature two or three degrees! Before 
+running afoul of the Securities and Exchange Commis- 
+sion, Stewart Energy Systems took in over three million 
+dollars. 
+Had the investors consulted a physicist, they would 
+have received some good news and some bad news. The 
+good news is that three BTUs (British Thermal Units), the 
+amount of energy that would be released by lowering the 
+temperature of a pound of water three degrees Fahrenheit, 
+could theoretically lift that pound of water more than 
+2300 feet. The bad news is that little or none of the three 
+BTUs is available to do useful work. 
+Heat engines depend on making heat flow. To draw 
+energy from the well water, you would have to make heat 
+energy from the cold water flow to an even colder body (a 
+condenser). How do you cool the condenser? You could 
+build a refrigeration unit, but—you’re probably way 
+ahead of me—it would take far more energy to run the re- 
+frigeration unit than you’d ever get back. 
+Ironically, the Stewart motor was identical in principle 
+to a perpetual motion scheme considered by the U.S. 
+Navy acentury earlier. In about 1882, John Gamgee went 
+to the Navy with a proposal for a “zeromotor,” a device 
+that would power ships with energy drawn from seawater. 
+The essential difference between the Gamgee zeromotor 
+and the Stewart motor was that the former used ammonia 
+and the latter used freon. The output of both was the 
+same: zero.’ 
+Jeremiah 33:3 
+As mentioned previously, some of the oldest perpetual 
+motion schemes involved attempts to make a water wheel 
+pump its own water while doing other useful work. This 
+dream is not dead. In spite of scoffers and legal battles, a 
+Texas inventor tried to develop a “self-contained hydro- 
+electric power system.” 
+Imagine a 100-gallon water tank atop an 18-foot 
+tower. Water from the tank flows down through a coiled 
+“amplification unit” into a turbine. The turbine turns a 
+generator, which charges a battery pack, which in turn 
+powers an AC converter. Water discharged by the turbine 
+flows into a self-acting pump, which returns the discharge 
+water to the tank without consuming any energy. 
+Inventor Arnold Burke of Temple, Texas, began pro- 
+moting this system in 1977. Burke claimed his system 
+would eventually retail for about $1500 and would pro- 
+duce 1500 (later 3000) kilowatt-hours per month. Most 
+2. The Gamgee fiasco is described in detail in chapter 10 of 
+Ord-Hume’s Perpetual Motion (see review, p. 127). 
+system components could be purchased off the shelf. The 
+key to the system, the self-acting pump, he claimed he 
+had originally invented to drain a gold mine. 
+Burke initially got financing for his device from a 
+large dairy co-op, but they parted ways after he failed to 
+deliver a working model to the co-op’s headquarters. By 
+this time, Burke had christened his machine “Jeremiah 
+33:3” for the Bible verse—“Call unto me, and I will an- 
+swer thee, and shew thee great and mighty things, which 
+thou knowest not”—that inspired his invention. He began 
+selling distributorships to individuals, especially Bible 
+Belt investors as impressed by his piety as by his me- 
+chanical ingenuity. The Texas attorney general filed suit 
+in the fall of 1979, alleging that Burke and his associates 
+had collected $800,000 in licensing fees under false pre- 
+tenses. 
+The Jeremiah trial, held in Belton, Texas, was report- 
+edly a good show. The prosecution called expert witness- 
+es who testified that Jeremiah couldn’t possibly do what 
+Burke claimed. The defense called a chemistry professor 
+from Arizona State University who testified that it could. 
+Burke insisted that Jeremiah ran without any external 
+power, and the defense fought a motion to have the ma- 
+chine examined by a court-appointed expert. They lost. 
+On December 19, 1979, Jeremiah was examined by 
+engineer David Kehl and Assistant Attorney General Roy 
+Smithers. While Kehl was taking Jeremiah’s pulse with 
+an electronic stethoscope, Smithers spottec a concealed 
+wire leading from the machine’s upper reservoir. It turned 
+Using advertising like this, Stewart Energy Systems of Idaho took in 
+over three million dollars from farmers before running afoul of the 
+Securities and Exchange 
+Commission. 
+Sey Ae eee youl 
+FOR@PR ASTON DEVICES 
+AIR RETURN 
+FUEL TANK 
+BOILER 
+\ 
+FUEL eS 
+| \ 
+aia 
+sae 
+=a 
+= il 
+RELIEF VALVE 
+FUEL PUMP 
+SCRUBBER 
+THROTTLE 
+CONDENSATE RETURN PUMP. 
+CONDENSER 
+ONE OF THE FARMING COMMUNITY'S 
+BIGGEST 
+PROBLEMS 
+IS THE COST 
+OF FUEL 
+. STEWART ENERGY SYSTEMS OF IDAHO WILL SOON BE SELLING 
+ENGINES TO TRACTOR MANUFACTURES WHICH WILL 
+CUT 
+THE COST OF 
+FUEL TO A FRACTION 
+OF THE AMOUNT 
+FARMERS 
+ARE NOW REQUIRED 
+TO PAY TO OPERATE TRACTORS 
+WITH CONVENTIONAL 
+TYPE INTERNAL 
+COMBUSTION ENGINES 
+. 
+TECHNICAL INFORMATION WILL BE MADE PUBLIC 
+AS PATENT WORK IS COMPLETED. 
+STEWART ENERGY SYSTEMS OF IDAHO, 
+INC. 
+739 W. APPLEWAY COEUR D* ALENE, IDAHO 83814 
+PH, (208) 667-6411 
+

@@ -1,0 +1,253 @@
+ao INCE TECHNIQUES OF JUDGING THE TRUTH 
+value of propositions are still in heated dispute 
+among logicians, mathematicians, scientists, and 
+philosophers, I am not about to give “correct” 
+\ 
+answers to this quiz. Instead, I will offer a com- 
+mentary on why some uncertainty attends all the 
+preceding propositions and why the uncertainty 
+about some of them is vast and abysmal. 
+Proposition 1, “Francis Bacon wrote 
+Hamlet,” is believed by a small but vehe- 
+ment minority and regarded as not only 
+“false” but patently absurd by academic 
+orthodoxy. No scientific way exists to 
+test such propositions, and, since histori- 
+ans frequently have disputes over what 
+constitutes “real” historical evidence, 
+some doubt must attend a theory of this 
+nature. I would suggest that the amount 
+of doubt should be greater than in the 
+case of the proposition “Franklin Delano 
+Roosevelt was President of the United 
+States from 1933 to 1945,” certainly less 
+than in the case of “Ronald Reagan wrote 
+Hamlet,” and might be perhaps equal to 
+that in the case of “Francis Bacon defi- 
+nitely did not write Hamlet.” 
+Personally, I tend to believe Will 
+Shakespeare of Stratford wrote Hamlet, 
+but since I can’t prove it scientifically and 
+am not an expert on Elizabethan conspira- 
+cies, I am not 100 percent sure, and prefer 
+to listen to the Baconians politely rather 
+than arouse their (quickly aroused) hostil- 
+ity by dogmatic denial of their Faith. 
+Proposition 2, “Ronald Reagan wrote 
+Hamlet,” only seems clearly false. We 
+would only evade a possible trap if we 
+more carefully worded this as “Ronald 
+Reagan wrote the version of Hamlet usu- 
+ally attributed to Shakespeare.” After all, 
+Ronnie might have written his own ver- 
+sion in youth and prudently decided not 
+to publish it... 
+Proposition 3, about force being 
+mathematically equal to mass times ac- 
+celeration, seems absolutely true to every- 
+body—except a few very philosophical 
+scientists. Nobel laureate P.W. Bridg- 
+man, for instance, held the position that 
+such scientific laws should better be con- 
+sidered “useful” than “true,” and that 
+what appears “useful” will change with 
+time as knowledge increases. Logician 
+Anatole Rapoport (and many others) 
+would describe such “laws” as valid 
+rather than “true,” on the grounds that we 
+can prove their mathematical consistency 
+(inner validity) but can only observe that 
+they seem to work experimentally thus far 
+and can’t know they will always work. 
+Sir Karl Popper, philosopher-physicist, 
+offers the most devastating criticism of 
+all, arguing that no scientific law has ever 
+been proven, but some have been dis- 
+proven. Popper’s argument is that it 
+would take an infinite number of experi- 
+ments to prove a law strictly, and we 
+haven’t had that much time yet, so sci- 
+ence actually advances by disproving in- 
+adequate theories and pragmatically 
+“making do” with the ones that have thus 
+far resisted disproof. 
+I do not aver that the criticisms of 
+Bridgman, Rapoport, Popper, and others 
+of that ilk have been conclusive, but only 
+that many learned persons share such 
+views and the matter of scientific “truth” 
+still remains in dispute. Some minds 
+cling to certitude, not because it can be 
+Clearly justified, but evidently because 
+such minds have an emotional need for 
+certitude. 
+Proposition 4, “pq = gp,” again ap- 
+pears to belong to mathematical validity 
+rather than demonstrable certainty. It is, 
+in fact, a rule of commutative algebra, 
+and, however useful you may find it in 
+the grocery store, there are alternative al- 
+gebras, one of which, known as Hamil- 
+tonian or non-commutative algebra, is 
+just as valid (internally consistent) and 
+has been found as useful in quantum me- 
+chanics as ordinary algebra is in shop- 
+ping. The Hamiltonian algebra holds that 
+pq is not equal to gp. 
+Examples like this (and the co-exis- 
+tence of Euclidean, non-Euclidean, and 
+Fullerian geometries) demonstrate why 
+many mathematicians do not any longer 
+assert “truth” or “falsity” for mathemati- 
+cal systems, but only “validity” or “non- 
+validity.” 
+Proposition 5, “Water boils at 100° 
+Centigrade,” appears true on this planet, 
+to people living at sea-level. Even on this 
+planet, it appears clearly and demonstra- 
+bly false to people living or doing re- 
+search in the Rocky Mountains, the Alps, 
+the Himalayas, etc. 
+The Cosmological Principle holds 
+that scientific laws should be true every- 
+where in space-time, but we do not know 
+if any of our current “laws” are cosmo- 
+logical in that sense. We only know that 
+they seem to work thus far in the space- 
+time we have explored thus far. When 
+we and/or our instruments probe further, 
+many cosmological laws will probably be 
+disproven and replaced by different 
+“laws” (better approximations). 
+Proposition 6, about the planet be- 
+yond Pluto, is believed by many astrono- 
+mers on the basis of strong inference, but 
+such a planet has not been observed yet. 
+Dr. Rapoport would class such assertions 
+as “indeterminate,” rather than true or 
+false, until actual observations are re- 
+ported and repeatedly confirmed. 
+Incidentally, would you care to guess 
+how many of your favorite religious, po- 
+litical, or economic beliefs would be 
+classed as “indeterminate” by the Rap- 
+oport standard? 
+Proposition 7, “All propositions are 
+either true or false,” is still valiantly de- 
+fended by the Jesuits, Martin Gardner, the 
+disciples of Ayn Rand, and ideologists of 
+all schools of political frenzy, but is in- 
+creasingly doubted by modern logicians 
+and scientists. One reason for this in- 
+creasing doubt is that many propositions 
+appear “indeterminate” in Rapoport’s 
+sense, and we will confront other reasons 
+as we advance. For now, it is enough to 
+note that the Formalist school of mathe- 
+maticians regard all logical-mathematical 
+systems as being more like Game Rules 
+than scientific “laws,” and, in this case, 
+we should consider “All propositions are 
+either true or false” as a Game Rule of 
+Aristotelian logic. (Alfred Korzybski, G. 
+Spencer Brown, and John von Neumann, 
+among others, have invented non-Aristo- 
+telian logics that are as valid as non-Eu- 
+clidian geometries.) 
+Similarly, 8, “All propositions are 
+true in some sense, false in some sense, 
+true and false in some sense, and neither 
+true nor false in some sense,” can be con- 
+sidered a Game Rule in Mahayana Bud- 
+dhism (and in some philosophical inter- 
+pretations of quantum mechanics, it 
+seems). 
+9, about bread becoming flesh during 
+a magical ritual, is fervently believed by 
+Roman Catholics, denied by Rationalists, 
+and considered “meaningless” by Logical 
+Positivists. The grounds for considering 
+such propositions meaningless are that no 
+event in space-time (no act, no sense im- 
+pression, no scientific measurement) can 
+prove or disprove such allegations. For 
+example, one could say that the ritual ac- 
+tually turns the bread into the hide of the 
+Easter Bunny, and even though Catholics 
+would probably join Rationalists in re- 
+jecting such a statement, it is on par with 
+the idea that the ritual turns the bread into 
+human flesh. When propositions do not 
+refer to existential events that humans 
+may encounter and endure in space-time, 
+it seems that the Logical Positivists have 
+some reasonable grounds for employing 
+the label “meaningless.” (Finding techni- 
+cal problems in this label, Bridgman sug- 
+171 
+S
+e
+4 
+i
+i
+u
+5 
+5 
+HM
+i
+& 
+;
+ii 
+:
+JA
+t
+AN
+ia 
+sie
+SU
+CEN 
+CE 
+Ran
+A Ri
+MUS 
+VAD
+A 
+EN 
+EMISIL
+REE
+PLL
+RE 
+LSESI
+ER 
+URT 
+ASA 
+HE
+soie
+DEIR
+Z 
+RETA
+AED 
+PPA 
+AD 
+ANY 
+ERY 
+AREER
+SANS
+VONY
+ILENE 
+YA 
+RAUAEA
+TORO
+LUCOORO
+ATC
+AURIM 
+rc
+Le 
+TRUEVAN
+NSN 
+SESH 
+SNAG 
+RY 
+CPV 
+NE 
+

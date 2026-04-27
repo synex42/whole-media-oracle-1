@@ -1,0 +1,340 @@
+COMPUTER 
+PROGRAMMING 
+LANGUAGES 
+by Art Kleiner 
+By now there are probably more computer languages 
+than human ones — each with its devotees and detractors, 
+and some with a horde of dialects evolved for different 
+types of machines. 
+Unless you're interested in program- 
+ming in the computer’s circuit-based assembly language 
+(in which case see Adam Osborne’s \ntroduction to 
+Microcomputers), you ‘// need to /earn some of these. 
+University and other large, time-shared computers fre- 
+quently have several languages available. On personal 
+computers, you usually have to buy the program which 
+makes that language work (except for BASIC, which 
+is ubiquitously supplied by the manufacturers). 
+In 
+both cases, the manuals provided are often not 
+complete or comprehensible. 
+These books and 
+resources should help. 
+BASIC (A Self-teaching Guide), by Robert Albrecht, 
+et al., 1973, 1978. $6.95 postpaid from John Wiley 
+and Sons, One Wiley Drive, Somerset, NJ 08873. There 
+are more efficient and artful beginners’ languages (like 
+LOGO and PASCAL), but BASIC is the standard for 
+home computers, with more programs already written 
+in it (and hence adaptable to your needs) than any 
+other. 
+Bob Albrecht was one of the first to recognize and 
+popularize the need for human-forgiving computer 
+languages (around 1972, when he founded the People’s 
+Computer Company). 
+His introductory books have yet 
+to be topped. 
+They come in separate editions for dialects 
+like TRS-80 BASIC or Atari BASIC. 
+Basic BASIC (An Introduction to Computer Programming 
+in BASIC Language) by James S. Coan, 1970, 1978. 
+$10.95 postpaid from Hayden Book Company, 50 Essex 
+Street, Rochelle Park, NJ 07662. More utilitarian and 
+comprehensive than Albrecht’s books. Elegantly written. 
+Highly praised by everyone I’ve asked. 
+Programming Proverbs (BASIC with Style, PASCAL with 
+Style, FORTRAN with Style, or COBOL with Style), 
+each by Henry F. Ledgard, et al., 1978 - 1980. $6.95 
+each postpaid from Hayden Book Company, 50 Essex 
+Street, Rochelle Park, NJ 07662. Henry Ledgard’s books 
+lay the groundwork for good style in writing programs, 
+with the same tart directness that Strunk and White’s 
+Elements of Style (p. 502) employs to teach writing 
+English. Programs thought through this way have fewer 
+bugs, are comprehensible to other people, and don’t 
+look like a labyrinth of foreign codes six months after 
+they’re written. Each edition is the same book adapted 
+to a different language; the 
+FORTRAN and COBOL 
+languages are best avoided unless you need them 
+in your work. 
+[Suggested by Larry Press] 
+e 
+The Programming Proverbs 
+A Good Start Is Half the Race 
+. Don’t Panic! 
+. Define the Problem Completely. 
+. Start the Documentation Early. 
+Think First. Code Later. 
+Proceed Top-Down. 
+. Beware of Other Approaches. 
+Keeping Logical Structure 
+7. Code in Logical Units. 
+8. Use Functions and Subroutines. 
+le 
+ee 
+9. Don't GOTO 
+10. Prettyprint. 
+Coding the Program 
+. 
+Use Mnemonic Names 
+. Comment Effectively. 
+13. Make Constants Constant. 
+. Get the Syntax Correct Now. 
+15. Don’t Leave the Reader in the Dust. 
+. Produce Good Output. 
+. Hand-Check the Program. 
+18. Prepare to Prove the Pudding. 
+And of Course... 
+19. Have Someone Else Read the Work. 
+20. Read the Manuals Again. 
+21. Don’t Be Afraid to Start Over! 
+—Pascal With Style 
+QaASWN= 
+Heathkit digital techniques program 
+To really get into digital electronics to the point where 
+you can wire up a functioning digital circuit you also 
+need to know a /ot more about how the logic chips 
+actually operate inside their black boxes. And you will 
+need to know a good bit about the rules by which they 
+are interconnected. 
+There is quite a lot of information 
+to cover at this point, and any number of ways you could 
+go about doing it — from taking university or community 
+college courses to buying books on specific aspects of 
+digital design and plowing through them on your own, 
+hoping that it’ll all come together eventually. 
+The best single source for all this that I’ve found is 
+Heathkit’s “Digital Techniques” course. 
+Their course 
+covers a /ot of territory in its 800 or so pages but it’s 
+nana 
+ComputerTown, USA! 
+Basically what’s going on beneath this zealous name is 
+that computers are now in the public library in Menlo 
+Park, California. 
+People can use them free of charge, 
+and there is lots of effort made to make training available 
+at alow cost (or free). Frequently kids teach other kids 
+and learn in the teaching. Adults can use the machines 
+too, try things out before investing in their own com- 
+puters. 
+You can do the same in your town. 
+This fledgling 
+newsletter will encourage and help. 
+It’s associated with 
+the People’s Computer Company (of Dr. Dobb’s Journal 
+and Recreational Computing) and put together by Bob 
+Albrecht and Ramon Zamora, the Pied Pipers of 
+computer accessibility. 
+—Art Kleiner 
+ComputerTown, USA! 
+free from: 
+(A News Bulletin Bring- 
+Computertown, USA! 
+ing Computer Literacy 
+P.O. Box 310 
+to the Entire Community) 
+Published occasionally 
+e 
+Begin by doing it! Just start. Don’t wait for the right 
+time, or the right place, or enough people, or the grant 
+that you could get. Just start by starting. 
+If you have a small computer, and if you have a few 
+friends that have small computers, go to the public 
+library (or local bookstore, or pizza place, or . 
+. 
+. any- 
+place will do) and tell them you want to hold about a 
+three hour meeting once a month. 
+Give them a copy of 
+this bulletin to read. 
+If all else fails, set it up in your 
+home for the first few months. 
+Menlo Park, CA 94025 
+When you have a goodly number of people attending, 
+ask your local computer store people to drop by and 
+bring computers and software for demonstrations. 
+If 
+they have any old or used equipment, ask them to donate 
+it to the project. The same goes for the user groups. 
+They often have old machines that they can donate to 
+such a project. 
+Beginner's Guide for the UCSD PASCAL System, by 
+Kenneth L. Bowles, 1980. $11.95 postpaid from 
+McGraw-Hill Book Company, Princeton Road, Hights- 
+town, NJ 08520. PASCAL is a language reminiscent 
+of outline form — boring to some but easily organized 
+and adaptable from machine to machine. 
+The University 
+of California at San Diego (UCSD) PASCAL is a version 
+developed to make PASCAL work on small computers. 
+As a result, there’s been much talk of PASCAL becoming 
+favored over BASIC as the most-used language of per- 
+sonal computers, with strong sentiment on either side 
+(and other voices claiming both are outdated). 
+This 
+is the best small-computer PASCAL book. 
+APL in Exposition, by Kenneth E. Iverson, 1980. $2 
+postpaid from APL Press, 220 California Avenue, Suite 
+201, Palo Alto, CA 94306. APL (A Programming Lan- 
+guage) is an elegant, dense language made up mostly of 
+symbols. 
+Here’s a line written in APL: 
+Z+2=+/(1]0=(11/S)°.1SV 
+4 
+Poor Logical Structure 
+Better Logical Structure 
+Input data 
+Analyze 
+data 
+‘ Compute 
+| subtotals 
+Analyze 
+results 
+Analyze 
+data 
+— 
+Compute 
+subtotals 
+Compute 
+totals 
+Analyze 
+results 
+Edit 
+results 
+Edit 
+resulls 
+Print 
+results 
+Output 
+results 
+results 
+—Pascal With Style 
+HOME COMPUTERS 
+ae 
+Gip 
+oF 
+EL 
+WA 
+ef 
+lelelenear 
+eS" 
+0 
+"R07 
+6.0016 
+el 
+6 @ 0 0 
+8),0'0 
+eee 
+Ke 
+COMMUNICATIONS 
+all broken down into small sections with frequent quizzes 
+and includes lots of experiments using logic chips you 
+wire up on the accompanying electronic trainer. 
+It isa 
+very well written course laid out with the customary 
+Heathkit thoroughness and helpfulness. At the completion 
+of the course you will be able to design logic circuits 
+from scratch and have a good understanding of how 
+they work. 
+The last section of the course introduces 
+microprocessor chips and includes a few lessons in 
+machine language programming. 
+To do the experiments 
+you will need to assemble the trainer, which requires a 
+soldering iron and a few hand tools, and you will need 
+an inexpensive multimeter. 
+You will not need an oscillo- 
+scope even though it is recommended in their catalog. 
+The course only has a few experiments which need a 
+scope and you can easily skip them. 
+You will need a 
+scope or access to one if you’re going to do a Jot of 
+circuit building, but that can come /ater. 
+—Bud Spurgeon 
+Advanced Digital 
+Techniques 
+Training Kit 
+Electronic trainer in kit 
+form, two manuals 
+and cassette tape 
+No. EES-3201 
+$1 49.90 postpaid from: 
+Heath Company 
+Benton Harbor, MI 49022 
+Heathkit electronic trainer 
+Comparison of CP/M 
+Word Processing Programs 
+Buying computer hardware is relatively easy; it’s judging 
+good software that’s a problem. 
+(Bad software is worse 
+g 
+than useless.) 
+There are good evaluations around of 
+games and such, like Purser’s Magazine, but not much 
+for business software, like word processors (which cost 
+$200 and up these days). 
+Larry Press’ comparison of 
+word processors is readable and gives you enough infor- 
+mation to make a choice with. 
+It’s the first of a series. 
+—Art Kleiner 
+$1 5 postpaid from: 
+Small Systems Group 
+P.O. Box 5429 
+Santa Monica, CA 90405 
+A Comparison of 
+CP/M Word 
+Processing Programs 
+Lawrence Press 
+1980; 49 pp. 
+Those who work with it refuse to return to any other 
+language, because it describes complex opera tions in 
+brief formulas. 
+This booklet introduces APL and refers 
+you to other books which go into more detail. 
+[Suggested by Marc Le Brun] 
+FORTH Dimensions, newsletter of the FORTH Interest 
+Group. $12/year (6 issues) from FORTH Interest Group, 
+P.O. Box 1105, San Carlos, CA 94070. FORTH is said 
+to be ten times faster than BASIC and more compact 
+than assembly language. 
+FORTH programmers are fond 
+of comparing how many microseconds they ‘ve shaved 
+off their programs’ running times. 
+This newsletter is how 
+to find out what’s going on. 
+There are no books yet. 
+[Suggested by Matthew McIntosh] 
+Other computer language information: Patrick Winston’s 
+Artificial Intelligence (p. 539) provides a starting point in 
+LISP, the most-used language of Artificial Intelligence. 
+Seymour Papert’s Children, Computers and Powerful 
+Ideas (p. 536) introduces LOGO, an interesting language 
+used mostly for learning. 
+Dr. Dobb’s Journal, Byte, 
+InfoWorld and the Computer Faire proceedings (p. 531) 
+cover these and other languages regularly. 
+™ 
+is oe, laniel ot eye. 0 6) ote ste 'e. ers, B97) e 70) fp Se 
+Fe TSS) 8 
+ee 
+THE RISING SUN 
+NEIGHBORHOOD NEWSLETTER 
+continued from last spread 
+Peter intends to go all the way to Australia with- 
+out landing anywhere because it’s always most 
+dangerous near land. Also once you're on land 
+it’s easy to make excuses to not leave and just 
+sit there day after day. Kathleen and I asked him 
+if he was afraid of storms and things like that and 
+he said, “Well if you got caught in a hurricane in 
+an island chain, that would be a bit shitty.” Later, 
+a reporter asked him what he was most afraid of 
+and he said, “‘Loneliness.”” Another reporter asked 
+him why he was doing it and he said so he could 
+be with what he liked the best in all the world. 
+“The sea?” asked the reporter. “No. Myself,” 
+said Peter. 
+

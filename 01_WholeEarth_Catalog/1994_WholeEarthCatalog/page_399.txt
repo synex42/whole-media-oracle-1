@@ -1,0 +1,162 @@
+ing among entire commu- 
+nities of networked com- 
+puters in different parts 
+of the world. In the US, 
+the National Center for 
+Supercomputer Applica- 
+tions created Mosaic, a 
+free software “browser” 
+that made it possible to 
+navigate the Web in its 
+full graphic glory. Over a 
+million copies of Mosaic 
+were downloaded within 
+a year. In 1995, all the ma- 
+jor online services surren- 
+dered to the power of 
+something nobody really 
+planned to take over the 
+world: America Online, 
+CompuServe, Microsoft 
+Network and Prodigy 
+all announced plans to 
+include Web-viewing capabilities. 
+The old dream of a global hypermedia 
+library, envisioned by Vannevar 
+Bush, pioneered by Ted Nelson and 
+Doug Engelbart, has materialized. 
+The key to the Web’s power is that 
+anybody can create a direct link to 
+any material on the Web from any- 
+where else on the Web. If you were 
+reading this via WWW, the word 
+CERN might be underlined; if you 
+mouseclicked on the word CERN, the 
+browser software would automati- 
+cally connect your desktop with the 
+online files stored in CERN’s com- 
+puter in Switzerland. You could view 
+pictures of CERN, download libraries 
+of papers, and view computer- 
+graphic representations of physical 
+datasets. Some further link from 
+CERN might lead you to explore (for 
+example) chaos theory through fractal 
+graphics. 
+For schoolkids in Saskatchewan or 
+Kazakhstan, access to the Louvre and 
+the Library of Congress is pretty 
+significant in itself. But the greatest 
+power of the Web is not in its capacity 
+as a continually updated, globally 
+accessible, multimedia encyclopedia, 
+but as a publishing medium. If you 
+want the world to see and hear what 
+you have to show and tell, all you 
+need is a computer, an Internet con- 
+nection, and someone who knows 
+how to set you up as a “Web site” (or 
+the knowledge of how to do it your- 
+self). The low cost means that all 
+kinds of people can display their 
+work without intermediaries. Every 
+day, some astronomical observatory 
+or biomedical institute puts up its 
+“home page” — its multimedia face 
+to the world. So do cartoonists, pop 
+The Millennium Whole Earth Catalog 
+musicians, senators, sophomores, 
+commercial enterprises, and political 
+activists. 
+Last year, as I was finishing work on 
+the Millennium Whole Earth Catalog, I 
+began to sketch ideas, build a team, 
+and meet with the other principal 
+architects of HotWired — the first 
+commercial Webzine, backed by the 
+founders of Wired magazine. The 
+eventual product of six months of 
+team effort proved commercially and 
+culturally successful, but it was, inevi- 
+tably, Wired’s vision. After designing 
+and launching HotWired, I resigned 
+and immediately 
+started working on 
+my own Web page. 
+To create images suit- 
+able for Web publish- 
+ing, all you have to do 
+is read in a scan or im- 
+age from a digital 
+camera or graphic cre- 
+ated with a computer 
+graphics tool, use the 
+cropping and sizing 
+options to create a 
+small-enough image, 
+change the mode of 
+the image to “indexed 
+color,” and save the 
+processed image in 
+CompuServe GIF for- 
+mat. That gives you a computer file 
+that, properly installed, will turn into 
+a graphic image on a Web page. Small 
+size and limited colors are necessary 
+to reduce the size of the digital file; 
+the larger the file, the longer it takes 
+the reader’s computer to read it, 
+and thus the longer 
+WORLD WIDE WEB 7 
+If you are a self-expression junkie, a 
+digital artist who wants to exhibit, or 
+a columnist who wants to self-syndi- 
+cate, consider Web publishing. To 
+prepare your words for publication, 
+save them as a “text-only” file. Then 
+you find links by surfing the Web. 
+Since thousands of Web sites become 
+available every day, it is impossible 
+for anyone to keep track of them. So 
+when you find something important, 
+you can create links from your own 
+document. 
+You add links to your copy, and 
+prepare the words and images to 
+be displayed by Web browsers, 
+using Hypertext Markup Language 
+(HTML). I can’t program my way out 
+of a paper bag; BASIC was far from 
+basic enough for me. HTML is so 
+simpleminded that even I can use it. 
+One of the neat things about the Web 
+is that you can “view Source” on any 
+WWW page and see (and copy) the 
+exact HTML code that was used to 
+create that page. In this way, innova- 
+tive publishing tricks propagate 
+spontaneously through the Web. 
+Right now, nobody is in control of the 
+World Wide Web. Nobody knows 
+what is going to happen when the 
+medium is commercialized. Nobody 
+knows what cultural or economic or 
+political powershifts might transpire. 
+With a computer, a modem, the right 
+kind of account with an online ser- 
+vice, a few hundred dollars’ worth of 
+software, and around twenty dollars 
+a month, you can become a Web pub- 
+lisher and find out for yourself. The 
+Web, the way I see it, is the latest place 
+to prove that what it is is up to us. @ 
+Howard Rheingold = 
+the reader must wait 
+to see it. 
+Ea) 
+= 
+oe eee eo ed 
+=k el 
+Location: 
+|http ://www.well.com/www /hir/ 
+

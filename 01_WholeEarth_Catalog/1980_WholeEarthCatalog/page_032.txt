@@ -1,0 +1,274 @@
+WHOLE SYSTEMS 
+CYBERNETICS 
+An Introduction to 
+General Systems Thinking 
+As one of those persons driven to try to “understand” 
+things, | have been remotely fascinated by General 
+Systems Theory for several years. 
+/t always seemed 
+it would be too much work to approach any closer to 
+this awesome-sounding subject via any of the “‘intro- 
+ductory” texts. When Weinberg’s book was published 
+last year, | took a chance and bought it immediately, 
+based solely on the strength of his previous The Psych- 
+ology of Computer Programming. 
+/ haven’t been disappointed. 
+Viewed from just about any 
+perspective this book is an exemplary introduction to a 
+complex subject. 
+The fascinating observations are well- 
+An Introduction 
+to General 
+Systems Thinking 
+Gerald M. Weinberg 
+1975; 269 pp. 
+$24.50 postpaid from: 
+John Wiley & Sons, Inc. 
+One Wiley Drive 
+Somerset, NJ 08873 
+or Whole Earth 
+Household Store 
+General Systemantics 
+You‘re heard of Parkinson’s Law? Murphy’s Law? The 
+Peter Principle? Well this book is in the same spirit: a 
+somewhat humorous presentation of some serious 
+material. As | read along, | found myself being sensitized 
+to some ideas that are all too often forgotten or overlooked; 
+| saw disasters explained and potential disasters illumi- 
+nated. 
+I'll bet the book is making the rounds in many an 
+engineering department. 
+| like this book. 
+—J. Baldwin 
+[Suggested by Dean Gengle] 
+General Systemantics 
+John Gall 
+1977; 144 pp. 
+$7.95 postpaid from: 
+Times Books 
+Harper & Row 
+Keystone Industrial Park 
+Scranton, PA 18512 
+or Whole Earth 
+Household Store 
+Cybernetics 
+McLuhan’‘s assertion that computers constitute an exten- 
+sion of the human nervous system is an accurate historical 
+statement. 
+The research and speculation that led to 
+computer design arose from investigation of healthy and 
+pathological human response patterns embodied in the 
+topological make-up of the nervous system. Insights 
+here soon expanded into generalizations about commu- 
+nication that permitted the building of analogous elec- 
+tronic devices physically separate from the Central 
+Nervous System. But theyre just one artifact of these 
+new understandings about communication. Society, 
+from organism to community to civilization to universe, 
+is the domain of cybernetics. Norbert Wiener has the 
+story, and to some extent, is the story. 
+—SB 
+Cybernetics 
+(Or Control and 
+Communication in the 
+Animal and the Machine) 
+Norbert Wiener 
+1948, 1961; 212 pp. 
+$4.95 postpaid from: 
+The M.I.T. Press 
+28 Carleton Street 
+Cambridge, MA 02142 
+or Whole Earth 
+Household Store 
+e 
+To predict the future of a curve is to carry outa certain 
+operation on its past. 
+e 
+The central nervous system no longer appears as a self- 
+contained organ, receiving inputs from the senses and 
+discharging into the muscles. On the contrary, some of 
+its most characteristic activities are explicable only as 
+circular processes, emerging from the nervous system into 
+the muscles, and re-entering the nervous system through 
+organized and are stated in a consciously informal tone. 
+Thoughtful questions for research and additional readings 
+are provided for those who want to go beyond the scope 
+of the book. Over a hundred wide-ranging quotes add 
+to the fun. 
+—William Courington 
+[Suggested by Dennis Geller] 
+Individual 
+diversity 
+Region Ill 
+Types of populations in the prediction of epidemics. 
+Number of people 
+« 
+Paradoxically, one way to master the power of a tool is 
+to probe its weaknesses. Thus we offer the Count-to- 
+Three Principle: 
+IF YOU CANNOT THINK OF THREE WAYS OF 
+A COMPLEX SYSTEM THAT WORKS IS INVARIABLY 
+FOUND TO HAVE EVOLVED FROM A SIMPLE 
+SYSTEM THAT WORKED. 
+The inverse proposition also appears to be true: 
+A COMPLEX SYSTEM DESIGNED FROM SCRATCH 
+NEVER WORKS AND CANNOT BE MADE TO WORK. 
+YOU HAVE TO START OVER 
+, BEGINNING WITH A 
+WORKING SIMPLE SYSTEM. 
+SYSTEMS DEVELOP GOALS OF THEIR OWN THE 
+INSTANT THEY COME INTO BEING. 
+Furthermore, it seems axiomatically clear that: 
+INTRASYSTEM GOALS COME FIRST. 
+The reader who masters this powerful Axiom can readily 
+comprehend why the United Nations recently suspended, 
+for an entire day, its efforts at dealing with drought, 
+detente, and desert oil, in order to debate whether UN 
+employees should continue to ride first-class on airplanes. 
+The formulators of this Law failed to generalize to 
+systems as such, thereby missing — by a whisker, so to 
+speak — their chance of immortality: Not just animal 
+behavior, but the behavior of complex systems generally, 
+whether living or nonliving, is unpredictable. 
+the sense organs, whether they be proprioceptors or 
+organs of the special senses. This seemed to us to mark a 
+new step in the study of that part of neurophysiology 
+which concerns not solely the elementary processes of 
+nerves and synapses but the performance of the nervous 
+system as an integrated whole. 
+e 
+The feedback of voluntary activity is of this nature. We 
+do not will the motions of certain muscles, and indeed we 
+generally do not know which muscles are to be moved to 
+accomplish a given task; we will, say, to pick up a cigar- 
+ette. Our motion is regulated by some measure of the 
+amount by which it has not yet been accomplished. 
+e 
+The mongoose begins with a feint, which provokes the 
+snake to strike. The mongoose dodges and makes another 
+such feint, so that we have a rhythmical pattern of activity 
+on the part of the two animals. However, this dance is 
+not static but develops progressively. As it goes on, the 
+feints of the mongoose come earlier and earlier in phase 
+with respect to the darts of the cobra, until finally the 
+mongoose attacks when the cobra is extended and not in 
+a position to move rapidly. This time the mongoose’s 
+attack is not a feint but a deadly accurate bite through 
+the cobra’s brain. 
+In other words, the snake’s pattern of action is confined 
+to single darts, each one for itself, while the pattern of the 
+mongoose’s action involves an appreciable, if not very long, 
+segment of the whole past of the fight. To this extent the 
+mongoose acts like a learning machine, and the real 
+deadliness of its attack is dependent on a much more 
+highly organized nervous system. 
+e 
+To use a biological analogy, the parallel system had a 
+better homeostasis than the series system and therefore 
+survived, while the series system eliminated itself by 
+natural selection. 
+We thus see that anon-linear interaction causing the attrac- 
+tion of frequency can generate a self-organizing system 
+.. 
+. 
+YBERNETICS IS THE DISCIPLINE of whole systems thinking. For a field of such importance 
+it is shocking there are so few introductory books. The ones here, like the Bateson books on 
+p. 28, introduce the cybernetic frame of mind and habits of mind that lead to on-going health 
+effectiveness in all your dealings because they become self-adjusting. A whole system is a living system 
+is a learning system. For more technical stuff proceed to p. 4617. 
+—SB 
+ABUSING A TOOL, YOU DO NOT UNDERSTAND 
+HOW TO USE IT. 
+Faithful adherence to this principle would protect us 
+from the enthusiasm of the optimizers, maximizers and 
+other species of perfectionists — but mostly from ourselves. 
+e 
+Consider the following passage: 
+General Motors exists to put out cars, not metal 
+scraps, although it extrudes both. Universities exist 
+to produce educated persons and scholars, not retired 
+professors or academic failures. 
+That seems incontrovertible, but now consider what we 
+should have thought had Miller written: 
+Beavers exist to control floods, not to produce piles 
+of wood chips. The oceans exist to produce fresh 
+fish, not mud deposits or dead whales washed ashore. 
+With ‘‘man-made” systems, we talk about ‘‘purpose,’’ 
+whereas such language is forbidden for ‘‘natural’’ systems. 
+Yet much of the dissatisfaction with our man-made sys- 
+tems stems precisely from disagreement about what the 
+“purpose” of the system is: that is, what the system 
+“really” is. The answer, of course, is that the system has 
+not “purpose,” for “purpose” is a relation, not a thing to 
+“have.” To the junk dealers, General Motors does exist 
+to put out scrap metal, yet the stockholders probably 
+couldn’t care less whether General Motors is producing 
+cars or string beans, as long as it is producing profits. 
+e 
+SOLUTIONS USUALLY COME FROM PEOPLE WHO 
+SEE IN THE PROBLEM ONLY AN INTERESTING 
+PUZZLE, AND WHOSE QUALIFICATIONS WOULD 
+NEVER SATISFY A SELECT COMMITTEE. 
+Item: When Pasteur accepted the challenge of the French 
+silk producers to discover the cause of silk-worm disease, 
+he had never seen, much less studied, a silkworm. He was 
+not even a biologist. 
+Item: The Wright brothers, who built the first successful 
+heavier-than-air machine, were bicycle makers. 
+e 
+27. “SUCCESS” OR “FUNCTION” IN ANY SYSTEM 
+MAY BE FAILURE IN THE LARGER OR SMALLER 
+SYSTEMS TO WHICH THE SYSTEM IS CONNECTED. 
+Corollary: 
+IN SETTING UP A NEW SYSTEM, TREAD SOFTLY. 
+YOU MAY BE DISTURBING ANOTHER SYSTEM 
+THAT IS ACTUALLY WORKING. 
+e 
+32. LOOSE SYSTEMS LAST LONGER AND 
+WORK BETTER. 
+Corollary: 
+EFFICIENT SYSTEMS ARE DANGEROUS TO THEM- 
+SELVES AND TO OTHERS. 
+The Human Use of Human Beings 
+A proper sequel to his Cybernetics, this book is social, 
+untechnical, ultimate in most of its considerations. 
+/ts 
+domain is the whole earth of the mind. Norbert Wiener 
+is one of the founders of an n-dimensional inhabited 
+world whose nature we’ve yet to /earn. 
+The Human Use of 
+Human Beings 
+(Cybernetics and Society) 
+Norbert Wiener 
+1950, 1967; 288 pp. 
+$2.20 postpaid from: 
+Avon Books 
+Mail Order Dept. 
+250 West 55th Street 
+New York, NY 10019 
+or Whole Earth 
+Household Store 
+e 
+It is the thesis of this book that society can only be 
+understood through a study of the messages and the 
+communication facilities which belong to it; and that in 
+the future development of these messages and communi- 
+cation facilities, messages between man and machine and 
+between machine and machine, are destined to play an 
+ever-increasing part. 
+° 
+We are not stuff that abides, but patterns that perpetuate 
+themselves. A pattern is a message, and may be trans- 
+mitted as a message. 
+e 
+It is the great public which is demanding the utmost of 
+secrecy for modern science in all things which may touch 
+its military uses. This demand for secrecy is scarcely 
+more than the wish of a sick civilization not to learn the 
+progress of its own disease. 
+e 
+It is illuminating to know that the sort of phenomenon 
+which is recorded subjectively as emotion may not be 
+merely a useless epistage in learning, and in other 
+similar processes. 
+

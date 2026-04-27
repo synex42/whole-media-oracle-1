@@ -1,0 +1,180 @@
+Basic Graphics 
+Comprehensive treatment of design graphics——tools, 
+geometry, projection, graphs etc.——with good updating 
+on. use of computer graphics. 
+; 
+is 
+—SB 
+Basic Graphics 
+Warren J. Luzadder 
+1957, 1962, 1968; 641 pp. 
+$1 1 .50 postpaid 
+from: 
+Prentice Hall, Inc. 
+Englewood Cliffs, N. J. 07632 
+4 
+J 
+2 
+/ 
+8 
+Fig. 4.49. 
+To construct a curve of parabolic form. 
+or WHOLE EARTH CATALOG 
+BASIC 
+_. 
+GRAPHICS 
+One can not ignore the fact that graphics now serves as a language 
+for communication between man and computer. 
+ie 
+: 
+GUIDING 
+TRIANGLE 
+Design and Planning 2 
+Incredible: you actually got your hands on a computer 
+powerful enough to generate rich graphics, and you have an 
+____ 
+Table 
+2 
+EXAMPLES OF PROPERTIES GIVEN TO =e x ity 
+i 
+i 
+Function 
+mi 
+employer/patron rich enough to buy you some play time 
+en 
+oo" 
+on the computer. 
+/n order not to waste his money too idly 
+PAN-2OOMMOOZ 
+San 
+aration 
+splashing around in your new pool, you might check this 
+STEREO 
+20 on 
+book for a beginning inventory of some of the things you 
+SHADE 
+Optical denatyvaraions extrng 
+and your computer can accomplish together. 
+It’s far the 
+PHOTO 
+Take a 
+picture ure 
+most practical book we’ve seen on the subject, and the 
+NAME 
+Associate 
+a 
+are mi 
+he maget 
+subject is what wizards are about. 
+—SB 
+Connect 
+Speci! 
+ayph tnking 
+fa 
+SMOOTH 
+Apply a relaxation operator to the data 
+ESUSIOSIRG DY EReg raed 
+aes 
+oes eae ay 
+ERASE 
+jemove the image (parts) 
+WRITE 
+Prepare for text 
+Design 
+and Planning 
+2 
+es on aaa 
+—— 
+= 
+; 
+a 
+Martin Krampen and 
+Peter Seitz, eds. 
+1967; 
+177 pp. 
+$1 0.00 postpaid 
+b 
+CFO = 0) 
+(Oe 
+Oo 
+° 
+° 
+OOQVOOOOOOO ° 
+OCOQOOOOOO 
+eC > 
+from: 
+Hastings House, Inc. 
+10 East 40th Street 
+New York, N. Y. 10016 
+OUT OF PRINT 
+The Architecture Machine 
+A book of beginning efforts to domesticate computers. 
+Good 
+intro to life with dumb-fuck genius machines. 
+—SB 
+The Architecture Machine 
+Nicholas Negroponte 
+1970; 153 pp. 
+$5.95 postpaid 
+from: 
+MIT Press 
+Cambridge, Mass. 02142 
+or WHOLE EARTH CATALOG 
+There are three possible ways in which machines can assist the design 
+process: 
+(1) current procedures can be automated, thus speeding 
+up and reducing the cost of existing practices; (2) existing methods 
+can be altered to fit within the specifications and constitution of 
+a machine, where only those issues are considered that are supposedly 
+machine-compatible; (3) the design process, considered as evolutionary, 
+can be presented to a machine, also considered as evolutionary, anda 
+mutual training, resilience, and growth can be developed. 
+But there is just the silence of the old decaying room at early 
+morning, no motion and no swirl. Just still and cool, the old uncle 
+sitting on one bed, the young nephew lying in the other, craving 
+something to drink now, feeling the pulse begin to quicken as he 
+comes again into the world. 
+e 
+| shall consider only the third alternative and shall treat the problem 
+He says, | believe I'll have me a cup of that tea, Uncle Emmit. 
+as the intimate association of two dissimilar species (man and 
+machine), two dissimilar processes (design and computation), and 
+two intelligent systems (the architect and the architecture machine). 
+By virtue of ascribing intelligence to an artifact or the artificial, 
+And Emmit says this just hot water I’m drinking. 
+I'll go fix you 
+some tea. 
+the partnership is not one of master and slave but rather of two 
+e 
+associates that have a potential nad a desire for self-improvement. 
+e 
+I can 
+Professor: What time is it? 
+~ 
+Computer: 
+| did not catch the last word. Or was it two words? 
+| can do it. 
+Professor: What is the time? 
+. 
+Computer: 
+The dime is a copper coin worth one-tenth of a dollar. 
+But Emmit is up 
+The word derives from the Latin decem, meaning.... 
+e 
+Professor: 
+No. No. What 
+is the time? The time? 
+Computer: 
+It is 8:30 p.m., Thursday, December 5, 1985. We have 
+been having some trouble with your linguals recently. Sometimes | 
+can’t tell your d’s from your t's. 
+Let's practice them. Watch the 
+display screen for the intonation pattern, and repeat after me: 
+Teddy's daddy toted two dead toads to Detroit. 
+Professor: 
+Teddy's daddy toted.... 
+He’s already up and gone to the kitchen to stir the fire and put 
+the water on while he dies. 
+Computer Design 
+Communications 
+

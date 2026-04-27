@@ -1,0 +1,262 @@
+Introduction to Engineering Design 
+Engineering Library at Stanford, this book looked far the 
+best. 
+Recently Steve Baer (dome and solar designer) came 
+across it on our editing tables, sat down and paged, then 
+got up and hurriedly wrote a letter to a friend about the 
+book and its author. 
+| asked Steve to pick out some use- 
+ful quotes and pictures and he wouldn’t. 
+“Look anywhere 
+: 
+| 
+Out of a whole section of books on design in the 
+: 
+: 
+he advised, then ordered a copy. 
+you open it,” 
+Contents of the book include: 
+The Engineering Problem 
+Situation, Design Project Organization, Information and 
+the Need Analysis, Identification of the Problems, Infor- 
+mation Sources, Synthesis of Alternatives, Estimation and 
+Order-of-Magnitude Analysis, Engineering and Money, 
+Preliminary Design, Engineering Problem Modeling, The 
+Iconic Model, Conceptual Representation, Expansion of 
+the Criterion Function, Checking in Engineering Design, 
+Optimization, etc.. etc. 
+—SB 
+Introduction to Engineering Design 
+Thomas T. Woodson 
+1966; 434 pp. 
+$1 3.50 postpaid 
+from: 
+McGraw-Hill Book Company 
+Princeton Road 
+Hightstown, N.J. 08520 
+Manchester Road 
+Manchester, Missouri 63062 
+8171 Redwood Highway 
+Novato, Calif. 94947 
+or WHOLE EARTH CATALOG 
+DESIGN* 
+PLANNINGT 
+PRODUCTION 
+RAW 
+MATERIAL 
+PRODUCTION 
+INFORMATION 
+CONSUMPTION 
++ 
+GOODS ( 
+DISTRIBUTION 
+} 
+* DESIGN 
+is a part of 
+PLANNING 
++ PLANNING 
+is a part of PRODUCTION 
+RECOVERY 
+WASTE 
+Fig.3.7 
+The production-consumption cycle, 
+showiny: the place of engineering design. 
+See Epilog, page 539 
+“Machine Design” 
+Fig. 6.2 
+A sketch that changed automobile 
+ignition. (Courtesy General Motors Corp.) 
+WATER SUPPLY FOR MOUNTAIN CAMP 
+For another simple example, let us estimate how we would bring 
+water from a running stream into a tank (let’s say a 50-gallon 
+gravity tank) to supply water for a vacation cabin in the woods. 
+A natural supply point is 100 ft away upstream, guaranteeing among 
+other things a clean, continuous water supply. Our problem is 
+transport. 
+Shall we use pipe, an open rock-lined channel in the 
+ground, or a wooden flume or trough? See Figure 7.4. 
+As we think about this, we discard the open channel in the ground 
+as too easily contaminated. 
+The pipe could be laid on the ground; 
+and the wood flumes could be suspended from tree trunks and 
+Possibly covered as shown by the dashed “board” in the illustration. 
+Thus, we have two reasonable ways of doing this job; the questions 
+now. concern cost and convenience. 
+Next we check the sizes needed. 
+If we wanted the 50-gal. tank 
+< 
+filled in 15 min, we would need a flow of about 4 gal/min. This is 
+;
+a stream of water about as big as a person’s finger when the water 
+:
+is flowing two feet per second, as shown by the equation in the 
+;
+footnotet deriving the cross-sectional area, A, of the stream. 
+;
+This area would require a pipe one inch in diameter. 
+If we were 
+using the wood “‘vee’’ channels, we would need two boards each 
+; 
+about three inches wide to avoid splashing over, or one-half board- 
+j
+foot per running foot of channel (per foot of channel length). (A 
+_ 
+board-foot is one square foot of wood, one inch or less thick.) 
+i 
+Now we need to arrive at costs. 
+The most convenient reference ts 
+;
+a broad-coverage catalog (such as that of Sears, Roebuck), in which 
+wood, metal, and other supplies can be found listed at retail prices. 
+E 
+Of course, one can also phone the retail plumbing or lumber suppliers. —
+In any case, we find 
+Wood: 
+15¢—20¢ / board-foot in the sizes we need 
+1 in. iron pipe: 
+30¢ / ft 
+% in. copper pipe: 
+58¢ /ft (One size smaller than iron pipe 
+for the same flow rate.) 
+Assaming one-half board-foot for each running foot bd wood 
+channel, the comparisons are 
+Wood: 
+10¢ /running foot, materials only 
+Iron: 
+30¢ /running foot, materials only 
+Copper: 
+60¢ /running foot, materials only 
+Since we would do the work ourselves, the cost of labor is 
+disregarded, and it seems that wood should be our choice. On 
+one final check though, we ask whether these are all the choices. 
+1
+Someone suggests plastic pipe, so we look that up: It is corrosion- 
+resistant, flexible, easily connected, sanitary; it has a smooth interior; 
+it could be in one piece and simply laid on the ground. It seems to 
+be a natural choice. The price of %-in. diameter plastic pipe is 10¢/ft; 
+1-in. diameter is 16¢/ft. Considering the labor needed with wood or 
+iron pipe, or the cost of copper tubing, and the plastic’s sanitary 
+advantages, the plastic pipe (high-density polyethylene) is certainly 
+the preferred choice. 
+Thus our final estimate is the use of this plastic tubing, probably %-in. 
+diameter at 10¢ /ft. 
+S
+—
+tA=Q/V 
+(area = flow/velocity) 
+where 
+, 
+Q = 4 gal/min = 1000 cu in./min 
+(1 gal - 231 cu in.) 
+V = 2 ft/sec = 24 in./(1/60 min) = 1500 in./min 
+— 1000 cu in./min 
+Wisin 
+= 2/3 sq. in. 
+Fig. 7.4 
+Possible water channel sections. 
+Water supply project for mountain cabin. 
+Technology and Change 
+The subtitle of this book is “The impact of invention and 
+innovation on American social and economic development” 
+The author studies this area in the light of experience in 
+several industries, one of which is the building industry, 
+where change has been slow in coming. 
+This book will be 
+of interest to its intended readership in industry. But ona 
+larger scale, it offers an answer to that teeth-gnashing 
+question: “Why does the ‘establishment’ resist change?” 
+Or for that matter, “Why does everybody resist change?” 
+. 
+This is one of the neatest and best explanations I’ve seen 
+(perhaps because it so closely matches my experiences as 
+a Professional Designer). 
+It will be interesting for those who 
+wish to better know their Corporation As An Enemy 
+as 
+well as to those who wish to equip themselves and their 
+organization to better deal with inevitable and intentional 
+change. One of his more interesting points is that “revolu- 
+tionaries” are often a reactionary force instead of being 
+truly revolutionary; they are the conservatives, especially” 
+where technological change is concerned. 
+Lots of subver- 
+sive stuff here. Recommended reading for changebringers. 
+[Reviewed by Jay Baldwin. 
+Suggested by Steve Baer] 
+pce and Change 
+Donald A. 
+Schon 
+1967; 248 pp. 
+s 
+OUT OF PRINT 
+} 
+from: 
+Delta Publishing Co., Inc 
+. 
+750 Third Avenue 
+4 
+New York, 
+N. Y. 10017 
+; 
+or WHOLE EARTH CATALOG 
+Engineering 
+? 
+Industry 
+The crucial form of experiment demanded by the technotogical, 
+institutional and normative changes of our time is experiment in 
+norms and objectives. The erosion of the objectives of the Techno- 
+logical Program leaves us with more information than we-can handle 
+and requires the attempt to create situations in which new objectives 
+can emerge. 
+Unexpected success is no less destructive of the rational view of 
+corporate activity than is unexpected failure. When the addition 
+of carbon black turns out to increase the strength of rubber; when 
+the book-mending tape turns out to have a multiplicity of unex- 
+pected consumer uses; when the new plastic, designed. 
+for a cheaper 
+molding process, turns out to perform well in a completely dif- 
+ferent application——the corporate manager can only react with a 
+wry smile. 
+In ways he did not understand, and was unable to 
+state before the fact, things have gone well; but what has he 
+learned that will prepare him to cope with the next time? 
+Corporate behavior is based on regular, orderly, linear, predictable 
+processes——the extension of the industrial manufacturing process 
+itself. How is it to absorb invention? 
+iY 
+What used to be stable divisions in our community are no longer — 
+stable: 
+—the division between education and work; ‘and with it, the view 
+of the young as learning and the old as established; 
+—the division between labor and business; 
+—the old régionalism; 
+ej 
+—the old divisions between race and race and lass and class; 
+‘ 
+—the division between the change-oriented outcasts (inventor, poet, 
+therapist) and the stable society; 
+—the division between ‘‘good” creative private enterprise and ‘evi 
+controlling Government. 
+1" 
+The call to Revolt has as much appeal as the call to Return. 
+It is an 
+. 
+alternate response to the destruction of the myth of stability. 
+In 
+effect, it says that the old objectives are hollow and inadequate. 
+There is oppression, slavery, humiliation, constraint and injustice. 
+There is no Promised Land in sight. Revolt against these things! 
+The call to revolt need not produce its own image of a Promised 
+Land. 
+It takes its image from the present against which it reacts. 
+ie 
+It gets its concreteness from the life it refuses to accept and is, in 
+i 
+this sense, a form of conservatism. 
+‘ 
+If we cannot be inattentive to change of objectives in our society 
+2 
+* 
+and cannot accept the silent calls of return and revolt, what is left? 
+How do we ever tolerate and stand up to change in objectives? 
+

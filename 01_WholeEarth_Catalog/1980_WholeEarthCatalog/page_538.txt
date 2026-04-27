@@ -1,0 +1,272 @@
+COMMUNICATIONS 
+3 
+= 
+, a 
+—— 
+COMPUTER AGE 
+COMPUTER NETWORKS CONTINUED 
+comments to existing messages. A new similar system 
+will be established in a Bay Area neighborhood sometime 
+in 1981. Up to 20 terminals will be placed in community 
+centers and neighborhood gathering places. All infor- 
+mation in the system will be entered by the people 
+who use it, and no one will connect to Community 
+Memory through private terminals. 
+In the meantime, 
+some of the text editing and file-arranging programs 
+which will compose the Community Memory system 
+are being offered for sale separately. Some of the people 
+involved are associated with the Journal of Community 
+Communications (be/ow). 
+ACCESS TO TERMINALS 
+For networking, you need a terminal which can send 
+and receive through the telephone. 
+/f you already have a 
+personal computer you can adapt it into a telephone 
+terminal with a device called a modem (modulator- 
+demodulator). 
+Check with your computer shop, your 
+computer’s manufacturer, or scan the magazines for 
+a modem which fits with your machine. Sometimes 
+a special program or board is also needed. 
+For the rest of us, a printing terminal is usually a better 
+buy than a video-screen model. 
+It’s easier to cope with 
+the mass of paper generated than to watch everything 
+flash by too fast to read. 
+(The ideal, of course, is both; 
+a videoscreen terminal with a printer attached that 
+can make paper copies at will. Such a device does not 
+exist cheaply yet.) 
+Computer Devices Miniterm 1203, $2000 (approx.) 
+Computer Devices portable printing terminals are good 
+for networking. 
+They’re fun to type on, easy to Carry 
+around, and not susceptible to frequent breakdown. 
+/ use their Miniterm with satisfaction. 
+The printhead 
+should be kept fresh by running a sheet of paper 
+dampened with rubbing alcohol through the paper feed 
+every now and then. 
+\nformation free from Computer 
+Devices, 25 North Avenue, Burlington, MA 01803. 
+Ti Silent 743. $1695 or $100/month 
+Texas Instruments makes a good second choice — not 
+as versatile but cheaper to buy and available for reason- 
+able rental. 
+The disadvantages are that it only inputs 
+in upper case, and the paper is poorer quality. But 
+it is a reliable machine. 
+Tl also has a bubble-memory 
+version which permits composing off-line, then trans- 
+mitting to the computer network in one flash, saving 
+minutes of connect time. Some people like this a lot; 
+others find the commands confusing. 
+\nformation 
+free from Texas Instruments, P.O. Box 1444, M/S 7736, 
+Houston, TX 77001. 
+Radio Shack recently announced a video-screen terminal 
+for computer networks for $395 — cheaper than any 
+other teleterm to date. Rumors are the price will drop 
+to $250 by next year. The terminal is marketed in con- 
+junction with both Micronet and Viewdata but it should 
+work with any network. 
+It’s too new for us to have 
+heard any first-hand reports yet, but Radio Shack 
+computer equipment is made with consistently high 
+quality. Now if they can only come up with a $100 
+printer for it. Information free from Tandy Corporation, 
+Fort Worth, TX 76102. ® 
+Radio Shack’s TRS-80 Videotex 
+Computer Lib/Dream Machines 
+The subtitle of this 128-page paper-bound underground 
+publication is, “You can and must understand computers 
+NOW.” It is a spirited, complex and very personal state- 
+ment, an information packed message from someone who 
+cares about people, machines, life, and dreams. 
+Though 
+it was written back in 1974, what it has to say is still 
+fresh. 
+The two halves of the book are printed in opposite 
+orientations so that Dream Machines /s /itera//y the “‘flip- 
+side” of Computer Lib, with a duality of content that is 
+suggestive of those qualities associated with the two 
+halves of the brain. Something for everybody, both 
+of you. 
+—Marc Le Brun 
+(See The Home Computer Revolution, p. 528.) 
+Computer Lib/ 
+Dream Machines 
+Theodor H. Nelson 
+1974; 127 pp. 
+$7 postpaid from: 
+The Distributors 
+702 South Michigan 
+Suite 836 
+South Bend, IN 46618 
+or Whole Earth 
+Household Store 
+That reminds me. Nowhere in the book have | defined 
+the phrase “computer lib.” By Computer Lib | mean 
+simply: making people freer through computers. 
+That’s all. 
+eT 
+Mindstorms 
+In many ways Seymour Papert pioneered the use of 
+artificial intelligence as a learning tool. 
+His book is a 
+statement about how computer work makes kids more 
+creative, if they’re allowed to experiment, dream, and 
+solve problems without someone’s preconceived solutions 
+imposed on them. Such creativity is bound up with a new 
+kind of literacy made possible by the responsive math of 
+computing. 
+Kids who have grown up computing are 
+different. Few are the social klutzes people expect 
+computer kids to be; instead, they’re aware, self-reliant, 
+and as adult {in a good way) as any adult Ive ever met. 
+—Art Kleiner 
+$12.95 postpaid from: 
+Basic Books 
+10 East 53rd Street 
+New York, NY 10022 
+or Whole Earth 
+Household Store 
+Mindstorms 
+(Children, Computers, 
+and Powerful Ideas) 
+Seymour Papert 
+1980; 178 pp. 
+e 
+In a traditional school setting, the beginning student en- 
+counters the notion of variable in little problems such as 
+5 + X =8. What 
+is X? 
+Few children see this as a personally relevant problem, 
+and even fewer experience the method of solution asa 
+source of power. They are right. In the context of their 
+lives, they can’t do much with it. In the LOGO encounter, 
+the situation is very much different. Here the child has a 
+personal need: To make a spiral. 
+In this context the 
+idea of a variable is a source of personal power, power to 
+do something desired but inaccessible without this idea. 
+Of course, many children who encounter the notion of 
+variable in a traditional setting do learn to use it effec- 
+tively. But it seldom conveys a sense of ““mathpower,” 
+not even to the mathematically best and brightest. And 
+this is the point of greatest contrast between an encounter 
+with the idea of variables in the traditional school and in 
+the LOGO environment. 
+In LOGO, the concept 
+empowers the child, and the child experiences what it is 
+like for mathematics to enable mankind to do what no 
+one could do before. 
+Journal of Community Communications 
+Despite all the glossy promises of “Compu topia,”’ it’s 
+rare to find anyone writing about communications systems 
+who remembers that there are supposed to be people on 
+the other end(s). But that’s the premise of this entire 
+magazine. 
+It covers everything from technology like CB 
+and computer systems to community networks like alter- 
+native barter exchanges and anti-nuclear alliances — 
+always with an eye towards what effects they‘re having 
+on the local politics and their users. 
+Editor Sandy 
+Emerson maintains a consistently healthy skepticism. 
+—Art Kleiner 
+The first thing to understand about APL 
+is the fiendishly clever system of notation that 
+Iverson has worked out. This system (sometimes 
+called Iverson notation) allows extremely complex 
+relations and computer-type events to be expressed 
+simply, densely and consistently . 
+The notation is based on operators modifying 
+things. 
+Let's use alphabetic symbols for things 
+and play with pictures for a minute. 
+fnarceLcos <P 20; + 
+CAESAR. 
+el 
+Caesar was sfabbe. 
+PY 
+The sun shone ase 
+—~ 
+se 
+Mareellus Saw thet 
+: 
+In considering the successive meanings of this 
+rebus we are proceeding from right to left, as 
+you note, and each new symbol adds meaning. 
+This is the general idea. 
+Communication Outlook 
+A surprising amount of mainstream telecommunications 
+was originally designed for the physically disabled or for 
+people with cerebral palsy. For instance, computer 
+terminals were developed from tele-typewriters used by 
+the deaf. 
+“Speak-and-Spell” owes its inspiration to voice- 
+output machines which read to the blind. Even the tele- 
+phone was originally intended to help the hard-of-hearing 
+communicate. 
+Therefore, if you want to know what's 
+coming next in computerized communications, this 
+newsletter will be one of your most valuable sources of 
+leads and ideas. And 
+if you or someone you know is disabled, 
+it will help keep track of new machines you can use, and 
+provide encouragement and perspective besides. 
+It has 
+the most human tone Ive seen in any technical journal. 
+—Art Kleiner 
+[Suggested by Don Selwyn] 
+Communication 
+Outlook 
+(Focusing on Com- 
+munication Aids 
+and Techniques) 
+Yvonne Danjuma, 
+Editor 
+$10 /year (4 issues) 
+from: 
+Communication Outlook 
+Artificial Language Lab. 
+Computer Science Dept. 
+Michigan State University 
+East Lansing, MI 48824 
+Visual Line of Gaze 
+Device — Tufts New 
+England Medical Center 
+is developing a communi- 
+cation device that uses 
+eye movements for 
+control. This device is 
+intended to be used by 
+severely physically 
+involved individuals who 
+are nonvocal. The device 
+monitors eye movements 
+and calculates where in 
+the visual field the user is 
+looking. 
+(This is referred 
+to as the visual line of 
+gaze of the user.) The 
+user is allowed head 
+movement within a one 
+cubic foot range. Visual 
+line of gaze is continually 
+calculated independent 
+of head movements. 
+Journal of Community 
+Communications 
+Sandy Emerson, Editor 
+$9 /year (4 issues) 
+from: 
+Village Design 
+P.O. Box 996 
+Berkeley, CA 94701 
+‘a3 
+— 
+

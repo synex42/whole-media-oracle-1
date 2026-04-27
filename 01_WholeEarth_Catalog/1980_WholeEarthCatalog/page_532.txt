@@ -1,0 +1,261 @@
+COMMUNICATIONS 
+Personal 
+Computing 
+Magazines 
+by Dan Dugan 
+The microcomputer or personal computer boom is 
+moving so fast that magazines are the only way to keep 
+track of it. The slick ones have a three-month lead 
+time and better writers, the funky ones are more current 
+and audacious. All of them suffer from the problem 
+that microcomputers come in several popular but incom- 
+patible forms that each has its own programming tech- 
+niques and technical problems. 
+If you have BASIC, 
+articles on PASCAL are of academic interest only; if you 
+have a TRS-80, PET programs have to be modified 
+extensively for your machine; if you have CP/M, all the 
+articles on fun graphics you can do with the more con- 
+sumer-oriented machines are useless to you. Special- 
+interest mags are springing up (see S-100 Microsystems, 
+below), but the field isn’t quite big enough for them to be 
+professional yet. 
+| think this will continue for several 
+more years until the micro industry (like radio and Hi-Fi) 
+gets de facto standards established and the turkeys 
+drop out or find niches. 
+Byte 
+I’ve been reading Byte since late ‘75. 
+It’s a consistent 
+source of quality information. Out of a dozen feature 
+articles there are usually a couple of real winners that 
+open new areas or tell me how to do something I ‘ve 
+been dying to know about. Last year they published 
+a fantastic series of articles on the brain. All suppliers 
+of consequence advertise here. Articles frequently 
+include program listings, often in BASIC, though 
+PASCAL and other languages appear also. 
+Byte 
+(The small 
+systems journal) 
+Carl Helmers, Editor 
+$18 /year (12 issues) 
+from: 
+Byte 
+P.O. Box 590 
+Martinsville, NJ 08836 
+e 
+The Apple III's graphics 
+capabilities go consider- 
+ably beyond the Apple 
+Il’s, offering 80 columns 
+by 24 lines of text on the 
+‘ 
+monitor screen — a must 
+for serious word processing. The character dot-matrix 
+is 8 dots high by 7 wide. Graphics modes include 560 by 
+192 lines (black and white only) and 280 by 192 lines 
+featuring sixteen high-resolution colors or sixteen shades 
+of gray. (Compare this with the 280-by-160 line resolu- 
+tion in the limited-color, high resolution mode of the 
+Apple II.) Another mode offers forty characters with 
+color-on-color; moreover, the Apple III offers the three 
+Apple II graphics modes (yes, Apple || programs will 
+run on the Apple III — more about this later). 
+The Apple Il!, a new 6502A-based personal computer 
+with built-in 5-inch floppy disk drive, up to 128 K bytes 
+of memory, and high-resolution color graphics. 
+Pascal 
+and Apple Business BASIC are built-in, and the machine 
+features a new Sophisticated Operating System called 
+SOS. The Apple III will sell in the premium price range 
+of $4500 to $8000, which includes a complete software 
+and hardware system with peripherals. 
+Reportedly 
+FORTRAN will be available for the unit later in the year. 
+Although the Apple I!!! can be used for a wide range 
+of general applications, the keyboard has been designed 
+with financial, small-business, and word-processing appli- 
+cations in mind. An Apple tI-emulation mode is included 
+to enable Apple II software to run on the Apple III. 
+HOME COMPUTERS 
+Dr. Dobb’s Journal 
+DD4J is the best of the “community-oriented” computer 
+magazines. 
+Its subject matter is wide-ranging, often 
+including assembly language listings and listings of lan- 
+guage interpreters like “‘Tiny-C.” Tutorial stuff for 
+beginners too, good dialogue, and general great vibes. 
+Reluctantly accepting advertising with many 
+protestations 
+that they will not be corrupted. 
+They talked about 
+getting serious and changing the title but the subscribers 
+like it the way it is. 
+ee 
+Dr. Dobb’s Journal of 
+Computer Calisthenics 
+and Orthodontia 
+(Running Light 
+Without Overbyte) 
+Janet Payne, Editor 
+$19 /year (10 issues) 
+from: 
+People’s Computer 
+Company 
+P.O. Box E 
+1263 El Camino Real 
+Menlo Park, CA 94025 
+SRR 
+ELS 
+of 
+Ce ee 
+Kilobaud Microcomputing 
+First the bad news: editor Green has fascist tendencies. 
+In his editorial column he actually encouraged customers 
+of his Instant Software business to try to induce people 
+to buy illegal copies of his programs, then bust them 
+and collect the reward he offers. And then he had the gall 
+to blame “computer error” (Ha! Cybercrud!) for sub- 
+scription screw-ups. 
+So why do / support this guy? The magazine has a lot 
+of useful articles, particularly heavy on small- and 
+medium-sized application programs in BASIC with com- 
+plete code. 
+Useful “‘fixes” for particular systems that are 
+invaluable when you need them. Published a complete 
+BASIC 
+data-base management system in three parts Jan- 
+Feb-Mar ‘80. March ‘80 page 68 has a BASIC program 
+that computes solar heat potential hour by hour including 
+the effect of scattered sky radiation and reflectance 
+| 
+from the glass collector angle. 
+sil 
+Kilobaud 
+Microcomputing 
+(For business. 
+. 
+. 
+education .. 
+. FUN!) 
+Wayne Green, Editor 
+$1 S/year (12 issues) 
+from: 
+Microcomputing 
+Subscription Department 
+P.O. Box 997 
+Farmingdale, NY 11737 
+Periodical Guide for Computerists 
+This booklet provides a detailed index by category for 
+most of the hobbyist publications listed in this section. 
+Besides articles, editorials, book reviews and even letters 
+are cataloged. 
+Also included are some of the “main- 
+stream” computer publications such as Digital Design 
+and a number of the ham radio mags such as '73 as well. 
+A nice feature is that letters of correction aapear in the 
+listing immediately after the entry for the corrected (or 
+commented upon) article. 
+For those who do not feel 
+quite ready to subscribe to the twenty odd available 
+publications this guide could provide another level of 
+detailed information. 
+It is of course also extremely useful 
+as a global index to the literature. 
+—Marc Le Brun bs 
+Periodical Guide for 
+si 
+i 
+Computerists 
+E. Berg, Editor 
+Annual; 
+80 pp. 
+$2.50 postpaid from: 
+E. Berg Publications 
+622 East 3rd Street 
+Kimball, NE 69145 
+RS 
+ME 
+MPP 
+RENTS 
+IETS 
+mathematics 
+mathematics 
+mathematics 
+mathematies 
+Tnathematies 
+Adjusting the letters to coarser rasters 
+S-100 Microsystems 
+This is a brand new one finding its way. As the populations 
+of particular machines increase, more machine-specific 
+mags will appear. 
+They save skipping all the articles 
+that don’t apply to your system. 
+First issue contained 
+engineering definition of industry-standard [EEE S-100 
+bus (one of several styles of connectors between a micro- 
+computer and its attachments; S-100-based machines 
+are compatible only with each other). 
+The second issue 
+had an interesting program in PASCAL for linear pro- 
+gramming (technique applicable to many real-world 
+situations where you want to optimize a mix of many 
+variables with arbitrary limits). Promising. 
+S-100 Microsystems 
+$10 /year (6 issues) 
+Sol Libes and 
+from: 
+Russell Gorr, Editors 
+S-100 Microsystems 
+P.O. Box 1192 
+Mountainside, NJ 07092 
+SS 
+eee 
+Recreational Computing 
+Funky potpourri. 
+The free-wheeling student side of 
+micros. Allows space for first-time and semi-coherent 
+authors with something to say. Doesn’t always give 
+enough specifics on a topic. Games for BASIC students. 
+A good magazine for the novice or casually interested. 
+Was formerly called People’s Computers, and may go 
+back to that title. 
+Recreational 
+Computing 
+(For the imaginative 
+small computer user!) 
+Joan Hiraki, Editor 
+$10/year (6 issues) 
+from: 
+People’s Computer 
+Company 
+P.O. Box E 
+1263 El Camino Real 
+Menlo Park, CA 94025 
+I a 
+3 eCermepmespens 
+you feed me a number, 
+e my Samiaenems to change 
+o 
+it 
+into another number. 
+Zee 
+1f you can guess 
+my aaa''' 
+GIFFICULT 
+a Yili shall 
+I use? 
+1.2,3,4 
+or § -- TEasy 
+> 
+Ee sure to press (ganaila 
+° 
+For less than $5, the author built an A/D converter 
+for his COSMAC system. 
+There’s me with the whole setup. The perfboard just to 
+the left of the enclosed keyboard is the A/D circuitry. 
+On the screen is an example of what can be done with 
+the etch-a-sketch program and a little practice. 
+5 
+

@@ -1,0 +1,134 @@
+The Millennium Whole Earth Catalog 
+8 WORLD WIDE WEB 
+— W 
+| WWW Paraphernalia 
+This section is intended to help you 
+traverse the Web while keeping your 
+that you are connected directly to the 
+Internet with TCP/IP. 
+Browsers 
+A browser program is the software tool 
+| that provides your window to the 
+| WWW. The browser lets you step 
+through the Web of images and text 
+using only your mouse. You need a 
+sanity. It proceeds from the assumption 
+pe EMPESTUOUS DEGENERATES abound upon the World Wide 
+Web. Numerous do-it-yourself addicts use the Internet’s WWW to 
+publish and trade texts, graphics, minute films and sounds. Yeah, it’s 
+true that the majority of data on the Web is senseless clutter, but you 
+also find these tiny clumps of passion. All over the planet, artists and 
+writers are finding that the Web allows them to hold audience with 
+millions. And hey, since the Web is the slickest in global self-publishing, if 
+| you don’t like the data, you can go out and make some of your own. 
+browser. There’s a bazillion to choose 
+from. The two below are distributed 
+freely on the Internet. 
+NCSA Mosaic (free) 
+The original browser; still a solid 
+program. Available for anonymous 
+ftp from: ftp.ncsa.uiuc.edu in Mosaic 
+directory. 
+Netscape (free trial use) 
+The current master browser. Available 
+for anonymous ftp from: ftp.mcom.com 
+in Netscape directory. 
+_ Teach Yourself Web Publishing with HTML in a Week 
+Hypertext markup language is clunky and inflexible. But until more elegant alternatives 
+appear, HTML remains the Web's only tongue: you must leam it to do your own writing 
+for the Web. Fortunately, Laura Lemay delivers on her title’s promise. By following her 
+clear sequence of explanations, examples and exercises, even the absolute Web novice 
+(as | can personally attest) can create serviceable documents within a few days. Better, 
+she moves quickly beyond mechanics to techniques and tools for designing maximally 
+effective and attractive presentations in spite of the medium’s limitations. 
+—Miichael K. Stone 
+e 
+For smaller or simpler Web presentations, or 
+presentations with a simple logical structure, 
+storyboarding may be unnecessary. But for 
+larger and more complex projects, the exist- 
+ence of a storyboard can save enormous 
+amounts of time and frustration. If you can’t 
+keep all the parts of your content and their 
+| relationships in your head, consider doing a 
+| storyboard. 
+e 
+Keep in mind as you write that your reader 
+could jump into any of your Web pages from 
+anywhere. Although you may have structured 
+things such that section four distinctly follows 
+section three and has no other links to it, some- 
+one you don’t even know might create a link to 
+the page starting section four, and a reader 
+could very well find himself or herself on 
+section four without being aware that 
+section three exists. 
+Teach Yourself Web Publishing 
+with HTML in a Week 
+Laura Lemay. Sams, 1995; 
+397 pp. ISBN 0-672-30667-0 
+$25 ($28 postpaid) from Macmillan 
+Computer Publishing, Attn: Order Dept., 
+201 W. |03rd Street, Indianapolis, IN 
+46290; 800/428-5331 or on the Web from 
+http://www.mcp.com/ or by gopher from 
+gopher.mcp.com or by ftp from 
+ftp.mcp.com 
+sums 
+H YO 
+We PUBLISHING 
+Extra Nuggets 
+Your browser will do most of the work 
+on the Web, but occasionally it needs 
+help from other (tiny) programs. When 
+you encounter moving pictures or 
+sounds, for example, you will need the 
+software below to experience them. 
+For the PC: 
+QT extension (for viewing Quicktime 
+movies): ftp://ftp.nps.navy.mil/pub/ 
+unsupported.soft/win/qtw | 
+|.zip 
+Wplany (for listening to sounds): ftp:// 
+ftp.nps.navy.mil/pub/unsupported.soft/win/ 
+wplny | 
+|.zip 
+For the Mac: 
+Sparkle (for viewing Quicktime movies): 
+ftp://mirrors.aol.com/pub/info-mac/grflutil/ 
+sparkle-23 | .hqx 
+Sound Machine (for listening to sounds): 
+ftp://ftp.ncsa.uiuc.edu/Mosaic/Mac/Helpers/ 
+Destinations 
+Once you have your browser and its as- 
+sistants, you need to point them toward 
+| a destination. 
+A World Wide Web ad- 
+| dress (URL) is archaic-looking and 
+| semi-cryptic. Just type it in and be as- 
+| 
+sured that the computer will under- 
+stand it and will get you where you 
+want to go. Each destination is called a 
+home page. Just about anyone can set 
+up a home page, so be prepared to feel 
+lost and overwhelmed. That’s just the 
+Web. Keep poking and you will dig up 
+data that is meaningful to you. 
+Below isa list of home pages you may 
+find useful or valuable. 
+The Web Crawler 
+This is a great place to start. You type 
+in key words, then the Web Crawler 
+returns a list of related home pages 
+| complete with direct, clickable links. 
+http://webcrawler.cs.washington.edu/ 
+WebCrawler/WebQuery.html 
+Yahoo List 
+An index of home pages organized 
+by subject. 
+| http://www.yahoo.com/ 
+Uncle Bob’s Kids’ Page 
+| A compendium of links for kids. 
+http://gagme.wwa.com/~boba/kids.html 
+

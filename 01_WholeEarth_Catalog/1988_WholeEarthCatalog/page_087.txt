@@ -1,0 +1,165 @@
+1 
+akgua 
+2 
+alberta 
+3 
+ cae780 
+4 
+cbatt 
+5 
+cernva~ 
+6 
+clyde 
+7 
+emel2 
+8 
+cuae2 
+9 
+decvax 
+10 
+de 
+IL 
+diku 
+12 
+nea 
+13 
+faline 
+14 
+gatech 
+15 
+hafro 
+16 
+hao 
+17 
+hplabs 
+18 
+dai2unix 
+19 -ihnp4 
+20 
+inria 
+21 
+kddlab 
+22 
+linus 
+e3u 
+ake erg, 
+24 
+lli-lec 
+25 
+mene 
+26 
+mcvax 
+27 > mnetor 
+28 
+munnari 
+29 
+nbires 
+30 
+penet 
+31 
+philabs 
+32 
+prib2 
+33 
+gqantel 
+34 
+rutgers 
+35 
+seismo 
+36 
+tektronix 
+37 
+tuvie 
+38 
+ubc-visio 
+39 
+uke 
+40 
+ulysses 
+41 
+unido 
+42 
+utzoo 
+43 
+uw-beaver 
+44 
+watmath 
+Information 
+Highways 
+Lawrence E. Murr, 
+James B. Williams 
+and Ruth-Ellen Miller 
+1985; 78 pp. 
+$25 postpaid from: 
+Hypermap/LIRN 
+P. O. Box 23452 
+Portland, OR 97223 
+503/241-2212 
+We know shamefully 
+little about the nature 
+of information. Try 
+to buy a map that 
+INFORMATION HIGHWAYS 
+83 
+One Information 
+Freeway Network 
+Map showing the worldwide links in the decentral- 
+ized communication network known as Usenet. An 
+ad hoc creation by computer hackers, Usenet sends 
+electronic mail around the world for free, and is the 
+gateway for many scientific electronic journals 
+which are “published” daily, thus outpacing printed 
+journals which may delay findings by six months 
+or more. Most Usenet sites are quasi-officially or 
+unofficially located within the computers of uni- 
+versities and large corporations, and are tolerated 
+because of the tremendous amount of technical 
+néws they conduct. Persons without access to a 
+university or company account can tap into the 
+global anarchy of Usenet through the WELL gate- 
+way (see page 73). 
+Site locations and news exchange paths 
+Connectivity information from mod.map data December 1986 
+Geographic information from CLA World Base LI data 
+Printed on a DEC LPS-40 PostScript printer 
+Produced with netmap 1.2 at DEC Western Research Lab 
+Numbered circles are backbone sites: @ 
+Dashed lines are backbone-to-backbone links: 9 
+—--—--—-—~—-- 
+Black dots are non-backbone sites © 
+Thin solid lines are non-backbone and partial links: 
+delivery routes are collated into an atlas of commu- 
+nications. Wisely, the writers include airlines and 
+overnight couriers as communication channels. 
+Emphasis is given to the remarkable freeways of 
+interlibrary loans. (Libraries pass books among 
+themselves, so that patrons can borrow books that 
+a small branch doesn’t have on its shelf. In effect 
+you can get nearly any book you want, if you're 
+willing to wait for it.) The larger theme of the book 
+is the cartography of intangibles. 
+—Kevin Kelly 
+Burlington Northern Railroad Microwave Network 
+: ae Peckham Min 
+Have ogee 
+Big Sandy fA A RE —-~ 
+Roser B i 
+Py 
+he Borton 
+W 
+Montana 
+Great Falls 
+shows how information flows in all its varieties 
+around the world. Bet you won’t find one. 
+One small corner has been done. Compiled by 
+astute librarians in Oregon, this self-published 
+monograph traces the regional information paths in 
+the Pacific Northwest. The overlapping networks of 
+electronic, transportation, and paper information 
+Oregon 
+Information: 
+RO Laid 
+Superintandent of Communication 
+Burlington Northern Railroad 
+206/467-3301 
+

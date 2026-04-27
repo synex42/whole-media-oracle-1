@@ -1,0 +1,213 @@
+one or more phone lines via mo- 
+dems. The power of the computer 
+varies with the size of the system and 
+the applications offered. As the net- 
+works grow, the systems must ex- 
+pand, and if a community system is 
+very popular, there can be severe 
+problems in supplying enough phone 
+lines or public access sites to meet 
+the demand. 
+The most popular model for many 
+community networks is the Free- 
+Net. The first Free-Net was born in 
+Cleveland, growing out of 
+an Apple II 
+electronic bulletin board system for 
+medical school faculty at Case West- 
+ern Reserve University. It has ex- 
+panded into a Unix-based multi-line 
+Internet host serving local callers 
+with modems and distant users who 
+use the telnet protocol to connect 
+remotely. The National 
+Public 
+Telecomputing 
+Network 
+(see 
+Sources of Information about Com- 
+munity Networking) helps new 
+Free-Nets get start-up information 
+and find the right software for urban 
+or rural sites. Italso supplies a variety 
+of services for organizing commit- 
+tees and already functioning systems. 
+Many communities have very limited 
+communications 
+infrastructures, 
+and a low percentage of residents 
+who own computers. In Scandinavia 
+in the mid-1980s groups began set- 
+ting up tele-service centers or tele- 
+cottages to provide basic computer 
+and telecommunications services to 
+local residents through telephone. A 
+townsperson visiting one of these 
+centers has a choice of using tele- 
+phone, fax, computer network, sat- 
+ellite receiver, or in some cases, 
+video production equipment. More 
+than one hundred centers now exist 
+in Scandinavia, and many other coun- 
+tries are emulating the model. Suc- 
+cessful tele-service centers could be 
+precursors to community networks 
+in states like Kentucky, where two 
+centers are being planned for Pike 
+County and Elizabethtown. 
+Because the printed information on 
+community networks is so scarce in 
+mid-1994, you may have to rely on 
+electronic sources. What follows 
+are organizations that maintain an 
+electronic presence with archives, 
+electronic-mail help, and more ad- 
+vanced systems such as gopher and 
+World Wide Web. You can also use 
+the plain old telephone to reach 
+many of these groups. —Steve Cisler 
+Connect with the 
+Virtual Community 
+on page 262. 
+Boulder Community Network in Colorado 
+uses World Wide Web software to serve 
+information to public access sites, homes, 
+schools, and businesses. Pictured is a Mosaic 
+client interface to the Web that works on the 
+Macintosh, X-window, and Microsoft Win- 
+dows computers to present a mix of text, im- 
+ages, and sound. One click moves the browser 
+to another screen of pictures and text. 
+Political Tools 
+COMMUNITY NETWORKS 291 
+i 
+Be Ih 
+NR 
+ETE 
+Aor BO 
+* 
+4 
+ot 
+cad 
+Welcome to the Boulder Community Network (BCN) 
+prototype! 
+BCN Information Centers 
+- About BCN 
+- Business Center 
+- Community Center 
+- Education Center 
+- Government Center 
+: Health Center 
+- Library 
+- Media Center 
+- Transportation Center 
+- Visitor Center 
+- Informacion en Espanol... 
+Computer Professionals for Social Responsibility: 
+PO Box 
+717, Palo Alto, CA 94301; 
+phone:415/322-3778, 
+fax: 
+415/322-3798, 
+Internet: 
+= 
+cpsr@csli.stanford.edu 
+English 1) 
+A public interest alliance 
+of computer scientists 
+and others interested in 
+t 
+the effects of computer 
+technology on society. Interface 
+CPSR works to influ- 
+ence decisions regard- 
+ing the development 
+and use of computers 
+because those deci- 
+sions have far-reaching 
+consequences and re- 
+flect basic values and 
+priorities. 
+Free 
+Electronic Frontier 
+Internet 
+Foundation: 
+|001| 
+G ACCESS 
+Street NW, Suite 950 
+E., Washington, 
+DC 
+. 
+20001; OhRe 202; 
++Information 
+347-5400, 
+fax: 202/393- 
+5509, Intemet: ask@eff.org — ‘The 
+Electronic Frontier Foundation (EFF) was 
+founded in July of 1990 to ensure that the 
+principles embodied in the Constitution and 
+the Bill of Rights are protected as new 
+communications technologies emerge. 
+The Electronic Frontier 
+Distributed 
+nly, 
+Centralized 
+These groups mainly focus on electronic rights and 
+broad issues that will affect local systerns 
+Multi-lingual 
+Local designers make choices about 
+| 
+how their community network will 
+function with the Community Net- 
+work Wheel, which shows some of 
+the choices facing each group (e.g., 
+will it be free, or will you charge a fee; 
+will you emphasize access to informa- 
+| 
+tion or citizen-to-citizen communica- 
+“Since its inception, EFF has worked to shape 
+our nation’s communications infrastructure 
+and the policies that govern it in 
+order to maintain 
+Communications anaes es 
+tion). Community network planners 
+dment, 
+pri- 
+. 
+vec 
+and ee 
+can begin to develop a profile of the 
+democratic values. 
+system they want to build by placing 
+We believe that our 
+marks on each axis of the wheel. 
+overriding 
+public 
+| 
+goal must be the 
+creation 
+of Elec- 
+tronic Democracy.” 
+Society for Elec- 
+tronic Access: PO 
+Box 
+7081, New 
+York, NY 
+101 16- 
+7081; 212/592- 
+380!, 
+Internet: 
+sea@sea.org—“The 
+purpose of SEA is to 
+help make our comer of 
+the digital world a civilized 
+place to live, work and visit 
+We believe that the world of comput- 
+ers and the communications links that bind 
+their users together (‘cyberspace’) should be 
+open to everyone.” SEA runs discussion 
+groups and maintains a gopher archive: 
+SEAgophereff.org 
+Graphic 
+Interface 
+

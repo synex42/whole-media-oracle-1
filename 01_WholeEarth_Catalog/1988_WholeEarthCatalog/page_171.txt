@@ -1,0 +1,207 @@
+COMPUTER TOOLBOX 16/7 
+Path #4: For desktop publishing and black-and-white 
+: 
+graphics: Macintosh with Postscript 
+compatible Laser Printer. 
+This path includes everything in path #2 plus page 
+layout programs that take text from word processing 
+programs, graphics from graphic programs, and addi- 
+tional graphic elements which you type in yourself, and 
+arrange them all on the screen. Then the laser prints out 
+a (more-or-less accurate) replica of your screen. (See 
+Desktop Publishing, p. 58-59.) 
+Postscript-compatable laser printers cost $4,000 and up. 
+For that price, you get images of 300 dots per inch — 
+not comparable to a professional typesetting shop, but 
+fairly professional-looking to the untrained eye. Several 
+graphics and typesetting shops accept Macintosh-based 
+files for running out on their higher-quality 1200-dot- 
+per-inch Linotronic laser printers. 
+Path #5: For playing with color graphics, animation, 
+sound, and programming at the lowest possible 
+cost: an Amiga 500. 
+In strictly technical terms, the Amiga is one of the most 
+advanced personal computers available. Its operating 
+system, called Workbench, combines the Mac’s icons 
+with the shortcut commands of MS-DOS. Not only that, 
+but the Amiga has the lowest-cost rich color graphics 
+available, terrific sound generation, and video compati- 
+bility unequalled in other computers. You can hook this 
+machine to your TV and superimpose images you’ve 
+created yourself over Dallas or the evening news. 
+The video compatibility makes it hard to look closely at 
+details on the full-resolution screen, however. There’s 
+also something clunky about the Amiga’s general ambi- 
+ance. And because it never gained wide popularity, 
+there’s still a shortage of software. 
+Path #6: For heavy-duty dealing with text: an 
+AT-compatible with extra memory and 
+Framework Il software. 
+People are just beginning to realize the potentials of 
+manipulating text on microcomputers. It goes far be- 
+yond writing as most people think of it now. The com- 
+puter-based writer to come is really a text navigator, 
+pulling reams of incoming material off telecommunica- 
+Computer Lib/ 
+Dream Machines 
+Ted Nelson 
+1987; 330 pp. 
+$18.95 
+($20.95 postpaid) from: 
+Microsoft Press 
+Attn.: Consumer Sales 
+16011 36th Way 
+P.O. Box 97017 
+Redmond, WA 98073-9717 
+800/426-9400 
+or Whole Earth Access 
+Ted Nelson started the entire genre of main- 
+stream computer books in 1974 with a Whole 
+Earth Catalog-sized polemic called Com- 
+puter Lib/Dream Machines. Like an Ace 
+pulp science-fiction novel, it came in two 
+halves, bound upside-down together. The 
+“Lib” side was a tourist guide to available 
+SOCSHEESEHOSOSHOSSOHHOOHSOHHOHOS 
+OOO 
+OOOE 
+tions networks, sorting and sifting them so that they 
+make thematic sense, and then using those as grist for 
+his or her own writing. This sort of writing requires the 
+ability to mix and match hundreds of text files at once 
+and sort between them. That capability is available right 
+now on FRAMEWORK Il, a masterpiece of program- 
+ming, combining an extremely-easy-to-use spreadsheet, 
+a data manager, a word processor, and an adept tele- 
+communications program in one package. 
+Framework requires extra memory; otherwise, after you 
+call up two or three frames’ worth of text, you’ll be told 
+you hit your limit. You need to add a $750-$1000 acces- 
+sory to your computer — the Intel Above Board (or 
+equivalent “L.I.M. 4.0-compatible extended/expanded 
+memory” cards made by other manufacturers). 
+Path #7: Heavy-duty bookkeeping and small-business 
+use: an AT-compatible with 
+extra memory and Lotus 1-2-3. 
+The AT-compatible is a minimum; you might be better 
+off with a 386-based computer, because you’ 
+ll probably 
+want to migrate to path #9 later on, when your data 
+bases overflow your current work. And if you’re adapt- 
+ing a small business on personal computers, it’s 
+probably worthwhile to ask a reliable consultant about 
+choosing software. 
+So many people have grown to use the spreadsheet 
+Lotus 1-2-3 that it has, for some people, replaced the 
+operating system. You can now buy writing, accounting, 
+spelling, graph-making, and data managing programs 
+that fit within 1-2-3’s confines. To use them, you cor- 
+don off a section of the spreadsheet’s grid, bring up the 
+“Add-In,” as these programs are called, and use it. 
+Path #8: For keeping up with the Joneses: 
+OS/2 machines and 386 machines. 
+Released in December 1987, OS/2 is an infant operating 
+system. It only runs MS-DOS software, so far. None of 
+the new OS/2 software really exists yet, except for a few 
+cobbled-together versions of existing programs. 
+OS/2 has intriguing advantages against MS-DOS and 
+even the Mac. Like the Mac, it uses the better 3 1/2" 
+disks and permits virtually unlimited memory (meaning 
+more complex programs and bigger documents). Like 
+computers and the corporate policies behind them; 
+the “Dream” side showed up evanescent innova- 
+tions that (Nelson knew) would reshape everyone’s 
+lives. (One of these nascent innovations was “Hy- 
+pertext” — in which text or pictures 
+contain “links,” or passages through 
+which people can metaphorically leap 
+to other information important to them. 
+Nelson is the most prominent populizer 
+of this idea, which he has devoted 
+much of his working life to developing, 
+and which is now itself linked with 
+various suddenly prominent programs 
+like HyperCard and Lotus Agenda.) 
+The problem 
+is not 
+software 
+“friendliness.” 
+It is 
+conceptual 
+clarity. A 
+globe does 
+not say 
+“good 
+morning.” It 
+is simple 
+and clear, 
+not 
+“friendly.” 
+Now Nelson has voraciously updated 
+both halves of his old book. The format 
+is (a bit too much) old stuff updated co- 
+piously with brilliant new stuff. Amidst 
+viciously well-targeted assessments of 
+the Mac, it can run several programs at one time, 
+switching back and forth between them. It also can run 
+several parts of one program at one time, a first in per- 
+sonal computing. This means that while waiting for a 
+data manager to print out a list of everyone in your 
+college graduating class, you could add names to the 
+same list, and have those names show up at the end of 
+the same printout. 
+OS/2’s disadvantages: It’s expensive — both the pro- 
+gram itself and (more importantly) the hardware re- 
+quired to use it (2 megabytes of memory for starters, 
+about four times as much as an MS-DOS computer). It’s 
+cumbersome, retaining a few of MS-DOS’ most irritat- 
+ing features (like file names that can be no longer than 
+11 characters long). Finally, perhaps most importantly, 
+not many people who aren’t programmers need all that 
+heavy-duty power or can understand it yet. 
+Path #9: For keeping up with the Joneses’ Joneses: 
+The Macintosh Il. 
+A wonderful, speedy, intuitively correct, large-screened, 
+incredibly adaptable, fully-featured — $9,000 — com- 
+puter (if you count the cost of the laser printer which 
+would logically go with it). Because it’s “open” — 
+compatible with a variety of monitors and other acces- 
+sories — it’s more complex to set up. 
+Path #10: The simplest, cheapest path: 
+Apple lle with Swyftcard 
+or Canon Cat. 
+If all this seems unnecessarily expensive and Byzanti- 
+nely overcomplicated to you, there’s at least one plain, 
+inexpensive solution. Buy an Apple Ile, an otherwise 
+antiquated and frustrating computer (in my opinion) 
+and fit it with Swyftcard/Swyftdisk, a $39.95 writing, 
+calculating, and telecommunications tool of un- 
+usual simplicity. 
+The Canon Cat is an extended adaptation of the 
+Swyftcard, with a box and monitor. You can set up the 
+Cat easily as a bulletin board for other people to call, 
+but the Swyftcard has the advantage of allowing you to 
+use that cumbersome, old-fashioned Apple Ile for 
+other things — like exploring the many games and 
+educational programs still available for it. 
+machines, metaphors, and manufacturers, 
+you will be guided through hacker in-jokes 
+and skilled pithy judgements. Nelson is 
+is 
+sometimes justly criticized for quirkiness and! 
+self-indulgence; but he has an innate ability 
+to judge the significance of particular tech- 
+COMP. 
+UTERS 
+nologies, shared by few other writers. He 
+has, in this edition, also recreated what was 
+then and is still the most fun-to-read com- 
+puter book of all time. 
+[ope 
+—Art Kleiner 
+NON- COMPUTER PERSONS 
+V JEW OF THE WoRL 
+Comporer_ PERSONS 
+View OF THE WOR) 
+The Ney- Gye Adewld 
+

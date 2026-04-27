@@ -1,0 +1,130 @@
+~ COMMUNICATIONS 
+ROBOTS 349 
+The Frank, Jr. arm and mobile base made from Automat 
+components and Designatronics electronic parts. 
+—The Robot Experimenter 
+—Art Kleiner 
+Basic Robotic Concepts 
+Generally agreed upon as the best overall technical 
+book. It’s designed to educate people about the various 
+problems in robotics — balancing the machine, vision 
+systems, motors, torque curves, wheels versus legs, and 
+programming the intelligence. 
+—Art Kleiner 
+[Suggested by Richard Prather] 
+Yo \uis00 EXTENSION 
+Joints of a revolute- 
+aks 
+e 
+arm robot. 
+SHOULDER SWIVEL 
+A jointed arm robot 
+with six joint movements: 
+1. Base sweep 
+2. Shoulder swivel 
+3. Elbow extension 
+4. Wrist pitch 
+5. Wrist roll 
+6. Wrist yaw 
+Like most robots, these 
+two basic types are 
+often made ina 
+modular fashion. 
+When wrists are 
+yoorr_ present, they often 
+ioe. y, 
+donot allow yaw, 
+ff 
+or even roll. 
+/ 
+Transforming coordinate 
+frames. 
+FRAME 0 
+The Robot Experimenter 
+The only regular source of information, besides Radio 
+Electronics magazine, for people who are building their 
+own robots. It deserves to survive and thrive. 
+—Richard Prather (Homebrew Robotics Club) 
+Robot 
+Experimenter 
+Raymond Cote, Editor 
+$24lyear 
+(12 issues) from: 
+Robot Experimenter 
+P. O. Box 458 
+Peterborough, NH 
+03458-0458 
+Robotics 
+Edited by an artificial intelligence pioneer, this anthology 
+covers all the bases: the history of automatons, artifi- 
+cial common sense, sensors, human-machine partnerships 
+(cyborgs), industrial robots, and the effects of robots on 
+society. Here is the best starting point for a non-tinkerer 
+who wants to know what robotics is about, and how it 
+might change the world. 
+—Art Kleiner 
+At some point in the future someone would go to work 
+by slipping on a comfortable jacket lined with a myriad 
+of sensors and musclelike motors. Each motion of his 
+arm and fingers would then be reproduced at another 
+place by mobile, mechanical hands. Light, dexterous, 
+and strong, those remote mechanical hands have their 
+own sensors, which will transmit what’s happening back 
+to the worker so that he will seem to feel whatever the 
+remote hands may touch. The same will be done for the 
+motions of the head and eyes, so that the operator will 
+seem to see and sense what's happening in the other 
+workplace. Once we can do such things, it will be 
+another simple step to give those remote presences dif- 
+ferent strengths and scale of size. These remote bodies 
+can have the brute capacity of a giant or the delicacy of 
+a surgeon. And, using these information channels, an 
+operator could be anyplace — in another room, another 
+city, another country, even out on a space station 
+orbiting the Earth. 
+A 1980 census of robots, taken by Bache Halsey Stuart 
+Shields, Inc., showed that the United States had 3,000 of 
+them. .. 
+. The entire Soviet Union had only 25, and 
+these were evidently experimental devices, but Poland 
+had 360... 
+. The true homeland of the robot appears to 
+be Japan, with 10,000 in the census, more than the rest 
+of the world combined. 
+Man-controlied machines, like the 
+rifle-armed Ro-Veh, can be made to 
+rush in where wise men would never go. 
+NLIKE PERSONAL COMPUTERS, robots have not become a popular consumer item — despite 
+such prototypes as Heathkit’s “Hero” and Nolan Bushnell’s “Topo.” The personal robots that exist today 
+are like the primitive personal computers of a decade ago. They show a great deal of promise, but they 
+are sort of useless novelty items now. As costs shrink, that will change. Sometime soon, many a small 
+industrial workshop and school will find it worthwhile to buy a robot. Families will follow suit later. 
+In the meantime, robotics has become the most intriguing, involving, gripping field of inquiry for home 
+electronics experimenters. 
+As one robot-maker, Maris Ambats, described the scene, “Robotics is at an early stage, and an independent 
+experimenter can make substantial original contributions without a large budget or elaborate equipment.” 
+Robotics 
+Marvin Minsky, Editor 
+1985; 317 pp. 
+$19.95 
+postpaid from: 
+Doubleday and Company 
+Direct Mail Order 
+501 Franklin Avenue 
+Garden City, NY 11530 
+or Whole Earth Access 
+Basic Robotic 
+Concepts 
+John M. Holland 
+1983; 270 pp. 
+$19.95 
+($22.45 postpaid) from: 
+Howard W. Sams & Co. 
+4300 West 62nd Street 
+Indianapolis, IN 46268 
+or Whole Earth Access 
+This intelligent prosthetic arm, from 
+the University of Utah, converts fine 
+muscle contractions into delicate limb 
+movement. 
+

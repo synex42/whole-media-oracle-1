@@ -1,0 +1,187 @@
+PIRATE RADIO 
+A*C*E 
+Keith J. Thibodeaux, Editor 
+$12/year (12 issues) from: 
+Keith J. Thibodeaux 
+P.O. Box 1744 
+Wilmington, DE 19899 
+The Association of 
+Clandestine radio 
+Enthusiasts (A*C*E) is for people interested in 
+pirate and clandestine broadcasting. 
+“Clandestine” in this context means unlicensed 
+stations trying to undermine the political order in a 
+target area. Most are covertly sponsored by gov- 
+ernments, or overtly identified with insurgent 
+groups. Radio Venceremos, “official voice of the 
+Farabundo Marti National Liberation Front,” is a 
+well-known example in Central America. A less 
+well-known example, closer to home, is “La Voz de 
+Alpha 66,” an anti-Castro station based in or near 
+Miami that broadcasts three nights a week in 
+Spanish to Cuba. A*C*E’s monthly newsletter 
+publishes reports about such stations, though the 
+primary focus is on “pirates.” 
+Pirates aren't trying to overthrow a government; 
+they generally just want to offer an alternative to 
+what licensed stations carry. In Western Europe, 
+where broadcasting has traditionally 
+been monopolized by national govern- 
+ments, pirates went on the air to provide 
+The heart of a transmitter is its oscillator which deter- 
+mines the fundamental carrier frequency which can 
+later be amplified and modulated by the rest of the rig. 
+Figure 2 displays the schematic diagram for our 
+transmitter's oscillator. 
+The Complete Manual 
+of Pirate Radio 
+Zeke Teflon 
+25 pp. 
+$2 postpaid from: 
+Bound Together 
+Book Collective 
+1369 Haight Street 
+San Francisco, CA 94117 
+415/431-8355 
+A cynic once said that freedom of the press be- 
+longs to those who are rich enough to own one. 
+The author of this booklet, who goes by the 
+nomme d’aire of Zeke Teflon, feels the same way 
+about freedom of broadcast and the transmitters 
+required for the operation. His refreshingly anar- 
+chistic attitude is that the air belongs to everyone, 
+and he gives us a formula for reclaiming it from the 
+media conglomerates. 
+The fact that most of Zeke’s schemes are illegal 
+and could land you in the pokey must be kept in 
+mind, but that very risk adds to Zeke’s zest for the 
+venture. He gives us an overview of the possibili- 
+ties — AM, FM, shortwave, availability of used 
+local, ethnic, and commercial programming. Their 
+popularity proved the need for such programming 
+and in many cases led to liberalization of broad- 
+casting controls. The pirate scene in North America 
+is quite different. Here it’s more in the nature of a 
+prank or a sport, with public service not a typical 
+motive. There are some genuinely bizarre and 
+creative pirates (“The Crooked Man” and “Radio 
+Angeline” are my two favorites), but the majority 
+are lame parodies of legal stations. The FCC 
+cracked down on U.S. pirates last fall, just as the 
+scene was starting to snowball. Since then, only a 
+few stations have made brief appearances (usually 
+on Saturday night around 7425 kHz 
+shortwave). 
+But A*C*E continues to be the best way to track 
+this sort of activity. Membership gets you their 
+monthly newsletter, with loggings, reports of busts, 
+interviews with pirates, technical tips, etc. Also 
+included are extensive listings of recent “numbers” 
+broadcasts — mysterious coded messages be- 
+lieved to be instructions beamed to spies. Some 
+people make a hobby of trying to figure out the 
+codes or locating the transmitters. Most of this 
+work goes on behind the scenes, but the listings in 
+A’*C’E 
+will at least help you find the broadcasts. 
+—Robert Horvitz 
+VIZKO.E, 
+wI/2VdL, 
+ty 
+equipment, antenna needs, the pros and cons of 
+fixed, remote and mobile operations, plus cost 
+estimates, which are surprisingly low. A few 
+hundred dollars could launch a small outfit. 
+—Dick Fugett 
+4 
+Piracy is illegal. If you’re busted the government can 
+seize your equipment, drag you through the courts, fine 
+you hundreds or even thousands of dollars, and theoreti- 
+cally, throw you in jail, although I've never heard of that 
+happening to anyone. So, it makes sense to take every 
+possible precaution to avoid The Knock (on your door 
+from the FCC). 
+The ideal situation — in terms of maximizing listenership 
+— for a radio station is to broadcast 24 hours a day, ona 
+set frequency, with high power, from a fixed location. 
+Attempting such operations as a pirate, however, would 
+be suicidal. 
+On the other extreme, you could go on the air with an 
+extremely low power (under 100mw) transmitter which 
+would be legal under FCC rules and regulations. If you 
+would be satisfied with a broadcasting radius of a couple 
+of blocks, that would be the route to go. In fact, in cities 
+with high population densities such as San Francisco 
+and New York, such an approach makes a lot of sense. 
+¢ 
+The Crooked Man: 3433, 3/24, 0005-0015", SIO=454. 
+Rock mx, w/ “telephonic” voice over mx “When | was in 
+S. Carolina he gave me a haircut,” “he’s afraid of me,” 
+“he’s on speed,” claimed to have invented the ultra violet 
+light, much talk revolved around blue and purple. 
+Sounded like he was either tripping or psychotic. Must 
+be a good actor. Nobody could be that wasted and put 
+such a decent signal, exactly on freq a year after last 
+being reported here and sound just 
+as strange! 
+(Provance, OH) 
+¢ 
+Voice of Bob: 7435, 2/15, *2042-2053*, SIO=211-222. 
+Featured “Mr. Science Lecture Series” The Neutron. 
+Some mx and several different air personalities. Hilo 
+address. (Mendyk, IL) 
+This month we begin with some QSL address informa- 
+tion. Recent QSL reports from several sources indicate 
+that a few addresses have produced verifications from 
+some commonly heard Latin American clandestines. 
+Among these is La Voz de Alpha 66 at P.O. Box 420067, 
+Miami, Florida 33142. In addition, both Radio Miscut and 
+Radio Monimbo have reportedly been verifying and/or 
+quasi-verifying through the UDC-FDN United States 
+office, which is located at 1000 Thomas Jefferson Street, 
+Suite 607, Washington, DC 20007. It is highly recom- 
+mended that detailed, polite reports, as well as prepared 
+QSL cards, be utilized when corresponding with these 
+addresses. Otherwise, your odds of a reply will go down 
+significantly, and the QSL sources themselves may dry 
+up for other DX-ers in the future. 
+Equipment Suppliers 
+Although radio equipment is more widely available 
+than it used to be, you may not have a store 
+nearby that carries a good selection. Mail order is 
+still a convenient way to shop, and the prices are 
+generally less than you'd pay in a store. These are 
+some of the leading mail order suppliers of short- 
+wave equipment. 
+—Robert Horvitz 
+EGE: Catalog $1 from 14803 Build America Drive, 
+Building B, Woodbridge, VA 22191; 703/494-8750 or 
+800/444-4799 (catalog 
+orders only). 
+Universal Shortwave 
+Radio: Catalog $1 from 
+1280 Aida Drive, 
+Reynoldsburg, OH 43068; 
+614/866-4392 or 800/431- 
+3939 (catalog orders only). 
+Electronic Equipment 
+Bank: Catalog free from 
+516 Mill Street, NE, Vienna, 
+VA 22180; 703/938-3350 or 
+800/368-3270 (catalog 
+orders only). 
+“ONLY 
+Grove Enterprises: 
+o 
+Catalog free from P.O. Box 
+sQ G00 
+98, 140 Dog Branch Road, 
+plus $3 UPS 
+Brasstown, NC 28902; 704/ 
+837-9200 or 800/438-8155 
+(catalog orders only). 
+$5 U.S. Mail Parcel Post 
+Canadians: #10 Air Parcel Post 
+Professional Wideband Discone from Grove Enterprises 
+89 
+

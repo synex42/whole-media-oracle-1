@@ -1,0 +1,166 @@
+How to Produce Your Own 
+Videoconference 
+Georgia A. Mathis 
+1987; 165 pp..- 
+$36.95 
+($39.95 postpaid) from: 
+Knowledge Industry 
+Publications, Inc. 
+701 Westchester Avenue 
+White Plains, NY 10604 
+800/248-5474 
+or Whole Earth Access 
+What a delicious treat a video-teleconference 
+would be if it worked. But, so far it only kind of 
+works. 
+What you want is two-way video and audio, that is, 
+equal communication for any participant. What you 
+get in practice is one-way video via satellite, and 
+two-way voice via phone lines. That means one 
+side sees nothing (in seminars that blind side is the 
+speaker, and in TV news it’s the person being 
+interviewed live). Just as bad, both sides share the 
+technical handicap of having one conversation split 
+between a high road/ow road transmission. 
+Despite these grim flaws, a videoconference can 
+liberate a far-flung project from stagnation in airport 
+Where To 
+Have Your 
+Video- 
+Teleconference 
+by Richard Kadrey 
+US Sprint’s “The Meeting 
+Channel” provides video- 
+teleconferencing facilities in 
+over 300 locations in 25 coun- 
+tries (including mainland 
+China), and the number of 
+locations is growing all the 
+time. When this kind of confer- 
+encing was introduced a few 
+years ago, the first people to take advantage of it were 
+big companies wanting to save on travel expenses — 
+Atlantic Richfield, Xerox, JC Penny, Citibank, etc.; they 
+used corporate “private rooms” hooked right into The 
+Meeting Channels’ fiber optic lines. Now, anyone can 
+book time on The Meeting Channel using one of 
+Sprint’s “public rooms.” Depending on the quality of 
+the transmission you need (e.g., the speed of the trans- 
+mission over the lines), your location, and the location 
+you want to talk to, you can have a video-teleconference 
+for as little as $60 or as much as $2,400 an hour. Rates 
+for three or more locations tied together start at $120 an 
+hour. However, video conferencing is still primitive 
+enough that hooking up more than 2 locations at once 
+may require you to make some big compromises. 
+Let’s say you want to hold a video conference between 
+4 locations: San Francisco, Houston, Chicago, and New 
+York. First, you should book this type of conference as 
+early as possible, at least a week in advance. And since 
+VIDEO-TELECONFERENCING 
+Phone room set up to receive questions from remote sites in an area 
+removed from the studio to assure quiet for the operators. A monitor 
+is provided so the operators can watch the program. 
+waiting rooms, and enliven a undertaking that 
+depends on the personality of a few people, such 
+as politics. This book is the most concrete and 
+useful one out of a whole lot of theoretical books 
+on the topic. 
+— Kevin Kelly 
+e 
+Hotel sites are most often chosen for videoconference 
+networks. This is true for several reasons: 
+1. Hotels are equipped with meeting space. 
+each Sprint public room is different, you will want to 
+ask what kind of equipment is available at each location. 
+Most sites have color video cameras, but some also have 
+VCR’s and graphics terminals plugged into The Meet- 
+ing Channel’s lines. 
+When you make a reservation for a multipoint confer- 
+ence, you will have to designate one of the locations as 
+the Master Site, in this example San Francisco; this 
+location can send audio and video to all the other rooms; 
+another location, say New York, is called the Primary 
+Site. All four locations can hear this site, but the Pri- 
+mary can speak and reply only to the Master Site. The 
+other two sites, Houston and Chicago, cannot broadcast, 
+but only receive sound and images from the Master and 
+Primary sites. 
+Broadcasting at Sprint’s lowest recommended speed 
+(768 kbps), your video conference will cost you $450 
+per half hour for the transmission, plus $150 per hour 
+for room rental at each site, coming to a total of $3,100 
+for your 3 hour conference. 
+A new player in the video-teleconferencing industry, 
+and one that promises to make this kind of meeting 
+commonplace, is Holiday Inn. They now provide “re- 
+ceiving rooms” for video conferences, rooms that can 
+only receive signals, not send one. Prices start at $200 
+for a half-day (4 hours) room rental, a $100 set-up fee, 
+and $400 - $600 equipment rental (video monitors are 
+cheaper to rent than video projectors, etc.). You can 
+book rooms on relatively short notice, and since you can 
+hardly throw a rock without hitting a Holiday Inn, 
+setting up a video conference is easier than ever. Now if 
+they can only figure out a way for us to see AND talk to 
+each location, you’d have the hottest thing in communi- 
+cations since pink princess phones. 
+2. Some hotel chains (e.g., Holiday Inns, Inc. and Marri- 
+ott Corp.) have a great deal of experience with videocon- 
+ferencing and may even have all the technical equip- 
+ment you need on site. 
+There are some things to watch out for, though, when 
+dealing with hotels for your videoconference. In most 
+cases, a videoconference is not an extremely important 
+piece of business for them. They place videoconfer- 
+encing in the same category as weddings and local club 
+dinners because you will probably use only a limited 
+amount of their space, your attendees will be in and out 
+quickly, and it is unlikely that you will use many overnight 
+rooms or need much food service. 
+e 
+Public television stations, through the PBS system, 
+made up the first real network of videoconference re- 
+ceive sites. This is because the PBS system itself was 
+the first TV network to be delivered by satellite... Here 
+are some positive aspects of using public television 
+stations: 
+1. The price is often lower than at hotels. You can expect 
+to pay from $500 to $2000 a day to use their facilities. 
+2. The equipment you need, and qualified technicians to 
+run it, are already at the site. 
+3. The PBS system has a department in Alexandria, VA 
+called ConferSat (part of PBS Enterprises) to help you 
+book suitable space at stations, thus saving you a lot of 
+legwork. 
+The Meeting Channel 
+Further information free from: The Meeting Channel, US 
+Sprint, 1815 Century Boulevard, Atlanta, GA 30345; 800/ 
+241-8470. 
+Holiday Inn 
+For Holiday Inn information, contact the location 
+nearest you. 
+Video-Teleconferencing Magazines 
+by Richard Kadrey 
+Video teleconferencing is a new enough phenomenon 
+that useful publications about it are still rare. And the 
+ones that are useful tend to be expensive. The following 
+short list of magazines will keep you up to date on 
+what’s happening on the video teleconferencing front. 
+Two of them are well over $150 a year, so you might try 
+talking your company or local library (or a nearby 
+business library) into stocking them. 
+TeleSpan 
+Shirley Singletany, Editor; $207/year (12 issues) from: 
+TeleSpan, Inc., 50 West Palm Street, Altadena, CA 
+91001; 818/797-5482 
+Telecommunications Policy 
+Susan Hunter, Editor; $141/year (4 issues) from: 
+Butterworth Publishers, 80 Montvale Avenue, Stoneham, 
+MA 02180; 800/548-4001 
+Teleconference 
+Patty Portway, Editor; $60/year (6 issues) from: Applied 
+Business Communications, Inc., P. O. Box 5106, San 
+Ramon, CA 94583-0906; 415/820-556 
+81 
+

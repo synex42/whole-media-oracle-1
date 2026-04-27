@@ -1,0 +1,159 @@
+Digital Retouching 
+by Stewart Brand 
+Time magazine does it. USA Today does it. 
+National Geographic does it and has caught 
+some flak about it. Very soon nearly everyone 
+will do it, and the culture will be different 
+as a result. 
+They all use high-tech page makeup processes 
+that involve turning photographs into 
+computer data, where it is so easy to fiddle 
+with the images that the temptation is over- 
+whelming. This new capability comes from the 
+merging of laser technology, used to scan the 
+original photographs and convert them into 
+digital data, and computer technology, whose 
+increasing power at decreasing cost allows 
+sophisticated manipulation of the no-longer- 
+photographic image. 
+National Geographic moved one of the pyramids 
+of Giza to suit their cover design. Popular 
+Science put an airplane from one photo onto the 
+background of another photo on one of their 
+covers and then bragged about how they did it 
+These two famous athletes 
+didn’t really meet back to back. 
+To convey the competition 
+between tennis champions Bjorn 
+Borg and John McEnroe, World 
+Tennis magazine arranged to 
+portray them in an eighteenth- 
+IMAGE PROCESSING 
+Two things not apparent in this promotional demonstration for 
+Pacific Lithographic: First, this set is one photograph, not two in 
+sequence; and second, the magic is not a disappearing show, 
+but a reappearing act. The camera’s film captured the intricate 
+grain of the scene: four hikers against distant mountains. It was 
+then digitized. Clicking on the cloning option on the Chromacom 
+machine, two cursors appear in the picture about an inch apart. 
+The operator can vary that distance, and slide the duo anywhere 
+on the photograph. One cursor will copy the color of the point it 
+rests on over to the nearby cursor. Waving the cursor copies a 
+patch of color. Identical in color and brightness, the texture of the 
+adjacent area is replicated point by point in a new spot. Distinc- 
+tive patterns are copied exactly. Thus the people standing in the 
+picture were not beamed out of the scene; rather they were 
+washed over with sky and mountain paint, stolen nearby. 
+Closing the distance between cursors results in ever-finer 
+degrees of seamlessness. Done with skill (it is almost a routine 
+operation; the main thing to watch for is incestuously cloning 
+what has already been cloned once), the phoniness is 
+completely convincing. 
+inside the magazine. In a book of photographs of 
+century duel on the magazine's 
+France, the photographer 
+March 1981 cover. Susan B. 
+moved unsightly telephone 
+Adams, explaining on the 
+poles from the picture of a 
+editor's page of that issue how 
+Basque shepherd. The 
+the cover was shot, said, 
+Whole Earth Review, in 
+“Finding a simultaneous hour in 
+3 
+, 
+the hectic lives of the world’s 
+questionable taste, ap- 
+Gnettannisiol 
+4 
+5 
+players. . 
+. prove 
+pealed to mass credulity 
+the most frustrating detail. As it 
+with a completely phony 
+turned out, we failed. With dead- 
+“photograph” of flying 
+lines staring us bleakly in the 
+saucers on its cover. 
+face, we’d have to put them 
+together photographically.” The 
+two cooperating tennis pros were photographed in separate places, three 
+This is a total fake. This particular 
+days apart. The editors relied on image manipulation to impart the sense of 
+can of Comet was never photo- 
+intimate rivalry. 
+graphed. It was never in a studio. 
+It never existed. Taking digital re- 
+It's advertising that has paid for computer digitizing machines. Color catalogs use 
+touching to the extreme, Alan 
+them all the time to alter a product's color, enhance its shininess, tone down its 
+Green and C. Robert Hoffman Il, 
+shininess, remove blemishes. Art directors use them to accomplish what photogra- 
+two animators for Digital Effects in 
+hers couldn't or didn’t do. And, according to an operator of the Chromacom, 
+New York City, added tinselly 
+who has sat through more than one quarrel, ad agencies use the imaging computers 
+gleams and reflections to a 
+as arenas for battling out their visual fantasies. Bausch & Lomb Sunglasses used the 
+computer-generated image fabri- 
+Scitex to insert models into an old WWII photo and alter a few other details to their 
+cated from equations. Retouching 
+liking. 
+a phantom, starting from nothing. 
+—____| 
+HANDS-ON DIGITAL 
+In 1985, AT&T’s EPICenter 
+(Electronic 
+Picture an 
+RETOU CHIN G 
+Imaging Center) introduced the first graphics board in 
+by Barbara Robertson 
+some purposes. But the system’s primary, application is 
+for people who want to quickly modify reality to show 
+how things would look “if” — architects, landscapers, 
+interior designers, plastic surgeons, etc. The output is 
+not photographic quality, but to create the same altered, 
+yet nearly photographic, view of reality using any other 
+its price range for a microcomputer that 1) captures and 
+digitizes video images in real time; 2) displays images 
+with enough colors to simulate a video picture in video 
+resolution; 3) generates a standard NTSC video signal 
+ahi, 
+: 
+(which means TARGA pictures can be transferred to 
+With the TARGA 
+16 and TIPS system, live video can 
+means would be tedious if not impossible. 
+videotape and broadcast on American television); and 4) 
+be mixed with an onscreen digital image and the com- 
+. 
+. 
+Targa 16: 512 x 512 resolution, 32,768 simultaneous 
+; 
+colors, frame grabber and buffer, captures video in 1/ 
+selected from the screen; selected areas on the screen 
+both second, NTSC and Analog RGB output, $1995: 
+gabe instanty pee 
+ne Pe 
+bes and 
+TIPS software, $795. Requires IBM PC/XT/AT or 
+AT&T also sells a painting package, TIPS, developed 
+pasted, or flipped and rotated. Yet the system 1s re- 
+compatible; TV set, composite video or analog RGB 
+by Island Graphics specifically for ths board. Although 
+markably easy to use. 
+monitor: TIPS requires Summagraphic digitizing tablet, 
+other software companies offer painting packages for 
+MS-DOS 2.0 or higher; both from: AT&T's EP!Center, 
+the TARGA 16, TIPS, is still the lowest priced and the 
+Artists who can afford the system would find it a good 
+2002 Wellesley Boulevard, Indianapolis, IN 46219; 800/ 
+best value. 
+conceptual tool and may find the images acceptable for 
+858-8783 
+allows an incoming analog signal to be mixed onscreen 
+posite digitized; brushes can paint with any pattern 
+with the digital picture (genlock). 
+

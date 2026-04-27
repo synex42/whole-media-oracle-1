@@ -1,0 +1,286 @@
+—sB 
+rele s Dilemma 
+Two men suspected of committing a crime together are 
+arrested and placed in separate cells by the police. Each 
+suspect may either confess or remain silent, and each one 
+knows the possible consequences of his action. These are: 
+(1) If one suspect confesses and his partner does not, the 
+one who confessed turns state’s evidence and goes free and 
+the other One goes to jail for twenty years. (2) If both 
+suspects confess, they both go to jail for five years. (3) 
+If both suspects remain silent, they both go to jail for a year 
+fol carrying concealed weapons—-— a lesser charge. We will 
+sipeese rt there is no ‘‘honor among thieves’’ and each 
+Suspect 2 
+Confess 
+Do Not Confess 
+(5 yrs, 5 yrs.) 
+(go free, 20 yrs.) 
+(20 yrs., go free) 
+(lyr., lyr.) 
+POCKET CALCULATORS 
+uy 
+(FOUR-FUNCTION) 
+by Andrew Fluegelman 
+Confess 
+Suspect 1 
+Do Not 
+Confess 
+The recent electric pocket calculator phenomenon isn’t just 
+another consumer /ure. These machines offer significant 
+savings in time and accuracy, possibly even energy, they 
+te 
+good tools. (We found this out dramatically as we were 
+trying to settle on a distributor, printer and cover price for 
+the Epilog, and had to work through a maze of inter-related 
+and shifting parameters. It wouldn’t have been manageable 
+without the Texas Instrument Datamath TI 2500 a friend 
+lent us.) So we decided to look for the “best deal” in a 
+four-function calculator. 
+Our most significant discovery was that the industry and 
+the marketplace for personal calculators is currently ina 
+state of great turbulence: companies over-producing, under- 
+pricing, going out of business; wholesalers and retailers 
+buying up discontinued models in bulk; prices shifting 
+wildly (generally downward). It will all most likely settle 
+down within the next few years, but until it does, the best 
+deal is to be found not among the several calculators which 
+have managed to establish themselves (like the Datamath), 
+but among the victims of the exploding technology. What 
+foliows should help you in the selection process. 
+Since you can reasonably safely assume that any calculator 
+you buy will give the correct answer to the problem punched 
+in, what you should be looking for is the “right’’ combination 
+of capabilities. Here’s what we believe are the minimum 
+features required for a useful tool: 
+* 8-digit display—— Standard for most calculators. 
+This 
+_will let you calculate up to $999,999.99. Just 
+about all the significant places needed for most 
+problems. 
+* full floating decimal—— Lets you punch in “7”, "11.3," 
+and “00001” and get “’18.30001” as the total. 
+* algebraic logic (vs. “arithmetic logic” found in the 
+_ 
+__ cheapest models)—— Lets you punch in the 
+_ 
+problem the way you would “say” it. To test for 
+_ this, you should be able to subtract 3 from 5 by 
+: 
+pushing buttons marked, respectively, “'5","—", 
+"3" and “="" and get your answer. 
+* chain 
+and 
+mixed 
+calculations—— Lets you perform a 
+_ series of calculations in different functions without 
+_ intermediate totals. For example, you can punch in 
+NOM Wye gt nye gn Maen ugn Mon age aon 
+and get "4". 
+* constant mode—— Lets you multiply or divide by a 
+constant without having to key it in each time. 
+(A few calculators permit constant calculations 
+_ for addition and subtraction, too—— most don’t.) 
+“eee entry key—— Lets you clear the last entry punched 
+in without clearing the calculations preceding it. 
+(On some calculators, there is only one “clear” key; 
+pushing it once clears the last entry and pushing it 
+a second time clears all previous calculations.) 
+In addition to these basic features, there are two more found 
+on many calculators which greatly expand their usefu/ness: 
+* memory—— This is, in essence, a built-in scratch pad. 
+It lets you enter the answer into a separate circuit, 
+_ 
+to which can be added or subtracted the answers 
+from subsequent calculations. The total of the 
+“memory” can later be re-introduced into a still” 
+_ 
+subsequent calculation on the main curcuit. This 
+capability turns out to be very handy. 
+avertlo indication/retrieval—— Many calculators will 
+signal to you that your answer has exceeded the 
+digit display capacity of the calculator, and will 
+display only the most significant digits. Some 
+Pane you to successively divide this answer by 
+O until the decimal point appears, thus ce 
+Game Theory 
+(A Nontechnical Introduction) 
+Morton D. Davis 
+1970; 210pp. 
+$2.95 postpaid 
+from: 
+Basic Books, Inc. 
+Harper & Row 
+Keystone Industrial Park 
+Scranton, PA 18512 
+or Whole Earth 
+Morton Dae : 
+ee 
+ws 
+sear we 
+fe 
+suspect's sole concern is his own self-interest. Under these 
+conditions, what should the criminals do? The game is 
+shown in Figure 29. This is the celebrated prisoner's 
+dilemma which was originally formulated by A.W. Tucker 
+and which has become one of the classical problems in the 
+short history of game theory. 
+Let us look at the prisoner's dilemma from the point of 
+view of one of the suspects. Since he must make his 
+decision without knowing what his partner will do, he 
+must consider each of his partner's alternatives and anticipate 
+the effect of each of them on himself. 
+The most sophisticated form of overflow retrieval 
+lets you flip a switch and see the “lost” digits. 
+(There is also “underflow” indication and 
+, 
+retrieval—— a less commonly found feature.) 
+What we‘re describing here is the basic “four-function” 
+(addition, subtraction, multiplication, division) model. You 
+can also get calculators which automatically deal with and 
+compute powers and roots, reciprocals, logarithmic and 
+trigonometric functions, imaginary numbers, pi, and display 
+the answer in exponential form Also ones which compute 
+simple and compound interest, yields of bonds and annuities, 
+mortgage rates ana trend lines. Don't botner with these 
+“scientific” and “business” calculators unless you have a 
+specific need for the specialized functions. If you do, consider 
+carefully which mix of them will be most useful to you—— 
+and plan on spending several hundred dollars. 
+With regard to power source, it is important that the 
+calculator be able to run on AC current. Despite the fact 
+that one of the appeals of these machines is their portability, 
+you'll probably find that the majority of your “heavy” 
+calculating will be at a desk where plug-in power is available. 
+The portable power.sources for calculators are either 
+rechargeable nickel-cadmium batteries (built-in) or separate 
+replaceable batteries. Don’t automatically assume that the 
+rechargeable are the best bet. Once they’ve run down, they 
+require several hours to recharge. They also make the 
+calculator more expensive, (albeit more economical in the 
+long run if frequently used as a portable). Think about how 
+your calculator’s primarily going to be used, then consider 
+alternative costs, battery life expectancies. 
+Finally, consider the calculators “feel”. Are the buttons in 
+logical positions? On some models, the buttons make a 
+detectable “click” when they register, and this seems to aid 
+in accurately entering digits. Another consideration is the 
+size and legibility of the display. (Some people, generally 
+males, are color-blind to the red displays found on many 
+models.) 
+You're now ready to start shopping for your “best deal”. Go 
+to the most handy store and play with some of the “name” 
+brands: Texas, Bomar, Sharp, Commodore. (And check out 
+one of the Hewlett-Packards just to convince yourself that 
+all those extra functions are probably completely useless to 
+you, and only clutter the keyboard.) Then start looking for 
+special sales, close-outs, etc. that offer significant savings 
+over the name models, but keep in mind the essential 
+features listed above. 
+We wouldn’t recommend buying a close-out through the 
+mail. Many 
+retailers handling close-outs will offer a relatively 
+short-term replacement warranty, but not one covering long- 
+term repairs. Don’t be too concerned by this. The point we’re 
+HP-65: $795.00 
+Suppose his partner confesses; our man must either remain 
+silent and go to jail for twenty years, or confess and go to 
+jail for five. Or, if his partner remains silent, he can serve a 
+year by being silent also, or win his freedom by confessing. 
+Seemingly, in either case, he is better off confessing! What, 
+then, is the problem? 
+The paradox lies in this. Two naive prisoners, too ignorant 
+to follow this compelling argument, are both silent and go 
+to prison for only a year. Two sophisticated prisoners, 
+primed with the very best game-theory advice, confess and 
+are given five years in prison in which to contemplate their 
+cleverness. 
+It is when the “prisoner's dilemma” is played repeatedly—— 
+and not for a fixed number of trials but for an indefinite 
+period—— that the cooperative strategy comes into its own. 
+And these are precisely the conditions under which the 
+“prisoner's dilemma” is often played. Two competing firms 
+know that they won’t be in business forever, but they 
+generally have no way of knowing when death, merger, 
+bankruptcy, or some other force will end their competition. 
+Thus, the players can’t analyze what will happen in the 
+last ‘‘play’’ and then work backward from there, for 
+nobody knows when the last “play” will be. The compelling 
+argument in favor of the uncooperative strategy breaks down, 
+then, and we breathe a sigh of relief. 
+trying to make is that the calculator vou buy this year isn’t a 
+life-time investment. Be satisfied with a serviceable cheap one 
+that will see you through until the technology and the 
+marketplace are refined and stabilized. We're just a few years 
+away from programable pocket computers. 
+(After looking around for a month or so, we finally came 
+across a close-out of an admittedly chintzy-looking calculator 
+that nevertheless performs all the tunctions listed above 
+(rechargeable batteries)—— for $39.95. Comparable name- 
+brand models were selling at the time for about $100. Expect 
+the prices of even the name brand models to have dropped by 
+the time you're reading this.) 
+SCIENTIFIC CALCULATORS 
+In 1972, Hewlett-Packard Corporation introduced the HP-35 
+and virtually inaugurated an industry. They now have four 
+models of (expensive) advanced pocket calculators, which 
+set the standards against which lesser-priced competitors are 
+measured: 
+* The HP-35 has a four-resigter operational stack (see below) 
+and a separate storage register; is pre-programmed for 
+the four arithmetic functions, the three trigonometric 
+functions and their arcs (in decimal degrees), common 
+logarithms and natural logs and anti-logs, reciprocals, 
+square root, any power of a number and pi. It 
+currently sells for $225 (the price having been driven 
+down by the introduction of HP’s subsequent models). 
+* The HP-45 augments the -35 with nine addressable storage 
+registers and a separate “‘last-in’’ register; performs the 
+trig functions in degrees, radians or grads and can 
+convert the answers to degree/minute/seconds; adds 
+to the -35’s pre-programmed functions natural anti- 
+logs, rectangular/polar coordinate conversions, vector 
+arithmetic, statistical mean, standard deviation, sum- 
+of-the-squares, factorial, percent and delta percent, 
+and. metric conversion constants. Current price: $325. 
+* The HP-65 contains a 100-step program memory, 51 
+pre-programmed functions, and a magnetic card reader 
+/writer which permits pre-recorded programs 
+(available from HP) to be inserted into the calculator 
+and keyboard-originated programs to be recorded, 
+edited and re-used. HP heralds it as the first Personal, 
+programmable computer. Price: $795. 
+* The HP-80 is a financial calculator with 36 functions, 
+including bond yield and price, compound interest, 
+mortgage payment, rate of return, trend lines, accrued 
+interest, discounted notes, annual yield, annual 
+Percentage rate, mean and standard deviation, and 
+a 200-year calendar. $395. 
+All of the HP's have a 200-decade range (10°99 to 1099), 
+expressable in up to 10 significant digits. The HP’s also 
+employ “Reverse Polish Notation”. Basically, this means 
+that there’s no “‘="" key. Numbers are “‘entered”’ into an 
+operational stack; operations are then performed on the 
+numbers in the stack. The answer from an operation is 
+automatically loaded into the stack. (To add 3+4 you would 
+key in “3", “ENTER”, “4”, “+" whereupon the answer 
+“7'' would appear. To then multiply this sum by the sum 
+of 5+6 you would next key in “5”, “ENTER”, 6", “+’’—— 
+obtaining the second sum, and finally ‘’x’’—— obtaining the 
+product of the two sums.) For relatively straightforward 
+calculations, a calculator employing algebraic logic and a 
+memory is decidedly simpler to use; however, the superiority 
+of calculators with RPN logic becomes evident in long 
+calculations which contain multiple parenthetical 
+expressions. 
+You can expect the prices of these advanced calculators to 
+drop as new models are introduced and the competition 
+increases. There are presently a large number of calculators 
+which contain less exhaustive arrays of scientific functions 
+and which sell for $100-$150. Your first step in choosing a 
+scientific calculator should be sitting down and figuring out 
+what types of problems you're going to be using it for. Then 
+pay for only what you can use. 
+\ 
+SNO
+

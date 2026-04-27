@@ -1,0 +1,286 @@
+Se 
+a 
+eee 
+eC 
+a 
+a 
+a 
+ee 
+ree 
+ee 
+Cybernetic Serendipity 
+This book started life as an exhibit at the 
+Institute of Contemporary Arts in London 
+last year. Simultanéously it was an issue of 
+Studio International magazine. /t.must have 
+been an Event. Certainly-it is the best 
+collection of computer art yet, the only one 
+not dismissable as engineers kidding them- 
+selves. 
+There’s been talk for years (e.g. The 
+New Landscape, 7956) of how art and science 
+are gonna come together, and indeed 
+communications have improved. But there 
+was no direct avenue, no real mutual domain. 
+Not until computers got common enough for 
+funky hands to lay hold of them to do tricks 
+for funky heads. 
+That’s happening now, and 
+this book is good evidence. Ahead, deep space 
+—SB 
+3 Poem 
+(Art, if you want a definition of it, is criminal 
+action. 
+It conforms to no rules. Not even its own. 
+Anyone who experiences a work of art is as guilty 
+as theartist. 
+It is not a question of sharing the 
+guilt, Each one of us gets all of it.) 
+Desk-top Calculators 
+The Hewlett-Packard 9100A is now $4400. 
+If you have to deal 
+with problems which require a considerable capacity then the Wang 
+- 
+700 should be a great deal better than the HP since its total memory 
+under program control (core plus tape) will be about 70 times as 
+much as HP’s. For people that order a 700 before it is being pro- 
+duced Wang loans a 370 with two card readers, a system which in 
+some ways is already better than the HP. Such a 370 system costs 
+$4700. Deficiencies of 370 compared with HP: 
+Much slower 
+Does not have wired in programs for trig functions and some 
+other functions (but programs can be fed in on cards) 
+Can not handle as wide a range of numbers (only from about 
+10-19 to 1079 instead of nearly 10-1909 to 10+7100) 
+Much less convenient to write and correct programs 
+Results of a computation cannot be read out onto a magnetic 
+card or tape for later use (this can be done on the HP 
+altho the salesman may not realize it) 
+Notas good a display 
+Advantages of 370 compared with HP: 
+Greater capacity (28 registers com- 
+pared to 719 for HP with no 
+program, with 160 step 
+program 370 still has 28 
+registers but HP has only 7 
+—160 steps is maximum 
+size program for 370 with 
+two card readers without 
+feeding cards in manually, 
+compared to 196 for HP 
+but another card reader 
+would bring it up to 240) 
+Ability to use subroutines (but 
+not subroutines within 
+subroutines)—with HP a 
+subroutine must be 
+rewritten every place it 
+is used in the main program 
+thus using up precious 
+capacity. 
+The 700 should be as good or better in all 
+these respects, except the display, as well 
+as having some other big programming 
+advantages—particularly indirect addressing 
+of registers in which the computer decides 
+which register to go to thus saving much 
+capacity as well as making programs easier 
+to write. 
+[Reviewed by Craige Schensted, 1969] 
+Note: Wang 700 is now discontinued: 
+Computers 
+Communications 
+4 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+Hewlett-Packard Model 91U0A Culeulator keybonrd and des; 
+coordinate transformation functions of feft 
+Cybernetic Serendipity 
+1969; 100 pp.; 260 illustrations 
+OUT OF PRINT 
+from: 
+Frederick A. Praeger, Publisher 
+111 Fourth Avenue 
+New York, N. Y. 10003 
+or WHOLE EARTH CATALOG 
+1 Poem 
+eons deep in the ice 
+| paint all time in a whorl 
+bang the sludge has cracked 
+2 Poem 
+eons deep in the ice 
+| see gelled time in a whorl 
+pffftt the sludge has cracked 
+all green in the leaves 
+| smell dark pools in the trees 
+crash the moon has fled 
+Studie International epecial issues 
+2s 
+3 Poem 
+all white in the buds 
+| flash snow peaks in the spring 
+bang the sun has fogged 
+To co-operate Or even to orient themselves and to 
+engage their programmes, the mobiles must 
+communicate. They do so in a simple but many- 
+levelled language of light flashes and sounds. You 
+may engage in this discourse if you wish to, though 
+your goals may be alien to the goals of the mobiles; 
+for example, you might be trying to achieve a 
+configuration that you regard as pleasing. 
+Data Study 
+Information that isn’t organized isn‘ signal in your life, it’s 
+noise.. You waste yourself searching the full length of a file 
+for something, feeling as stupid as a driver in crosstown New 
+York, and for the same reason: your access is brute linear 
+and laborious. 
+This book can help you if not New York. It 
+j 
+presents theory and practice on how to keep stuff straight, 
+a 
+at least in terms of organization. Display is another matter, 
+however, in which the information sciences are still poor. 
+J.L.Jolley. 
+Data Study 
+$288 
+Data Study 
+J. L. Jolley 
+1968; 254 pp. 
+$2.45 postpard 
+from: 
+McGraw-Hill Book Company 
+Princeton Road 
+Hightstown, N. J. 08520 
+Manchester Road 
+Manchester, Missouri 63062 
+8171 Redwood Highway 
+Novato, California 94947 
+or WHOLE EARTH CATALOG 
+The decimal system of numerals begins with 0, if its ten characters 
+are arranged in ascending order. Binary, octal, and other systems 
+also begin with 0, for O is the origin, zero, the place we start from be- 
+fore some change in the situation gives us some information. 
+| 
+e 
+ri 
+Information, whose handling is the topic of this book, is generated by 
+change, and whatever is our unit of change is our unit of-information. 
+“ amutually 
+exclusive set 
+set 
+hotel is : 
+hotel possesses : 
+hotel is: 
+hoteihas: 
+— 
+in France 
+a ballroom 
+more than 50 
+first class food 
+in Spain 
+tennis courts 
+- 
+years old 
+excellent 
+in the United 
+a swimming pool 
+more than 100 
+cuisine 
+States 
+a bowling green 
+years old 
+top quality 
+in Germany 
+a skittle alley 
+more than 200 
+refreshments 
+in Switzerland 
+a golf course 
+years old 
+an overlapping 
+a cumulative 
+an equivalent 
+i 
+set, >’ 
+(identical) set 
+Running cola is Africa 
+A sustained image of the visual world around us is 
+maintained by the brain’s continual coordination of 
+a great flux of varying sensory input. Much of this 
+co-ordination is achieved by the series of voluntary 
+and involuntary eyemovements which serve to scan 
+the image of the pattern across the retina. When 
+these eyemovements are eliminated or controlled,a 
+remarkable collapse of the perceptual process 
+occurs in which visual patterns disintegrate—but in 
+non-random fashion, and according to-‘rules’ which 
+appear to be common to all humans, The device, 
+which we have called the CY BERNETIC 
+INTROSPECTIVE PATTERN—CLASSIFIER— 
+because that is as good a description as any—is not 
+really the exhibit itself: 
+it is by means of this 
+device that the human brain can be turned into it: 
+own exhibit. People looking into the CIPC will be 
+given a brief, bright flash of a pattern which plants 
+an image on the retina in such a way that it can be 
+seen, with eyes closed, for one or two minutes. 
+Since the image is fixed on the retina,.eye movements 
+are irrelevant, and the perceptual system collapses 
+as described above. The pattern can be seen to 
+fragment and change its form, ahd these forms are 
+probably the basic perceptual units used by the 
+brain in recognising the pattern. This exhibit 
+therefore allows people to watch’ their own cerebral 
+processes actually in action. 
+9.094 
+Risss9ees 
+* 
+1.206 
+Hyperbolic, trigonometric, oad 
+programming functions right. Display is decimal. 
+Hewlett-Packard information from: 
+P. O. Box 301 
+Loveland, Colorado 80537 
+Intelligent Computers 
+I've been bumming around the country lately, trying to see where | 
+would lead me. And or course one of the places | eventually would 
+up was inside my own head, the primary content of which is a lot of 
+scientific information that I'd never really sorted through before. 
+My-latest flash was about computers, which | do know a little about 
+already. Specifically about intelligent computers, which nobody 
+knows anything about. 
+It involved assembling what | know about 
+neurochemistry (my main,field of scientific interest) with a lot of 
+stuff about animal behavioral psychology and the history of the de- 
+velopment of mathematics.and a dash of Zen. The result was that | 
+scared the shit out of myself and quit before | had translated it all 
+into machine language, which | don't know anyway. 
+The point is that it is too valuable to lose and too powerful tolet 
+~ 
+-—| 
+1BM or the Pentagon come up with it on their own, especially since 
+it looks like the only way an intelligent computer could remain sane 
+would be if it believed itself to BE. the planet earth. 
+| would like to sit down with a bona fide computer genius with an 
+island psychology and a bit of stock in the human race and try to work 
+| 
+this thing through with him. 
++ 
+i 
+Ken Colstad 
+- 
+| 
+Hardin, Montana 
+I know just the man. Ken Colstad, — S.B. 
+| 
+Wang information from: 
+Wang Laboratories, Inc. 
+836 North Street 
+Tewksbury, Mass. 01876 
+

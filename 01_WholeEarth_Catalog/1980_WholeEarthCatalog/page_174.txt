@@ -1,0 +1,315 @@
+= al 
+Explaining Energy 
+Just that, and very well done, too. 
+| recommend it highly 
+not only to the outsider, but to the insider as well. 
+The 
+various controversies seem to be fairly dealt with 
+despite the publisher being the Berkeley “Rad Lab.” 
+ll nominate this paper as the best introduction to the 
+subject I’ve seen so far 
+Lee Schipper is a man to watch; 
+his work is seen more and more often where people are 
+trying to find the facts needed for good decisions. 
+—J. Baldwin 
+Explaining Energy 
+(A Manual of Non-Style 
+for the Energy Outsider 
+Who Warts In!) 
+Lee Schipper 
+Lawrence Berkeley 
+Laboratory 
+1976; 72 pp. 
+(No. LBL 4458 
+ERG 7604) 
+$8 postpaid from: 
+NTIS 
+U.S. Department 
+of Commerce 
+5285 Port Royal Road 
+Springfield, VA 22161 
+AUTOMOBILES 
+BUSES MOTORCYCLE TRAINS 
+AIRPLANES 
+eH 
+| 
+Energy consumption of 
+| 
+various transportation 
+modes. 
+apie vor 
+Thovsonds 
+of 
+BTUs 
+per 
+it 
+NOL 
+LYAuGaSHYe 
+United States energy use 
+potential savings. 
+Energy Basis for Man and Nature 
+The Odums’ great contribution has been “‘net energy 
+accounting,” called “energetics.” The idea is, you check 
+how much energy goes into mining oil shale or into 
+making a solar collector and compare that with the energy 
+output. Many such energy “sources” turn out to be 
+energy losers rather than gainers. 
+(By such accounting 
+the most efficient solar collectors by far turn out to 
+be plants.) 
+Using their elegant notation for energy cycles, you 
+can convince even politicians of the hidden wisdom or 
+unwisdom of various energy paths. 
+Since 1973 we have 
+been given an energy X-ray of our economy by the 
+historic events around oil pricing. 
+This book and Howard 
+Odum’‘s more technical and earlier Environment, Power, 
+and Society are the kindly doctor showing what the X-ray 
+means and what to do about it. 
+/n the world of energy, this book is about how to think. 
+(The Odums’ ideas about information — “high quality 
+energy 
+— are not as convincing.) 
+—SB 
+Energy Basis for 
+Man and Nature 
+Howard T. Odum and 
+Elizabeth C. Odum 
+1976; 297 pp. 
+$12.95 postpaid from: 
+McGraw-Hill Book Co. 
+Princeton Road 
+Hightstown, NJ 08520 
+or Whole Earth 
+Household Store 
+Solar heating of houses and water uses much fossil fuel 
+indirectly in the installations. Solar heaters have been 
+used for a long time in sunny climates. Figure a and b 
+compares a solar water heater and a fossil-fuel water 
+heater. 
+In this case solar energy is being used to make 
+low-quality heat energy. 
+In sunny climates, using some 
+sunlight along with fossil fuels, energy is saved by solar 
+heaters as compared with electric and gas water heaters. 
+However, solar heaters use much more fossil fuels than 
+solar energy when they are compared on an equal-quality 
+basis (fossil-fuel equivalents). No net energy is yielded. 
+Single-Bladed 
+Three-Bladed 
+Me 
+Savonius 
+Mul-Bladed 
+Cupped 
+hee 
+Raleetoe 
+Bicycle 
+PRIMARILY LIFT-TYPE 
+Multi-Bladed 
+Multi-Bladed 
+& 
+} 
+9) | an 
+?D > 
+? 
+@Darrieus 
+A-Darrieus 
+Giromilt 
+Turbine 
+Ses 
+pom wiod 
+J 
+Sail Wing 
+COMBINATIONS 
++ 
+feat 
+nig 
+\ 
+ze 
+| 
+8 
+® Split Savonius 
+end 
+Counter-Rotating 
+Savonius/@Darrieus 
+Blades 
+Unconfined Vortex 
+# 
+Mult-Rotor 
+OTHERS 
+4 tt 
+Ly es 
+1 
+: 
+i 
+Cross-wind 
+Cross-Wind 
+Diffuser 
+Concentrator 
+‘Savonius 
+Paddles 
+Deflector 
+Sunlight 
+Venturi 
+Confined Vortex 
+Wind Machines Taxonomy “ 
+Energy Earth and Everyone 
+This book is very different from any other energy book 
+we know of, in that it not only explains, but quantifies 
+and prescribes. 
+If energy is your interest, you really should 
+have one of these at hand. 
+The new 1980 edition brings 
+the contents up to date. 
+—J. Baldwin 
+Energy Earth 
+and Everyone 
+_ 
+(Energy Strategies for 
+Spaceship Earth) 
+Medard Gabel and the 
+World Game Laboratory 
+1975, 1980; 264 pp. 
+$6.95 postpaid from: 
+Doubleday and Company 
+501 Franklin Avenue 
+Garden City, NY 11530 
+radio set 
+array of thermocouples 
+with hot ends near flame 
+/| 
+] } 
+teads to 
+radio set 
+metal 1 
+/ 
+cold 
+junction 
+or Whole Earth 
+Household Store 
+current flows 
+oil lamp 
+V 
+metal 1 
+hot junction 
+A heat 
+y 
+T 
+Nitinol hasa seemingly unique property fora solid metal: 
+A simple Russian thermoelectric device was used during 
+it bends easily when cooled and springs back to its original 
+the 1930s and 1940s to power radios. 
+It was a thermopile 
+shape when warmed. This “shape memory,” or ability 
+— thermocouples connected in series to give the necessary 
+to resume an original shape after being deformed, can 
+voltage — with the hot junctions heated by an ordinary 
+potentially be harnessed for power. One scheme for such 
+oil lamp. 
+a purpose developed by Ridgeway Banks at Lawrence 
+Radiation Laboratory in Berkeley, uses the unique 
+physical characteristics of nitinol inan engine. The 
+engine is a spoked wheel with 20 u-shaped stripes of 
+Nitinol Engine Schematic? 
+a 
+“| 
+foe! 
+nitinol hanging from individual spokes. When the wheel 
+4s 
+ta 
+S 
+Walacinpot 
+is lowered into a round pan divided into semi-circles of 
+e 
+hot and cold water, it begins rotating because one set of 
+wires are cold and go limp, while the others — those 
+Passing through the hot water — “‘fire’’ with a piston- 
+like motion, thereby driving the wheel around. Power 
+output of this first prototype has been measured at .23 
+watts. This type of engine could make use of numerous 
+sources of waste heat, as in nearly all current power 
+production plants and other natural sources that previously 
+have been unsuitable for tapping. 
+not bath 
+Advantages 
+1. There is no direct fuel consumption with a nitinol 
+engine (though heat is ““consumed’’). 
+2. There are no by-products from the power production 
+— such as air or water emisisions. 
+Disadvantages 
+1. Current nitinol engines have low power output. 
+2. Engines are only at prototype stage; there is as yet no 
+information on size limitations and capabilities. 
+drains 
+Purchase of 
+equipment, 
+maintenance 
+Transformations 
+in main 
+economy 
+Buying 
+| 
+at 
+Eame tt retires) 700-4) ) 
+eal 
+s 
+Equipment 
+for storage 
+----|----- —~<--$ 
+LEON 
+\ 
+: 
+~a-=-45e5----<--38 
+Hot water 
+(Water } 
+Hot water 
+touser 
+J 
+to user 
+~~ 
+Depreciation 
+(a) 
+(b) 
+“4 
+hy 
+i 
+igh 
+i 
+i 
+: 
+i 
+f (a) 
+Capital costs at the start are high in terms of money and 
+Energy flows in solar technology: 
+comparison o 
+7 
+i 
+i 
+ter, after the heater has run 
+solar water heater and (b) fossil-fuel (gas) water heater. 
+Fab liog 
+Spm ot Pac 
+batho 
+atl 
+Numbers are thousands of Calories per year (fossil-fuel 
+for several years. One unanswered question is this: Would 
+i 
+y 
+h 
+systems 
+more energy have been saved if fossil fuels had been put 
+equivalents). (Zuchetto and Brown, 1975.) Both 
+sy 
+use fossil fuel indirectly to supply and maintain equip- 
+into something else rather than into solar water heaters? 
+ment. The solar heater takes more equipment but uses 
+As the energy for required materials becomes more costly, 
+less fuel directly. The fossil-fuel heater involves less 
+technology for solar heating will also become more costly. 
+equipment and storage and less depreciation but requires 
+One concludes that there are ways to conserve energy 
+the purchase of fuel. 
+using solar technology, but solar technology is not a 
+source of energy for running our economy generally. 
+

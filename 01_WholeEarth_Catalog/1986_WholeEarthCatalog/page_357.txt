@@ -1,0 +1,174 @@
+URS Geswwinag stews bopw psp ate KU vewns tececteroan ated seeage Geers orgaewent Ox Oortemone UAT 
+FOR ARORES Fy 
+Chie Cress Feteronce 
+oe Bah Watt Loree 
+Maarrofs 
+Fi 
+Ceormnd Noor 
+Fhe Kubser, 
+c Seerey Reraattns 
+Sysmmaiad Laakekes, 
+The Plain English Repair 
+and Maintenance Guide for 
+Home Computers 
+For fiddling with your hardware, get this cheerful, excellent 
+guide. Detecting a problem in your mysterious computer 
+and fixing it is a coming-of-age, a departure from 
+helplessness. 
+—Stewart Brand 
+IBM PC-compatible owners should get the special edition 
+targeted for them. 
+—Art Kleiner 
+One sick chip can 
+/* 
+infect all others thet are log- 
+ically connected to it “downstream” 
+COMMUNICATIONS 
+COMPUTER HARDWARE 
+Through the MicroMaze 
+This is the introductory computer book I’ve been waiting for. Its subject 
+is the setting up of your personal computer scene — that two-week 
+obstacle that keeps the almost-ready-to-jump from jumping. How to lay 
+out your work area, how to hook everything up, how to get fluent in the 
+fundamentals of your computer's operating system. With color pictures, 
+clear diagrams, and really sensible advice, this book is a comfort and 
+a blessing. 
+—Stewart Brand 
+This drawing shows how to get all your hardware and storage needs 
+organized for convenient use. 
+INSIDE A FLOPPY DISKETTE DRINE 
+Index emitter (Works with 
+Disk hub.... o (J 
+index detector below disk.) 
+ry 2 : — Write- protect switch 
+Disk Spindle 
+2: 
+NC. 
+Head assembly 
+Drive 
+and band drive 
+motor 
+0 Index detector 
+<4 
+Substitution of ICs without 
+removing originals. 
+If you suspect that a chip is 
+defective, je Sealey 
+a 
+«press another of the same 
+PIGEY BACKING 
+type over it. This is called 
+“‘piggybacking’’ (big surprise!) and is a handy trouble- 
+shooting technique if you have a stock of chips on hand. 
+Here’s how to do it: 
+a. Turn off power. 
+b. Carefully bend the new chip leads in slightly so that 
+each will contact its mate on the original chip. 
+Computer Magazines 
+For learning about fast-changing computers, magazines 
+are essential. InfoWorld, the traditional microcomputer in- 
+dustry bible, is declining slowly but definitely from a 
+finder for the computer-literate public to a trade gossip 
+sheet. We still recommend it — for now. Computer Shop- 
+per is like hunkering down at a computer swap meet — 
+gritty, technical, hacker-ish, and full of tiny ads. It lists all 
+the known active user groups and computer bulletin 
+boards in each state. It’s about the only place that talks 
+about “orphaned” computers, discontinued models such 
+as the Timex Sinclair that are still being widely used. 
+—Art Kleiner 
+e 
+According to the report, which compiled the results of 
+tests and surveys from 123 various research groups 
+worldwide, a person takes 20 percent to 30 percent 
+longer to read text from a computer screen than to read 
+the same text on paper, despite improvements in the 
+design and resolution of screens. The report also con- 
+cludes that users are less able to detect typographical 
+The largest all-computer bookstore in the land is 
+Computer Literacy Bookshop, 520 Lawrence Expressway, 
+Suite 310, Sunnyvale, CA 94086; (408) 730-9955. They 
+carry over 9,000 titles, many of them for professional 
+computerists. 
+errors on a computer screen, said Carol Mills, director of 
+the Usability Test Laboratory for the Institute. 
+—InfoWorld 
+For on offer you can? rsfse 
+... 
+Bulletin Boards: lowa 
+ABBS Apple-Med.. Jowa City. IA 319-353-6528 
+COMPUCENTER 
+IOWA 319-338-2750 
+300/1200 Baud 
+Upload/Download 
+COMPUCENTER 319-338-2750 300/1200 BAUD °24 
+THE COMPUTER CELLAR Cedar Falls, IA 319-277-0646 
+DICK DAVIN REALTY Jowa City. IA 319-338-3947: 300/1200 
+BAUD °*24 
+IBM PC Cedar Rapids. 1A 319-363-3314 °24 
+SUNSHIME BBS/EXCHANGE, DUBUQUE. IA 319-557-9659 
+used computer 
+CADICATE 
+$$$$ | BUY, Sell, Trade Apples. Godfather’s 
+Used Computer Syndicate, PO Box 3037, 
+1154 W. SR 436, Forest City, FL 32714. 
+305-774-1111. 
+6-82. 
+Several Tucson cave divers have put me onto the ultimate 
+mouse working surface. 
+Besides being cheap and easy to get, it beats just about 
+all the commercial products whiskers down. 
+So, run down to your friendly neighborhood divers supply 
+or scuba shop, and get yourself some 1/8 inch or 1/4 
+inch nylon wetsuit material. 
+Cost is around a dollar per square foot, and you use it 
+fuzzy side up. It even comes in decorator colors. You can 
+cut it with plain old scissors. 
+—Computer Shopper 
+Computer 
+Shopper 
+InfoWorld 
+Stan Veit, Editor 
+Jonathan Sacks, Editor 
+$1 Siyear 
+$39 ear 
+(12 issues) from: 
+(51 issues) from: 
+Patch Publishing Co., Inc. 
+InfoWorld 
+P. O. Box F 
+P. O. Box 1018 
+Titusville, FL 32781-9990 
+Southeastern, PA 19398 
+355 
+Through the 
+MicroMaze 
+Wayne Creekmore and 
+Stephanie Behasa 
+1984; 64 pp. 
+$9.95 
+($11.95 postpaid) from: 
+Ashton-late 
+Publication Group 
+20101 Hamilton Avenue 
+Torrance, CA 90502 
+i 
+or Whole Earth Access 
+The Plain English 
+Repair and 
+Maintenance 
+Guide for Home 
+Computers 
+Henry F. Beechhold 
+1984; 265 pp. 
+IBM PC version: 
+Henry F. Beechhold 
+1985; 258 pp. 
+S1 4.95 each postpaid 
+Both from: 
+Simon & Schuster 
+Mail Order Sales 
+200 Old Tappan 
+Old Tappan, NJ 07675 
+or Whole Earth Access 
+

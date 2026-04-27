@@ -1,0 +1,172 @@
+166 COMPUTER TOOLBOX 
+Ten Paths to Computer 
+Purchases 
+by Art Kleiner 
+HE NEWS ABOUT personal computers 
+begins with shopping news. For between 
+$1,500 and $2,500, including software, you can 
+buy an “XT Clone” or “AT Clone” — imita- 
+tions of IBM computers which provide many — but far 
+from all — of the clerical; creative, and communicative 
+tools that a personal computer can offer. You can use 
+such a clone to automate the drudgery of routine clerical 
+work; to manipulate the fine-grained grids of probabili- 
+ties and statistics; to write in a facile, intuitively correct 
+way; and to seek out computer-based information and 
+textual conversations on a broad variety of topics 
+through the phone lines. But you can’t use this sort of 
+clone without devoting a few months to learning its 
+arcane peculiarities, and it can’t (without difficulty) deal 
+with such niceties as typefaces and graphics. 
+To get a more “intuitively correct” system that meets 
+you halfway, you'll need between $2,500 and $3,500; 
+that gets you a Macintosh, with the ability to manipulate 
+sounds and black-and-white images, and investigate the 
+burgeoning arena of “information navigating” via 
+Apple’s HyperCard program. For $5,000 or more, you 
+can “desktop publish.” In other words, you can produce 
+publishable-quality page layouts and typesetting on your 
+own laser printer, which is a photocopier body con- 
+trolled by a computer brain. Beyond $6,000 and you’re 
+in the realm of intensely fast, intensely capable personal 
+computers that can store, say, complexly interwoven 
+data banks of text, numbers, and pictures, which even 
+room-sized computers couldn’t have handled a 
+decade ago. 
+But no matter what you use them for, at root personal 
+computers are tools for understanding the self. Even the 
+most straightforwardly businesslike program conducts 
+you into a miniature world, which is not physically real, 
+but which you often experience as if it were. A word 
+processor, for instance, starts as someone’s idealized 
+idea of a typewriter, but eventually becomes what com- 
+puter people call a “virtual” typewriting universe — 
+with extra capabilities that couldn’t exist in the real 
+world, and hidden shortcuts that you continue learning 
+about long after you begin using it. “Playing” the word 
+processor effectively, and customizing it to your own 
+taste, is often a matter of figuring out the right strategies 
+within the oh-so-complex, but nonetheless finite and 
+controllable, rules of the game. 
+Apple’s Macintosh family of computers has lately 
+gained enough popularity (among corporations, at least, 
+which are the largest and thus most influential computer 
+purchasers) to inspire a host of new software and 
+add-ons. Apple itself keeps upgrading and improving 
+its computer line; most recently with an operating sys- 
+tem called MultiFinder which allows you to work in 
+several programs at once, switching back and forth 
+between them. 
+Then there’s the advent of laser printers, which raised 
+many people’s standards of what a computer-printed 
+page should look like (this page was made on a laser 
+printer), and of compact disks feeding into computers 
+(called CD-ROMs in the trade), which may make pos- 
+sible the decades-old dream of keeping an entire library 
+in a shoebox. 
+Macintoshes are easier than most other computers to 
+learn to use, but even on the Mac, data management and 
+desktop publishing are prodigious endeavors. As for 
+IBM, it is indeed easy to send electronic mail on their 
+new computers, as long as someone has already set up 
+the system for you. Lord help the novices who set it up 
+for themselves. 
+Even if you don’t give your life over to learning to use a 
+computer, it will change your life irrevocably. Here, 
+organized along paths for different people and different 
+uses, are the tools for making sure that those changes 
+happen the way you want them to. 
+Path #1: For independent work (writing, small-scale 
+organizing, telecommunicating, research, etc.) at mini- 
+mum cost: XT Clone with hard disk. 
+The XT “clone” is the Gallo wine of computers. Its 
+major advantages: low cost and high adaptability. So 
+many people own the things that there’s a wide range of 
+available software and accessories that work together. 
+(This is also true of the far-less-capable Apple II and 
+Commodore 64 computers.) 
+The clone’s main disadvantage is its operating system, 
+MS-DOS; it’s too hard to learn and use, much too hard 
+to set up, too prone to crisis points where different 
+programs don’t work together and freeze the machine, 
+and too easy to make typing errors that destroy 
+your work. 
+Several hundred manufacturers — including Compaq, 
+Tandy, Leading Edge, and Hyundai — make XT clones, 
+but there is no need to buy a brand-name computer 
+unless you get a good deal. The best approach is to find, 
+by word of mouth, a local computer retailer who is 
+trustworthy and offers good prices. Shop locally; com- 
+puter chips and disk drives often develop flaws, and 
+local dealers are quicker to reach (and often more 
+responsible). 
+Buying a clone means confronting an overwhelming 
+array of choices. I recommend 640 kilobytes (“640K”) 
+of “Random Access Memory (RAM)’ — the 
+computer’s internal “attention span” for programs and 
+documents that it is working on at the moment. You 
+should also have a built-in clock, printer (“‘parallel’”’) 
+port, communications (“serial”) port, and at least one 
+20-megabyte (or larger) hard disk drive, for storing 
+programs and documents. 
+Path #2: For the same kind of independent work (writing, 
+small-scale organizing, telecommunicating, research, 
+etc.) without having to think too much about the 
+computer, or for anyone who needs black-and-white 
+graphics, at minimum cost: Macintosh SE with built-in 
+hard disk and Imagewriter. 
+The Mac operating system employs a “desktop” meta- 
+phor where every program and document is represented 
+by a small image (an “icon’’) superimposed on a rec- 
+tangle (the ““desk’’). You use the mouse (it comes with 
+the Mac), to point at different parts of the screen, to 
+click on different onscreen “buttons” with commands 
+attached, and to grab hold of an onscreen image and 
+move it somewhere else. To delete a file, for instance, 
+you don’t type DELETE; you grab its onscreen icon and 
+move it over to a little picture of a trashcan. 
+Even the Mac’s floppy disks are better. Small enough to 
+fit in a shirt pocket and encased in a plastic covering, 
+they’re far less fragile and hold more than twice as 
+much as an IBM floppy. 
+But consistency is the real Macintosh boon. No matter 
+what type of program you use, you know that its menus 
+will appear at the top of the screen, and that the first 
+menu, invariably marked File, will open and close 
+documents. Moving text from one part of a document to 
+another works the same way in nearly every program. 
+Desk accessories, which conflict chaotically on XTs, 
+work together on the Mac. Even printers, the traditional 
+gremlin of compatibility, fall into line; if one program 
+works with a printer, so does every program. Thus, not 
+only are most Mac programs easier to learn, but Mac 
+users avoid most of the setup hassles endemic to 
+XT clones. 
+Is all this worth the extra $1000 or so to get equivalent 
+computing power on a Mac? If you use black-and-white 
+graphics regularly, at this moment you have no choice: 
+graphics programs exist for XTs and ATs, but they 
+either require thousands of dollars worth of special 
+hardware, or dozens of hours of special setup. If you’re 
+new to personal computing, or employ novices, you 
+could save $1000 in training and setup costs (though not 
+for Desktop Publishing or Data Base Management). 
+Macs also have a more intangible appeal: they represent 
+the future. Interesting new software seems to show up 
+there first. 
+Path #3: For independent work (particularly writing and 
+number-shuffling) with high-quality printing: XT Clone 
+with hard disk and HP-compatible laser printer. 
+Unlike the abominable “tractor feeds” of regular print- 
+ers, laser printers feed paper like photocopiers; you 
+dunk a bunch of paper in a paper tray and the printer 
+handles it. But the main difference is the text of your 
+printed page. It’s as readable as the page of a book, far 
+more readable than even the best typewriter. 
+This path contains everything in path #1 except the need 
+for a superior word processor. Only a few writing pro- 
+grams can master the niceties of laser printing. Those 
+that do include MICROSOFT WORD (if you like using 
+a mouse) and XYWRITE III (if you telecommunicate 
+your text as well as laser-print it). 
+

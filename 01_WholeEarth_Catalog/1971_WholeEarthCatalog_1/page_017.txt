@@ -1,0 +1,297 @@
+Synthesis of Form 
+Christopher Alexander is a design person that 
+other design people refer to a lot. This book 
+deals with the nature of current design prob- 
+lems that are expanding clear beyond any 
+individual’s ability to know and correlate all 
+the factors. The methodology presented here 
+is one of analysis of a problem for misfits and 
+synthesis of form (via computer-translatable 
+nets and hierarchies) for minimum misfits. 
+—SB 
+[from the table of contents] 
+2. Goodness of Fit 
+15 
+3. The Source of Good Fit 
+4. The Unselfconscious Process 
+5. The Selfconscious Process 
+28 
+46 
+55 
+But if we think of the requirements from a negative 
+point of view, as potential misfits, there is a simple 
+way of picking a finite set. This is because it is 
+through misfit that the problem originally brings 
+itself to our attention. We take just those relations 
+between form and context which obtrude most 
+strongly, which demand attention most clearly, 
+which seem most likely to go wrong. We cannot do 
+1964; 216 pp. 
+better than this. If there were some intrinsic way of 
+; 
+reducing the list of requirements to a few, this would 
+$2.25 postpaid 
+mean in essence that we were in possession of a field 
+fant: 
+description of the context: if this were so, the prob- 
+lem of creating fit would become trivial, and no long- 
+er problem of design. We cannot have a unitary or 
+field description of a context and still have a design 
+problem worth attention. 
+79 Garden Street 
+NOTES ON THE 
+SYN 
+TEES 
+()|* 
+Notes on the Synthesis of Form 
+Christopher Alexander 
+Harvard University Press 
+Cambridge, Mass. 02138 
+or WHOLE EARTH CATALOG 
+IS 
+FORM 
+organized that adjustment can take place in each one of these 
+Indeed, not only is the man who lives in the form 
+the one who made it, but there is a special closeness 
+of contact between man and form which leads to 
+constant rearrangement of unsatisfactory detail, 
+constant improvement. The man, already respons 
+ible for the original shaping of the form, is also 
+alive to its demands while he inhabits it. And any- 
+thing which needs to be changed is changed at once. 
+A subsystem, roughly speaking, is one of the obvious 
+components of the system, like the parts shown with 
+acircle round them. 
+If we try to adjust a set of vari- 
+ables which does not constitute a subsystem, the re- 
+percussions of the adjustment affect others outside 
+the set. because the set is not sufficiently independent. 
+The procedure ot the unselfconcious svstem is so 
+subsystems independently. This is the reason for its success. 
+In the selfconscious situation, on the other hand, the de- 
+signer is faced with all the variables simultaneously. 
+The greatest clue to the inner structure of any 
+dynamic process lies in its reaction to change. 
+The Mousgour} cannot afford, as we do, to regard 
+maintenance as a nuisance which is best forgotten 
+until it is time to call the local plumber. It isin the 
+same hands as the building operation itself, and its 
+exigencies are as likely to shape the form as those 
+of the initial construction. 
+The selfconscious individual’s grasp of problems is 
+constantly misled. His concepts and categories, be- 
+sides being arbitrary and unsuitable, are self-perpet- 
+uating. Under the influence of concepts, he not only 
+does things from a biased point of view, but sees them 
+biasedly as well. The concepts control his perception of 
+of fit and misfit—until in the end he sees nothing but 
+deviations from his conceptyal dogmas, and loses not 
+only the urge but even the mental opportunity to 
+frame fis problems more appropriately. 
+The solution of a design problem is really only 
+another effort to find a unified description. The 
+search for realization through constructive diagrams 
+is an effort to understand the required form so fully 
+that there is no longer a rift between its functional 
+specification and the shape it takes. 
+Two misfits are seen to interact only because, in 
+some sense at least, they deal with the same kind 
+of physical consideration. ........ 
+It is such a physical center of implication, if | may 
+cali it that, which the designer finds it easy to grasp. 
+Because it refers to a distinguishable physical prop- 
+erty or entity, it can be expressed diagrammatically, 
+and provides a possible non-verbal point of entry 
+into the problem. 
+ce 
+The Sciences of the Artificial 
+Simon says: we have generalized methods of obtaining 
+elegant information from nature. We don’t have generalized 
+methods of making elegant things to aid to nature; we lack 
+a science of design. He’s right and he doesn’t waste much 
+time being right, but proceeds to make useful suggestions— 
+lots of them probably wrong and useful anyway. His notion 
+of sub-system stability in evolution /s beautiful. 
+SB 
+The Science of the 
+Artificial 
+Herbert Simon 
+1969; 123 pp. 
+$1 95 postpaid 
+from: 
+The M.1.T. Press 
+Room 765 
+50 Ames Street 
+Cambridge, Mass. 02142 
+or WHOLE 
+EARTH 
+CATALOG 
+description. 
+General Systems Yearbook 
+Good thinking, rotten publishing. 
+The usual graphic output 
+in this yearbook is three pallid diagrams. And you know that 
+the mothers who wrote the articles are forever whacking away 
+at their blackboards, but because typewriters don’t draw, all 
+that vivid stuff gets left in the author's private experience. 
+Man, there’s something suspect about General Systems Theory 
+if the practitioners are this far out of intelligent communica- 
+tion. Here’s part of the contents of a recent volume, which 
+may help to vindicate matters. 
+—SB 
+General Systems 
+Ludwig von Bertalanffy, Anatol Rapoport, 
+Richard L. Meier, eds. 
+$10.00 postpaid 
+per volume 
+from 
+Society for General Systems Research 
+rte Henry Building, Room 818 
+2100 
+Pennsylvania Avenue, N.W. 
+Washington, D. C. 20006 
+If a complex structure is completely unredundant—if no aspect of its 
+structure can be inferred from any other—then it is its own simplest 
+The Evolution of Complex Systems 
+Let me introduce the topic of evolution with a parable. There once 
+were two watchmakers, named Hora and Tempus, who manufactured 
+very fine watches. Both of them were highly regarded, and the 
+phones in their workshops rang frequently—new customers were 
+constantly calling them. However, Hora prospered, while Tempus 
+became poorer and poorer and finally lost his shop. What was the 
+reason? 
+The watches the men made consisted of about 1,000 parts each. 
+Tempus had so constructed his that if he had one partly assembled 
+and had to put it down—to answer the phone, say—it immediately 
+feil to pieces and had to be reassembled from the elements. The 
+better the customers liked his watches, the more they phoned him 
+and the more difficult it became for him to find enough uninterrupted 
+time to finish a watch. 
+The watches that Hora made were no less complex than those of 
+Tempus. But he had designed them so that he could put together 
+subassemblies of about ten elements each. Ten of these subassem- 
+blies, again, could be put together into a larger subassembly; and a 
+system of ten of the latter subassemblies constituted the whole 
+watch. Hence, when Hora had to put down a partly assembled 
+watch in order to answer the phone, he lost only a small part of his 
+work, and he assembled his watches in only a fraction of the man- 
+hours it took Tempus. 
+Most of the complex structures found in the world are enormously 
+redundant, and we can use this redundancy to simplify their 
+description, But to use it, to achieve the simplification, we must 
+find the right representation. 
+PART !. METHODOLOGY 
+Science and System: On the Unity and Diversity of 
+Scientific Theory 
+by Peter Caws 
+An Approach to General Systems Theory 
+by George J. Klir 
+Concerning the Analysis of Initial Principles and 
+Conceptions of Formal Logic 
+by G. P. Schedrovitsky 
+PART Il. CONTROL THEORY 
+Technosphere, Biosphere, and Sociosphere: An Approach 
+to Their Systems and Optimization 
+by J. H. Milsum 
+Representation and Analysis of Signals: 
+Statistical Estimation 
+of Intrinsic Dimensionality and Parameter Identification 
+by Gerard V. Trunk 
+Notes for a Generalized Theory of Interfaces 
+by E. Taschdjian 
+Toward a Theory of Teleogenetic Control Systems 
+by N. A. Coulter, Jr. 
+The Relevance of Arms Race Theory to Arms Control 
+by P. E. Chase 
+Uncoupling Spatial Systems 
+by Roslyn Lindheim 
+The Artifact as ‘Interface’ 
+We can view the matter quite symmetrically. An artifact can be 
+thought of as a meeting point—an ‘interface’ in today’s terms— 
+between an ‘inner’ environment, the substance and organization of 
+the artifact itself, and an ‘outer’ environment, the surroundings in 
+which it operates. 
+If the inner environment is appropriate to the 
+outer environment, or vice versa, the artifact will serve its intended 
+purpose. Thus, if the clock is immune to buffeting, it will serve as a 
+ship’s chronometer. 
+(And conversely, if it isn’t, we may salvage it by 
+mounting it on the mantel at home.) 
+| should like to point to evidence that there are only a few ‘intrinsic’ 
+characteristics of the inner environment of thinking man that limit 
+the adaptation of his thought to the shape of the problem environ- 
+ment. All else in his thinking and problem-solving behavior is 
+artificial—is learned and is subject to improvement through the 
+invention of improved designs. 
+Soe Stas 
+— I 
+D.R. was on his knees next to Estelle, digging in a duffle 
+bag. A light would have helped but Urge’s overhead light was 
+out, and D.R. didn’t know where the flashlight was. 
+“Here, honey, light this candle,” said Estelle, and she handed 
+him a candle. 
+But somehow climbing through the general debris to get to 
+the back, D.R. had lost the matches. 
+He yelled goddamn it! as 
+loud as he could yell. 
+“Shhh, honey, it’s all right. 
+What are you looking for?” 
+“I'm looking for the goddamn dope that | had in my goddamn 
+hand not six goddamn hours ago. 
+That’s what I’m looking for.” 
+And he lifted the duffle bag by its bottom and dumped its con- 
+tents on top of the other stuff already scattered over the mattress. 
+Estelle found a match and lit it. The whole wild interior of 
+the bus came alive for 
+a moment, but quickly began to fade. 
+“Give me the candle,” said Estelle. 
+"Where is it?” 
+“| handed it to you.” 
+D.R. felt around his knees and legs, and in the pile of stuff 
+he’d just dumped out. 
+But all he could find was a broken 
+screw driver. 
+He held it up, looked at it, then threw it as hard 
+as he could toward the front. 
+“Fuck it!” he yelled, and 
+strangled himself on the yell. 
+It was as if something had seized 
+his throat and choked him. 
+Falling onto his side D.R. grabbed 
+the handle of the side doors and threw them open, then tumbled 
+in a heap outside into the rain. 
+Estelle was out of her sleeping 
+bag by the time he hit the ground. 
+“Honey, what’s wrong?” 
+"1 can’t breathe!” he gasped. 
+“That space in that bus... 
+“Honey, it’s fine in here. Come on back in, you're getting 
+” 
+wet 
+D.R. got to his feet and tried to wipe the mud off his 
+knees. 
+But that only smeared it more. 
+"What a goddamn mess.” 
+“Get in, baby, lie down. 
+I'll drive awhile, and you can get 
+some sleep.” 
+D.R. did not seem persuaded, but he obeyed. 
+Estelle closed 
+the door behind him, then guided him toward the far end of 
+the mattress. 
+“Where's my sleeping bag?” D.R. asked. 
+"Get in mine. 
+Come on, now.” 
+“| want mine.” he whined. 
+“Where is it?” 
+“It's on the floor half full of pork and beans, that’s where. 
+Now come on back here.” 
+D.R. was too confused to argue. 
+Estelle pulled off his 
+sandals and got his feet pointed into the sleeping bag. 
+He 
+wiggled on down inside, feeling the dark warmth of Estelle’s 
+body become his own deep in the interior of the bag. 
+General Systems 
+Whole Systems 
+

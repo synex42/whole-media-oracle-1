@@ -1,0 +1,178 @@
+COMPUTER VIRUSES 
+lis 
+by Corinne Cullen Hawkins 
+Computer viruses, like their biological counterparts, trick 
+the host into reproducing copies of the invading organism. 
+They spread from computer to computer through elec- 
+tronic bulletin boards, telecommunication systems, and 
+shared floppy disks. Viruses are created by human pro- 
+grammers, for fun or malice, but once they begin to spread, 
+they take on a life of their own, creating disruption, 
+dismay, and paranoia in their wake. Here are some of the 
+more notorious and virulent viruses to date. 
+(C) Brain Virus — First sighted Fall, 1987 at University 
+of Delaware. It changes the volume label (the name you 
+give it) of a floppy or hard disk to (C) Brain. The boot 
+record contains a message: “Welcome to the dungeon 
+. 
+.. Beware of this VIRUS. Contact us for vaccina- 
+tion.” The message includes an address and phone 
+number of Brain Computer Services, acomputer com- 
+pany in Lahore, Pakistan, and the names of two broth- 
+ers, Basit and Amjad. 
+The virus marks some disk sectors as bad. It modifies 
+several command files, maybe all of them eventually, 
+without changing file sizes or dates. Even if the boot 
+sector is rewritten, the virus remains active through 
+the command files it modified. No known cure. 
+(comp.risks, April 5, 1988) This is the first virus to 
+infect an American newspaper’s computer system 
+(The Providence Journal-Bulletin). When the phone 
+number in Pakistan was called, the person who an- 
+swered expressed surprise that the virus had travelled 
+so far — and refused to give his last name. (New York 
+Times May 25, 1988). 
+Israeli Virus — First sighted by Yuval Rakavy, a student 
+at Hebrew University; 
+first mentioned publically in 
+“Maariv,” one of Israel’s daily newspapers, Jan. 8, 1988. 
+Designed to begin destroying files on May 13, and to slow 
+computer response on the 13th of any month. What called 
+attention to the virus was an error in the virus code itself, 
+which caused it to mistake previously infected programs as 
+uninfected. In error, it would add another copy of itself to 
+the program. Some programs were infected as many as 400 
+times and the growth in size of the program was noticeable. 
+This one was discovered before D-day, but it had infected 
+home, university, and military computers before it was de- 
+tected. 
+LeHigh Virus — First sighted on November 25, 1987 by 
+Jeffrey Carpenter. It attaches itself to a few lines of the 
+operating system used on the IBM PC’s that LeHigh 
+University provides for student use. It is a corruption of a 
+legitimate program, Command.Com, the basic boot-up 
+file of MS-DOS and PC-Dos. The virus doesn’t change the 
+length of Command.Com, which makes it more difficult to 
+detect. The virus destroys data on floppies and hard disks 
+by writing zeros to the first thirty-two sectors of a disk 
+(which erases the directory), making the data unrecover- 
+able. The virus waits until it has been copied four times 
+before it wipes out the data on the disk on which it resides. 
+MacMag Virus — First sighted by Chris Borton March 8, 
+1988. The virus was launched in December 1987 by 
+Richard Brandow, publisher of MacMag magazine in 
+GY yy) Montreal, Canada. The virus was designed to pop up a 
+message of peace on Macintosh screens on March 2, the 
+anniversary of the introduction of the Apple Macintosh SE 
+and Macintosh II. After March 2, the virus erased itself. 
+Although this virus was designed to be benign, ithad some 
+nasty side effects: it played havoc with users’ System 
+folders, resulting in thousands of hours of lost work. 
+The virus spread to Europe and the west coast and it is the 
+first virus to infect a commercial personal computer prod- 
+uct. It was inadvertantly passed to Aldus by Marc Canter, 
+president of MacroMind Inc. of Chicago. Mr. Canter’s 
+personal machine caught the virus, which was transfered 
+to training software he was writing for Aldus. Aldus 
+admits that the infected disk was copied for three days. 
+Half of the infected disks were distributed to retailers; the 
+other half are in Aldus’ warehouse. 
+MacMag Virus display. 
+Richard Brandow , Publisher of MacMag, and its entire staff 
+would like to take this opportunity to convey their 
+Universal Message of Peace 
+to all macintosh users around the world. 
+Click to continue 
+Written by: Drew Davidson 
+Bell Labs Virus — A compiler program (which translates 
+aprogrammer’s instructions into numbers that a computer 
+can read) had been altered so that it embedded a hidden 
+“trapdoor” each time it created a new version of the 
+operating system. The trapdoor altered the system so that, 
+in addition to normal users’ passwords, it would recognize 
+a secret password known only to one person. The instruc- 
+tions never showed up in the program listing — it was 
+undetectable through normal means. The virus never es- 
+caped Bell Labs. 
+MacInVirus — First known encounter by David Spector; 
+this virus was written by a West German and posted to 
+CompuServe in a HyperCard stack. 
+It’s a very simple 
+virus, easily defeated, just a few pages of Pascal and fifty 
+lines of assembly code. The virus is disguised as aresource 
+that inserts itself in a system trap handler (the place where 
+the computer catches errors so they won’t cause system 
+crashes). The virus destroys hard disks and the applica- 
+tions that run on them. 
+Atari ST Virus — First dissected March 22, 1988 by 
+Martin Minow. Once installed, this virus will copy itself 
+onto every non-write protected disk used. It tests an 
+uninfected disk to see if it contains the virus, replicates, 
+then it keeps count of how many times the disk is used after 
+that. When a certain limit is reached, the virus writes 
+random data across the central directory and file allocation 
+tables — which contain the map of unused sectors for the 
+disk, making it unusable. The virus then removes itself 
+from the damaged disk. The current virus doesn’t affect 
+hard disks. This virus may survive a reset. 
+As viruses have proliferated, so have vaccines, disin- 
+fectents, and other remedies. 
+Protec ($195 from Sophco. Inc., P.O. Box 7430, Boulder, 
+CO, 80306). 
+Asystem of programs that includes Vaccinate 
+— a virus, itself, which infects the host via the Syringe 
+program. It warns the user if a virus infection has occurred. 
+It also includes Canary — a quarantine program. When 
+new files are imported from an unknown source, a user 
+places the Canary program on a diskette with the suspect 
+files. If the Canary dies, a virus program is present. 
+Ferret — created by Larry Nedry and Scott Winders. 
+Notifys an infected user of the date that the Scores virus 
+installed itself. It’s helpful in determining where/how the 
+virus was picked up. Ferret is available on electronic 
+bulletin boards such as CompuServe and MacNET. 
+Vaccine — by Don Brown at CE Software. It enables 
+your computer’s operating system to detect alterations 
+to the code of your system files and applications. 
+Warning: If your system is already infected when you 
+install Vaccine, there will beno warning from Vaccine 
+of the viruses existence. If Vaccine is installed on a 
+sterile system and the Scores vimus is introduced later, 
+Vaccine will war of the virus attack but it will not 
+prevent infection. Vaccine is available on electronic 
+bulletin boards. 
+Interferon — written by Robert Woodhead. A share- 
+ware program that detects and claims to recognize 
+“signals” that viruses give off when they are present, 
+Interferon was intended to complement the Vaccine 
+program. Interferon is available on electronic bulletin 
+boards. 
+Data Physician — the grandaddy of virus remedies ($199 
+from Digital Dispatch, Fridley, Minnesota). It detects and 
+in some cases eliminates viruses. It includes: Data MD — 
+creates a list of computer data files to be protected and 
+watches them while the computer is in operation; Antigen 
+— attaches itself to an individual computer program and 
+checks it for viruses each time it’s used. Padlock — 
+prevents anything from being written on a storage disk 
+unless the computer operator pushes a button to give 
+permission; Data Physician works on IBM PC and UNIX 
+systems. 
+Disk Defender — (Director Technologies, Inc., Technol- 
+ogy Innovation Center, 906 University Place, Evanston, 
+IL, 60201; 312/491-2334). This is a product which write 
+protects in hardware all or part of a personal computer hard 
+disk. This protects the operating system and commonly 
+used programs from viruses. 
+Virus RX — developed by Apple, this is a detection tool 
+to determine whether a system has been infected by the 
+Scores virus, and if so, which applications have been 
+affected. 
+It lists damaged applications, invisible files, 
+altered system files, and altered applications. Virus Rx 
+reports different levels of concern from simple comments 
+to “dangerous,” and finally to “fatal.” This program is 
+available through Apple dealers, AppleLink, and through 
+some users-group bulletin boards. 
+19 
+

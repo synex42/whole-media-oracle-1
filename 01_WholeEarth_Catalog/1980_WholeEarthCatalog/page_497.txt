@@ -1,0 +1,387 @@
+COMMUNICATIONS 
+TELECOMMUNICATIONS 495 
+INTELSAT IV-A, also twelve transponders of 36 MHz, 
+designed for intercontinental transmission. 
+—— 
+Future Developments 
+in Telecommunications 
+With his high-powered seminars and prolific writings, 
+James Martin has become a lord high guru of telecommu- 
+nicationsdom. 
+In keeping with this reputation, his Future 
+Developments in Telecommunications has the twin virtues 
+of being both meaty and accessible. 
+The writing style is 
+clean and you can’t help but get a sense of the breadth 
+and scope of the field while scanning through the pages. 
+The book is divided into three parts: the first provides an 
+overview of the telecommunications scene today; the 
+second offers a “synthesis” that blends emerging tech- 
+nologies into a scenario of the future; and the third gets 
+down to a hard /ook at the technology of the technology. 
+Future Developments can be used as both an introductory 
+telecommunications text and as a reference work. 
+It’s 
+—Michael Schrage 
+well worth the hefty price tag. 
+Future Developments 
+in Telecommunications 
+James Martin 
+1971, 1977; 668 pp. 
+2nd Edition 
+$34.95 postpaid from: 
+Prentice-Hall 
+Box 500 
+Englewood Cliffs, NJ 
+07632 
+or Whole Earth 
+Household Store 
+people who make few outgoing calls. Party lines, a long- 
+time staple of cheap telephone service, are being 
+phased out. 
+Custom Calling Services I. AT&T is quite proud of these 
+new features; they’re interesting but I wonder about 
+their usefulness. “Call Forwarding” means the Bell 
+System, on your instruction, automatically transfers 
+incoming calls from your phone to another phone. 
+“Three-Way Calling” lets you set up a simultaneous chat 
+between yourself and people at two other phone numbers. 
+“Call Waiting” is a residential version of putting someone 
+on hold while you take another call. “Speed Calling” 
+sets up short-cut two-digit codes for your most frequently 
+called numbers. Rates for these sub-options vary from 
+$5 to $20 per month. One friend who has all four 
+services plays them against each other, speed-dialing three- 
+way conversations which he then puts on hold to take 
+another call — all from someone else’s phone to which 
+he’s had his calls forwarded. 
+Custom Calling Services II. Not yet available but planned 
+for late 1980/early 1981. They seem more useful and 
+also a bit scarier. “Call Answering” will record messages 
+when you’re not there, like an answering machine built 
+into the central AT&T switching system. “Voice Storage” 
+will record your message and, at a specified time, dial 
+someone else’s number and replay the message for them. 
+(Wait till teenagers and telephone solicitors get to experi-~ 
+ment with it...) ‘‘Personal Identification Number” 
+(PIN) cards will replace AT&T credit cards next year. 
+The PIN number will be a general identification number, 
+issued by the phone company, for telephone-call billing, 
+shopping by phone, and banking by phone. “You can 
+travel all over the country, and if you leave word the 
+central switching computer will find you when it needs 
+to,” the representatives from Pacific Telephone (an AT&T 
+subsidiary) told me. 
+If this prospect seems more threatening than promising, 
+you may want to look into the services of AT&T's com- 
+petitors, the independent long-distance phone companies. 
+They can provide substantial savings over the Bell System 
+if you make $100 or more worth of long-distance calls 
+per month. (Incidentally, some people feel outraged at 
+the thought of spending so much money on long-distance 
+telephoning. However, I and many of the people I know 
+are cross-continentally mobile, and we depend on the 
+telephone to keep in touch. Uses much less energy than 
+a 3000-mile trip, too.) 
+To use an independent phone company, you dial their 
+number, then your account number, and then the number 
+you want to reach. The advantage is the huge savings 
+(30 - 60% of regular rates) and the mobility of making 
+calls on your account from anywhere. Also the small 
+companies break the bill down by destination — a much 
+simpler to read format. The disadvantages are those extra 
+The communication satellite. 
+Satellites have provided telephone and tele- 
+vision links 
+to the underdeveloped world. The satellite antennae in some under- 
+developed countries stand next to fields ploughed by oxen. Now satellites have 
+the potential of revolutionizing corporate communications both nationally and 
+internationally 
+Low-cost satellite earth stations. 
+Planar microwave circuits make it possible 
+to mass-produce satellite receiving equipment at very low cost 
+Satellite re- 
+ceivers cheap enough for home purchase have been used in Canada, Japan, 
+and India. 
+Demand-assigned multiple-acceys equipment. 
+Satellite or high-capacity chan- 
+nels can be shared by multiple goegraphically dispersed users in a highly flexi- 
+ble manner, portions of channel capacity being allocated to users according to 
+their instantaneous needs 
+The helical waveguide. 
+A pipe. now operating, that can carry 250,000 or 
+more simultaneous telephone calls or equivalent information, in digital form, 
+over long distances. 
+The laser. 
+This means 
+of transmission has the theoretical potential of 
+carrying many millions of simultaneous telephone calls or their equivalent 
+It is being used with optical fibers to carry several thousand. 
+Optical fibers. 
+A thin flexible fiber made of extremely pure glass which can 
+carry a thousand times as much information as a copper wire pair. Optical 
+communication fibers are now on the market; some are in use carrying public 
+telephone 
+calls. Many thousands 
+of such fibers can be packed into one 
+flexible cable. 
+Large-scale integration (LS1). 
+A form of ultraminiaturized computer cir- 
+cuitry that probably marks the beginning of mass production of computerlike 
+logic circuitry. It offers the potential of extremely reliable, extremely small, 
+and, in some of its forms, extremely fast logic circuitry and memory. If large- 
+enough quantities can be built, this circuitry can become very low in cost 
+On-line real-time 
+computers. 
+Computers capable of responding to many dis- 
+tant terminals on telecommunication lines at a speed geared to human thinking. 
+They have the potential of bringing the power and information of innumerable 
+computers into every office and eventually every home 
+Microcomputers. 
+Mass-producible miniature computers of low cost 
+Video telephones. 
+Telephones with which subscribers see as well as hear 
+each other or can see still images. 
+Large TV screens, 
+TY screens that can occupy a wall if necessary 
+Cable TV, 
+Acable into homes with a potential signal-carrying capacity more 
+than one thousand times that of the telephone cable. 
+It can be used for signals 
+other than television. 
+Voice answerback. 
+Computers can now assemble human-voice words and 
+speak them over the telephone. 
+Voice answerback 
+and the pushbutton 
+telephone set, makes every such telephone a potential computer terminal. 
+Millimeter-wave radio, 
+Radio at frequencies in the band above the micro- 
+wave band can relay a quantity of information greater than all the other radio 
+bands combined. Chains of closely spaced antennas will distribute these milli- 
+meter-wave signals. 
+Cellular mobile radio. 
+A system organization that will permit many radio 
+telephones or other mobile radio devices in a city 
+Packet radio. 
+Radio systems for computer terminals that will make pocket 
+terminals, or other small mobile terminals practicable. 
+Data broadcasting. 
+'nformation can be broadcast in digital form at VHF or 
+UHF 
+frequencies for reception on home TV sets, special terminals, or portable 
+devices. 
+Pulse 
+code modulation. 
+All signals, including telephone, Picturephone, mu- 
+sic, facsimile, 
+and television, 
+can be converted into digital bit streams and trans- 
+mitted, along with computer data, over the same digital links. Major advantages 
+accrue from this. 
+Codecs. 
+Circuits which convert signals such as speech, music, and televi- 
+sion into a bit stream, and convert such bit streams back into the original sig- 
+nal. Codecs will become increasingly inexpensive and efficient 
+Computerized switching. 
+C computerized telephone exchanges are coming 
+into operation offering many new services, and computerlike logic can be em- 
+ployed for switching and “concentrating” all types of signals. 
+Data banks. 
+Electronic storage for huge quantities of information that can be 
+manipulated and indexed by computers and that can be accessed in a fraction 
+of a second. 
+Packet switching networks 
+One way of building generalized switched data 
+networks interconnecting computers and terminals. A widely accepted stand- 
+ard CCITT 
+x .25 exists so that packet switching networks of different 
+countries will be interconnectable. 
+Major inventions and developments which, in combination, have the potential of changing the fabric of society 
+. 
+An extensive use of EFT (Electronic Fund Transfer) will 
+reduce the ‘‘float’’ money within a country, like taking 
+up the slack in an anchor rope. 
+It will make the float 
+available for people or corporations to spend. Economists 
+use the phrase “velocity of money” to refer to the rate at 
+which money turns over. Today one dollar issued by the 
+government might be spent 17 times in the course of the 
+Express Mail 
+If you are as bad about meeting deadlines as | am, or if 
+you live in a perpetual state of last minute, or if your 
+lover lives in San Francisco and you are in Manhattan — 
+the U.S. Postal Service Express Mail Service may 
+be just 
+what you need. 
+It works like this: bring your letter or package to a 
+designated Express Mail Post Office by 5 p.m. and it will 
+be delivered to the Express Mail Window of the designated 
+Post Office near the area of your choice by 10 a.m. the 
+COMPUTER TECHNOLOGY 
+D-30 communications 
+computer 
+dataphone 
+COMMUNICATIONS TECHNOLOGY 
+iM 
+1930 
+year. With EFT, the velocity would be higher, perhaps 
+much higher; the same dollar issued would be spent many 
+more times. Unless compensating controls were devised 
+this increase in the velocity of money would probably 
+have an inflationary effect. As with a vehicle, the faster 
+the velocity the tighter the controls must be. Today’s 
+mechanisms would provide inadequate control. 
+next day. 
+To find the nearest Express Mail-Post Office, 
+call your local Post Office or check your phone book. 
+/t’s up to you to notify someone to pick up the mail. 
+A regular letter (up to one pound) is roughly $6 (ask for 
+A-Label Service). For an additional $2 the Postal Service 
+will deliver it to the addressee by 3 p.m. the next day 
+(ask for B-Label Service). 
+Rates vary a little depending 
+on distance. 
+There is Express Mail service in many metropolitan 
+areas now. 
+—Rick Fields 
+cars 
+ission ePnone networ 
+Ser 
+FANSMISSION 
+fully digitised 
+electronic 
+experimental digital 
+switching 
+television 
+timesharing 
+home videocomputers 
+1980 
+FF 
+ses 
+FSS 
+$ 
+os 
+SS 
+FOSS 
+T SEES 
+FF 
+SS 
+Es 
+= 
+SP, 
+SF FESS ELE LO SF 
+s es 
+s 
+LE 
+SKE SES IE SE 
+SF 
+EE 
+SF 
+“ 
+SEE 
+KSEE 
+PSE SS S KS 
+PF 
+CIF oO CTL SFY 
+EX 
+F 
+SH 
+PKS 
+Soe 
+igs 
+f 
+& 
+Ys 
+RS 
+¢ 
+cx 
+é 
+é 
+< 
+es 
+s 
+8 
+é 
+digits to punch, plus poorer overall service than the Bell 
+System — bad connections, sudden disconnections, and 
+echoed voices. (When it comes to transmission quality, 
+U.S. citizens are spoiled, as anyone who has tried phoning 
+home from Tierra del Fuego will attest.) In addition, the 
+independents operate only in large city areas. They don’t 
+have the millions of dollars to invest in circuitry that AT&T 
+has. Reportedly the smaller companies are improving 
+their service each year, especially over medium distances. 
+Information on each of them is free. 
+Sprint, Southern Pacific Communications, P.O. Box 974, 
+Burlingame, CA 94010. The easiest to use and the service 
+most directly aimed at home users. 
+It’s managed by the 
+Southern Pacific Company, which transmits on micro- 
+wave links strung along their old railroad tracks. Many 
+have suggested the service to us; some are annoyed with 
+the poor quality and others don’t notice it. It apparently 
+depends on luck. 
+Microwave Communications, Inc. (MCI), 1621 Euclid 
+Avenue, Suite 1414, Cleveland, OH 44115. MCI uses 
+more satellites, probably has slightly better service, is 
+a little more difficult to use than Sprint. 
+ITT City Call, International Telephone and Telegraph, 
+Two Broadway, 21st Floor, New York, NY 10004. 
+Attn: Len Seasonwein. ITT discourages non-business 
+use, but if you can get an account with them, it’s worth 
+it, because their technical connections are almost as 
+good as Ma Bell’s, and they’re cheaper. Especially good 
+for those who make $300 or more long-distance calls a 
+“month, or for a commune or shared household. 
+® 
+mise 
+OOOO 
+CO 
+BO 
+CO 
+oOo 
+8 6 eee 
+The Changing Information Environment 
+Planet implodes! Everything is changed! Few notice! 
+This book notices. 
+The Changing 
+Information 
+Environment 
+John McHale 
+1976;117 pp. 
+$18 postpaid from: 
+Westview Press 
+5500 Central Avenue 
+Boulder, CO 80301 
+or Whole Earth 
+Household Store 
+e 
+Information and knowledge, as resources in themselves, 
+are not reduced or lessened by increased use or wider 
+sharing — rather they may gain in the process. 
+ota ie ve) acelte ‘et (6 16 6) 6 '\e: 6,0 6 ee) (6) eee We) Bee Cee 
+e 
+THE RISING SUN 
+NEIGHBORHOOD NEWSLETTER 
+“We're keeping our place clean by keeping some- 
+place else dirty — with electricity.” 
+ry 
+—Daniel 
+y 
+on ‘Wl 
+bean, 
+Tupies 
+ise by 
+1990 
+2 
+Se 
+So as 
+ms 
+oo 
+oe | 
+THE 
+NEW 
+INFORMATION 
+ENVIRONMENT 
+

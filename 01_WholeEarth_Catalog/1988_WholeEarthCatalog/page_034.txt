@@ -1,0 +1,307 @@
+30 
+WORD PROCESSORS 
+Writing on a Computer 
+by Art Kleiner 
+A 
+WRITING PROGRAM — or “word processor,” 
+as IBM dubbed it back in the early 1960s — is essen- 
+tially a compromise. It mediates between the staid, two- 
+dimensional, printed page, and the wigged-out, evanes- 
+cent, multi-dimensional world behind your computer 
+screen. Most word processing newcomers are so dazzled 
+by the freedom of shuffling words around, that they 
+forget the real task of a word processor is formatting — 
+making sure the word looks exactly the way you want it 
+on the printed page. You’ll realize how hard that is the 
+first time you try to word-process your resume. 
+Because the Macintosh is so rigidly and cleverly de- 
+signed to control the look of the printed page, it (along 
+with a laser printer) excels at formatting, which makes it 
+the best affordable word processing machine. But MS- 
+DOS computers are cheaper, quicker, and far more 
+prevalent. Whatever you get, make sure it contains a 
+hard disk — so that your written work and notes 
+can live, semi-permanently, as a sort of land- 
+scape you travel through, inside your machine. 
+Choosing a word processing program is a per- 
+sonal decision. No other program is melded as 
+intimately to the structure of your thoughts. Of 
+the word processing programs I’ve tried, these 
+people. Oddly enough, I find myself (sigh) 
+FAY Systea help £1 Copy ark 
+F2 Giedew reler 14 Delete aorh 
+fh Rove war 
+franz 
+end 
+Fritzie Cat lived 
+ie 
+a@ 
+small 
+bowse 
+near 
+@ 
+shallow 
+lake 
+@ 
+new 
+travail. 
+Ye Olde 
+Softesire 
+ander the lip of the volcano. 
+[very 
+doy 
+they would wahen carly end step 
+outside 
+to 
+smell the ware, 
+sweet 
+are the ones I recommend for different types of 
+me 
+superconductivity, you can browse through all segments 
+that contain the phrase “maglev”, and import any into 
+your document, for further juggling. Nota Bene is some- 
+what hackerish — for many tasks, you must type in 
+commands — and its onscreen help is execrable. But I 
+find myself using it for all my serious writing. 
+Framework II (MS-DOS) — Probably the most intui- 
+tively correct word processing program ever designed, 
+in a package that also includes spreadsheets, data man- 
+agement, and telecommunications. Most importantly, 
+Framework frees you from what Ted Nelson calls “the 
+tyranny of the file;” you can work with as many docu- 
+ments as you wish at once, and switch rapidly back and 
+forth between them. Tradeoff: formatting is not so 
+versatile. Framework users live in this program and 
+never leave. Expanded memory boards are highly rec- 
+ommended. I use it for complex jobs involving many 
+interrelated documents. 
+Q&A (MS-DOS) — Best simple-to-use word process- 
+ing program I’ve seen for MS-DOS computers, with 
+enough features so you’ll hardly grow out of it. For a 
+“i 
+° 
+; 
+: test . tut 
+F) Paragraph 
+F9 Pied test 
+FR Lier eppee 
+FIO Beplece 
+— 
+4 
+=f 
+7; 
+ay 2 
+FS tla @ark 
+Uhee she got to tows, she discovered 
+Vaire had come to towe. 
+Machers were 
+blocking the sidewalks, veadors were 
+Clogging 
+the streets. 
+But worst of 
+all, 
+Qee 
+soreing 
+in 
+perticalar, 
+it 
+doesa't 
+really 
+matter 
+which 
+oe, 
+using them all: 
+Iritzie 
+left 
+the 
+lake 
+and 
+the 
+volcano and the warn, 
+sweet air and 
+walked 
+to 
+town. 
+Her 
+purpose 
+was 
+WordPerfect (5.0 for MS-DOS, Macintosh, 
+le 
+her bearing direct, 
+and ber 
+brow furrowed 
+“Ry.” 
+she 
+growled, 
+Amiga, and other computers) — best all round. 
+On the Mac and MS-DOS machines, it sur- 
+passes its equally quirky rival, Microsoft Word. 
+Generally, I prefer WordPerfect’s crypticness to 
+Word’s cumbersomeness. The “clean screen” 
+WordPerfect presents is its best-known feature, but it 
+excels at subtleties — like the way each line reformats 
+itself as soon as you move to the next line. Version 5.0 
+is a much better formatter, especially for laser printers, 
+than its still-available predecessor, version 4.1. Though 
+5.0’s newness makes it (by definition) buggy, 
+WordPerfect’s support is well-reputed, and everywhere 
+you go you'll find people who know it. I use this pro- 
+gram whenever I’m on a strange computer, or need to 
+create files that will travel from one computer to an- 
+other. 
+PC-Write (MS-DOS) — Far and away the best bargain 
+— a full-fledged word processing program for $75. 
+Great formatting control, especially on inexpensive 
+printers which other programs can’t always master. But 
+shareware author Bob Wallace has tacked on so many 
+features over the years, that this is somewhat hard to 
+learn. It uses only plain text, and handles only short 
+files; I use it for much of my quick, short work. 
+Nota Bene (MS-DOS) — A group of graduate students 
+adapted an extremely versatile professional-level word 
+processing program called XYWrite, added a superb set 
+of extra features (different types of footnoting and 
+bibliographies, for starters), and linked with a ground- 
+breaking “text base” facility. You enter, say, notes and 
+interview transcripts, or material downloaded from 
+computer networks. Then, while writing, say, a piece on 
+“this 
+1s 
+a 
+long way 
+to 
+walk 
+to 
+berter for computer parts. 
+If only 
+freaz 
+hede't fried the 
+aotherboard 
+ohee he cooked dinner last sight.” 
+Wid 
+bach 
+he walhed 
+te the 
+wl 
+eay 
+pnd 
+the 
+labe 
+aad the 
+mall 
+Scase 
+slowed 
+AR 
+hacker 
+< 
+Ret ah rasy et 
+— PC-Write for IBM PCs and compatibles 
+little extra, you get a version with a built-in file manager 
+for easily making mailing lists. I use it to introduce 
+other people to word processing. 
+Fullwrite Professional (Mac) — The kitchen sink and 
+then some, including the ability to wrap text around 
+graphics. Somehow, they designed all these complex 
+features so that non-computer people can control them 
+without twisting our brains through hoops. Only trouble: 
+it requires 2 megabytes or more of memory, which 
+effectively adds $800 (as I write this) to the cost of your 
+Macintosh. This is the hands-down best word process- 
+ing program, though, on every level, that I have ever 
+used. I use it whenever I can. 
+WriteNow (Mac) — Easy to lear, effective, and fast; 
+best choice for a beginning word processing program. I 
+use it for quick stuff on the Mac. A forthcoming version 
+(2.0) is supposed to be more versatile. 
+Another tool: 
+Typing Tutor. Writing on a computer without knowing 
+how to touchtype is like being a concert violinist with- 
+out knowing how to read music. But anyone can touch- 
+type: all you need is this tool and maybe a dozen hours, 
+scattered over a few weeks. 
+@ 
+File 
+Edit 
+Move 
+Notes 
+Format 
+Font 
+Size 
+Style 
+little rock 
+We feel the diarnond is an excellent 
+company. 
+It reflects the fact that 
+choice for a logo for our company 
+It reflects the fact that this 
+corporation is a true gem and, 
+of course, it literally tells 
+this corporation is a trué:gern and, 
+of course, it literally tells peo- 
+ple and it appears that no 
+stone was left unturned in 
+the search for the proper 
+logo. In conclusion, we 
+would like to recorn- 
+rend that a large 
+mock-up version of the 
+logo Be erected above our 
+world headquarters in Little 
+Rock 
+This could perhaps be 
+unveiled during 
+a formal an- 
+people that we are a dia- 
+mond in the rough. 
+It 
+will also call atten- 
+tion ta the many fac- 
+ets of our business and 
+the lustre of our reputa- 
+tion, 
+Upon reflection, we 
+cannot think of @ better 
+choice for a logo Furthermore 
+Q 
+gos 
+— Fullwrite for the Macintosh 
+Two ends of the word processing spectrum: PC-Write for the IBM and Fullwrite for the Macintosh. PC-Write is the best bargain around for IBM 
+and IBM-compatible users — a professional quality word processing system for $75. It's formatting controls are extremely flexible, and it runs well 
+on inexpensive printers, something many more expensive software can’t do. It isn’t the easiest program to master, however, being somewhat 
+“hackerish” in its structure. Fullwrite for the Macintosh is like a combination word processing/desktop publishing system. The illustration shows 
+one of its best features — the ability to automatically wrap text around graphics. 
+WordPerfect 
+Version 5.0; not copy-protected; IBM PC $495; 
+Macintosh $395; from: WordPerfect Corporation, 1515 
+Technology Way, Orem, UT 84057; 800/321-4566 
+PC-Write 
+Version 2.5; not copy-protected. $75. from: Quicksoft, 
+219 First Avenue North, #224, Seattle, WA 98109; 206/ 
+282-0452 
+Nota Bene 
+Version 3.0; not copy-protected; IBM PC $495; from: 
+Dragonfly Software, 285 West Broadway, Suite #600, 
+New York, NY 10013; 212/334-0445 
+Framework Il 
+Copy-protected; IBM PC $695; from: Ashton-Tate; 
+10150 Jefferson Boulevard, Culver City, CA 90230; 
+800/437-4329, ext. 2240 or, in CO, 303/799-4900, 
+ext. 2240 
+Q&A 
+Version 3.0; not copy-protected; IBM PC $349; from: 
+Symantec Corporation, 10201 Torre Avenue, Cupertino, 
+CA 95014; 408/253-9600 
+FullWrite Professional 
+Version 1.0; not copy-protected; Macintosh $295; from: 
+Ann Arbor Softworks, 9852 Teller Road, #106, Newbury 
+Park, CA 91320; 805/498-4844 
+WriteNow 
+Version 2.0; not copy-protected; Macintosh $175; from: 
+T/Maker; 1390 Villa Street; Mountain View 94041; 415/ 
+962-0195 
+Typing Tutor 
+Not copy-protected. Macintosh $59.95; IBM PC $49.95; 
+from: Simon & Schuster, Electronic Publishing Group, 
+1230 Avenue of the Americas, New York, NY 10020; 
+212/698-7000 
+

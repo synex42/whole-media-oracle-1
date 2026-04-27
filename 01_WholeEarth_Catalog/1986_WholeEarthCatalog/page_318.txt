@@ -1,0 +1,168 @@
+3 i 6 COMMUNICATIONS 
+DESKTOP PUBLISHING 
+Personal 
+Publishing 
+Terry Ulick, Editor 
+$30/year 
+(12 issues) from: 
+Personal Publishing 
+P. O. Box 390 
+Itasca, IL 60143 
+PageMaker 
+Version 1.2. 
+Copy-protected. 
+$495 
+Macintosh external disk 
+drive required; hard disk 
+recommended. 
+Information free from: 
+Aldus Corporation 
+All First Avenue, Suite 200 
+Seattle, WA 98104. 
+What you see on the 
+Macintosh screen is not 
+always what Is finally 
+printed out. Shown here are 
+column guides which help 
+shape the columns of type 
+but do not print themselves. 
+The headline and body copy 
+look somewhat crude 
+onscreen, but are later 
+tightened up by the 
+POSTSCRIPT language 
+embedded in the 
+LaserWriter printer. 
+@ File 
+Edit 
+Tools 
+Page 
+Type 
+Lines 
+Shades 
+See. ESKTOP PUBLISHING — using a personal computer to write, typeset, design and publish a 
+pss . newsletter, magazine, or book — represents a tremendous advantage for small publishers. Tasks 
+me. that used to take a handful of specialists days have been compressed into page-makeup pro- 
+Rt. 
+ee 
+se 8 
+SFORRRR 
+~ orams that enable a jack-of-all-trades publisher to directly control the whole process. For the 
+megalomaniacs among us this is indeed good news. However, it is a mixed blessing for everyone else. 
+For example, desktop publishing plays havoc with clearcut job descriptions. Once you have a single software 
+program that lets you specify page layout formats, choose typefaces and point sizes, “pour in” word pro- 
+cessed copy, and manipulate illustrations in quick succession, you have a program which practically begs for 
+a new breed of multi-talented publishing workers. Where does this leave the editor who can’t design, the art 
+" 
+@ File 
+Edit 
+Tools 
+Page 
+Type 
+Lines 
+Shades 
+director who can’t spell, or the typesetter who merely wants to typeset? Good question. 
+At this juncture, the tools for desktop publishing seem best suited to modest tasks such as producing an 
+8-page newsletter or knocking out an ad sheet or flyer in a day’s time. Full-scale book or magazine 
+publishing on your PC can be done; it is still likely to call for more skills than most single humans possess. 
+Desktop publishing is about efficiently chewing what you’ve already bitten off, not about using your com- 
+puter to bite off more than you can sanely chew. 
+—Jay Kinney 
+PageMaker 
+This software program used in conjunction with a Macintosh 
+has my vote for the best hardware/software combo for 
+desktop publishing. While there are several other compe- 
+ting programs available (some geared for the IBM PC), 
+there are none with the intuitive design and ease of use 
+that PageMaker provides. Earlier versions of this program 
+had a tendency to freeze up or bomb out at unexpected 
+moments, but most of those bugs have been ironed out by 
+now. If you are considering publishing you should 
+investigate PageMaker. 
+—Jay Kinney 
+== 
+= lev 
+PageM = 
+Getting rr the Heart 
+of the Matter with 
+Cellular Automata * 
+by Serves Levy 
+OMETIMES DURING LONG PHONE 
+=} 
+eonversations, | will swreptitiowsly 
+flick on | 
+my Macintosh and load in a program called 
+}2 toot Steven Levy's 
+imepor 
+Lat, The sereea will explode with patterns 
+| 
+cot Meaters to oryrtalice the role of 
+formed Dy Leche dots. At 
+Cirst chere are many | 
+dots, and they move around, disappear 
+and 
+reappesr with explosive kineticism. 
+Thea, 
+| 
+dy some 
+odd form of attrition, 
+the dots 
+ie 
+become (ewer; some form hardened patterns, } 
+Levy PageM 2 
+tape i 
+—— 
+eadaiaes 
+Personal Publishing 
+This monthly magazine is geared to those who are just 
+starting out in desktop publishing and is strong on 
+explaining and illustrating the fundamentals of the field. 
+Almost entirely staff-written, the magazine is opinionated, 
+partisan (it favors the Mac over any other PC), and 
+inspirational. It’s a Macintosh and LaserWriter production 
+— one of the handsomest such publications I’ve seen. 
+—Jay Kinney 
+TEXT INTO TYPE 
+TEXT INTO TYPE 
+Illustration Number 7. A banner for the text is started. A 
+simple rectangle is chosen for type, because in MacDraw 
+you can not arch type. The rectangle is filled with white, 
+given a black rule, and filled with upper case Times Roman 
+type. The positioning of the rectangle is important. Any 
+lower, and it would look funny, but any higher, it would 
+cover up the serifs. 
+TEXT INTO TYPE 
+Illustration Number 9. The left “tail” of the banner is 
+copied, then pasted on the right side of the banner. Here, the 
+logo takes on its final shape. The arrow, the “V” and the 
+banner are all in place. All that is left is detail work. 
+Ilustration Number 11. The last element is placed: The type 
+that will identify the number of the article. Here, the cover 
+version is created, with the word VICTORY in place of a 
+number. Notice the type is light, and extra spaces have been 
+added between the letters. 
+Illustration Number 8. To create a banner effect, it is 
+imagined that the rectangle is part of “ribbon” that bends and 
+has dimension. This makes the lettering appear to be on a 
+long banner that is raised above the “V” where needed. This 
+is a standard graphic device, found in many illustrations and 
+older type treatments. 
+Illustration Number 10. Detail work consists of giving the 
+simple black and white elements some shading. This is 
+important to give the feeling of the banner floating above 
+the “V” and having a 3-dimensional quality. MacDraw 
+polygons are created and filled with line pattems. 
+Illustration Number 12. The final logo. A heavy rule has 
+been added beneath the word VICTORY for emphasis and for 
+added detail. The finished logo has all of the elements we 
+wanted, put together very effectively and in a very short time 
+using the power of a drawing program such as MacDraw or 
+GEM Draw. 
+e As we go to press, PC World Communications, Inc., has 
+announced another magazine on desktop publishing to be 
+called Publish! Judging from their other publications, this 
+one will bear watching! 
+PAGEMAKER allows views of page layouts at several sizes: 50% (as above), 70%, actual 
+size, 200%, and a “’fit in window” size. Type can be continued from column to column and 
+page to page by clicking the mouse on the tab at the foot of a column of type. 
+

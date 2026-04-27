@@ -1,0 +1,232 @@
+Whole Systems 
+CHAOS & COMPLEXITY 21 
+Fractals 
+Fractals 
+(An Animated 
+Discussion with Edward 
+Lorenz and Benoit B. 
+Mandelbrot) 
+63—minute video; $59.95 
+($63.95 postpaid) from 
+W. H. Freeman and Co., 
+Graphically presenting the concepts of chaos and self-similarity, 
+“Eractals: An Animated Discussion” provides an excellent whole- 
+brain introduction to the science of complex dynamical systems. 
+Threaded on comments by Benoit Mandelbrot and Edward 
+Lorenz, more than half the video consists of high-quality com- 
+puter-generated animations of the Mandelbrot set, Julia sets, the 
+“infinitely frayed boundaries” of the Cantor set, strange attractors, 
+and other beasts from the land of mathematical complexity. 
+Our perceptual world is much more fractal than it is Euclidean. 
+Look at anything long enough and it falls apart. Now, thanks to 
+the processing power emerging from 
+rapidly evolving computer systems, we 
+can simulate fractal worlds that begin 
+to approximate the textured and cor- 
+rugated landscapes of “nature.” 
+Animated fractal imagery is beautiful 
+and truly hypnotic. With luck, our ca- 
+pacity to model fractal dimensions will 
+also generate tools for “seeing” and 
+understanding the vast scales at which 
+we affect materiality. (It's about seven- 
+Complexity * Complexity 
+Two simultaneous books, by esteemed 
+science journalists, with identical titles, 
+suggests that something is up. Indeed 
+it is. The “sciences of complexity,” par- 
+ticularly as they are focused, blended, 
+and broadcast through the Santa Fe 
+Institute, are an implosive frontier of 
+science these years, and the questions 
+and research are surprisingly acces- 
+sible to lay understanding. Even two 
+books don’t cover all that's cooking, 
+but they offer an intriguing sampler. 
+Mitchell Waldrop's book comes at the 
+subject through the experience of a 
+few of 
+the main investigators at the 
+Santa Fe Institute — notably econo- 
+mist Brian Arthur, theoretical biologist 
+Stuart Kauffman, computer adaptivist 
+John Holland, artificial-life creator Chris 
+Langton — noting how the stimulation 
+of their ideas on each other leads to 
+the emergent understanding of emer- 
+gent properties. The process is almost 
+an example of itself. Of the two books, 
+! prefer this one. 
+~ 
+x 
+SJ 
+S 
+= 
+5 
+s 
+N 
+Complexity 
+(Life on the Edge of Chaos) 
+Roger Lewin. 1992; 256 pp. 
+ISBN 0-02-570485-0 $22 postpaid from 
+Macmillan Publishing Co., 100 Front Street, 
+Riverside, NJ 08075; 800/257-5755 
+Complexity 
+(The Emerging Science at 
+the Edge of Order and Chaos) 
+M. Mitchell Waldrop. Touchstone Books, 
+1992; 380 pp. ISBN 0-671-87234-6 
+$12 ($15 postpaid) from Simon & Schuster/ 
+Order Dept., 200 Old Tappan Road, Old 
+Tappan, NJ 07675; 800/223-2336 
+teen orders of magnitude from the at- 
+oms nanoengineers manipulate to the 
+Earth's ozone layer.) 
+Some of the mathematics presented 
+here is nontrivial, and anyone who 
+wants to “understand” fractals has 
+some serious thinking ahead. But even 
+the most math-phobic will gain a vis- 
+ceral understanding of the field from 
+this video. Even the music is based on 
+4419 W. 1980 S., Salt 
+Lake City, UT 84104; 
+800/488-5233 
+a simple fractal recursion. Whichever 
+side of C. P. Snow's great divide you 
+hail from, watch this, at least once — 
+with the sound off, the color up, and 
+your favorite molecules flexing those 
+neural receptors. 
+Roger Lewin's focus is on evolution 
+and complexity — “complex adaptive 
+systems” — and maybe the evolution 
+of complexity. He branches out from 
+Santa Fe Institute to include discus- 
+sions with field biologist Edward O. 
+Wilson, Gaia theorist James Lovelock, 
+and consciousness philosopher 
+Daniel Dennett. 
+Computers have made formerly 
+theoretical sciences into experimental 
+sciences (model your idea and see if it 
+runs), and new comfort with non-lin- 
+ear, chaotic systems means that the 
+models and the real world are growing 
+ever closer together. And formerly di- 
+vergent disciplines are converging. 
+Both are good news. —SB 
+e 
+Increasing returns, lock-in, unpredictability, 
+tiny events that have immense historical 
+consequences — “These properties of in- 
+creasing-returns economics shocked me at 
+first,” says [Brian] Arthur. “But when | rec- 
+ognized that each property had a counter- 
+part in the nonlinear physics | was reading, | 
+got very excited. Instead of being shocked, | 
+became fascinated.” Economists had actu- 
+ally been talking about such things for gen- 
+erations, he learned. But their efforts had 
+always been isolated and scattered. He felt 
+as though he were 
+recognizing for 
+the first time that 
+all these problems 
+were the same 
+problem. “I found 
+myself walking 
+into Aladdin's 
+cave,” he says, 
+“picking up one 
+treasure after an- 
+other.” 
++ Decreasing returns 
+ministic dynamics) 
++ People identical 
++ If only there were no externali- 
+ties and all had equal abilities, 
+By the autumn, 
+everything had 
+fallen into place. 
+On November 5, 
+1979, he poured it 
+all out. At the top 
+of one page of his 
+notebook he 
+wrote the words 
+we'd reach Nirvana 
+prices 
+num 
+Old Economics 
++ Based on 19th-century physics 
+(equilibrium, stability, deter- 
++ Elements are quantities and 
++ No real dynamics in the sense 
+that everything is at equilib- 
+“Economics Old and New,” and under 
+| 
+them listed two columns [see box below]. 
+And so it went, for three pages... . In 
+Arthur's new economics, the economic 
+world would be part of the human world. 
+It would always be the same, but it would 
+never be the same. It would be fluid, ever- 
+| 
+changing, and alive. 
+e 
+“| set the thing going, and left it to run 
+overnight,” Tom [Ray] said, recalling what 
+obviously had been a tense but exquisite 
+moment in his life. “I didn’t sleep much.” 
+Tom had already glimpsed fragments of life 
+in Tierra during the debugging process. He 
+knew that something was going to happen, 
+something interesting. But he had no way 
+of predicting just how interesting it would 
+be. “All hell broke loose,” was how he de- 
+scribed what had occurred overnight in his 
+virtual world. “From the original ancestor, 
+| 
+parasites very quickly evolved, then crea- 
+tures that were immune to the parasites,” 
+said Tom. “Some of the descendants were 
+smaller than the ancestral organism, some 
+were bigger. There were hyperparasites, 
+social creatures. | saw arms races, cheaters, 
+| 
+there was —” Wait a minute, | interrupted, 
+you have to explain these creatures to me. 
+When Tom described himself as a naturalist 
+of a virtual world, he meant it: the digital 
+_| 
+organisms were as real to him as the ant 
+butterflies had been. —Roger Lewin 
+New Economics 
+Much use of increasing returns 
+Based on biology (structure, 
+pattern, self-organization, life 
+cycle) 
+Focus on individual life; people 
+separate and different 
+Externalities and differences be- 
+come driving force. No Nir- 
+vana. 
+System constantly 
+unfolding. 
+Elements are patterns and pos- 
+sibilities 
+Economy is constantly on the 
+edge of time. It rushes forward, 
+structures constantly coalescing, 
+decaying, changing. 
+oo y 
+See “A-Life and 
+( | 
+Artificial Evolution” p. 238 
+Eye candy with radical depth and con- 
+sequence. —BC Crandall 
+(NB: The same folks sell interactive 
+Macintosh software, “The Beauty of 
+Fractals Lab.”) 
+

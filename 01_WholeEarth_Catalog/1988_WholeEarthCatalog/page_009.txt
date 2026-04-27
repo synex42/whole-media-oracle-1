@@ -1,0 +1,184 @@
+Gédel, Escher, Bach 
+Douglas Hofstadter 
+1979; 777 pp. 
+$14.95 
+($15.95 postpaid) from: 
+Vintage Books 
+Random House 
+400 Hahn Road 
+Westminster, MD 21157 
+1-800-492-0782 (in MD.) 
+1-800-638-6460 
+or Whole Earth Access 
+The Mind’s | 
+Douglas R. Hofstadter 
+and Daniel C. Dennett 
+1981; 501 pp. 
+$12.95 
+($14.45 postpaid) from: 
+Bantam Books 
+2451 South Wolf Road 
+Des Plaines, IL 60018 
+1-800-223-6834 
+or Whole Earth Access 
+The subject of the 
+first book—and the 
+frequent preoccupa- 
+tion of its deities, 
+mathematician Kurt 
+Gédel, artist M.C. 
+Escher, composer 
+J.S. Bach, and writer 
+Lewis Carroll—is 
+self-reference, what 
+the author calls 
+“strange loops” or “tangled hierarchies.” 
+It is the 
+domain of extreme paradox, where math, art, 
+religion (lots of zen in the book, honestly em- 
+ployed), and epistemology collide. It is the fearless 
+exploration of black holes of the mind. 
+Hofstadter set out to make Gédel’s Incomplete- 
+ness Theorem accessible to the lay thinker, and 
+happily he succeeds in that. Along the way he 
+illuminates a world of music, mathematics, 
+computer intelligence (and gossip), and philos- 
+ophy. The book confirms the suspicion I’ve had for 
+years that perhaps the most adventurous and 
+fruitful human frontier we have these days is the 
+hall of mirrors, Lewis Carroll’s looking glass. 
+—Stewart Brand 
+a 
+Here is a short section of one of the Crab’s Genes, 
+turning round and round. When the two DNA strands are 
+unraveled and laid out side by side, they read this way: 
+... TTTTTTTTTCGAAAAAAAAA . . 
+. 
+... AAAAAAAAAGCTTTTTITIT... 
+Notice that they are the same, only one goes forwards 
+while the other goes backwards. This is the defining 
+property of the form called “crab canon” in music. It is 
+reminiscent of, though a little different from, a palin- 
+drome, which is a sentence that reads the same 
+backwards and forwards. In molecular biology, such 
+segments of DNA are called “palindromes’—a slight 
+misnomer, since “crab canon” would be more accurate. 
+—Gédel, Escher, Bach 
+CRAG CANO 
+Hofstadter’s second volume, The Mind’s I, as an 
+anthology of essays he co-edits that circles 
+through the apparent paradoxes of conscious- 
+ness. Round it goes through children, ant colonies, 
+and large computers. Parable and fiction lurk in the 
+book, about the only animals that can keep a 
+tentative grip on the circulating elusiveness of self- 
+consciousness. 
+—Kevin Kelly 
+OQ) sp 
+Of course, you can 
+make yourself hear 
+a familiar language 
+as pure uninter- 
+preted sound if you 
+try very hard, just 
+as you can look at 
+a windowpane if 
+you want; but you 
+can’t have your 
+cake and eat it 
+too—you can’t hear 
+the sounds both 
+with and without 
+their meanings. 
+And so most of the 
+time people hear 
+mainly meaning. 
+For those people 
+who learn a 
+language because 
+of enchantment 
+with its sounds, this 
+is a bit disappoint- 
+ing—and yet 
+mastery of those 
+sounds, even if one 
+no longer hears 
+them naively, is a beautiful, exhilarating experience. (It 
+would be an interesting thing to try to apply this same 
+kind of analysis to the hearing of music, where the 
+distinction between hearing bare sounds and hearing 
+their “meanings” is far less well understood, yet seems 
+very real.) 
+—The Mina’s Eye 
+INFORMATION THEORY 
+Grammatical Man 
+(Information, Entropy, Language, 
+and Life) 
+Jeremy Campbell 
+1982; 319 pp. 
+$9.95 postpaid from: 
+Simon & Schuster/Mail Order Sales 
+200 Old Tappan Road 
+Old Tappan, NJ 07675 
+1-800-223-2348 
+In the age of information it is shocking that there is 
+So little useful information about information — 
+how it behaves, what its economics are, indeed, 
+what it is. A good book on the subject would have 
+to talk about the primary domains of information: 
+Evolution, genetics, computer programming, 
+entropy, whole systems, and human language. 
+This book does. It is the only one to encompass 
+the whole natural ecology of information in a 
+readable way. 
+—Kevin Kelly 
+® 
+There are probably more than a thousand billion 
+synapses in the brain, and each one is a kind of coding 
+station, where signals arrive in the form of bursts of 
+electrical pulses, so many a second, and are translated 
+into chemical signals in the form of very small, separate 
+packets. Only if a sufficient number of packets accumu- 
+lates Is a critical threshold reached and information sent 
+across the synaptic gap. The nerve cell on the other side 
+of the gap computes the frequency of the arriving 
+packets and, if the frequency is high enough, fires off a 
+signal of its own. This is the means of transmission 
+along the basic communications channels of the brain. 
+The code of the message is changed from electrical to 
+chemical and then back again to electrical as it moves 
+from one nerve cell to another. Such a procedure allows 
+plenty of room for chance to enter, and shows how 
+misleading it is to compare the essential processes of 
+the brain with those of a computer. 
+Sd 
+Indeed, Gregory thinks the perceptual system of the 
+brain, so active in testing possible answers to a puzzle 
+set by what the eye sees, is more “intellectually honest” 
+than. the supposedly rational parts of the cerebral cortex. 
+Faced with an ambiguous object or drawing, it will not 
+fasten on one interpretation and stick to it, unlike the 
+rational mind, which will often espouse a particular 
+dogma in politics or religion and refuse to relinquish it, 
+no matter how impressive the countervailing evidence 
+may be. 
+@ 
+“How can machines reproduce themselves?” Queen 
+Christina of Sweden asked her tutor, Descartes, after he 
+informed her that the human body, though not the soul, 
+could be explained in mechanical terms. Good question. 
+Three centuries after the Queen asked it, John von 
+Neumann suggested an answer. He proposed that in 
+living organisms, and even in machines, there exists a 
+“complexity barrier.” Beyond this barrier, where systems 
+are of a very high complexity, entirely new principles 
+come into play. It is possible, von Neumann said, for a 
+machine to make another machine more elaborate than 
+itself once it attains a certain level of organization—once 
+it breaks through the complexity barrier. Complexity is a 
+decisive property. Below the critical level, the power of 
+synthesis decays, giving rise to ever simpler systems. 
+Above that level, however, the synthesis of more 
+elaborate systems, under the right conditions, becomes 
+explosive. 
+

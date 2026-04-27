@@ -1,0 +1,222 @@
+Out of the Inner Circle 
+(A Hacker's Guide to 
+Computer Security) 
+Bill Landreth 
+with Howard Rheingold 
+1985; 230 pp. 
+$9.95 
+($11.95 postpaid) from: 
+Microsoft Press 
+10700 Northup Way 
+Box 97200 
+Bellevue, WA 98009 
+800/242-7737 
+or Whole Earth Access 
+The intent of this book is to give an introduction to 
+how crackers (hackers who crack into systems) 
+work. | thoroughly enjoyed it, but since it is not a 
+step-by-step tutorial, it left me wanting more details 
+on nearly everything it covers. But if you're inter- 
+ested in what makes hackers crack, and want a 
+very useful glimpse into the subculture that makes 
+almost everyone in the Establishment nervous, 
+Out of the Inner Circle is excellent. 
+Among the specific methods Landreth outlines are 
+the “hack-Hack”; the decoy; direct access to mem- 
+ory; rapid-fire attacking the computer to trick it into 
+thinking you have legitimate access; becoming a 
+remote sysop; using a trapdoor; the Trojan horse; 
+logic bombs; and worm programs. Anyone with 
+more than a passing interest in computer security 
+should be familiar with all these techniques, and 
+2600 
+Emmanuel Goldstein, 
+Editor 
+$15/year 
+(four issues) from: 
+2600 Subscription 
+Department 
+P.O. Box 752 
+Middle Island, NY 
+11953-0752, 516/751-2600 
+My favorite newsletter is 2600, which bills itself as 
+‘the hacker quarterly.” With concrete information 
+and delightful detail, its editors explain the intrica- 
+cies of the phone system, the VMS operating sys- 
+tem, satellite jamming, and other subjects of inter- 
+est to those who believe information should be free 
+and flow without barrier. Some of the most interest- 
+ing features are the news roundups whose de- 
+scriptions are quite inspiring. If you’re a phone 
+phreak or a potential hacker, this newsletter is 
+definitely for you. | love it. 
+— Matthew McClure 
+¢ 
+AUTOVON is an acronym for “AUTOmatic VOice Net- 
+work,” and is a single system with DCS (Defense Com- 
+munications System). It is presently mostly based on 
+electro-mechanical switches, and is a world-wide net- 
+work for “unsecure” voice communication for the DOD 
+and several related agencies... . 
+How to Participate: You can easily alter your touch tone 
+Landreth’s explanation’s 
+are quite clear, general 
+descriptions of how they 
+work. 
+— Matthew McClure 
+Sd 
+Very few people, from the 
+designers and operators of 
+large systems to the investi- 
+gators and law-enforcement 
+officers who deal with hack- 
+ers, understand what hack- 
+ers are trying to do, much 
+less why they're trying to do 
+it. During my own trial, for 
+example, the judge decided 
+to postpone sentence until 
+after | had undergone psy- 
+chiatric evaluation. 
+HAS HIGH 
+SECURITY? 
+THE 
+HACKER'S 
+HIDDEN 
+TASKS 
+What makes hackers hack? 
+Why are they so dedicated? 
+Why do they spend so much 
+of their own time on other 
+people’s computer systems? 
+And just what do they think 
+they are trying to accom- 
+plish? It is not rare for a 
+hacker to put in a sixty- or seventy-hour work week 
+(without getting paid, of course). And these are not 
+empty hours, filled by staring out the window. Hacking is 
+a challenge and a game of wits, and during their work 
+sessions, hackers are using all the skills and ingenuity 
+phone to make it have the extra column that utilizes the 
+1633 Hz tone. Standard Bell phones have two tone 
+generating coils, each of which can generate four tones. 
+This gives you sixteen possibilities of which you only use 
+twelve. This leaves you with access to the four unex- 
+plored tones. A standard way to modify the touch tone 
+phone is to install a switch to tell it whether to use the 
+silver box tones or not. When the switch is in one posi- 
+tion, you will get normal tones, in the other you'll get 
+1633 Hz tones. Bell calls these buttons A, B, C, and D, 
+while the Army named them, from highest to lowest, 
+Flash Override, Flash, Immediate, and Priority. All other 
+calls are called Routine if no precedence button is 
+pushed... 
+. 
+5 
+When you enter an authorization code to access a long 
+distance company’s network there are a few things that 
+happen. The authorization code number you enter is 
+cross-referenced in a list of codes. When an unassigned 
+code is received the switch will print a report consisting 
+of the authorization code, the date and time, and the 
+incoming trunk number (if known) along with other mis- 
+cellaneous information. 
+When an authorization code is found at the end of a 
+billing cycle to have been abused, one of two things is 
+done. Most of the time the code is removed from the 
+database and a new code is assigned. But there are 
+times when the code is flagged “abused” in the switch. 
+This is very dangerous. Your call still goes through, but 
+there is a bad code report printed. (This is similar to an 
+unassigned code report, but it also prints out the number 
+being called.) You have no way to know that this is 
+happening but the IC has plenty of time to have the call 
+traced. This just goes to show that you should switch 
+codes on a regular basis and not use one until it dies. 
+CLEAR 
+SCREEN 
+USER 
+USER 
+CREATE A 
+SECOND OPERATOR 
+ACCOUNT 
+SET PASSWORD 
+TO “HACK” 
+CALL MEMORY 
+AVAILABLE 
+they have developed. Hack- 
+ers enjoy what they do. 
+¢ 
+Normally, two steps are 
+involved in the basic meth- 
+ods hackers use to gain 
+unauthorized access to 
+computers: First the hacker 
+obtains an account. That's 
+the easy part — sometimes 
+it's as easy as calling and 
+asking for one (posing as a 
+university student, perhaps); 
+more usually, it means 
+getting account names from 
+bulletin boards, company 
+phone lists, or trash bins. 
+. 
+. 
+maybe using a friend's or 
+relative’s account on The 
+Source. ... 
+HAS ENOUGH 
+MEMORY? 
+It is the password that is a 
+secret. Therefore, a hacker's 
+second step involves ways 
+of faking or discovering 
+passwords. This is one of 
+the areas in which lax secu- 
+rity makes the hacker’s job 
+easier than it need be: Well- 
+chosen passwords that are easy to remember, but 
+difficult for a hacker to guess (yes, there are such 
+things), and educated users who keep their secret pass- 
+words secret are a very effective defense at this level of 
+security. 
+¢ 
+A couple of years ago while listening to the local voice- 
+paging channel on my scanner, | figured that anybody 
+could just call one of those phone numbers and get their 
+message on the air. So after calling some numbers 
+above and below my friend's voice pager number | found 
+that this was true — | heard myself on the scanner. 
+Problem was, you had to listen to everyone else’s mes- 
+sages, too. Some kind of selective tone decoder for the 
+scanner was in order — the cheaper the better. Also, 
+some kind of tone-encoding system was needed that 
+anyone had access to, so why not use the touch tones? 
+After some experimenting, | found that a touch tone 
+decoder chip with two 2N2222 transistors and a few 
+resistors and capacitors (about $10 total at Radio Shack) 
+could be used to decode the * (or any other) touch tone 
+from the scanner’s audio section and switch the audio 
+onto the speaker. It all fit quite nicely into a matchbox- 
+sized container taped to the back of my portable scan- 
+ner, and could be powered by the scanner batteries. 
+There is one trick which comes in handy. To get free 
+directory assistance (DA) from a Customer Owned Coin 
+Operated Telephone (COCOT), you dial O-NPA-555- 
+1212. 
+If the NPA is within the New York City area (212, 
+516, 718), the call speeds straight through to DA. (Note: 
+the caller must also be within that area.) Most COCOTs 
+let you dial 0+ without asking for money, so your DA call 
+would be free. Similar variations of this trick probably 
+work in other parts of the country. 
+® 
+This command creates a file in your account which will 
+subsequently capture all the activity occurring at your 
+terminal. Any keystrokes, any commands, all the actions 
+done at the keyboard will be logged in the file as well as 
+going on at the terminal as normal. 
+PHREAKERS 
+77 
+

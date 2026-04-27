@@ -1,0 +1,144 @@
+The Plain English Repair 
+and Maintenance Guide 
+for Home Computers 
+Henry F. Beechhold 
+1984; 265 pp. 
+The Plain English 
+Maintenance and Repair 
+Guide for IBM Personal 
+Computers 
+(IBM PC, PC XT, 
+PCjr and Compatibles) 
+Henry F. Beechhold 
+1985; 259 pp. 
+$14.95 each 
+($18.95 postpaid) from: 
+Simon & Schuster 
+Mail Order Sales 
+200 Old Tappan 
+Old Tappan, NJ 
+07675; 800/223-2336 
+or Whole Earth Access 
+INSIDE A FLOPPY DISKETTE DRINE 
+Index emitter (works with 
+Disk hub... . & ty index detector below disk) 
+— Write: protect switch 
+motor 
+; 0 Index detector 
+—IBM Personal Computers 
+Protecting Your Computer From 
+Power Line Disturbances 
+Francis J. Stifter. Reprint free from Electronic 
+Specialists, Inc., P.O. Box 389, 171 South Main Street, 
+Natick, MA 01760; 800/225-4876 
+Power surges are thieves in the night, robbing you 
+of precious information stored on your computer. 
+There are ways, though, to protect your work — 
+such as by shutting off the machine whenever 
+you're not using it and pulling the plug. More ele- 
+gant solutions to power fluctuations (including 
+safeguards that work while the computer is in use) 
+are listed in this article, reprinted from Computers 
+and Electronics magazine and free for the asking. 
+—Sarah Vandershaf 
+. 
+On a hot day, even with an air conditioner running, your 
+computer “acts up.” Heat sensitive equipment? Unlikely. 
+Heavy air conditioning loads accompanying summer 
+heat often give rise to brownouts — evidenced by tem- 
+porary low voltage conditions and increased power-line 
+disturbances. 
+Bewore of static electricit 
+stuff to lose all your d 
+D.C. Stepper 
+Disk spindle __ > 
+2 
+| i 
+i 
+Ei wa 
+motor 
+DC. 
+pe 
+Head assembly 
+Drive 
+and band drive 
+a 
+y. You can generate enough of the 
+ata just by taking off your sweater!/ 
+—Home Computers 
+Great books to own even if your computer never 
+breaks down. The technical jargon of electronics 
+and computer repair is translated into something 
+we non-techies can grasp, a sort of folk-wisdom 
+shop sense that explains “the why and wherefores 
+below the surface.” Step-by-step tutorials walk you 
+through what you need to know for simple repairs 
+and maintenance as well as how to modify your 
+home computer and build some add-on gadgets, 
+like a null modem for hooking two com- 
+¢ 
+Ideally, interference should be eliminated at the source. 
+Unfortunately, many sources are inaccessible — light- 
+ning comes to mind! — or not readily identifiable as a 
+culprit (perhaps an innocent little postage meter located 
+in the back office of a factory). 
+Fortunately, most power line interference can be con- 
+trolled directly at the computer installation. Noise-isola- 
+tion transformers, power line conditioners, and line filters 
+will generally reduce noise levels to the point where they 
+no longer interfere with satisfactory computer operation. 
+A commercial line- 
+conditioner will pro- 
+tect a computer from 
+virtually all electrical 
+calamities excepta 
+direct lightning strike 
+or total power failure. 
+One sick chip can 
+infect all others thet are log- 
+connected to it “downstream” 
+How to idewty an 
+electrolytic capactor: 
+There's one!) 
+—<——— 
+Always observe polarity. 
+ri 
+— IBM Personal Computers 
+puters together, or an audio monitor. 
+—Levi Thomas 
+IBM PC-compatible 
+LOOK OUT FOR: 
+owners should get the 
+special edition tar- 
+geted for them. 
+—Art Kleiner 
+— Home Computers 
+— Home Computers 
+Sd 
+Substitution of |Cs without re- 
+moving originals. 
+If you suspect that a chip is de- 
+fective, you can simply press another of the same type 
+over it. This is called “piggybacking” (big surprise!) and is 
+a handy trouble-shooting technique if you have a stock 
+of chips on hand. Here's how to do it: 
+a. Turn off power. 
+b. Carefully bend the new chip leads in slightly so that 
+each will contact its mate on the original chip. 
+c. Orient the chip with pin 1 to match pin 1 on 
+the original. 
+d. Press the chip down over the original, making abso- 
+lutely certain 
+that all pins are 
+“mated” and 
+that none is 
+touching any 
+other. 
+e. Power up the 
+computer and 
+test for proper 
+functioning. 
+“PIGGY BACKING” 
+— Home Computers 
+COMPUTER CARE 171 
+

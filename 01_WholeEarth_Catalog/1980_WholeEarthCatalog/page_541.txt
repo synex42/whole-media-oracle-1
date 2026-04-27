@@ -1,0 +1,304 @@
+Godel, Escher, Bach: 
+an Eternal Golden Braid 
+“Every few decades an unknown author brings out a book 
+of such depth, clarity, range, wit, beauty and originality 
+that it is recognized at once as a major literary event.” 
+So wrote Martin Gardner in the July, 1979 Scientific 
+American in an entire article devoted to this book. 
+The subject of the book — and the frequent preoccupa- 
+tion of its deities, mathematician Kurt Godel, artist 
+M.C. Escher, composer J.S. Bach, and writer Lewis Carroll 
+— is self-reference, what the author calls ‘strange loops” 
+or “tangled hierarchies.’ It is the domain of extreme 
+paradox, where math, art, religion (lots of zen in the 
+book, honestly employed), and epistemology collide. 
+It is the fearless exploration of black holes of the mind. 
+Hofstadter set out to make Gédel’s Incompleteness 
+Theorem accessible to the lay thinker, and happily 
+he succeeds in that. Along the way he illuminates a 
+world of music, mathematics, computer intelligence 
+(and gossip), and philosophy. 
+The book confirms the 
+suspicion I’ve had for years that perhaps the most adven- 
+turous and fruitful human frontier we have these days 
+is the hall of mirrors, Lewis Carroll’s looking glass. 
+The unusual form of this book, thick with graphic 
+devices, deserves comment. We may be seeing a develop- 
+ment as profound as the invention of the cartoon strip. 
+Hofstadter’s images do not illustrate his words, and the 
+words are not caption to the pictures — they are both 
+the text. 
+It’s interesting that we have here the first 
+popular work by a computer bum, and it is a master- 
+piece. Could his imaginative form of discourse be a 
+by-product of the new tool he lives with? 
+—SB 
+[Suggested by R.W. Bigham] 
+(See The Graphic Work of M.C. Escher, p. 460.) 
+Godel, Escher, Bach: 
+an Eternal 
+Golden Braid 
+(A metaphorical fugue on 
+minds and machines in 
+the spirit of Lewis Carroll) 
+Douglas R. Hofstadter 
+1979, 1980; 777 pp. 
+$8.95 postpaid from: 
+Vintage Books 
+Random House 
+455 Hahn Road 
+Westminster, MD 21157 
+or Whole Earth 
+Household Store 
+aie 
+There are three authors — Z, T, and E. Now it happens 
+that Z exists only in a novel by T. Likewise, T exists 
+only in a novel by E. And strangely, E, too, exists only 
+in a novel — by Z, of course. Now, is such an “‘authorship 
+triangle’' really possible? 
+Of course, it’s possible. But there’s a trick... All three 
+authors Z, T, E, are themselves characters in another 
+Novel —by H! You can think of the Z-T-E triangle as 
+a Strange Loop, Or Tangled Hierarchy; but author H is 
+outside of the space in which that tangle takes place — 
+author H is in an inviolate space. Although Z, T, and E 
+all have access — direct or indirect — to each other, and 
+can do dastardly things to each other in their various 
+Novels, none of them can touch H's life! They can’t 
+even imagine him — no more than you can imagine the 
+author of the book you’re a character in. If | were to 
+draw author H, | would represent him somewhere off 
+the Page. Of course that would present a problem, since 
+drawing a thing necessarily puts it onto the page .. 
+. 
+Anyway, H is really outside of the world of Z, T, and E, 
+and should be represented as being so. 
++7, 
+inclusion 
+(physical) 
+depichon 
+(artistic) 
+inclusion 
+representation 
+A 
+P 
+(physical) 
+(mental) 
+A strikingly beautiful, and yet at 
+the same time disturbingly gro- 
+tesque, illustration of the cyclonic 
+“eye'' of a Tangled Hierarchy is 
+given to us by Escher in his Print 
+Gallery. What we see is a picture 
+of a ship in the harbor of a small 
+town, perhaps a Maltese town, 
+to guess from the architecture, 
+with its little turrets, occasional 
+cupolas, and flat stone roofs, upon one of which sits 
+a boy, relaxing in the heat, while two floors below him a 
+woman — perhaps his mother — gazes out of the window 
+from her apartment which sits directly above a picture 
+gallery where a young man is standing, looking at a 
+picture of a ship in the harbor of a small town, perhaps 
+a Maltese town — What!? We are back on the same level 
+as we began, though all logic dictates that we cannot be. 
+Let us draw a diagram of what we see. 
+What this diagram shows is three kinds of ‘‘in-ness.’" The 
+gallery is physically in the town (“inclusion’’); the town 
+is artistically in the picture (“‘depiction’’); the picture is 
+mentally in the person (“‘representation”’). 
+. 
+. 
+. 
+Now are we, the observers of Print Gallery, also sucked 
+into ourselves by virtue of looking at it? Not really. We 
+manage to escape that particular vortex by being outside 
+of the system. And when we look at the picture, we see 
+things which the young man can certainly not see, such as 
+Escher’s signature, “MCE”, in the central “‘blemish”’. 
+Though the blemish seems like a defect, perhaps the 
+defect lies in our expectations, for in fact Escher could 
+not have completed that portion of the picture without 
+being inconsistent with the rules by which he was drawing 
+the picture. That center of the whorl is — and must be — 
+incomplete. Escher could have made it arbitrarily small, 
+but he could not have gotten rid of it. Thus we, on 
+the outside, can know that Print Gallery is essentially 
+incomplete — a fact which the young man, on the inside, 
+can never know. Escher has thus given a pictorial parable 
+for Godel’s Incompleteness Theorem. And that is why 
+the strands of Godel and Escher are so deeply interwoven 
+in my book. 
+At first it looks like a collection of somewhat random 
+blobs, but if you step back a ways and stare at it fora 
+while, all of a sudden, you will see seven letters appear 
+inthis... 
+pepsbed pilopi¢ 
+Artificial Intelligence 
+Patrick Winston’s Artificial Intelligence has become some- 
+thing of a classic in the computer field and deservedly so. 
+It makes a wonderful complement to Hofstadter’s Godel, 
+Escher, Bach. 
+The first half of the book provides a conceptual overview 
+of several of the major research efforts in artificial intelli- 
+gence, including scene analysis, pattern recognition and 
+pattern-directed inference systems. 
+The second half is 
+a LISP language tutorial (LISP is probably the most 
+important computer language used in artificial intelligence 
+research today) which develops some rather sophisticated 
+Al programs. 
+Surprisingly, perhaps what’s most intriguing are some of 
+the exercises that Winston assigns at the end of the 
+chapters. 
+His questions are structured to elicit and 
+provoke both insight and understanding into the nature 
+of the subject material and its relation with other segments 
+of the book. 
+Overall, a very, very useful guide to Al. 
+—Michael Schrage 
+“. 
+Very complex shapes can be described 
+= 
+as combinations of simple shapes 
+modified by indentations and 
+protrusions. A telephone is 
+a truncated and notched 
+wedge with U-shaped 
+protrusions set 
+into the 
+notch. 
+ICAT 
+COMPUTE 
+Machines Who Think 
+Reading the sloppy 
+writing on artificial intelligence in 
+most magazines and newspapers (even computer maga- 
+zines!) makes you realize how valuable this book is, and 
+how much more good reporting is needed. 
+Though far 
+from flawless, the book’s a gripping piece of gossip about 
+a debate that cyberneticians and computer scientists 
+have argued for twenty years — whether active intelli- 
+gence in machines is possible, if so whether it’s desirable, 
+and how to go about pursuing it. Expect the debate to 
+ripple out into everyday life as smart machines appear 
+around us. 
+This is a good starting point for those 
+outside the field. 
+—Art Kleiner 
+Machines Who Think 
+Pamela McCorduck 
+1979; 375 pp. 
+$14.95 postpaid from: 
+W.H. Freeman and Co. 
+660 Market Street 
+San Francisco, CA 94104 
+or Whole Earth 
+Household Store 
+As a freshman at Haverford College in 1918, McCulloch 
+remembers being questioned by the Quaker Rufus Jones: 
+“Warren,” said he, ‘what is thee going to be?” And | 
+said, “I don’t know.”” ‘And what is thee going to do?” 
+And again | said, ‘’| have no idea, but there is one 
+question | would like to answer: What is a number, that 
+aman may know it, and a man that he may know a 
+number?” He smiled and said, “Friend, thee will be 
+busy as long as thee lives.”" 
+—McCulloch, 1965 
+e 
+Artificial intelligence as science has been less apparently 
+successful than its founding fathers hoped, but its 
+progress in the twenty or so years of its existence has 
+been enough to confound its critics — it performs better 
+and better, slowly breaking down each barrier the critics 
+declared could never be surmounted. Whether it will 
+surmount them all remains to be seen. 
+Each step toward 
+a fully realized intelligent artifact suggests that it can be 
+done, but it hasn't been yet. Each of these steps, how- 
+ever, forces us to refocus our view of ourselves, and at 
+such points people who ponder the human condition have 
+the right, the responsibility, to consider our proper place 
+in the universe, our possibilities and limitations, our 
+individual and collective purposes. 
+Addison-Wesley 
+Publishing Company 
+Jacob Way 
+Reading, MA 01867 
+or Whole Earth 
+Household Store 
+. 
+: 
+Artificial Intelligence 
+. 
+Patrick Henry Winston 
+‘ 
+1977; 444 pp. 
+i 
+$18.95 postpaid from: 
+2 
+% 
+A learning sequence for the arch concept. The first 
+sample conveys the general idea. The others reinforce it 
+by emphasizing that there must be support, that the sides 
+must not touch, and that the top need not be brick. 
+e 
+Myth: Computers Can Do Only What They Are 
+Programmed to Do 
+Intelligent computers do not organize themselves out of 
+nothing, so in some uninteresting sense their abilities 
+descend from human programmers. 
+But it is equally true 
+that humans are indebted to the genetic code. Somehow 
+there must be enough information processing power to 
+get beyond the threshhold above which learning from the 
+environment takes place. Once humans bring computer 
+intelligence up to this level, computers will no doubt 
+augment their directly programmed gifts by the same 
+means humans do: by being told, by reading, by asking 
+questions, by doing experiments, and by being curious. 
+CTS, ice eee 
+Bn6le 058" @ 
+6 O70 (8 (a 6 
+0 
+© ew 
+© oe 
+e 
+8 
+She 8 
+THE RISING SUN 
+NEIGHBORHOOD NEWSLETTER 
+“if everyone in the world would wash two 
+dishes, there would be no war.” 
+—“But they won’t.” 
+—Stewart and me talking. 
+peas 
+@ 
+bua) 
+0) 
+ae 
+ef 
+eter 
+6). 
+(0 
+18 
+6 
+6) 
+6 
+0,0 
+IONS 
+GE 539 
+a 
+at 
+i 
+=i 
+i 
+~ 
+ARCH 
+in 
+NEAR MISS 
+oy 
+NEAR MISS 
+ARCH 
+

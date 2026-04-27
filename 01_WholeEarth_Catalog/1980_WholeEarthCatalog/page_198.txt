@@ -1,0 +1,254 @@
+€ 
+Harnessing the Wind for Home Energy 
+When people ask me “where do | find out about wind 
+energy,” | tell them to buy this modest book. Wind 
+experimenters will wish for a more technical treatise, 
+but for the uninitiated the book is complete, the bibliog- 
+raphy respectable, and the selection of hardware typical 
+of what's available. 
+—J. Baldwin 
+Harnessing the Wind 
+for Home Energy 
+Dermot McGuigan 
+1978; 134 pp. 
+$4.95 postpaid from: 
+Garden Way Publishing Co. 
+Charlotte, VT 05545 
+or Whole Earth 
+Household Store 
+The building is diverting the wind stream from 
+generator 1, but actually increases the windspeed for 
+generator 2. 
+——»> 
+——> 
+——> 
+——> 
+——_—> 
+— + 
+———> 
+wee 
+( EE ee 
+a 
+el, 
+WiLL, 
+Obstructions cause wind turbulence whether they are in 
+front of or behind the generator, as here. The mast 
+should be extended 20 - 30 feet above the trees or sited 
+300 - 500 feet away from them. 
+An example of the cheapest type of tower or mast —a 
+telephone pole is used to support an old and heavy Jacobs 
+mill.. The 70-ft. pole is tied with guy wires and hinged at 
+the bottom to a concrete base. Asa result of the hinge 
+the whole tower, with the Jacobs on top, may be lowered 
+and raised by means of a winch for servicing. 
+It is also 
+good to know that should a hurricane threaten, the mill 
+can “‘lie low”’ in safety. The main difficulty with wooden 
+poles is that the portion left underground eventually 
+rots, but with this system that need never happen. 
+e 
+Coulson Wind Electric 
+RFD 1 Box 225 
+Polk City, |A 50226 
+Phone: (515) 984-6038 
+Roland Coulson sells a wide range of reconditioned wind 
+generators originally manufactured back in the Thirties 
+and Forties, such as the Air Electric, Delco, Parris-Dunn, 
+Wincharger and Windpower. .. 
+. 
+Coulson powers his workshop with a 1.2 kw Wincharger 
+on an 80-foot tower and a 2.5 kw Windpower on a 65- 
+foot tower. All the workshop equipment is run on 32 
+volts DC: a lathe, valve and bench grinders, drills, air 
+compressor, vacuum cleaner, radio and lights. 
+e 
+Elektro G.m.b.H. 
+St. Gallerstrasse 27, 
+Winterthur, Switzerland 
+Elektro, a tiny outfit, has been quietly manufacturing 
+wind generators in Switzerland for the past 36 years and 
+all went well until about 1969 when suddenly everybody 
+wanted to buy Elektros. Reeling under a deluge of mail 
+and orders, the small workshop where Elektros are hand- 
+built became hurried and cluttered. New people were 
+employed who did not understand the fine art of wind- 
+craft, and so quality control slipped. About the same 
+‘time Elektro allowed itself to be pushed into premature 
+manufacture of a 10 kw generator by an English company. 
+The result was that the blades on the first batch of 10 kw 
+mills broke, and Elektro’s reputation suffered badly 
+as a result. 
+It must be said, however, that a company expert subse- 
+quently personally visted and de-bugged most of the 
+faulty Elektros in Europe. Having recently met Mr. Kern 
+and Mr. Schaufelberger of Elektro, I’m personally satis- 
+fied that they have matters back in hand again and are 
+intent upon improving their quality control. 
+Vertical-axis Elektro shown powering a 
+mountain rescue post in the Alps. 
+f 
+‘ULT TO BE ENTIRE 
+= 
+rational about windpower; the machines 
+are so dramatic and the fact that something 
+real is happening is so irrefutable. But making a 
+good wind turbine powered device has proven to 
+be a challenge that few can meet. Even well- 
+known manufacturers sell hardware that is far 
+from reliable, though one would never guess that 
+from the literature. 
+In fact some of the least 
+worthy machines are the best known (Wincharger, 
+Elektro), and are used as shining examples of “free 
+power from the wind” by alargely uncritical press. 
+Home-builts, though instructive, are often short on 
+reliability too. The big problem is the cost of 
+constructing devices that can withstand the con- 
+tinuous beating of the weather: ice buildup, dust, 
+rust, hail, gusts, lightning, vibration and metal 
+fatigue, not to mention bullets and deliberate 
+sabotage by dealers of rival makes (a problem in 
+the “30s and rumored to be making a comeback). 
+Lack of system reliability has been discouraging 
+prospective buyers for some time now, and for 
+good reason. 
+Fortunately there is now a govern- 
+ment sponsored test facility at Rocky Flats, 
+Colorado, where manufacturers’ claims are called 
+out under vicious weather conditions. 
+(Test 
+results are not available as this is written, but should 
+be in late 1980.) My experience in the field with 
+25 types of machines or so is that useful reliable 
+wind-electric systems are not yet available in a 
+Simplified Wind Power Systems 
+for Experimenters 
+Here’s a how-to-design-it book for wind machine neo- 
+phy tes that looks like it’s organized logically and not too 
+heavy mathematically. 
+Written by an engineer accus- 
+tomed to teaching inexperienced aerospace technicians, 
+it relies heavily on simple graphs and example problems. 
+In addition to the usual power required/power available 
+calculations, it covers airfoil, mechanical, and structural 
+design, the latter particularly well. Battery storage tech- 
+nology and electronic controls are not treated well. 
+This is not a design cook book full of plans, but rather 
+a simple, graphic engineering text for those thinking 
+about building their first windplant. 
+—Chuck Missar 
+Simplified Wind 
+Power Systems 
+for Experimenters 
+Jack Park 
+1974; 72 pp. 
+$9 postpaid from: 
+Jack Park 
+Box 445 
+Brownsville, CA 95919 
+or Whole Earth 
+Household Store 
+Homemade Windmills of Nebraska 
+Handcarved blades tipped with stainless stee/? Ball bear- 
+ings? Gears? Feathering mechanisms? Nope. A few 
+boards and lots of “American Ingenuity” (for which this 
+country is justly famed) make practical working machines 
+that pump, saw, and in later times generate electricity. 
+This paper was originally published in the 1890s and it’s 
+a real eye-opener. 
+Funky, yes. Down-home, for sure. 
+And it may well cause more people to make working 
+machines than any windpower book yet published. 
+Interesting sociologically, too. 
+—J. Baldwin 
+Homemade Windmills 
+of Nebraska 
+Erwin Barbour 
+1898; 78 pp. 
+$3.50 postpaid from: 
+Farallones Institute 
+15290 Coleman Valley Rd. 
+Occidental, CA 95465 
+or Whole Earth 
+Household Store 
+4 
+A six fan Jumbo windmill on the farm of W. W. Good- 
+rich, Bethany, Nebraska, used in watering a six acre patch 
+of eggplants for the Lincoln market. The fans are each 
+nine feet long with arms five and one-half feet long. 
+Jumbo box nine by eleven by six feet high, with door 
+below for the escape of dead air. Extra well built. Axis 
+of Damascus steel. Total cost, $8.00. 
+a 
+ta 
+Ay 
+pepe a 
+4 ole 
+a 
+Satie 
+Tipe 
+. 
+form whose performance 
+can be predicted 
+confidence. Most wind-electric systems do not live 
+up to catalog claims. Most do not have good 
+output at low wind speeds; performance-minded 
+Americans apparently cannot resist boasts of high 
+outputs in high winds despite the fact that there 
+are few sites with high average winds in this 
+country. And there has been a distressing lack of 
+heavy-duty quality; many manufacturers seem to 
+think automobile-grade quality will do. It won't. 
+I'd say offhand that if a machine can’t run for 20 
+years or more without major maintenance, then it 
+probably will never pay off in net energy and 
+probably won't pay off in dollars either. 
+The above remarks are discouraging to someone 
+who wants to put the wind to work right now. 
+What to do? First is to be brutally honest about 
+your needs, desires, and money matters. 
+It is 
+unlikely that a windmill will pay its way (except 
+possibly for water pumping) if city power is already 
+at the scene. 
+In all but a few cases, a smal! wind- 
+electric system will not pay, especially if there are 
+storage batteries in the system. 
+Those systems you 
+read about are mostly for symbolic value; their 
+owners don’t really care very much about payoff 
+or net energy. 
+The records of most of the highly 
+publicized rigs show a very poor return on invest- 
+ment as well as questionable reliability. 
+If you live 
+beyond city power and/or where there is a lot of 
+WIND >= 
+WIND -——= 
+WIND 
+—— = 
+stator VANES 
+Types of vanes used are illustrated in Figures A, B, and C. 
+Design A is a bit of nostalgia, but it works. Design B is 
+a great improvement, and C is the best. The reason is 
+simple. You want the tail vane which is most sensitive 
+and responsive to changes in wind direction. Design C 
+has the highest ratio of vane span, which is the distance 
+from top to bottom on the vane, to vane chord, the 
+distance from leading edge to trailing edge. Such vanes 
+are like glider wings which are designed to make the most 
+use of light up-drafts to support these craft aloft with- 
+out benefit of a motor. Practical ratios of span divided 
+by chord for the vane might be between two and ten. 
+In 
+other words, a typical vane might be five times as tall as 
+it is wide. 
+The Battle-ax windmill of Mr. A.G. Tingley, Verdon, 
+Nebraska, as seen sawing a thirty-inch log. Diameter of 
+wheel ten feet. The wooden drum and brake is self- 
+explanatory. This mill saws the wood for the family, 
+and requires but little superintendence. To the left is 
+seen a plan of the brake. The handle A cramps upon. 
+the wooden drum B. It is a cheap, simple, and 
+satisfactory device. 
+

@@ -1,0 +1,275 @@
+ts 
+IA] 
+CTRONICS 
+eee 
+Pee 
+kee 
+m 
+S 
+a 
+a 
+oct. 
+me, 
+ae. 
+ital 
+oP 
+> 
+i 
+<é 
+5 
+; 
+Tip of 
+Solder 
+Soldering Iron 
+Learn Electronics Through Troubleshooting 
+This book is a one-of-a-kind for people who wish to get 
+started in electronics. 
+The book is written simply and 
+clearly and assumes no knowledge on the part of the 
+reader. Beginning with simple troubleshooting techniques, 
+it takes you through basic arithmetic, simple electrical 
+laws, an explanation of tools to be used, pictures and 
+explanations of the various devices used to make elec- 
+tronic equipment, and finally some simple examples of 
+circuits found in everyday household appliances such as 
+radios and phonographs. 
+Each chapter ends with ques- 
+tions and answers which really help. 
+—Jim Stock ford 
+Learn Electronics 
+Through 
+Troubleshooting 
+Wayne Lemons 
+raat! 
+1969, 1977; 608 pp. 
+eectronics 
+$10.95 postpaid from: 
+} 
+eP ugh 
+. 
+Howard W. Sams 
+ht vpieshooting 
+and Company 
+roll 
+4300 West 62nd Street 
+P.O. Box 7092 
+Indianapolis, IN 46206 
+or Whole Earth 
+Household Store 
+Bend The Hook For Placing 
+Beneath The Screw Connector 
+Before Tinning 
+Strip Insulation From 
+Wire Before Tinning 
+Preparation of ribbon lead-in for screw terminals 
+Capacitor 
+Substitution | | 
+Suspected 
+Open 
+Capacitor 
+No. 44 
+0.3A at 6V 
+202, 2-Watt 
+Rheostat 
+Rheostat used to control lamp brightness 
+el 
+Don Lancaster’s Cookbook Library 
+These books provide the home brew tinkerer with a, um, 
+grounding in the basics of micro circuits — with which 
+you can build your own calculators, amplifiers, meters 
+and terminals, and get a start on building your own 
+computer. Each book deals with a different type of 
+component. CMOS circuits are building-block electronic 
+switch circuits out of which computer choice pathways 
+are woven. 
+TTL circuits are simpler, more often used to 
+build clocks, meters and peripherals. 
+Getting through 
+TTL is a good step towards learning CMOS. Active filters 
+are useful in amplifying or controlling sound frequencies. 
+TV typewriters are, in Marc LeBrun’s words, “the 
+medium of choice for communicating with your personal 
+computer.” (They’re basically home brewed terminals.) 
+Cheap video (in this case) means graphically refined TV 
+typewriters. 
+Lancaster takes pride in teaching you to 
+make things that are more useful and versatile — more 
+artistic, really — than what you can buy commercially. 
+Youll need some electronics experience, or lots of 
+time, or both. 
+—Art Kleiner 
+CMOS Cookbook 
+z 
+Don Lancaster 
+1977; 416 pp. 
+$1 0.50 postpaid 
+TTL Cookbook 
+[A Complete Guide to 
+The Understanding and 
+Using of Transistor- 
+Transistor Logic (TTL) 
+Integrated Circuits] 
+Don Lancaster 
+1974; 335 pp. 
+$9.50 postpaid 
+Active Filter 
+Cookbook 
+Don Lancaster 
+1975; 240 pp. 
+$1 4.95 postpaid 
+TV Typewriter 
+Cookbook 
+Don Lancaster 
+1976; 256 pp. 
+$9.95 postpaid 
+Cheap Video 
+Cookbook 
+Don Lancaster 
+1978; 288 pp. 
+$5.95 postpaid 
+all from: 
+Howard W. Sams & Co. 
+4300 West 62nd Street 
+P.O. Box 7092 
+Indianapolis, IN 46206 
+or Whole Earth 
+Household Store 
+e 
+A newer logic family is called CMOS, short for Comple- 
+mentary-Metal-Oxide-Silicon. CMOS has some very 
+important advantages over earlier logic families. As 
+we'll see in detail later on, these benefits include very low 
+cost (from 3 cents per gate and up), ultralow and non- 
+critical power needs, wide logic swings, ‘‘down-the- 
+middle” transfer characteristics, open-circuit inputs, lots 
+of “fan-out” drive, good noise performance, and lots of 
+different devices available from many highly compete- 
+tive sources. 
+—CMOS Cookbook 
+onenene 
+nnn 
+1. Leave the existing microcomputer system nearly 
+as you find it, making only a bare minimum of 
+minor changes. 
+2. Use a plain old TV set, also leaving it nearly as 
+you found it, again making only a bare minimum of 
+minor changes. 
+3. Put some hardware between the microcomputer and 
+the TV set that lets them talk to each other. Keep the 
+hardware as simple and flexible as possible. Use 
+PROMs as needed to give flexibility from s£P system 
+to system.... 
+What we really want to do is to eliminate anything at 
+all between the microprocessor and the TV set. Since 
+this is not quite possible, we reduce the size, cost, and 
+the “‘dedicatedness”’ of our interface as much as we 
+Possibly can. Typically, an alphanumeric interface can 
+end up with three hex inverters, two baby PROMs, a 
+shift register, and a character generator. 
+—The Cheap Video Cookbook 
+Typical page display of utility tvt. 
+—TV Typewriter Cookbook 
+Audio Cyclopedia 
+Written for professionals in the audio field, this is a 
+Herculean effort by one man and deserving of a tribute. 
+This book provides comprehensive coverage of all modern 
+technologies that affect sound transmission. 
+With a very 
+light use of math there is a heavy reliance on tables, 
+charts, schematics, waveform comparisons, and exploded 
+drawings, with the bonus of an excellent index. 
+This is 
+the most important and most used book in my 
+library. 
+—Jim Stock ford 
+Audio Cyclopedia 
+Howard W. Tremaine 
+1959, 1979; 1757 pp. 
+2nd Edition 
+$39.95 postpaid from: 
+Howard W. Sams 
+and Company 
+4300 West 62nd Street 
+P.O. Box 7092 
+Indianapolis, IN 46206 
+or Whole Earth 
+Household Store 
+Fraction of a cycle of the intermodulation signal at 
+“send’’ terminals of the send section. The waveform 
+has been expanded to show the high-frequency signal 
+on the low-frequency carrier (f; equals 40 Hz, and fo 
+equals 2000 Hz). 
+aaa 
+A MICROCOMPUTER 
+HAS . . . 
++ 
+ACLOCK] THAT CAN BE USED FOR ALL SYSTEM TIMING 
++’ [MEMORY] THAT CAN BE USED TO STORE CHARACTERS, 
+OP-CODE, OR GRAPHIC SYMBOLS 
+= some (A 
+LINES THAT CAN SEQUENTIALLY ACCESS 
+CHARAC 
+© 
+SOME [DATA] LINES THAT CAN CONTROL HOW WE 
+‘ACCESS MEMORY, 
+LINES THAT LET US SWITCH BETWEEN 
+- 
+NO 
+VIDEO AND NORMAL OPERATION. 
+BE 
+(A) Microprocessor-based video displays get us from here .. 
+. 
+ATV 
+SET NEEDS... 
++ (VIDED) OOTS TO FORM CHARACTERS OR GRAPHIC 
+SYMBOLS, ARRIVING AT THE RIGHT PLACE AT 
+THE RIGHT TIME, 
+* HORIZONTAL AND VERTICAL [SYNC] PULSES TO 
+LOCK THE TV TO THE MICROCOMPUTER, 
++ [COMPENSATION] OR SOME OTHER WAY TO MAKE 
+UP FOR A LIMITED BANDWIOTH, 
+» SOME INPUT [ACCESS] SUCH AS A CLIP-ON RF 
+MODULATOR OR A NEADPHONE JACK USED AS 
+A DIRECT V10E0 CHANGEOVER SWITCH, 
+shenttld 
+(B) ... to here, with... 
+—The Cheap Video Cookbook 
+Don Britton electronic plans 
+A catalog of electronic construction plans of all sorts of 
+devices which can be built by amateurs. 
+The plans are 
+workable, detailed and although some of the claims seem 
+outrageous, they do work provided you take care and 
+approach the construction in a conscientious manner. 
+They ‘re not easy, but nothing worthwhile is. Some of 
+these devices are quite useful, such as the portable radio 
+phone. Others appeal to the sneaky low-down bastard 
+in all of us. 
+—Wolfgang Drohsler 
+Don Britton 
+free from: 
+Electronic Publications 
+Don Britton Enterprises 
+Catalog 
+P.O. Drawer G 
+Waikiki, Hawaii 96815 
+e 
+Automatic Police Dialer 
+When triggered this device connects to your telephone 
+line and dials the police advising them of the emergency. 
+Unit can be built for under $30, and is totally solid 
+state. Order plan set #SC3S6S5 at $6.50. 
+° 
+Infra-Red Surveillance TV Camera 
+A miniature device 
+This camera measures just 4’ x 3” and transmits 
+complete picture by VHF radio. Unit is ULTRA Sensi- 
+tive and features a ‘Fish Eye” wide angle lens. Uses 
+non-standard scanning rates and a specially modified 
+TV Receiver to provide security in surveillance. Can 
+be used in apparent, total darkness with appropriate 
+Infra-Red light source. Total cost of construction Is 
+under $100. Plans include Camera, Lens, and Receiver 
+Modification. Order plan set SO10SO $10. 
+ry 
+

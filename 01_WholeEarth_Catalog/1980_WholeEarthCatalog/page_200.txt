@@ -1,0 +1,307 @@
+Wind Power For Farms, Homes 
+and Small Industry 
+Much more detailed than Harness the Wind for Home 
+Energy (p. 196), this poorly Xeroxed book is probably 
+the all-around most useful to a person seriously interested 
+in installing wind hardware. 
+Virtually every aspect of 
+small-scale wind power is considered, including such 
+concerns as insurance liability, wind rights, lightning 
+protection and economic analysis. 
+|f this book was 
+rounded out with a good printing job and fancy graphics 
+there would be little need for most of the others. 
+It’s 
+the one / use. 
+—J. Baldwin 
+Wind Power for 
+Farms, Homes 
+and Small Industry 
+Jack Park and 
+Dick Schwind 
+ac. 
+ang 
+pe 
+saute 
+ES 
+RR 
+SF 
+% 
+’ 
+a0 
+1978; 232 pp. 
+$14 postpaid from: 
++ 
+pe 
+a 
+National Technical 
+ep 
+eee 
+Information Service 
+25-2. 
+nas 
+U.S. Dept. of Commerce 
+saa- ASE 
+5285 Port Royal Road 
+pets 
+Springfield, VA 22161 
+Wind electrical system with load monitor 
+e 
+Suppose that the wind turbine generator supplies more 
+kilowatt-hours than are needed. The batteries would be 
+overcharged. Energy would be wasted. To preclude this 
+situation, a load monitor is used 
+. The load monitor 
+senses situations when the wind generator creates more 
+power than the electric system needs, and reacts by 
+switching on load C. Load C might be a resistance electric 
+heater immersed in a water heater tank. 
+It may be 
+another battery bank, or any other load that will use the 
+excess power. The load monitor thus prevents energy 
+waste, and in so doing improves the energy utilization of 
+the simple battery system. 
+Load monitors can be used another way. Suppose that 
+the wind turbine generator does not supply the required 
+energy. Perhaps a week of no wind occurs, and the 
+batteries are nearly discharged. A load monitor can be 
+used to sense this condition and activate a backup system. 
+The backup system could be a gasoline powered genera- 
+tor, another set of batteries, or an extension cord to your 
+neighbor’s house. In any case, the load monitor can control 
+the source. 
+In the case of the gasoline powered generator, 
+the load monitor can flash a light, ring a bell, or otherwise 
+warn you of the situation, or it can energize the starter 
+circuit on the auxiliary generator to bring it on-line. 
+e 
+From a historical standpoint, you might purchase a good 
+automobile and drive it an average of 50 mph for 100,000 
+miles. This translates to 2000 hours of operation. You 
+likely would have the car serviced every 5000 miles, or 
+100 hours. Sales brochures for small WECS, on the other 
+hand, sometimes speak of 20 years of trouble-free opera- 
+tion. Factory representatives talk of customers asking how 
+long their wind turbine will last before it needs fixing. 
+There are 8760 hours ina year. 
+If your wind turbine 
+operates just one-fourth of the hours in one year — a 
+reasonable number — it will have as many hours on it in 
+one year as your automobile does when you trade it in. 
+It is also reasonable to expect to change the oil, grease a 
+bearing, or change the brushes just once a year to get 
+long-life performance out of a machine. 
+Here are some of 
+the factors you should consider before making the final 
+selection of your system: 
+Maintenance history of WECS components 
+Can routine maintenance be easily performed up on 
+a tower, or must the machine be lowered? 
+Frequency of expected routine maintenance 
+Nature of monthly, or yearly, expected routine 
+maintenance: lubrication, component replacement, 
+and inspection 
+Number of different tools required to perform 
+maintenance tasks 
+Availability and cost of spare parts 
+Completeness of owner’s manual/maintenance 
+documentation 
+Relative safety: can machine be shut off, is there 
+sufficient blade clearance from maintenance 
+personnel, and are there exposed shafts, wires, and 
+potential hazards? 
+ls a factory-trained, experienced installation/ 
+maintenance organization available? 
+—E 
+_____ 
+Wind Technology Journal 
+The official publication of the American Wind Energy 
+Association (AWEA) presents technical articles of interest 
+to the serious wind experimenter/developer. No fluff at all. 
+—J. Baldwin 
+$20 /year (quarterly) 
+postpaid from: 
+P.O. Box 7 
+Marstons Mills, MA 02648 
+A typical Dutch windmill as developed by the end of 
+the 17th century 
+Wind Technology 
+Journal 
+Herman Meijer Drees, Ed. 
+iN 
+Sweeps 
+Windshaft 
+Windshaft Wheel 
+Wallower 
+Central Shaft 
+Large Cogwheel 
+Small Cogwheels 
+Stones 
+Grain Shoots 
+Meal Shoots 
+TJ=zxczmormooe 
+> 
+cr 
+Cap 
+Weight 
+Windmills 
+People have asked me if Stewart /ets the reviewer /evaluators 
+take the books as payment for their work. He doesn’t, 
+dammit, or this book would for sure be one I‘d cop. 
+It’s 
+just beautiful, and it goes way beyond the usual historical- 
+esthetic presentation typical of expensive coffee table 
+pretties. 
+You actually get the complete explanation of 
+how they work! Complete enough, in fact, to make one 
+... (guess I'll just borrow 
+it awhile, heh heh) and Id like to 
+extend a sincere compliment for the reasonable price too, 
+—J. Baldwin 
+Windmills 
+Suzanne Beedell 
+1975; 143 pp. 
+$9.95 postpaid from: 
+Charles Scribner's Sons 
+Vreeland Ave. 
+Totowa, NJ 07512 
+or Whole Earth 
+Household Store 
+There are tales that, in areas where smuggling went on, 
+windmills were frequently used to convey warning signals. 
+On a prearranged code, the sails would quietly be turned 
+to a certain position at the approach of the revenue men, 
+for instance, thus passing a message very quickly over 
+miles of countryside. 
+UPLONG OR 
+SHUTTER BAR 
+STRIKER ROD (Passing 
+through centre of wind- 
+shaft to back of mill ) 
+Energy from the Wind 
+(Annotated Bibliography) 
+This hefty number is just what you'd expect: complete 
+right down to the last zephyr. “Annotated” means you 
+get a very brief whiff of what the paper is about. 
+The 
+latest supplement is as up to date as you're likely to get 
+unless you're writing it up this afternoon. 
+—J, Baldwin 
+Energy from the Wind 
+(Annotated Bibliography) 
+~_—. 
+Barbara L. Burke and 
+Lape re 
+Robert N. Meroney 
+me pre 
+(About 3 inches thick total) 
+——— 
+1975, 1977, 1979 
+Basic volume 
+All three 
+$25.00 ($27.00 foreign) 
+postpaid from: 
+Publications 
+Engineering Research Center 
+Foothills Campus 
+Colorado State University 
+Fort Collins, CO 80523 
+$7.50 ($8.00 foreign) 
+First supplement 
+$10.00 ($11.00 foreign) 
+Second supplement 
+$15.00 ($16.00 foreign) 
+Gemini Synchronous Inverter Systems 
+SS 
+eee 
+The Gemini takes power from a varying, intermittent DC 
+power source such as a wind generator, and inverts it into 
+household 120/240 volts AC. A Gemini system has no 
+batteries. 
+/f the wind machine is making more power 
+than you need, the Gemini feeds the excess back into the 
+power company’s “grid” (the network of wires). 
+The 
+power company sees this as a reduced demand on their 
+generators, but it isnot necessarily true that energy is saved. 
+This is because the huge commercial equipment can’t 
+respond quickly to small load differences. Also, the 
+extra power sent to them by your Gemini system may 
+arrive at a time when it is not needed. 
+/f the wind machine isn’t making enough electricity for 
+your needs, the Gemini automatically switches on com- 
+mercial power to make up the difference. 
+The power 
+company sees this as an intermittent load that may occur 
+at a time when demand is already high, so they must 
+build and maintain equipment ready to deliver that power 
+if required. 
+They must also build and maintain the grid. 
+For these reasons, the power companies are not anxious 
+to pay Gemini owners for the power fed back into the 
+grid; certainly not at the rates that you pay them for their 
+power. Nonetheless, Hans Meyer and the crew at Wind- 
+works report that power companies have on the whole 
+been cooperative in arranging for the installation of 
+Gemini units (including suitable rates) in their territories. 
+There is a precedent for this cooperation. For many 
+years there has been what is termed “regeneration”. An 
+example of this is an elevator that requires a large surge 
+of power to rise, and by means of a relatively simple 
+circuit, returns power to the grid as it descends. 
+There 
+are many instances where it is reasonable to regenerate, 
+though the practice is not widespread. 
+With cheap energy, 
+it has been cheaper to ignore the possibilities of savings. 
+For example, manufacturers of large diesel engines 
+commonly run them for many hours as a test. 
+The power 
+is dumped without use! With a Gemini, this power could 
+be used to run machinery and lights in the factory as well 
+as feeding surrounding homes. A Gemini system also can 
+be used in “co-generation” schemes where waste process 
+heat is used to run generators that can power other 
+industries or homes. 
+(That steam you see rising from fac- 
+tories is often usable energy being dumped.) 
+Windworks now has more than 250 Gemini systems on 
+line, including several interfacing with solar cells and hydro 
+turbines. Gemini units can also be used to interface an 
+intermittent power source with an auxiliary; a wind 
+machine with a diesel generator, for instance. Gemini 
+systems are available in large sizes and 3 phase too. 
+—J. Baldwin 
+Gemini Synchronous 
+Technical information 
+Inverter Systems 
+package 
+pcu 40-11 
+$1290 
+$3 postpaid 
+pcu 80-11 
+$1825 
+all from. 
+Windworks, Inc. 
+Route 3, Box 44A 
+Mukwonago, WI 53149 
+(414) 363-4088 
+(write for prices of bigger 
+ones, 3 phase equipment, 
+and quantity discounts) 
+RRs 
+“oe
+Be 
+Other good sources of wind energy info 
+Alternative Sources of Energy magazine (ASE) which has 
+regular features on wind hardware design and a famous 
+regular column in which wind energy pioneer Martin Jopp 
+answers questions and generally holds forth (p. 174). 
+The Energy Primer (revised and updated) which has an 
+extensive section on wind machines and associated 
+equipment (p. 174). 
+The Power Guide has a good section on internationally 
+—J. Baldwin 
+available wind machines (p. 200). 
+Od dds 
+

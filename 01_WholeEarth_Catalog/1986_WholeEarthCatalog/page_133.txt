@@ -1,0 +1,257 @@
+‘#\— 
+minor—e 
+ip TROUBLE yy, 
+Yn 
+SPOTS 
+ae 
+A & 
+le 
+HEATED 
+MAJOR 
+TROUBLE 
+BERCES 
+SPOTS 
+Two possible thermal envelope boundary configurations. 
+A. Insulated knee-walls. This configuration is difficult to in- 
+sulate and seal at the ‘trouble spots.’’ B. Insulated roof. 
+This is the preferred configuration, even though it encloses 
+more heated space, because the insulation system is less 
+likely to have defects. 
+The Superinsulated Home Book 
+If you want a house that uses very little energy, you 
+should probably make it superinsulated and relatively 
+airtight. Amply illustrated and very current, this book 
+covers the principles and practice that apply to every 
+square foot of a low-energy house, from the tapered 
+foundation insulation to the continuous ridge vent. On the 
+way it thoroughly treats key subjects like the air/vapor 
+SOLAR DESIGN 
+barrier, ventilation systems, and energy 
+efficient appliances. 
+Just as The Passive Solar Energy Book ignores superin- 
+sulation, this one doesn’t know what to make of solar. The 
+reading is slow going in parts, but it’s worth it; the 
+authors have done their homework heroically. All the 
+information is there. 
+—David Godolphin 
+The 
+Superinsulated 
+Home Book 
+J. D. Ned Nisson 
+and Gautam Dutt 
+1985; 316 pp. 
+$19.95 postpaid from: 
+John Wiley & Sons, Inc. 
+Attn.: Order Dept. 
+1 Wiley Drive 
+Somerset, NJ 08873 
+or Whole Earth Access 
+HOUSEHOLD 
+ISI 
+yA DOOR SWING LIMITED 
+BY THICK WALLS 
+A. PROBLEM 
+C. SOLUTION: INSTALL DOOR ON INSIDE FACE OF WALL 
+Problem of inadequate 
+door swing with thick walls. 
+Climatic Design 
+Climatic Design is attaining nearly biblical status among 
+energy-conscious designers and architects. It’s valuable 
+as a reliable and comprehensive reference to the layperson 
+as well, but it’s not bedtime reading. 
+Much of the book is organized as a series of specific 
+maxims, replete with text and drawings, that form parts of 
+broad bioclimatic strategies such as “‘promote earth cool- 
+ing’ and “minimize infiltration.’’ Some of the theory is 
+abstruse and hard to use, but the bulk of the book is 
+excellent background for those thinking about a new 
+house in the broadest terms: site, orientation, and rough 
+floor plans. 
+—David Godolphin 
+Comparison of different types of weatherstripping for 
+doors and windows. These are listed in order of estimated 
+overall durability. 
+KEY: E—Excellent; VG—Very Good; G—Good; F—Fair; P—Poor 
+TYPE 
+MATERIAL 
+Estimated Effective Suitable for Visibility 
+Overall 
+Uses (1) Norrun? 
+When 
+__ 
+Durability 
+form gaps _ Installed 
+FLAT METAL STRIP 
+Brass or bronze 
+E 
+C/A 
+No 
+Very low 
+Aluminum 
+VGtoE 
+C/A 
+No 
+Very low 
+TUBULAR GASKET 
+Vinyl or rubber, foam-filled 
+VG 
+C/A 
+Yes 
+High 
+Vinyl or rubber, hollow 
+VG 
+C/A 
+Yes 
+High 
+REINFORCED GASKET 
+Aluminium and vinyl 
+VG 
+C/A 
+Yes 
+High 
+REINFORCED FELT 
+Wool felt and aluminum 
+(@ 
+No 
+High 
+Nonwool felt and aluminum _F to G 
+Cc 
+No 
+High 
+NONREINFORCED FELT Wool 
+G 
+(oy 
+No 
+(2) 
+Other 
+FtoG 
+Cc 
+No 
+(2) 
+RIGID STRIP 
+Aluminum and vinyl 
+G 
+Cc 
+Yes 
+Low (3) 
+Wood and foam 
+5 
+Cc 
+Yes 
+Ww 
+FOAM STRIP 
+Neoprene or rubber 
+= 
+6 
+Yes 
+(2) 
+Vinyl 
+F 
+c 
+Yes 
+(2) 
+Polyurethane 
+P to F 
+Cc 
+Yes 
+(2) 
+(1) C—Where material will be subject to compression 
+A—Where material will be subject to abrasion 
+(2) Low if under sash or inside doorjamb. High if used along window frame or against door stop. 
+(3) On aluminum door, its primary use. 
+Suggested room orientations 
+N 
+NE 
+E 
+SE 
+S 
+Bedroom’ 
+° 
+° 
+Bath” 
+° 
+e 
+Kitchen 
+Dining 
+Living 
+Family 
+Utility / Laundry*® 
+Workshop’® 
+Storage” 
+Garage” 
+Sun porch 
+e 
+° 
+e 
+Outdoor space” 
+e 
+e 
+e 
+° 
+e 
+eeee 
+*The most suitable location 
+of those indicated 
+will depend on 
+local 
+climate — whether largely too hot or too cold, direction of winter winds 
+and summer breezes, etc 
+a 
+Solar Software: 
+SUNPAS/SUNOP, F-CHART 5.2 
+Solar calculations can be a maddening time consumer, 
+particularly when you’re trying to ascertain the effects of 
+small design changes. A computer can help; it only takes 
+one a few seconds to try your ideas. Solarsoft draws rave 
+a 
+TE 
+DIEU EET LTE ED GLE LLL LEE 
+ Deservedly famous, it’s back (too late to feature here), 
+better than ever with the latest information for solar builders 
+and designers. 
+The New Solar Home Book: Bruce Anderson and Michael 
+Riordan, 1986; 320 pp. $16.95 ($18.95 postpaid) from Brick 
+House Publishing Co., 3 Main Street, Andover, MA 01810 (or 
+Whole Earth Access). 
+reviews from all over the solar field for its smooth, quick, 
+and versatile programs. Best is the Macintosh version of 
+SUNPAS, a program that calculates the energy perfor- 
+mance of 94 passive solar house designs. It also 
+generates an energy performance file that its companion 
+SUNOP program uses to analyze the economics of 
+building options. You can even figure in local construction 
+costs, fuel prices, and inflation. You get the results as 
+graphs and tables. 
+Despite a few well-documented faults, F-CHART is the 
+premier program for analyzing active solar collector 
+systems. It tells you how much heat you'll get from air or 
+liquid collectors used for space heating, domestic hot 
+water, or swimming pool heating. Not all F-CHART programs 
+are easy to use; early versions were notoriously crude. 
+Solarsoft has put its stamp of grace on this one. 
+—David Godolphin 
+< A house can be made more 
+energy efficient simply by 
+designing the plan so that 
+the order of rooms in which 
+the normal daily sequence 
+of activities occurs ’’fol- 
+lows’’ the path of the sun. 
+Climatic Design 
+Donald Watson, FAIA 
+and Kenneth Labs 
+1983; 280 pp. 
+$37.50 postpaid from: 
+Order Services, 
+McGraw-Hill Book Co. 
+Manchester Road, 
+Manchester, MO 63011 
+or Whole Earth Access 
+SUNPAS/SUNOP, 
+F-CHART 5.2 
+$189 each 
+Information free from: 
+Solarsoft 
+1406 Burlingame Avenue 
+Burlingame, CA 94010 
+

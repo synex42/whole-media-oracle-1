@@ -1,0 +1,191 @@
+346 
+Using Your Meter 
+Alvis J. Evans 
+1985; 128 pp. 
+$3.95 
+($6.45 postpaid) from: 
+Radio Shack — 018344 
+Mail Order Dept. 
+900 Terminal Road 
+Ft. Worth, TX 76106 
+or Whole Earth Access 
+The Art of 
+Electronics 
+Paul Horowitz and 
+Winfield Hill 
+1980; 716 pp. 
+$32.50 postpaid from: 
+Cambridge University Press 
+510 North Avenue 
+New Rochelle, NY 10801 
+or Whole Earth Access 
+COMMUNICATIONS 
+ELECTRONICS 
+Using Your Meter 
+| bought several copies of this book recently: a couple for 
+friends and two for myself. For $3.95 | got a complete 
+course in electronics along with various instructions and 
+tips on how to use meters around the house and inside 
+electronic circuitry. | also learned how to buy meters, 
+what features to look for, what kind of meters to use in 
+what applications. So did my friends. 
+The text is clear although the information is very dense. 
+Evans moves right along in 128 pages, covering all the 
+electronics | studied in all the high school and college 
+physics courses | ever took and also how to use that infor- 
+mation practically. This is the kind of book you should 
+read three times. The very basic stuff is in the middle. Tips 
+on troubleshooting washers and dryers, heating and cool- 
+ing systems, record players, automobile alternators, and 
+other familiar equipment is in the back. Right in the front 
+you learn about types of meters and how they operate. 
+Using Your Meter offers an amazing value of informa- 
+tion. 
+—James Stockford 
+e 
+When the bell doesn’t ring: Assume that the bell does 
+not operate when the button switch is pushed. The two 
+& 
+& , Fuse or 
+/ 
+Circuit Breaker 
+§ 
+in Power Panel 
+Voltage 
+M, 
+10V 
+ov 
+S 
+M, 
+—10V 
+10V 
+——~—__ Black 
+My 
+Ov 
+10V 
+Pe 
+Wire 
+Resistance 
+M, 
+470 
+0 
+ite 
+M120 
+01 
+| 
+; 
+Wire 
+M, 
+250 
+0-1 
+Input 
+Power Line 
+most common problems are a bad switch or a bad bell. 
+To track down the trouble, measure the voltage across 
+the push button switch. With the switch open, 10 volts 
+should appear across the open switch. There is no cur- 
+rent in the circuit and thus no voltage across the bell 
+(M3). When the switch is closed, meter M; should read 
+zero. If a voltage appears across the switch even when it 
+is closed, this indicates that the circuit is not operating 
+properly. Check the contacts to see if they are corroded 
+or broken. The switch can possibly be repaired by simply 
+scraping and cleaning the contacts. However, it may 
+have to be replaced. If 10 volts appears across the bell 
+when the button is pushed and the bell does not ring, 
+the bell is probably defective. Disconnect it and check its 
+resistance to see if it has an open coil. 
+The Art of Electronics 
+Extremely good book. As a practicing digital-electronics 
+technician with no formal training (my major in college 
+was cultural anthropology), I’ve hunted high and low for 
+good electronics textbooks. This one is the best, bar none. 
+No extraneous math, lots of insider’s information on the 
+peculiarities of circuit design, and a huge range of topics 
+covered clearly and thoroughly. So well written that I’ve 
+had difficulty putting it down! Has a good index and 
+bibliography and works well as a stand-alone reference 
+book. As an introduction and workbook on today’s 
+electronics it has no peer. 
+—Bud Spurgeon 
+Thevenin’s theorem 
+states that any two- 
+terminal network of 
+resistors and voltage sources is equivalent to a single 
+resistor R in series with a single voltage source V. This is 
+remarkable. Any mess of batteries and resistors can be 
+mimicked with one battery and one resistor. 
+Don Lancaster’s 
+Cookbook Library 
+These books provide the home-brew tinkerer with a, um, 
+grounding in the basics of micro circuits — with which you 
+can build your own calculators, amplifiers, meters and 
+terminals, and get a start on building your own computer. 
+Each book deals with a different type of component. 
+CMOS circuits are building-block electronic switch circuits 
+out of which computer choice pathways are woven. TTL 
+circuits are simpler, more often used to build clocks, 
+meters, and peripherals. Getting through TTL is a good 
+step towards learning CMOS. Active filters are useful in 
+amplifying or controlling sound frequencies. Lancaster 
+_ takes pride in teaching you to make things that are more 
+useful and versatile — more artistic, really — than what 
+you can buy commercially. You‘ll need some electronics 
+experience, or lots of time, or both. 
+—Art Kleiner 
+< API Glomper Clip 
+—TTL 
+Active Filter 
+TTL Cookbook 
+eemiAcea 
+Don Lancaster 
+1975; 240 pp. 
+a 
+is ae 
+$15.95 
+($17.45 postpaid) 
+($18.45 postpaid) 
+All from: 
+Don Lancaster 
+1977; 416 pp. 
+$14.95 
+($17.45 postpaid) 
+Department DM 
+4300 West 62nd Street 
+Indianapolis, IN 46268 
+or Whole Earth Access 
+CMOS Cookbook 
+Howard W. Sams & Co. 
+In mid-1972, an electronic revolution took place. For the 
+first time in electronic history, you could go out and buy 
+a logic gate for a nickel, provided you bought four of 
+them at once in a single 20-cent package. This made the 
+logic gate the cheapest available electronic component 
+— cheaper than most quality resistors and far cheaper 
+than any capacitor, transistor, or most other solid-state 
+devices. These gates were made of Transistor-Transistor- 
+Logic (TTL), a very versatile, widely available, and very 
+fast way of performing logic operations. 
+The extremely low cost did two things. First and foremost, 
+it opened up a fantastic number of still expanding appli- 
+cations for digital circuitry. At long last, doing things 
+digitally was not only better than using traditional 
+analog circuits, but now it was often cheaper as well. 
+—ITL Cookbook 
+@ 
+An active filter is some combination of integrated-circuit 
+operational amplifiers, resistors, and capacitors that 
+does things that normally could be done only with ex- 
+pensive inductor-capacitor passive filter combinations. 
+Active filters are versatile, low-cost items that are easy to 
+design and easy to tune. They have gain and have a 
+number of other benefits. Active filters are well suited for 
+most subaudio, audio, and ultrasonic filtering or equaliz- 
+ing applications. Important areas of use for active filters 
+include many other areas. 
+This book is about active filters. It is user-oriented. It tells 
+you everything you need to know to build active filters, 
+and does so with an absolute minimum of math or 
+obscure theory. 
+—Active-Filter Cookbook 
+

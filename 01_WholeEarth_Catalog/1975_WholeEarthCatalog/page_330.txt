@@ -1,0 +1,317 @@
+et es 
+geringiigeen 
+rps 
+<griaens 
+oy 
+2 
+28 
+ABC's of Short Wave Listening 
+/ started listening to short wave when | was twelve on an 
+old (1937) Crosley shortwave console radio | bought from 
+Honest Ben’s for $5. | replaced a few tubes and then learned 
+to count seconds listening to WWV. 
+You can receive much more than the WWV 
+time signal. 
+Voice of America. 
+Radio Swan. 
+Etc. (See p. 127, Popular 
+Science) 
+/t is fun and can be very informative. 
+This book is a very basic introduction to short wave. 
+You 
+can spend a lot of money on a good receiver. Or make do 
+with an old console. Depends on what you want. 
+[Reviewed by Fred Richardson] 
+ABC’s of Short- Wave Listening 
+Len Buckwalter 
+1962; 96 pp. 
+$2.95 postpaid 
+from: 
+Howard W. Sams & Co., Inc. 
+4300 W. 62nd St. 
+Box 558 
+Indianapolis, Indiana 46206 
+or WHOLE EARTH CATALOG 
+As the major piece of equipment in the hobby of shortwave listening, 
+the receiver must convert the minute energy of a radio wave into an 
+audible signal. How well a receiver can do this is mostly a measure of 
+its sensitivity and selectivity. The first quality, sensitivity, is the 
+ability to separate a signal from the ever present noise level created 
+by disturbances in the atmosphere and outer space. 
+The Radio Amateur’s Handbook 
+10 
+The Radio Amateur's Handbook 
+10a 
+This has been the pracitcal 
+guide for radio amateurs for 43 
+years. 
+It begins with the 
+fundamentals of electric circuits and 
+follows a simple development of the 
+radio theory necessary to understand 
+‘communications. 
+There is brief 
+section on laws governing amateurs 
+and references to other books that 
+are valuable aids in obtaining a 
+license. 
+10b 
+Throughout the book actual 
+circuits are shown, always with 
+enough information to build then, 
+Later sections cover complete 
+construction details for various 
+transmitters and receivers but don!t 
+be misled by their apparant 
+simplicity. 
+It takes a lot of time 
+and know-how to make these things 
+work and unless circuit building is 
+your thing you are better off to buy 
+commercial equipment or kits. 
+(Heathkit is one of the best sources 
+for ham gear.) 
+The review to the left was prepared [Reviewed by Bill English. 
+and printed on a computer by Bill 
+English— 
+as you can see, the 
+fluidity of computer interaction 
+makes spelling more casual than 
+with direct hard print. 
+The Radio Amateur’s Handbook 
+may be of interest'to the 
+communities and enclaves who’ve 
+been fantasizing an underground 
+radio net. 
+or month when all the world’s 
+long-hairs are on the air, vibing to 
+each other and the stars. 
+NEAR SUPPORT 
+__ 
+(HOUSE) 
+40' TO 100° 
+INSULATOR (2) 
+LEAD-IN 
+WIRE 
+STANDOFF S 
+LIGHTNING, 
+ARRESTER 
+GROUND 
+WIRE 
+ROD 
+(A) Inverted-L antenna. 
+Table 2-1. The Radio Spectrum 
+: 
+Major Divisions 
+Frequency Ranges 
+10 kHz to 30 kHz 
+30 kHz to 300 kHz 
+300 kHz to 3000 kHz 
+3 MHz to 30 MHz 
+30 MHz to 300 MHz 
+300 MHz to 3000 MHz 
+3 GHz to 30 GHz 
+30 GHz to 300 GHz 
+VLF = Very Low Frequency 
+LF = Low Frequency 
+MF = Medium Frequency 
+HF* = High Frequency 
+VHF = Very High Frequency 
+UHF = Ultrahigh Frequency 
+SHF = Superhigh Frequency 
+EHF = Extremely High Frequency 
+* Most SW listening is done in this part of the spectrum. 
+Selectivity describes how well the receiver can pick out a signal in a 
+crowded frequency band. 
+It is mainly by these two qualities that a 
+short-wave receiver may be judged. A multitude of features may 
+appear in a given set, but these are usually concerned with operating 
+convenience rather than operating quality. 
+Suggested by Arthur Brand] 
+The Radio Amateur’s 
+Handbook 
+American Radio Relay League 
+1925... .1974; 704 pp. 
+$5.50 postpaid 
+Like a night of the week 
+$6.00 Canada, $7.00 elsewhere . 
+from: 
+The American Radio Relay League 
+3B 
+Newington, Conn..06111 
+Electronics 
+For technical freaks. If you are a double e ENGINEER, the 
+articles may be of interest. Otherwise, spend your time with 
+the ads. Learn about all the new hardware and bits and 
+pieces. Reader service card whereby all of the advertisers 
+will send you piles of shit on their products. Electronics 
+Buyers’ Guide is offered to U.S. and Canada subscribers if 
+they fill out a questionnaire sent out each year. 
+Don't forget your title and company name. Get a 
+subscription blank from one at the library and have no 
+trouble. 
+[Reviewed by Fred Richardson] 
+Electronics 
+$9.00 a year, biweekly 
+from: 
+Electronics 
+P.O. Box £14 
+Hightstown, N.J. 08520 
+Subscription department 
+Radio 
+Communications 
+32 
+Subscriptions limited to persons with active, professional, 
+functional responsibility in electronics technology. Publisher 
+reserves the right to reject non-qualified requests. No subscrip- 
+tions accepted without complete identification of subscriber name, 
+title or job function, company or organization, including product 
+manufactured or services performed. Subscription rates: qualified 
+subscribers in the United States and possessions and Canada, 
+$9.00 one year, $18.00 three years; all other countries $25.00 per 
+year. Limited quota of subscriptions available at higher-than-basic 
+rate for persons outside of field served, as follows: U.S. and 
+possessions and Canada, $25.00 one year; all other countries 
+$50.00. Air freight service to Japan $50.00 one year, including 
+prepaid postage. Single copies: United States and possessions 
+in Canada, $1.00; all other countries, $1.75. 
+“tH 
+Radio 
+In the March $1 Catalog you were wondering about how to fit 
+electronics into your catalog better. 
+It seems to me that electronics 
+equipment is relevant to the very important business of communi- 
+cating with one another. Radios, transceivers, hydrophones, 
+ultrasonic translators, and tape recorders certainly are significant 
+tools. However one of the most important communication tools, 
+(in my opinoin) is 
+ashortwave receiver. Listening is the beginning 
+of all communication. With even the humblest short-wave receivers 
+one can tune in many different nations all around the globe. 
+Americans have neglected shortwave radio but the rest of the world 
+(mainly other governments) is broadcasting it’s opinions, view- 
+points, philosophies, music, literature and drama for anyone to 
+examine. 
+It is free to anyone with a shortwave radio. 
+The simplest way to start listening is to turn on any shortwave- 
+ready radio you have. Reception is better if you attach a long 
+antenna and a good ground. Reception is also better after dark. You 
+may have a good shortwave receiver in your attic or a $5 to $25 
+Salvation Army Store radio will serve. Almost anything made after 
+1932 is liable to work well. Of course if you have more money a 
+store-bought recéiver or kit would be a fine tool. | hope some of 
+- 
+your correspondents will be reviewing receivers and listening 
+guides. 
+Besides ham radio it seems to me that souls interested in underground 
+(and aboveground) radio and tv ought to check the radio & tv 
+trade journals for the names of brokers in used broadcast equipment. 
+With the intfoduction of color tv, multiplex fm and transistors a lot 
+of good equipment has been obsoleted. Presently much of this 
+stuff is sold'to less affluent parties overseas. Also since many 
+police and fire departments have changed from broadcastiag on 
+1700 ke. (which is just on one edge of the broadcast band) to 
+vhf and uhf bands I'd bet that there is some modest power gear on 
+the market that would be fine for am broadcasting with merely a 
+new crystal (like $10 and a tune up. 
+Lee McKusick 
+Chimayo, N.M. 
+PRR ASAE REESE 
+ee 
+ee 
+Get Your Ham Ticket 
+Okay, why push for all the whole earth types to get their tickets? 
+A) 
+When this country falls apart, all that portable equipment 
+and practical electronics knowledge and all those established 
+nets are going to be the tools to stay alive and coordinate 
+with your frends. 
+B) 
+Intelligent roundtable discussion is not only possible but 
+. enjoyable, mainly because if someone is an obnoxious 
+bastard you can tell him so politely or go off on some other 
+frequency and start another roundtable. 
+C) 
+Organized amateur radio gets information spread fast It 
+doesn’t matter what the information is or how far it has to 
+go, witness Alaska hams during the big earthquake a few 
+© 
+years ago and the more-recent and controversial National 
+Student Information Net. 
+D) ~— Ever see a ham tv roundtable? 
+Why don’t more freaks and street people become hams? I think 
+that most do not see amateur radio as the subtle tool that it is. The 
+skills and discipline of radio in the telephone age are somewhat like 
+the skills and discipline of the photographer who shoots 4x 5 black 
+and white in the Instamatic age..-The price of versatility is knowledg 
+and time. 
+- 
+The whopper in this whole discussion, though, is the relatively un- 
+known but potentially enormously beneficial use of amateur repeaters. — | 
+See the April 1971 issue of 
+73 , which lists six in the Bay area alone. 
+With repeaters, ten watts of rf and a good antenna pointed at the 
+repeater itself will get your signal out over the entire Bay, Los 
+Angeles area, Chicago area, the entire state of New Mexico, most 
+of Mass, N.H., and Vt, or coverage in most of the sizeable cities in 
+the U.S. One at a time, of course. Repeaters are relatively easy to 
+license in most parts of the country, but require a lot of groundwork 
+and a good, high antenna site. Also a couple thousand dollars unless 
+you are the scrounger supreme. 
+Last summer I listened to the prime Chicago repeater 
+for a couple 
+days and heard fixed stations over the Wisconsin border and out 
+more than thirty miles to the south chatting with a mobile unit 
+watching the planes take off at O’Hare and a woman walking near 
+the loop witha walkie-talkie. I understand that one can. now drive 
+through the northeast and searcely ever be out of range of at least 
+one machine. Mind you that all this is taking place more or less 
+line-of-sight on frequencies tucked between the fm broadcast band 
+and tv channel 7. 
+: 
+: 
+Ill QSO any of you after my part of the war is over. 
+Wes Plouff WA8CBN 
+2 
+Eielson AFB, Alaska 
+Hi 
+Sex and Broadcasting: A Handbook on Starting 
+Community Stations 
+Lorenzo W. Milam 
+1972: 40 pp, 
+al 
+$2.00 postpaid 
+plus $.15 postage 
+. 
+from: 
+‘ 
+ait 
+Dildo Press—KTAO 
++ 
+5 University Avenue 
+; 
+3 
+Los Gatos, California 95030 
+or WHOLE EARTH CATALOG 
+| could spend pages, hours, days, telling you 
+about how to fill out 
+Form 340 (from the FCC). But since you and 
+| are always involved 
+b 
+in learning processes, let us. look on this as such an experience. 
+Fill 
+it out to the best of your ability, show it to your lawyer— assuming 
+P 
+you have one— 
+or send a rouch draft to me. 
+| will help you out as 
+Al 
+much as | can if | am convinced that you truly want to set upa 
+al 
+community oriented free form free forum listerner volunteer station. 
+If not: 
+| can’t help'you. For | love broadcasting and radio too much 
+to give free time and. assistance to someone who will use a broadcast 
+| 
+outlet as a stamping ground for some misshapen single-cell personality. 
+

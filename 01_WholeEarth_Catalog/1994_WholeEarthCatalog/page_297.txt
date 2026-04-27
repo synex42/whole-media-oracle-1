@@ -1,0 +1,191 @@
+hs 
+How fo Use GIS in Electoral Politics 
+ILL CLINTON’S 1992 CAMPAIGN strategy fo- 
+Political Tools 
+GIS AS A POLITICAL TOOL 
+See also GIS, 
+p. 14 and 
+Ecoactivism, 
+p. 109. 
+cused on states where large numbers of “Reagan 
+| 
+: 
+= 
+Democrats” had split their tickets in past elec- 
+POLITICAL REDISTRICTING 
+5 
+Cece | |Oa Gi, 
+tions, sending a 
+Republican to the White House 
+seh 
+tty ed ee on me 
+Bere aie 
+~ Fercent Block 
+and Democrats to Congress and to state and 
+local offices. Enhanced by geographic information sys- 
+tems, this geographic targeting was successful in thirty 
+| 
+of thirty-one such states. 
+During the heat of a political campaign, enormous 
+amounts of data have to be quickly assimilated to 
+develop responsive strategy, especially when a race is 
+tight or contentious. “The challenge was to find a way 
+to analyze the information we received from a variety 
+of sources each day,” noted Clinton technology strat- 
+egist Janet Handal. Handal and her co-workers used 
+AtlasPro and AtlasGIS software products from Strate- 
+gic Mapping, Inc. (SMI), Santa Clara, California. 
+The late Paul Tully, former political director of the 
+Democratic National Committee, was an early evange- 
+list for the use of mapping technology. When he 
+unexpectedly died during the campaign, Handal took 
+over as Clinton’s chief mapmaker. 
+During the campaign, strategists pored over maps 
+showing media market information, past voting pat- 
+terns, and the latest polling data. They used maps to 
+chart trends, to decide where to send their candidates 
+and to recruit volunteers. The ability to quickly display 
+a variety of information was key to being responsive. 
+GIS was used at the highest levels of the campaign to 
+determine the number of TV ads to buy in a specific 
+market. Area of dominant influence (ADI) boundaries 
+used to identify TV markets generally don’t follow 
+nicely segmented political boundaries. 
+However, it’s 
+these political boundaries that are used to summarize 
+voting statistics. Without GIS, there’s no way to quickly 
+and effectively put these two kinds of data together. 
+According to SMI’s Sarah Lathrop, who provided tech- 
+nical support to the campaign, Handal developed hybrid 
+AD\I/political-jurisdiction boundaries that allowed her 
+to do just that. 
+Eric Hawkins, deputy director of the National Commit- 
+tee for an Effective Congress, 
+a Democratic political- 
+action committee, believes that GIS allowed the 
+Clinton campaign to make targeted TV buys while the 
+Bush campaign wasted money ona 
+buckshot approach. 
+Rick Bloomingdale is the campaign’s national deputy 
+political director responsible for securing union en- 
+L 
+dorsements and enlisting volunteers from organized 
+Figure |. Both the Democratic and Republican parties used GIS during redistrict- 
+ing that followed the 1990 census, to locate key data such as block groups. 
+Figure 2. Recruiting volunteers is an important task in any political cam- 
+labor. He knew there were heavy concentrations of 
+paign. Mapping the location of possible volunteers and their proximity to 
+steel workers around Gary, Indiana, but couldn’t tell 
+potential rally sites is easily accomplished using GIS. 
+from AFL-CIO data that many steel workers were 
+located across a broad belt of southern Missouri and 
+Illinois. 
+“Just looking at this information in tabular form for the 
+separate states, we wouldn’t have made the connection,” Bloomingdale 
+explained. “When we displayed the data on a map, it was instantly apparent 
+there were people we wanted to reach in regions no database could have 
+identified. Looking at the information visually brought it to life.” That last 
+phrase should sound familiar to anyone who's been involved in GIS for any 
+length of time. 
+While the Clinton campaign is the first national campaign to make extensive 
+use of this technology, GIS and politics are not strangers. A Reagan campaign 
+consultant made limited use of the technology as far back as 1980. For 
+example, in Boston, Dual Independent Map Encoding files and demographics 
+were used to categorize the voters by zip code. A campaign letter was then 
+customized with specific paragraphs focusing on the likely concerns of a 
+particular voting group. 
+Both Republican and Democratic congressional committees used GIS to 
+support redistricting efforts that followed the 1990 census, as did many states 
+(figure 1). In fact, it was probably the Republicans’ use of GIS during 
+redistricting that allowed them to do 
+as well as they did at the state level in 
+the last election. 
+According to at least one software 
+vendor, the Perot campaign in 1992 
+also analyzed the possibility of using 
+GIS. The software application they 
+considered using focused on recruit- 
+ing and effectively using volunteers 
+(figure 2). —Nora Sherwood Bryan 
+Abridged from an article titled “GIS Helps Pro- 
+duce Clinton’s Victory.” Reprinted with permis- 
+sion from Business Geographics, March/April 
+1993. Copyright GIS World, Inc., 155 E. Board- 
+walk Drive, Suite 250, Fort Collins, CO 80525. 
+GIS and Ecoactivism 
+| Politics 
+is about advocacy and | 
+| persuasion — convincing people to 
+support your legislation or 
+candidate. And seeing is still 
+| 
+believing: 
+if you can show 
+people what you are talking 
+about, you can amplify your 
+influence. Because GIS uses 
+maps and map overlays to 
+help people visualize geo- 
+| 
+graphic databases, it can be 
+used as a dramatic means of 
+persuasion. Environmental 
+activism 
+is one 
+political 
+battle where GIS systems 
+are becoming increasingly 
+important. 
+Eric and Steve Beckwitt of 
+the Sierran Biodiversity |In- 
+stitute succeeded 
+in influ- 
+encing the U.S. Congress to 
+preserve some of the re- 
+maining old-growth forests 
+by using GIS to demonstrate 
+how little is left, and how 
+| 
+important 
+it 
+is. 
+The 
+Institute’s six billion-byte da- 
+tabase includes ancient and 
+modern maps of remaining 
+forests, watershed informa- 
+tion, survey information, | 
+geological data, species data, 
+| 
+and other information 
+rel- 
+evant to the endangered re- 
+gion. Their multimedia show 
+| 
+before the House of Repre- 
+sentatives demonstrated the 
+importance, 
+fragility, and 
+extent 
+of 
+endangered 
+biodiversity 
+in the Sierran 
+| 
+region. 
+Urban 
+political advocates 
+and activists can make use of 
+GIS to detect and demon- 
+strate redlining — illegal and 
+racist financial discrimina- 
+tion. Historic preservation- 
+| 
+ists and urban ecologists will 
+also find GIS useful for local 
+political planning and advo- 
+cacy as the price of the hard- 
+ware and software becomes 
+more affordable. —HLR 
+293 
+

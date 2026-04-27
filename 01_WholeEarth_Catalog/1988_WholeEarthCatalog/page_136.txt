@@ -1,0 +1,191 @@
+132 
+Believe it or not, you can record a whole lot of sound 
+with equipment that costs as little as $110. But before 
+you get in your car and head to Radio Shack, consider 
+these questions: 
+1. What do I want to record? Specific animals? General 
+ambience? 
+2. Where do I want to record? Weather conditions? 
+Land-based environments? Marine environments? 
+3. To what use will these recordings be put? 
+Now, back to the first statement. $59.95 buys 
+you a perfectly good mono standard cas- 
+eS 
+‘Sy 
+sette recorder at Radio Shack. It’s called 
+=~ 2 
+3 
+the Minissette 15 and it’s voice-acti- 
+Ay vated which means that it starts 
+e 
+* 
+ae 
+a 
+when a signal is loud enough to 
+activate the “record” electronics 
+and stops when there is silence for 
+a certain period of time. This allows 
+you to sleep in your tent knowing full well 
+%. that you won’t miss much vocal creature activity, 
+at least for the duration of the tape length and 
+. the life of your batteries. Radio Shack also 
+sells a PZM (Pressure Zone Microphone) for 
+$44.95 that makes up a perfectly func- 
+tional system for recording evening and 
+dawn choruses and a few specific 
+animals (if loud enough). I’ve used 
+this system to record penguins at 
+the California Academy of Sci- 
+ences and gorillas at the San Fran- 
+cisco Zoo. I couldn’t wait around for the animals to 
+decide it was time to vocalize and simply taped the mike 
+and recorder to a nearby wall. The quality of the record- 
+ings was not the greatest because there is a short time 
+lag (40-50 ms.) between the time the recorder detects a 
+sound and when it gets fully up to speed. So you lose 
+the onset of the activating vocalization. However, you 
+will get the ones that follow. With a little editing and 
+signal processing (filtering and gating) when you get the 
+tapes home, the recordings will be perfectly functional. 
+If you’re going to seriously record birds or whales, 
+however, you'll need better equipment that won’t have 
+as much of a tendency to distort at higher frequencies. 
+Sony makes two viable stereo recorders: the Walkman 
+Pro and the TCD5M. For evening or dawn choruses and 
+ambient sound in general, couple either of these record- 
+ers with a pair of Sony ECM 155 microphones, small 
+wind screens to cut out puffs of ubiquitous wind, clip 
+them to your shoulders and you’re in business. The 
+ECM 155s are omnidirectional, meaning that they pick 
+up signal from all directions. The last five minutes of 
+Nature (an album of mine released by The Nature Com- 
+pany) were recorded with my TCD5M and two ECM 
+155s clipped to the windshield wipers of my rental car 
+on a mountaintop in a St. Maarten, VI, rain forest. For 
+me, the TCDSM has a slight edge in that it has a combi- 
+nation of Dolby B, switchable limiter, a little more 
+dynamic and frequency range, more accessible meter- 
+ing, and, in general, offers better human-engineering for 
+field work. 
+If you’re going to record specific creatures in a fairly 
+noisy ambient field, you might want to use a parabolic 
+dish. It looks like a plastic bowl and, when pointed in 
+the direction of a vocalizing bird or other animal, tends 
+ENVIRONMENTAL RECORDING 
+to sharply focus and gather in the 
+sound picked up only in that narrow 
+field. The microphone is mounted on 
+the dish facing into the center. And the 
+Schoeps 541 works just fine for this purpose. The 
+dish is primarily successful in mono and tends to 
+“color” the sound slightly in addition to se- 
+verely limiting frequency response. 
+Sony’s Model PBR330 sells for 
+around $80. It is 13.625" in diame- 
+ter, which means it will only re- 
+spond well to frequencies of about 
+1000Hz and above. Perfect for white- 
+crowned sparrows (3.8kHz — 4.2kHz). 
+However, if you’re not keen about approach- 
+ing a lion too closely, you'll need a dish 6 to 8 ft. in 
+diameter! With parabolics, the lower the vocal fre- 
+quency of your subject, the greater-diameter dish you 
+will require. 
+Tools for 
+Environmental wt 
+Recording 
+by BernardL. 
+ff 
+Krause, 
+4 
+PhD. 
+For recording underwater, you’ll need a special mike 
+called a hydrophone. Generally, they come in two parts: 
+the hydrophone and cable, and a pre-amplifier. For the 
+industrious, buy the basic hydrophone element (a little 
+capsule with two wire leads) for $9.95 from Edmund 
+Scientific of Barrington, N.J. Then you'll have to attach 
+a long enough cable to go from the capsule underwater 
+to your recorder, seal the cable and capsule, add a con- 
+nector to the end of the wire, build a pre-amp and plug it 
+in to a tape machine. It has a frequency response of 
+from 10Hz. to 6kHz. Spartan Electronics (2400 E. 
+Ganson Street, Jackson, MI 49202; 517/787-8600) sells 
+the complete package (stock 110-8158-002) for about 
+$500 each, and the same item in quantities of 1000 for 
+less than $30 each! Go figure that one! But the best is 
+B&K (Bruel & Kjaer) Instruments, Inc. Their 8103 sells 
+(without pre-amp) for a little over $1,000 and it’s worth 
+every penny. The frequency response is well beyond 
+100kHz. and you can use it as a regular mike under 
+certain circumstances. 
+Over the years there has been considerable discussion 
+about the kinds of tape to use for analog recording. The 
+folks at the Library of Natural Sounds, Laboratory of 
+Omithology, Cornell University, did some investigation 
+and found that, for their reel-to-reel purposes, Scotch 
+806, 807, 808, and 809 was superior in that it offered 
+less print through (a phenomenon whereby the signal is 
+transferred from layer to layer at some detectable level 
+when audio tape is wound onto a reel). For audiophile 
+ay 
+\ 
+Y) 
+s 
+Uy} 
+uses, however, more in line with the kinds of 
+results I’m after, I prefer Ampex 456 or 457 
+Grand Master (or the Scotch counterpart 226). 
+While there is some print-through problem with. 
+certain kinds of signal (the trade-off), in general 
+the tape gives more ex-- 
+tended fre- 
+quency 
+and dy- 
+namic range, less tape hiss and distortion. When com- 
+bined with Dolby SR noise reduction systems, the re- 
+corded signal on Ampex 456-7 or Scotch 226 stock will 
+often equal or surpass the dynamic range of current 
+digital equipment. Cornell and I agree, however, that 
+Maxell UDS-2 and Maxell XLI-S are the cassette tapes 
+to use. 
+There has been no intent here to be comprehensive or 
+greatly detailed about the vast range of available equip- 
+ment. Several other kinds of very fine cassette recorders 
+and a whole host of microphones will do the job. Don’t 
+worry too much about whether or not you have exactly 
+the right machine. Keep your equipment serviced prop- 
+erly and keep your field components light and compact. 
+Just go do it and you will quickly discover what works 
+and what doesn’t. Everyone I know claims to have a 
+secret methodology down pat. Don’t believe it. Nature 
+recording is full of surprises. Your ingenuity will be 
+tested every time you go out into the field. And let us 
+know what you find. 
+Minisette 15 and PZM: $59.95 and $44.95 from Radio 
+Shack (all hamlet-size and larger communities) 
+Nature and The Equator: $9.95 each (plus $3.25 
+postage and handling for one or both tapes) from The 
+Nature Company, P. O. Box 2310, Berkeley, CA 94702 
+Sony Walkman Pro $379; TCD5M approx. $550 
+(discontinued; superceded by TCD5 Pro 2 — $870); 
+ECM 155 $79.95; PBR330 approx. $80.(discontinued; 
+see below) 
+A parabolic dish comparable to the Sony PBR330 (which 
+is still in stock at some dealers) is the Dan Gibson 
+Parabola: $150 from Geleco Electronics, 2 Thorncliffe 
+Park Drive/Unit 28, Toronto, Ontario M4 H1 H2; 416/ 
+421-5631 
+Hydrophone Element (41759): no longer listed in 
+catalog, still in stock. $10 from Edmund Scientific, 101 
+East Gloucester Pike, Barrington, NJ 08007; 609/573- 
+6260 
+= 
+5 
+“> 
+Hydrophone (8103): $1,144 rom SS 
+oh 
+Bruel & Kjaer Instruments, Inc., 
+185 Forest Street, Marlborough, 
+MA 01752; 617/481-7000 
+

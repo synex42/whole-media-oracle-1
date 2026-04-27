@@ -1,0 +1,227 @@
+238 
+Taming Technology 
+ARTIFICIAL EVOLUTION 
+Out of Control 
+Philosophers and particle physicists 
+study the first microseconds of the uni- 
+verse for answers to the Big Question 
+about the past: “Why is there some- 
+thing instead of nothing?” Kevin Kelly 
+addresses a possibly bigger question 
+about the future: “Does evolution 
+evolve?” 
+Kelly sees new scientific disciplines re- 
+lated to chaos, complexity, artificial 
+life, and theoretical biology as inter- 
+locking pieces of a grander puzzle. He 
+uses new discoveries in the biological 
+and computational sciences to unlock 
+progressively bigger questions. By the 
+time he is finished, Kelly makes a 
+stunning reply to Stewart Brand's chal- 
+lenge in the first Whole Earth Cata- 
+logs: “We are as gods, and might as 
+well get good at it.” In fact, Kelly told 
+me, when | pointed that out: “I could 
+have called the book Whole Systems.” 
+—HLR 
+e 
+The Nine Laws of God 
++ Distribute being. The spirit of a beehive, 
+the behavior of an economy, the thinking of 
+a supercomputer, and the life in me are dis- 
+tributed over a multitude of smaller units 
+(which themselves may be distributed). 
+When the sum of the parts can add up to 
+more than the parts, then that extra being 
+(that something from nothing) is distributed 
+among the parts. Whenever we find some- 
+thing from nothing, we find it arising from a 
+field of many interacting smaller pieces. All 
+the mysteries we find most interesting — 
+life, intelligence, evolution — are found in 
+the soil of large distributed systems. 
+* Control from the bottom up. When every- 
+thing is connected to everything in a dis- 
+tributed network, everything happens at 
+once. When everything happens at once, 
+wide and fast-moving problems simply 
+route around any central authority. There- 
+fore, overall governance must arise from 
+the most humble interdependent acts done 
+locally in parallel, and not from a central 
+command. A mob can steer itself, and in 
+the territory of rapid, massive, and hetero- 
+geneous change, only a mob can steer. To 
+get something from nothing, contro! must 
+rest at the bottom within simplicity. 
+* Sow increasing returns. Each time you use 
+an idea, a language, or a skill, you 
+strengthen it, reinforce it, and make it 
+more likely to be used again. 
+* Grow by chunking. The only way to make a 
+complex system that works is to begin with 
+a simple system that works. Attempts to in- 
+stantly install highly complex organization 
+— such as intelligence, or a market 
+economy — without growing it, inevitably 
+lead to failure. 
+* Maximize the fringes. In heterogeneity is 
+creation of the world. A uniform entity 
+must adapt to the world by occasional 
+monumental revolutions, one of which is 
+sure to kill it. A diverse heterogeneous en- 
+tity, on the other hand, can adapt to the 
+world in a thousand daily mini-revolutions, 
+staying in a state of permanent, but never 
+fatal, churning. 
+* Honor your errors. A trick will only work 
+for a while, until everyone else is doing it. 
+To advance from the ordinary requires a 
+new game, or a new territory. But the pro- 
+cess of going outside the conventional 
+method, game, or territory is indistinguish- 
+able from error. Even the most brilliant act 
+of human genius, in the final analysis, is an 
+act of trial and error. 
+* Pursue no optima, but multiple goals. Simple 
+machines can be efficient, but complex 
+adaptive machinery cannot be. A compli- 
+cated structure has many masters and none 
+of them can be served exclusively. Rather 
+than striving for optimization of any func- 
+tion, a large system can only survive by 
+“satisficing” (making “good enough”) a mul- 
+titude of functions. 
+* Seek persistent disequilibrium. Neither con- 
+stancy nor relentless change will support a 
+creation. A good creation, like good jazz, 
+must balance the stable formula with fre- 
+quent offbeat, out-of-kilter notes. Equilib- 
+rium is death. Yet unless a system stabilizes 
+to an equilibrium point, it is no better than 
+an explosion, and just as soon dead. A 
+Nothing, then, is both equilibrium and 
+disequilibrium. 
+The Entrapment of Form: Certain forms, such as spirals, arise in nature because they reflect the 
+constraints of the material they are born in. On this hypothetical “landscape,” down means 
+“easier to do physically.” Whatever natural selection takes an organism a step in the direction 
+of a spiral, the form is rewarded so overwhelmingly that, whatever other tradeoffs are at hand, 
+the organism’s form gives in to the mathematical efficiency of the spiral. The form becomes a 
+well into whose basin an organism falls. Straightness has its virtues too, and creates its own ba- 
+sin. An organism exploring the saddle between the two basins will sooner or later fall into the 
+clutch of one well or the other. 
+* Change changes itself: Change can be struc- 
+tured. This is what large complex systems 
+do: they coordinate change. When ex- 
+tremely large systems are built up out of 
+complicated systems, then each system be- 
+gins to influence and ultimately change the 
+organizations of other systems. That is, if 
+the rules of the game are composed from 
+the bottom up, then it is likely that inter- 
+acting forces at the bottom level will alter 
+the rules of the game as it progresses. Over 
+time, the rules for change get changed 
+themselves. Evolution — as used in every- 
+day speech — is about how an entity is 
+changed over time. Deeper evolution — as 
+it might be formally defined — is about 
+how the rules for changing entities over 
+time changes over time. To get the most 
+out of nothing, you need to have self- 
+changing rules. 
+> | 
+ax Ge 
+These nine principles underpin the awe- 
+some workings of prairies, flamingoes, and 
+cedar forests, eyeballs, natural selection in 
+geological time, and the unfolding of a baby 
+elephant from a tiny seed of elephant 
+sperm and egg. 
+These same principles of bio-logic are now 
+being implanted in computer chips, elec- 
+tronic communication networks, robot 
+modules, pharmaceutical searches, software 
+design, and corporate management, in or- 
+der that these artificial systems may over- 
+come their own complexity. 
+When the technos is enlivened by bios, we 
+get artifacts that can adapt, learn, and 
+evolve. When our technology adapts, 
+learns, and evolves, then we will have a 
+neobiological civilization. 
+Out of Control 
+(The Rise of Neo-Biological Civilization) 
+Kevin Kelly. 1994; 521 pp. 
+ISBN 0-201-57793-3 
+$28 ($31 postpaid). Addison-Wesley 
+Publishing Co./Order Dept., | Jacob Way, 
+Reading, MA 01867; 800/447-2226 
+i 
+In one model of evolution, rules of thumb guide both development 
+and evolution. Evolutionary rules of thumb work on embryos, while 
+developmental rules work on everything else thereafter. Hereditary 
+genes develop software routines that suggest strategies such as “try 
+keeping the body warm if you have four legs.” Plausible guesses, 
+rather than random guesses, move an organism from one form to 
+the next (above). If successful, a rule of thumb is stored in the genes, ba 
+and reenacted for each individual during development. The same 
+script used during evolution unfolds during individual growth (below). 
+—Whole Earth Review, Fall, 1992 
+os 
+OD FD 
+— 
+Dv 
+Tierra 
+This program's C source code creates 
+a virtual computer and its operating 
+system, whose architecture has been 
+designed in such a way that the ex- 
+ecutable machine codes are evolvable. 
+This means that the machine code 
+can be mutated (by flipping bits at 
+random) or recombined (by swapping 
+segments of code between algo- 
+rithms), and the resulting code re- 
+mains functional enough of the time 
+for natural (or, presumably, artificial) 
+selection to be able to improve the 
+code over time. 
+This system results in the production 
+of synthetic organisms based on a 
+computer metaphor of organic life in 
+which CPU time is the “energy” re- 
+source and memory is the “material” 
+resource. Memory is organized into in- 
+formational patterns that exploit CPU 
+time for self-replication. Mutation gen- 
+erates new forms, and evolution pro- 
+ceeds by natural selection as different 
+genotypes compete for CPU time and 
+memory space. 
+Diverse ecological communities have 
+emerged. These digital communities 
+have been used to experimentally ex- 
+amine ecological and evolutionary pro- 
+cesses; competitive exclusion and co- 
+existence, host/parasite 
+density-dependent population regula- 
+tion, the effect of parasites in enhanc- 
+ing community diversity, evolutionary 
+arms races, punctuated equilibrium, 
+and the role of chance and historical 
+factors in evolution. This evolution-in-a- 
+bottle may prove to be a valuable tool 
+for the study of evolution and ecology. 
+—Tom Ray 
+Tierra: On DOS disk: $50 postpaid 
+(specify 3 1/2" or 5 1/4") from Virtual Life, 
+25631 Jorgensen Road, Newman, CA 
+95360. UNIX/DOS source code and documen- 
+tation (but not executables) available by anony- 
+mous ftp at: tierra.slhs.udel.edu [128.175.41.34] 
+and life.slhs.udel.edu [128.175.41.33] 
+» 
+|, 
+

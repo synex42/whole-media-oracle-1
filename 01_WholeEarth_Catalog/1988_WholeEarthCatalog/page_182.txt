@@ -1,0 +1,198 @@
+178 ROBOTICS 
+Inside the Robot 
+o 
+Kingdom 
+These robots 
+(Japan, Mechatronics, and 
+were assembled 
+from kits, but 
+the Coming Robotopia) 
+Frederik L. Schodt 
+some were also 
+1988; 256 pp. 
+sold in completed 
+$19.95 
+form. One, the 
+($21.45 postpaid) from: 
+Deluxe Mobile 
+Harper & Row 
+Suit MSZ006 Z 
+2350 Virginia Avenue 
+Gundam, is 
+Hagerstown, MD 21740 
+designed with the 
+800/638-3030 
+complexity of 
+or Whole Earth Access 
+an origami 
+masterpiece; to 
+; 
+transform it into a 
+The robots are coming, and they are Japanese. 
+: 
+: 
+fighter plane 
+About 50% of the world’s population of robots live 
+requires nearly 
+on the island of Japan, and a 
+large share of the 
+A 1979 forearm prosthesis, WH-11E2, could pinch and grip. 
+forty twists and 
+rest living outside have been exported from there. 
+turns. But if a boy 
+Japan manufactures the mythic image of robot 
+cannot figure out 
+the complex movements, all is not lost. Bandai 
+was one of the first Japanese toy makers to 
+plural, of comprising a 
+Robotics 
+aN nilose Sava 
+Eee 
+guarantee its wares in 1958 and like most 
+Marvin Minsky, Editor 
+: 
+, 
+g army, | 
+major toy companies today has a national 
+1985: 317 pp. ; 
+Is the source of nearly all the 
+network of walk-in service centers where 
+$1 9.95 
+millions of robot toys and epic 
+specially trained staff answer questions and 
+postpaid from: 
+Saturday morning robot 
+complaints from customers — and 
+Doubleday and Company 
+cartoons. This book surveys 
+demonstrate how to properly transform the 
+life in robotto okuku, the 
+robots. 
+Japanese nickname for their 
+own Robot Kingdom, and 
+illuminates the way a culture 
+aspires to, eventually accom- 
+modates, the ways and 
+metaphors of robots. 
+— Kevin Kelly 
+Direct Mail Order 
+501 Franklin Avenue 
+Garden City, NY 11530 
+800/223-5780 
+or Whole Earth Access 
+Shobe-e Tamaya with a spring-driven karakuri doll 
+made by his ancestors over 250 years ago and still 
+i 
+used in religious festivalstoday. 
+. 
+Edited by an artificial intelligence pioneer, this 
+anthology covers all the bases: the history of 
+automatons, artificial common sense, sensors, 
+human-machine partnerships (cyborgs), industrial 
+robots, and the effects of robots on society. Here is 
+the best starting point for a non-tinkerer who wants 
+to know what robotics is about, and how it might 
+Basic Robotic 
+wheels versus legs, and programming the intelli- 
+change the world. 
+bepree 
+Concepts 
+conor Snes 
+gence. 
+— 
+Art 
+Kleiner 
+John M. Holland 
+_ 
+— Art Kleiner 
+é
+e 
+1983; 270 pp. 
+q 
+At some point in the future someone would go to work by 
+eee postpaid) from: 
+: MN 7 EXTENSION 
+slipping on a comfortable jacket lined with a myriad of 
+Haward WeSameie Co 
+Joints ml revolute- 
+= C) 
+: 
+" 
+arm robot. 
+sensors and musclelike motors. Each motion of his arm 
+and fingers would then be reproduced at another place 
+by mobile, mechanical hands. Light, dexterous, and 
+strong, these remote mechanical hands have their own 
+sensors, which will transmit what's happening back to 
+the worker so that he will seem to feel whatever the 
+remote hands may touch. The same will be done for the 
+motions of the head and eyes, so that the operator will 
+seem to see and sense what's happening in the other 
+workplace. Once we can do such things, it will be 
+4300 West 62nd Street 
+Indianapolis, IN 46268 
+eee 
+, 
+317/298-5400 
+or Whole Earth Access 
+SECC 
+A jointed arm robot 
+£
+with six joint movements: 
+:
+Generally agreed upon as the best overall techni- 
+cal book. It’s designed to educate people about the 
+, 
+various problems of robotics — balancing the 
+machine, vision systems, motors, torque curves, 
+1. Base sweep 
+2. Shoulder swivel 
+3. Elbow extension 
+another simple step to give those remote presences 
+Reese 
+4. Wrist pitch 
+i
+different strengths and scale of size. These remote 
+5. Wrist roll 
+B 
+bodies can have the brute capacity of a giant or the 
+: 
+6. Wrist yaw 
+H
+delicacy of a surgeon. And, using these information 
+TRANSVERSE 
+‘ SG cer 
+cee 
+Like most robots, these 
+channels, an operator could be anyplace — in another 
+room, another city, another country, even out on a space 
+station orbiting the Earth. 
+4 
+A 1980 census of robots, taken by Bache Halsey Stuart 
+Shields, Inc., showed that United States had 3,000 of 
+them... 
+. The entire Soviet Union had only 25, and 
+these were evidently experimental devices, but Poland 
+had 360... 
+. The true homeland of the robot appears to 
+be Japan, with 10,000 in the census, more than the rest 
+of the world combined. 
+two basic types are 
+; 
+often made in a 
+modular fashion. 
+— 
+west, When wrists are 
+— 
+~~. 
+present, they often 
+raues 
+° 
+do not allow yaw, 
+or even roll. 
+A crude implementa- 
+tion of "wheel-within-a- 
+wheel” drive. 
+Transforming coordin 
+frames. 
+

@@ -1,0 +1,19 @@
+Here is an illustration of the 
+enneacontahedron with icosahedra 
+positioned at the vertices. All the 
+icosahedra «are oriented the same way. 
+They are shown at the vertices of the 
+enneacontahedron to illustrate that 
+the icosohedron has a face perpendicular 
+to each edge of the enneacontahedron. 
+As you move from corner to corner 
+of the enneacontahedron new sets of 
+faces of the parallely oriented icosahedra 
+are taken by the edge members but 
+it always works, the faces of the 
+icosahedron are always correctly 
+oriented to match the edges at the 
+corners of the enneacontahedron. 
+O
+Rt
+

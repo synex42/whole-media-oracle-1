@@ -1,0 +1,263 @@
+MATHEMATICAL 
+| 
+SNAPSHOTS 
+H. STEINHAUS 
+Pre 
+Mathematical Snapshots 
+H. Steinhaus 
+1950, 1969; 328 pp. 
+$7.95 postpaid 
+from: 
+Oxford University Press 
+16-00 Pollitt Drive 
+Fair Lawn, N.J. 07410 
+or WHOLE EARTH CATALOG 
+Mathematical Models 
+H. Martyn Cundy & A. P. Rollett 
+1961; 286 pp. 
+$7.50 
+postpaid 
+: 
+from: 
+; 
+Oxford University Press 
+16-00 Pollitt Drive 
+Fair Lawn, N.J. 07410 
+or WHOLE EARTH CATALOG 
+Fig, 
+138 
+BR, 
+Fy 
+Fry 
+POLYHEDRA 
+3.9.4. Great stellated triacontahedron. 
+V(3. 
+Fra. 153 
+The exterior perimeter of a net of a polyhedron 
+which is all in one piece becomes a ‘tree’ of edges on 
+the solid. This tree may be branched, but every edge 
+is double and occurs twice on the perimeter of the 
+net, 
+It is evident that if these edges are numbered 
+consecutively roundthenet every even edge will be 
+joined to an odd edge in the final solid. This means 
+that tabs need only be attached to the even edges. 
+In the nets which follow, tabs are not shown unless 
+there is special need to do so. 
+|n all other cases the 
+rule is: attach tabs to alternate edges round the net. 
+There is an exception in the case of the last face, 
+vshich is best left free of tabs. The missing tabs 
+must be added to the other edges, and are best 
+made large, so that a platform can be built up to 
+which the last face can be stuck. 
+6318 
+Math 
+Communications 
+V 
+Sis 
+Si 
+Pape 
+ale 
+Mathematics 
+Mathematical Snapshots operates by visibility. 
+What’s going on mathematically is plain as day 
+in the diagrams and illustrations. 
+It’s like 
+learning history by anecdotes. 
+Mathematical Models /s a classic of 4-D technique. 
+The whole purpose of the book is enabling 
+you to make your own geometric forms in the 
+world. Like learning history by psychodrama. 
+[Suggested by Sim Van Der Ryn] 
+From 
+these 
+four 
+small 
+boards 
+(1) we 
+can 
+compose 
+a square or an equilateral triangle, 
+according as we turn the handle up or down. 
+The proof is given by sketch (2). 
+Obviously, for any model which 
+js to beat all 
+permanent, cardboard will be used. 
+The card should be white with a good surface, and 
+fairly thin, about the thickness of a plain postcard. 
+Thick cardboard makes ugly corners, and allowance 
+ought to be made for its thickness in drawing the 
+net. 
+It is useful, however, to cut flat sheets of thick 
+card for internal strengthening in some of the 
+stellated and interpenetrating polyhedra. 
+PORY TPR AN 
+3.7.12. Great rhombicosidodecahedron (cont.) 
+19) 
+i) 
+When the dimensions of the model have been decided 
+on, the net can be constructed on the cardboard. 
+In 
+the case of a complicated net this is facilitated by 
+pricking through vertices from a template drawn on 
+- 
+tracing paper, but it must be done very accurately. 
+Tabs are then added to alternate outside edges, care 
+being taken to ensure that the angle at the shoulder 
+of the tab is small enough to admit of the tab’s 
+being cemented to its appropriate face. The net can 
+now be cut out with a razor-blade and the edges 
+scored half-through for bending. (Where edges have 
+to be scored on the back—in the stellated polyhedra— 
+this is indicated in the diagrams.) <The face of the 
+net becomes the outside of the polyhedron. 
+For joining, a quick-drying cement, such as balsa- 
+wood cement as used for model aircraft, is essential. 
+After the cement has been applied to a tab, the 
+edges to be joined are brought together, and the tab 
+can be held down with a small wire paper-fastener 
+while the cement dries. This is particularly useful 
+in small models when the fingers cannot easily get 
+inside, and near the finish of any model when there 
+are several edges to be joined at once. A thin wire 
+probe is sometimes useful in getting the last face to 
+© 
+adhere. 
+2.5. Curve-Stitching 
+One very old method of expression work in mathematics, and one 
+which affords a welcome change from ‘the tyranny of pencil and 
+paper’, is that of curve-stitching. 
+It seems to have originated in a 
+book by Mrs. E. L. Somervell, entitled: A Rhythmic Approach to 
+Mathematics and published in 1906. The idea has recently been 
+revived, both in America and in this country. Basically it consists 
+of constructing straight-line envelopes by stitching with coloured 
+threads through a pattern of holes pricked in cardboard. 
+As far as we’re concerned, these are the pick of self-education math books. 
+as well as method in the universal language. 
+* Russian-compiled technical run-down of 
+POMS FG 
+From them you can learn delight 
+The World of Mathematics /S history and 
+anecdotes, an infectious multi-faceted 
+telling of math stories—pure, applied, 
+ancient, recent: a fine and complete 
+collection. Math seen from outside. 
+The Graphic Work of M. C. 
+Escher /s geometry set at its 
+own throat via the images of 
+dreams. The subjective frontier. 
+The New Mathematics 
+Dictionary and Handbook /s 
+the handiest of handy reference 
+—
+books. 
+© 
+i
+[Suggested by Lloyd Kahn]. 
+—SB 
+4 
+‘ 
+Mathematics: 
+Its Content, Methods, 
+|
+and Meaning. Math from inside. A 
+everything of concern in mathematics 
+today. 
+Too CO CCOOCOCOCOTOCTOOTOCTOCOTOCTOCTOOCCTOCOCCOCCOOC CET 
+1 
+The patterns we observe on the shore 
+of a river when the mud has been 
+dried up by the sun (98) seem to be 
+quite irregular; nevertheless as a 
+rule they show right angles. This 
+can be explained by assuming the 
+cracking to be an effect of contraction; 
+the line appearing as a fissure has, 
+by a principle of mechanics, to make 
+the work of disjunction as small as 
+possible. The work is proportional 
+to the areas of the sections and the 
+lines must have a course such as to 
+minimize the surfaces laid open by 
+the fissure. This procedure gives 
+right angles if the clay is homogeneous; 
+the varying thickness of the layer 
+accounts for the curvature of the lines.. 
+This remark supplies in many cases 
+a means.of deciding which line appeared 
+earlier and which later: the older of 
+the two splits passes right throughthe 
+point of junction. Thus we can 
+follow the genealogy of splits and 
+eventually find the ancestors of 
+the whole system. 
+Suppose the pattern was composed initially of 
+‘two regions, A. and B. A new line appears, 
+joining two points of two already existing 
+arcs and giving rise to a new region C (100); 
+since the new line breaks up two arcs into two 
+parts each, the number of arcs increases by 
+three. After 
+steps we have 
+more regions 
+and 3/7 more arcs. Since there were initially 
+two regions and three arcs, we now have +2 
+regions and 37+ 3 arcs. 
+4 
+Mathematics: 
+Its Content, Methods, and Meaning 
+A. D. Aleksandrov, A. N. Volmogorov, R. A. Lavrentev 
+1956 1963; 1144 pp,; 3 vols. 
+$1 0.00 postpaid 
+from: 
+The M. |. T. Press 
+Cambridge, Mass.02142 
+or WHOLE EARTH CATALOG 
+Ill. There exists neither a point nor a line in the 
+plane that is carried into itself under all the 
+transformations of the group. Groups of this 
+type are called plane Fedorov groups, They 
+are the symmetry groups of infinite plane 
+ornaments. There are altogether 17 of them: 
+five consist of motions of the first kind only, 
+and twelve of motions of the first and second 
+kind. 
+MMM MATHEMATICS 
+| 
+In Table 3 we have given examples of ornaments 
+corresponding to each of the seventeen plane 
+Fedorov groups; every group consists of precisely 
+those motions that carry an arbitrary flag drawn 
+in the diagram into any other flag of the same 
+diagram. 
+It is interesting to note that the masters of the 
+art of ornamentation have in practice discovered 
+ornaments with all possible symmetry groups; 
+it fell-‘to the theory of groups to prove that other 
+forms do not exist. 
+Crystallographic groups. In 1890 the eminent 
+Russian crystallographer and geometer E.S. Fedorov 
+Be, 
+iI 
+solved by group-theoretical methods one of the 
+; 
+fundamental problems of crystallography: 
+to classify the regular systems of points in space. 
+This was the first example of a direct application 
+of the theory of groups to the solution of an 
+important problem in natural science and made 
+a substantial impact on the development of the 
+theory of groups. 
+OZ) 
+paisa © 
+pial 
+pla! 
+staat 
+T 
+CSC 
+aN 
+6 
+7 
+

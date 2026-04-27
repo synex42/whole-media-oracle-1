@@ -1,0 +1,180 @@
+How to Get 
+Free Software 
+Alfred Glossbrenner 
+1984; 432 pp. 
+$14.95 
+($16.45 postpaid) from: 
+St. Martin’s Press 
+Attn.: Cash Sales 
+175 Fifth Avenue 
+New York, NY 10010 
+212/674-5151 
+or Whole Earth Access 
+No one we know of has a more comprehensive 
+knowledge of software then Alfred Glossbrenner. 
+His book, How to Get Free Software, has chapter 
+and verse on the subject. The major problem with 
+public domain programs is finding out about them 
+and finding where to get them. He takes care of 
+both. 
+(The minor problems are dealing with the sheer 
+volume of choices and working without manuals.) 
+—Stewart Brand 
+Sd 
+Some of the free software available for nearly every 
+machine is unquestionably of professional quality and 
+can more than hold its own with any commercial product 
+in the same category. 
+Admittedly, this runs contrary to everything one would 
+assume about a high quality product: “If the stuff's so 
+good, why didn’t the author try to sell it?” In point of fact, 
+some of them have. More than a few free programs 
+started out as commercial products. But many more of 
+_ them were written by computer professionals or skilled 
+hobbyists in their spare time. For philosophical reasons, 
+or simply because they did not want the hassle of “going 
+commercial,” many of these individuals have contributed 
+their work to the public domain instead. 
+4 
+Indeed, if you are interested in programming, free soft- 
+ware can provide a wonderful learning experience. 
+Unlike most commercial software, the vast majority of 
+public domain programs are “listable.” That means you 
+can print out and review the program itself and see how 
+its author accomplished (or failed to accomplish) a 
+particular goal. This can alert you to interesting tech- 
+niques or save you from making similar mistakes. And in 
+some cases it can teach you more about BASIC, Pascal, 
+assembler, and other languages than many 
+textbooks can. 
+e 
+Once you get “plugged in,” you'll discover that there is 
+an informal network of users groups across the conti- 
+nent. Many groups regularly exchange newsletters and 
+information, and many share their member-contributed 
+free software. 
+In almost all users groups there will be a “software 
+librarian” who has taken the responsibility for organizing, 
+building, and maintaining the group's free software 
+collection. Frequently, the librarian and assisting mem- 
+bers will bring the entire library to the group’s monthly 
+meeting. And either before, after, or during the meeting, 
+members will be free to pick up any programs they want. 
+If you bring your own blank disks, there will usually be a 
+copying charge of about $1 to help maintain the library. 
+But often a club will be able to provide you with a disk at 
+a discounted price. (If you do bring your own floppies, try 
+to format them beforehand.) 
+The PC-SIG Library 
+(Public Domain and User-Supported Software for the 
+IBM-PC, PCjr, and Compatibles.) 1987; 424 pp., $12.95 
+($16.95 postpaid) from PC-SIG, Inc., 1030 East Duane 
+Avenue, Suite D, Sunnyvale, CA 94086; 800/245-6717 
+(800/222-2996 in CA) or Whole Earth Access 
+The PC-SIG Library on CD-ROM 
+IBM PC/XT/AT or compatible computer and CD-ROM 
+player with Microsoft MS-DOS extensions. $295 ($300 
+postpaid) from PC-SIG, Inc., 1030 East Duane Avenue, 
+Suite D, Sunnyvale, CA 94086; 408/730-9291 
+For years PC-SIG, largest shareware vendor in the 
+known universe, has published The PC-SIG Li- 
+brary, a catalog of hundreds of IBM-PC programs 
+to be had for free or for a “suggested donation” to 
+the program’s author. The 750 programs reviewed 
+in the latest edition are available directly from PC- 
+SIG, Inc. (order forms are printed in the back of the 
+book). Or you can skip this step and get thousands 
+The entire PG-SIG library to date of public domain and user-sup- 
+ported programs is now on CD-ROM. 
+User Groups 
+One of the best ways to get your hands on share- 
+ware is to find other people who use your type of 
+computer. User groups often have shareware 
+libraries for members to browse through. To find 
+out about user groups in your area, you can call 
+800/538-9696 for Apple or Macintosh computers; 
+800/IBM-3333 for IBM PCs; and 408/745-2367 or 
+408/745-5759 if you have an Atari. 
+Even if the nearest user group is too far away 
+for 
+regular visits, some groups offer shareware by 
+mail. The Berkeley Macintosh User Group main- 
+tains a fine collection of Mac shareware for mem- 
+bers near or far. Or you can join The Boston Com- 
+puter Society, which has shareware compatible 
+with many computer types — Mac, Apple, IBM PC, 
+Atari, Amiga, CP/M. 
+Berkeley Macintosh User Group: Membership $40/ 
+year. 1442A Walnut Street, #62, Berkeley, CA 94709; 
+415/849-BMUG. 
+The Boston Computer Society: Membership $35/year. 
+One Center Plaza, Boston, MA 02108; 617/367-8080. 
+—Sarah Vandershaf 
+SHAREWARE 
+of shareware and public domain programs on The 
+PC-SIG Library on CD-ROM. 
+—Sarah Vandershaf 
+a 
+Is it Shareware, User-Supported or Public Domain? 
+Public domain software is created by authors who 
+choose not to seek formal rights or royalties. Such work 
+is free to be used by all with few or no restrictions. 
+This type of software can be found on the numerous 
+electronic Bulletin Boards around the country and in the 
+PC-SIG library. 
+Shareware and User-Supported software paint a slightly 
+different picture. Some of these programs are copy- 
+righted, some are not... 
+. You are purchasing your 
+software directly from the author, thereby eliminating 
+costly marketing, promotion and packaging — allowing 
+you to obtain sophisticated software at a fraction of the 
+cost. 
+—The PC-SIG Library on CD-ROM User Manual 
+Shareware 
+Magazine 
+M. Palmer Barnes, Editor 
+$20/year 
+(6 issues) from: 
+PC-SIG, Inc. 
+1030 East Duane Avenue 
+Suite D 
+Sunnyvale, CA 94086 
+800/245-6717 
+or 800/222-2996 (in CA) 
+This magazine reviews new shareware/public 
+domain/user-supported programs and reports on 
+the shareware industry. Use it to update The PC- 
+SIG Library. 
+—Sarah Vandershaf 
+4 
+A number of software companies and individual pro- 
+grammers have been marketing PC versions of the 
+popular MONOPOLY® game, claiming that the game is 
+public domain. 
+Parker Brothers wants to set 
+the record straight. The 
+MONOPOLY® game, 
+including board 
+graphics, instruc- 
+tions, playing 
+cards, Title 
+Deed cards, 
+and all other 
+distinctive 
+elements of 
+the MO- 
+NOPOLY® 
+game are 
+fully pro- 
+tected under the Federal Copyright Act and the Federal 
+Trademark Act.... 
+© 1936 PARKER BROTHERS, INC. 
+Parker Brothers has licensed the MONOPOLY® prop- 
+erty to Sega for the Sega Master Systems and Virgin 
+Games for home computers. 
+Other than these two licensees, none of the software 
+versions of MONOPOLY® now on the market have been 
+authorized by Parker Brothers. 
+169 
+

@@ -1,0 +1,236 @@
+me Electro- 
+Magnetic 
+Environment 
+By Robert Horvitz 
+O ON THE ONE HAND you have folks sticking 
+their heads in electronic “tuning” fields, as some 
+sort of brain-boost or nonchemical psychedelic, 
+and on the other you have folks afraid of leakage 
+from video monitors, microwave ovens, and 
+powerlines. Are electromagnetic fields (EMFs) a 
+neat high or a lethal hazard? 
+Maybe both, maybe neither. Maybe we just don’t 
+know. 
+There’s been an upsurge recently in public 
+concern about the invisible fog of electromag- 
+netism we live in. It must concern us because that 
+fog has thickened so much this century, and it per- 
+meates our bodies. Every electric motor, appliance 
+and current-carrying wire radiates energy as a 
+byproduct of normal operation. We also use radio 
+to communicate, as in broadcasting, cordless and 
+cellular phones, beepers and CBs. Microwave 
+ovens are popular. So are electric blankets and 
+stoves. Radar is used by police departments, me- 
+teorologists, aviators and navies around the world. 
+Metal detectors, remote controlled toys . 
+. 
+. the list 
+goes on and on. 
+We can’t see these emissions. That used to mean 
+we ignored them. But now that a wide range of 
+biochemical effects has been attributed even to 
+weak EMFs, invisibility feeds fear: we don’t know 
+when or how much we’re being exposed. Expo- 
+sure is likely anywhere that electricity flows, and 
+our dependence on things electric grows daily. 
+There’s some consolation in knowing that this 
+wave energy penetrates our bodies precisely 
+because we absorb so little of it: we are nearly 
+transparent to radio. And compared to sunlight, 
+which can sear flesh in a few hours, low frequency 
+EMFs are “soft.” The sun’s ultraviolet rays are a 
+much more immediate health threat. 
+Which partly explains why research on the biologi- 
+cal impact of EMFs got off to a slow, faltering start. 
+Another reason is that bioelectricity seems to 
+attract charlatans and quacks like no other 
+subject. That has made funding agencies and 
+serious scientists leery. Plus, some people in high 
+places oppose research whose findings could 
+impede “progress,” raise business costs, establish 
+liability, or encourage regulation. Shutting down 
+the Environmental Protection-Agency’s research 
+program on EMFs in 1986 was one of the Reagan 
+Administration’s many low-points. 
+Despite the prevailing skepticism and lack of 
+funding, interest in EMF bioeffects increased 
+during the 1980s, after some curious results were 
+found in lab experiments, and statistical studies 
+started showing some association between EMFs 
+and serious illness. Federal inaction in the face of 
+growing public fear led some local governments to 
+impose tight restrictions on EMF sources. As the 
+patchwork of local standards spreads, it’s starting 
+to look like the cost of not doing the research 
+needed to establish consistent and reasonable 
+safety standards may be higher than doing it right. 
+A few hints of consensus have started to emerge 
+from the work done so far. With caveats galore 
+(I’m no doctor, we still don’t understand the 
+mechanisms, not everyone agrees), this fool 
+rushes in where a lot of other fools have already 
+been mucking around: 
+* Many bio-effects seem to occur at specific com- 
+binations of frequency and power, suggesting that 
+molecular resonance is involved. If that’s the case, 
+setting exposure limits across the broad spectrum 
+THE ELECTROMAGNETIC ENVIRONMENT 87 
+will be difficult. (To use a plumbing analogy, your 
+pipes may “sing” when water flows through them 
+at a specific rate. Decreasing the flow will stop the 
+singing; but so will INCREASING it. And when the 
+water is at a different temperature, the singing 
+starts and stops at different flow-rates. This kind of 
+nonlinear relationship between “dose” and effect 
+means that at certain frequencies, 
+a weak EMF 
+might have more impact on a specific chemical 
+reaction than than a stronger one does.) Until we 
+sort everything out minimizing exposure in general 
+is the safest strategy. 
+¢ The orientation of the field, the coherence and 
+shape of the waves, the way they’re modulated 
+(AM, FM, or pulse), the peak versus average 
+power density — any or all of these may be impor- 
+tant variables. They complicate setting exposure 
+limits, too. 
+* Magnetic fields may be more of a health prob- 
+lem than electrical fields, though they are often 
+found together. TVs and video terminals, small 
+motors (hairdriers, fans, and plug-in clocks), 
+fluorescent lights and electric blankets, are typical 
+sources of magnetic fields in the home. Magnetic 
+shielding (as opposed to electrical shielding) is 
+generally impractical. However, the magnetic fields 
+from most appliances fade to below the back- 
+ground level a few feet or yards away. 
+* The magnetic fields of powerlines have a farther 
+reach. They are more intense where there’s an 
+unbalanced load and the voltage is stepped down 
+by a transformer. You can easily check for “hot- 
+spots” in your neighborhood by walking around 
+with a portable radio tuned to a vacant channel at 
+the low end of the AM band. As you near a 
+radiating section, you'll hear a loudening buzz. 
+¢ 
+If you have a microwave oven, have a profes- 
+sional repairman check the seal around the door 
+at least once a year. 
+* Electric blankets have been singled out as 
+something to avoid because they create strong 
+fields and are meant to be used close to the body 
+for long periods of time. Consider a down com- 
+forter instead. 
+It's important to keep in mind that not all of the 
+recently discovered effects are necessarily 
+harmful. Some may have no health impact at all, 
+and some may ultimately prove beneficial. The 
+real pay-off in EMF bioeffects research may not be 
+just in minimizing risks, but in the development of 
+positive applications. It is already clear that there 
+are therapeutic uses — in bone-healing and pain 
+relief — as well as new imaging techniques which 
+eliminate the need for exploratory surgery. If EMFs 
+can in fact promote or inhibit certain chemical re- 
+actions, we may able to harness that ability for 
+desirable ends. 
+. Artificial EMFs 
+Research is moving so fast in this field that news- 
+letters are the only way to keep up. “Microwave 
+News” and “VDT News,” both edited by Louis 
+Slesin, are widely acclaimed by all sides as the 
+best sources of reliable and current information. 
+Slesin believes that ‘emissions from computer 
+monitors, and EMFs generally, are a serious 
+health issue. But he’s established a reputation as 
+an “honest broker.” When a well-done study is 
+published showing no evidence of harm, or 
+refuting a study that found something scary, Slesin 
+reports it just as carefully, and with just as promi- 
+nent a headline, as reports favoring the other side. 
+As a result, he’s been much more effective in 
+changing the attitudes of researchers than more 
+partisan reporters. Almost every study cited in 
+Currents Of Death was first reported in either 
+“Microwave” or “VDT News.” 
+As you might have guessed, “VDT News” covers 
+emissions from computer monitors, and worker- 
+health issues related to office equipment in 
+general. “Microwave News’ is less accurately 
+titled. It covers the entire radio spectrum, not just 
+microwaves, increasingly focusing on the low end 
+of the spectrum (macrowaves?). “MN” is the more 
+expensive of the two, but it has a lot more news 
+per issue. 
+Microwave News 
+$250/year (6 issues) 
+P.O. Box 1799 
+Grand Central Station 
+New York, NY 10163 
+(212) 517-2800 
+VDT News 
+$87/year (6 issues) 
+P.O. Box 1799 
+Grand Central Station 
+New York, NY 10163 
+(212) 517-2802 
+For a one-off summary, a background paper pub- 
+lished by the U.S. Congress’s Office of Technol- 
+ogy Assessment is a reasonable place to start. 
+Biological Effects of Power Frequency Electric 
+and Magnetic Fields addresses powerline issues, 
+summarizing the research in a relatively acces- 
+sible, non-alarmist way. Also discusses policy 
+issues, recent regulatory actions, and ongoing 
+research programs. 
+Biological Effects of Power 
+Frequency Electric and 
+Magnetic Fields, Office of 
+Technology Assessment 
+1989; 103 pp.; Stock No. #052- 
+003-01 152-2; $4.75 from: 
+Superintendent of Documents 
+Government Printing Office 
+Washington, DC 20402-9325 
+(202) 783-3238. 
+Among recent books on these subjects, Currents 
+of Death has certainly attracted the most atten- 
+tion. Brodeur gives a pretty good overview of 
+material originally published in Slesin’s newslet- 
+ters. But he differs sharply from Slesin in taking 
+any skepticism about even the flakiest claims of 
+injury from EMFs as proof that the doubter must 
+be part of a massive conspiracy hatched by the 
+U.S. military, the electric utilities and the computer 
+manufacturers, who want to wreak a holocaust on 
+the public and cover up their evil plan. For 
+Brodeur, there’s no such thing as a different 
+interpretation of ambiguous data. There are no 
+errors in the research of the pro-harm camp, fatal 
+errors in every study from the no-harm camp. 
+Reasonable people don’t disagree: you're either 
+pro-Life or pro-Death. 
+This is nonsense. It does a real disservice to the 
+complexity of the scientific issues, and to the 
+honest researchers in both camps trying to figure 
+them out. The breakthroughs in understanding 
+which are likely to emerge from this controversy 
+are probably still cloaked in unresolved questions 
+that Brodeur would dismiss as lame excuses for 
+reactionary caution. If you read this book, make 
+sure you read the OTA paper for some sort of 
+balance. 
+Currents of Death 
+(Power Lines, Computer 
+Terminals, and the Attempt 
+to Cover Up Their Threat to 
+Your Health), Paul Brodeur 
+1989; 333 pp.; $19.45 ($21.40 
+postpaid) from: Simon & 
+Schuster, Mail Order Dept. 
+200 Old Tappan Road 
+Old Tappan, NJ 07675 
+(800) 223-2336 
+WEA 
+

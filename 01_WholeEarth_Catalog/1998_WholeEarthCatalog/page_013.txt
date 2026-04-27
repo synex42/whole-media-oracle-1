@@ -1,0 +1,238 @@
+Synthesis of Form 
+Christopher Alexander is a design person 
+that other people refer to a lot. This book 
+deals with the nature of current design 
+problems that are expanding clear beyond 
+any individual's ability to know and correlate 
+all the factors. The methodology presented 
+here is one of analysis of a problem for 
+misfits and synthesis of form (via computer- 
+translatable nets and hierarchies) for 
+minimum misfits. 
+(From the table of contents) 
+2.Goodness of Fi 
+15 
+3.The Source of Good Fit 
+28 
+4.The Unselfconscious Process 
+46 
+5.The Selfconscious Process5 
+55 
+But if we think of the requirements from a negative 
+point of view, as potential misfits, there is a simple 
+way of picking a finite set. This is because it is 
+through misfit that the problem originally brings 
+itself to our attention. We take just those relations 
+between form and context which obtrude most 
+strongly, which demand attention most clearly, 
+which seem most likely to go wrong. 
+We cannot 
+do better than this. 
+If there were some intrinsic 
+way of reducing the list of requirements to a few, 
+this would mean in essence that we were in pos- 
+session of a field description of the context: 
+if 
+this were so, the problem of creating fit would 
+become trivial, and no longer problem of design. 
+We cannot have a unitary or field description of a 
+context and still have a design problem worth 
+attention. 
+The greatest clue to the inner structure of any dynamic 
+Indeed, not only is the man who lives in the form the 
+process lies in its reaction to change 
+one who made it, but there is a special closeness 
+of contact between man and form which leads to con- 
+stant rearrangement of unsatisfactory detail, 
+constant improvement. 
+The man, already responsible 
+for the original shaping of the form, is also alive to its 
+demands while he inhabits it. Any anything which 
+needs to be changed is changed at once 
+The Mousgoum cannot afford, as we do, to regard main- 
+tenance as a nuisance which is best forgotten until it is 
+time to call the local plumber. 
+It is in the same hands as 
+the building operation itself, and its exigencies are as 
+likely to shape the form as those 
+of the initial construction 
+NOPES CON CHE 
+SYNTEIESIS 
+() ee OETA 
+The selfconscious individual’s grasp of problems is con- 
+stantly misled. 
+His concepts and categories, 
+besides 
+being arbitrary and unsuitable, are self-perpetuating 
+A subsystem, roughly speaking, is one of the obvious 
+components of the system, like the parts shown with a 
+circle round them. 
+If we try to adjust a set of variables 
+which does not constitute a subsystem, the repercus- 
+Under the influence of concepts, he not only does things 
+sions of the adjustment affect others outside the set 
+from a biased point of view. but sees them biasedly as 
+because the set is not sufficiently independent. 
+The 
+well. 
+The concepts control his perception of fit and mis- 
+procedure of the unselfconscious system is so 
+fit — until in the end he sees nothing but deviations from 
+his conceptual dogmas, and loses not only the urge but 
+even the mental opportunity to frame his problems more 
+appropriately. 
+The solution of a design problem is really only another 
+effort to find a unified description. 
+The search for 
+realization through constructive diagrams is an effort 
+to understand the required form so fully that there is 
+no longer a rift between its functional specification 
+and the shape it takes. 
+Two misfits are seen to interact only because, in some 
+. 
+sense at least, they deal with the same kind of physi- 
+organized that cebjastient can take place im catch cme of these 
+cal consideration 
+It is such a physical center of implication, if | may call 
+it that, which the designer finds it easy to grasp 
+Because it refers to a distinguishable physical proper- 
+ty or entity, it can be expressed diagrammatically and 
+provides a possible non-verbal point of entry into the 
+problem. 
+stilevstems ideputidenthy:. 
+This is the reason for iis sticeess. 
+th the <elioots ders situation. on the other Iyemt. 
+the ce 
+sivrecr is faced with 
+oll the wurkabehes strmaltenes nists 
+Ti 
+TY, {| 
+On Growth and Form 
+4 
+Fig. 14), 
+(a) Herpinia plumose Kr., (4) Stegocephalus influtws Kr.; 
+(ce) Ayperia galbe 
+A paradigm classic. Everyone dealing with 
+growth or form in any manner can use the book. 
+We've seen worn copies on the shelves of 
+artists, inventors, engineers, computer systems 
+designers, biologists. Would one of you do a 
+thorough review of D'Arcy Thompson's venera- 
+ble book for the CATALOG? 
+When Plateau made the wire framework of a regular 
+tetrahedron and dipped it in soap-solution, he 
+obtained in an instant a beautifully symmetrical system 
+of six films, meeting three by three in four edges and 
+those four edges running from the corners of the figure 
+to its centre of symmetry. 
+Here they meet, two by two, 
+at the Maraldi angle; and the films meet three by three, 
+to form the re-entrant solid angle which we have called 
+a ‘Miraldi pyramid’ in our account of the architecture 
+of the honeycomb. 
+The very same configuration is easily recognized in the 
+minute siliceous skeleton of Callimitra. 
+There 
+are two discrepancies, neither of which need raise any 
+difficulty. 
+The figure is not rectilinear but a spherical 
+tetrahedron, such as might be formed by the boundary 
+edges of a tetrahedral cluster of four co-equal bub- 
+bles; and just as Plateau extended his experiment by 
+blowing a small bubble in the centre of his tetrahedral 
+system, so we have a central bubble also here. 
+This bubble may be of any size; but its situation (if 
+it be present at all) is always the same, and its shape 
+is always such as to give the Maraldi angles at its own 
+four corners. 
+The tension of its own walls, and those 
+of the films by which it is supported or slung, all bal- 
+ance one another. 
+Hence the bubble appears in plane 
+projection as a curvilinear equilateral triangle; and we 
+have only got to convert this plane 
+diagram into the corresponding solid to obtain the 
+spherical tetrahedron we have been seeking to explain 
+(Fig. 63). 
+The geometry of the little inner tetrahedron is not less simple 
+and elegant. 
+Its six edges and four faces are all equal. The films 
+attaching it to the outer skeleton are all planes. Its faces are spherical, 
+(a) 
+- 
+~ 
+a diagram of the lines of stress, or direc- 
+ax, 
+eis’) 
+tions of tension and compression, in the 
+a@ tetrahedral cage: (bp) another bubble within a skeleton of the former bubbkc 
+& @® i 
+a, - 
+loaded structure; in short, 
+that Nature was 
+. 
+S 
+Fig 63. 
+Diagrammatic constrection of Calfimitra, 
+(a) A bubble suspended wxthir 
+and cach has its centre in the opposite corner. The edges are circular 
+arcs, with cosine 4; each is in a plane perpendicular to the chord of 
+the arc Opposite, and each has its centre in the middle of that chord. 
+Along cach edge the two intersecting spheres meet cach other at an 
+angle of 120°! 
+1 
+(C, 
+On Growth and Form 
+D'Arcy Wentworth Thompson 
+Two volume edition 
+1917,1952 
+$27.50 postpaid 
+Abridged paper edition 
+1917, 1961; 346 pp 
+$2.45 postpaid 
+Both 
+om: 
+Ca 
+ie University Press 
+5% 
+Avenue 
+N 
+elle, N.Y. 10801 
+or 
+Wi .Oie ~ARTH CATALOG 
+Fig. 
+150. 
+Podspricw. 
+' 
+Soh 
+hie 
+1 
+thowerhws afta 
+3h 
+a3 
+ne 
+Fig. 
+101. 
+Cranc-head and femur 
+Atigr 
+Culenumn wind J Wollt 
+tie. 
+6) 
+AN Nassellatian sbokton, Cour venue PERE 
+10 
+mM 
+shameter 
+The engineer, who had been busy design- 
+ing a new and powerful crane, saw ina 
+moment that the arrangement of the bony 
+trabeculae was nothing more nor less than 
+strengthening the bone in precisely the 
+manner and direction in which strength was 
+~— 
+required; and he is said to have cried out, 
+‘That's my crane!’ 
+> 
+Xe 
+Fig. US3. 
+Antigome capruy, 
+

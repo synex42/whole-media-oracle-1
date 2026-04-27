@@ -1,0 +1,336 @@
+UYING A 
+ERSONAL 
+OMPUTER 
+by Art Kleiner 
+“Which small computer should | buy?” is the question 
+everybody asks and nobody’s willing to answer. 
+The 
+computers described here are all good models, but your 
+choice should depend first on what you want to do with 
+it. [t’s worth checking any potential use out specifically 
+with your dealer, no matter how far down the road it 
+‘seems now. 
+The padded ce//s are piled high with people 
+who figured it wou/dn‘t be hard to make some routine 
+adjustment later on to add a certain piece of equipment 
+or use their machine as a networking terminal or run a 
+particular program. 
+Finding a dealer you can trust in 
+your area is often more important than finding any one 
+specific brand. 
+Despite all the talk of ten-dollar chips, you’ll need to 
+spend at least $10,000 (and probably more) if you have 
+regular smal/ business use in mind. Any 
+less, and you ‘ll 
+feel frustrated constantly by what your machine can’t 
+do. However, home use, experimenting, learning, game- 
+inventing, networking, music and graphic making, word 
+processing, light programming and personal business 
+handling can all be done on home computers, which sell 
+for $400 and up (most in the $800 - $2000 range). 
+Printers and disk drives usually cost extra and often seem 
+essential before long. If you can’t afford $10,000 but 
+need business computing done, get a terminal and printer 
+and use someone else’s bigger time-sharing computer 
+through your telephone. Since they are so expensive, 
+were only showing a couple of the really special business 
+systems here. 
+There are other good ones with full write- 
+ups in MicroWorld’s Micro Shopper (be/ow) and in the 
+computer magazines. 
+Computers by Mail 
+UBS Se 
+Meas nef 
+Srz, 
+Hover 
+ce Typist's-eye view of the Atari 800 computer, plus some of 
+the graphics programs available. 
+$1080 and up 
+These selections were evaluated with the help of Larry 
+Press (Small Systems Group); Louis Ewens (Marin 
+Computer Center); Bob Albrecht, Dave Cau/kins, and 
+Dennis Allison (all loosely connected with the People’s 
+Computer Company); J.D. Sharp (Bananas at Large); 
+Alan Hald (MicroWorld); and Jim Whitescarver, Mike 
+Heines, Tom Hargadon, and Steve Heitmann from the 
+EIES computer network (p. 535). Information on all 
+these machines is free from the manufacturers. 
+Rockwell Aim45. $415 and up, manufactured by 
+Rockwell International, P.O. Box 3669, Anaheim, 
+CA 92803. Single-board computers are made for 
+experimenters, they’re the least expensive, but they 
+require electronic expertise and machine language pro- 
+gramming. 
+The machine to get depends on which type 
+of chip you want to learn the language for. 
+Unlike the 
+other single-boards, the Rockwell AIM 65 has a ful/ 
+keyboard (the others have calculator keypads) and can 
+be adapted for use as a terminal. 
+There’s no screen; 
+just an LED display like that of a calculator. A version of 
+BASIC 
+is easily added as an attachable component. 
+The 
+biggest plus is a built-in thermal printer. Another highly 
+respected single-board is the Kim-1, made by Commodore, 
+which also manufactures the PET. 
+Atari 800. $1080 and up. Manufactured by Atari Con- 
+sumer Division, P.O. Box 427, Sunnyvale, CA 94086. 
+A surprisingly well-designed personal computer with 
+canned programs on plug-in cartridges. 
+The cartridges 
+make it easier for people to use the machines without 
+programming at all (although you can program on the 
+Atari). 
+The problem with cartridge programs is they 
+can’t be modified within the cartridge; you can copy 
+them onto a tape or disk and change them there, but 
+then they run more slowly. 
+It’s surprising to the unini- 
+tiated how much difference a second of sitting at an 
+immobile screen can make. Atari’s machines were only 
+released in 1979, but already there’s a lot of good soft- 
+ware and accessories available, including top-notch 
+small computer graphics and music making. Documen- 
+tation could be better. 
+Commodore PET. $1090 and up. Manufactured by 
+Commodore, 3330 Scott Blvd., Santa Clara, CA 95050. 
+The PET’s unique feature is still its keyboard — most 
+keys can produce a specific graphic symbol, which makes 
+low-level graphics easy to work with. Kids like it. There’s 
+also good screen-editing and a nice keyboard to type on 
+(make sure you get the full typewriter keyboard, and not 
+the old calculator-keys model, which is awful). 
+The 
+cassette tape drive, standard on most machines, is 
+optional on the PET; without it your programs will fade 
+into air, so the price above includes it. Because it’s got a 
+widely-used industrial interface (the /EEE-488), lots of 
+PETs are being adapted into test instruments or other 
+industrial machines. 
+TRS-80 Model | Level I!. $619 and up. Manufactured 
+by Radio Shack, Tandy Corporation, Fort Worth, TX 
+76102. Were it not for Bob Albrecht’s enthusiastic 
+recommendation, the TRS-80 would probably be omitted 
+from this page, even though it’s the most popular personal 
+4 
+As with other tools, computer stuff is often cheaper by 
+mail (though sometimes cheaper at your local computer 
+shop or Radio Shack). 
+In many cases, you ‘re better off 
+shopping locally because you can get the machine serviced 
+and because computer shops are often jumping-off points 
+for finding people (and computer clubs) with the same 
+machine, who can swap programs, lend peripherals, and 
+consu/t on programming. 
+computer equipment 
+in its 
+modes of operation. 
+10M-2020A A&T 
+But sometimes you may need mail service. Bob Albrecht 
+uses CompuMart and says they have an uncommonly 
+good reputation in the busines for reliability. 
+Their 
+2 
+catalog is also very complete. Jade’s catalog has more 
+boards and parts and is considerate to new computer 
+users. 
+Jade specializes in putting systems together out 
+of components, the way hi- 
+Micro World has the most completely annotated catalog 
+I’ve seen on any product — a Whole Earth Catalog of 
+This modem has more features for the money than any 
+Apple I! modem on the market today! 
+It is a Bell Sys- 
+tems compatible 110/300 baud, FCC-certified, crystal 
+controlled, stand alone unit. 
+And best of all, it plugs directly into your Apple's game 
+1/O connector, and any standard modular phone jack. 
+The Micronet modem operates in originate or answer/ 
+auto-answer mode, all under software control. 
+Practical front panel display lets you know at a glance 
+the operating conditions of the modem and the network. 
+The software (included, on disk) is simple to operate, 
+well-documented and allows immediate and deferred 
+Join the information revolution today and hookup to 
+the world with the Micronet modem. Shipping weight 
+3 Ibs. Available June/July, 1980. 
+The Apple tl 
+computer, with 
+video monitor, 
+cassette data 
+recorder, and two 
+joystick controls. 
+$1200 and up 
+— 
+CompuMart 
+(Formerly NCE 
+Compumart) 
+Catalog 
+free from: 
+CompuMart 
+270 Third Street 
+Cambridge, MA 02142 
+fi places match stereo gear. 
+own right. 
+—Art Kleiner 
+Jade Computer 
+Products 
+Catalog 
+free from: 
+Jade Computer Products 
+4901 West Rosecrans Ave. 
+The 
+Hawthorne, CA 90250 
+Micro Shopper 
+(The Guide to the 
+New Computers) 
+$9.95 postpaid from: 
+Micro World 
+$284.95 
+1425 West 12th Place 
+—Jade 
+Tempe, AZ 85281 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+° 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+COMMUNICATIONS: 
+HOME COMPUTERS 529 
+__
+computer. 
+That's its advantage — lots of Radio Shacks 
+which sell and service it and lots of TRS-80 users writing 
+programs for it. It thus has more cottage-industry soft- 
+ware than any other home computer. 
+Though it’s not 
+good for graphics or sophisticated programming, it’s a 
+good machine to learn the basics on. 
+The most useful 
+TRS-80 model for the price is probably the TRS-80 
+Model | Level I. 
+Apple Il. $1200 and up. Manufactured by Apple 
+Computer Company, 10260 Bandley Drive, Cupertino, 
+CA 95014. A very highly praised personal computer. 
+Its main flaw is that it’s more difficu/t for beginners to 
+work with than the TRS-80, PET, or Atari; but it’s gota 
+wide selection of good programs and accessories (includ- 
+ing VisiCalc, the universally acknowledged Rolls Royce 
+of personal computer programs). 
+Graphics and music are 
+particularly good, and it’s expandable into a more power- 
+ful business system (approaching but not quite equalling 
+systems like North Star). Apple has the fastest disk drive 
+and most agreeable keyboard of the personal computers. 
+Good manuals, too. While putting this survey together, 
+! decided to buy an Apple //. Bell and Howell plans to 
+market an adapted Apple I/ for $200 more which is easier 
+for beginners and teachers to work with; there will be 
+Jacks on the outside for plugging in joy sticks or video 
+output. 
+For information write Computer Division, Bell 
+and Howell, 7100 McCormick Road, Chicago, /L 60645. 
+North Star Horizon. $7000 and up. Manufactured by 
+| 
+North Star Computers, 1440 Fourth Street, Berkeley, 
+CA 94710. A dependable business system with a wide 
+range of available software, and a lot of people writing 
+more. 
+Very reasonably priced. 
+It’s particularly good for 
+word processing. 
+The main drawback is the disk drive, 
+which uses mini-floppies — “not for the impatient,” 
+| 
+Steve Heitmann notes. 
+But it expands into more effec- 
+| 
+tive systems easily, and Northstar is noted for good 
+repair service. 
+Other high quality business computer makers include 
+Dynabyte, Altos, Cromemco and Vector Graphic. 
+Onyx. $20,000 and up. Manufactured by Onyx Systems, 
+73 East Trimble Road, San Jose, CA 95131. 
+The most 
+powerful smal/ business computer system available — so 
+good that orders backed up as soon as the word spread. 
+| 
+(They‘re designed and made by a small firm in San Jose.) 
+For $20,000 you get a computer which can run Unix, a 
+complex operating system developed by Bel/ Labs which 
+usually runs on hundred-thousand-dollar mainframes. 
+Four 
+people can use the Onyx at once, and it can be expanded 
+to eight. 
+This is what people recommended when | asked 
+them to name the ultimate in small computers. 
+(See also 
+mail order electronic supplies, p. 520.) 
+™ 
+6 te 6.06 ce Je, w 
+micelle o..0 0 (ets. «6/66 "Ee 
+© 
+6 
+< 
+«2 
+e,a @ 
+THE RISING SUN 
+NEIGHBORHOOD NEWSLETTER 
+continued from last spread 
+Peter had never done any rowing before he started 
+thinking about going across the Atlantic and he 
+says that he didn’t even train much for that trip 
+—a few miles up and down the Thames is all. 
+That may be the famous British understatement, 
+but he says that doing long distance ocean rowing 
+is its own training and there’s no point in starting 
+sooner. The first four hours of the trip are the 
+roughest because that’s when you have to beat 
+the tide or be ignominiously washed back ashore. 
+After that you just row and row — about half the 
+time. It’s not the type of thing an athlete who’s a 
+rower would do, Peter says, because it’s too sloppy 
+—no style. It was hard to even do it with another 
+person in a big long boat because such different 
+things are happening to the two rowers it’s very 
+hard to pull together. 
+continued on next spread 
+

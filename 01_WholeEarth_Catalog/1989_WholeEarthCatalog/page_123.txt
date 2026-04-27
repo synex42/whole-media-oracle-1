@@ -1,0 +1,114 @@
+TION 
+Soon began a flood of mail. An Oklahoma lawyer 
+sent me patent drawings for his perpetual motion machine 
+and tried to convince me to write about it. A priest and a 
+violinist lauded me for the unselfish way I gave my inven- 
+tion to the world, instead of trying to make money on it. 
+Some letter writers argued that the machine couldn’t pos- 
+sibly work; others wanted more information. Over thirty 
+letters came in all, plus three phone calls. 
+My experience with the Schadewald Gravity Engine 
+showed me how easy it is to sell perpetual motion, even 
+when you’re only trying to make people laugh. I began 
+looking for modern perpetual motion schemes, and I 
+found them aplenty in newspapers, magazines, and televi- 
+sion news shows. Before discussing modern schemes, 
+however, a bit of history may be helpful. 
+Energy shortages are nothing new. The Romans built 
+mills driven by water wheels, and the construction seems 
+to have continued during the Dark Ages. By 1086 a.p., 
+when England’s Domesday Book (a sort of census report) 
+was written, there were 5,624 water-powered mills in the 
+kingdom. This growth continued, and soon there were no 
+more good mill sites left. The same phenomenon occur- 
+red in continental Europe. This dam shortage seems to 
+have inspired the search for perpetual motion. 
+Many inventors tried to design a water wheel that 
+could both power a mill and pump enough water to run 
+itself. In 1618, the alchemist and occultist Robert Fludd 
+described an overshot water wheel that would power a 
+mill and also drive an Archimedean screw-type pump to 
+transport the water back to the flume. The basic idea was 
+common and obvious, and Georg Andreas Boeckler de- 
+scribed and illustrated several self-pumping mills in his 
+Theatrum Machinarum Novum, published in 1686. No 
+one ever succeeded in making such a mill work, despite 
+numerous attempts. Nevertheless, the hope remains alive 
+to this day, and later we’ll look at a modern “self-con- 
+tained hydroelectric power system” supposed to pump its 
+own water. 
+Probably no idea is dearer to the hearts of perpetual 
+motionists than the venerable “overbalancing wheel,” a 
+vertical wheel equipped with movable weights that are 
+supposed to constantly shift position so that the wheel is 
+always heavier on one side than the other. The earliest 
+surviving description of a perpetual motion scheme, con- 
+tained in a fifth-century Sanskrit astronomical text, the 
+Siddhanta Ciromani, is a variation on this theme. Edward 
+The Perpetual 
+Qu e S t by Robert Schadewald 
+Somerset, Second Marquis of Worcester (1601-1667), had 
+such an overbalancing wheel built in the tower of London, 
+where he demonstrated it to King Charles I and his court 
+sometime in the 1640s. Somerset later described the dem- 
+onstration in a book commonly known as Century of In- 
+ventions, published in 1655: 
+They all saw, that no sooner these great weights passed 
+the Diameter-line of their lower side, but they hung a 
+foot further from the Centre, nor no sooner passed the 
+Diameter-line of the upper side, but they hung a foot 
+nearer. Be pleased to judge the consequence. 
+We are indeed pleased to judge the consequence, and 
+itis nil. (The same cannot be said of other Somerset in- 
+ventions; he designed an early forerunner of the steam en- 
+gine.) Numerous schemes have been devised for shifting 
+the weights on an overbalancing wheel as described, and 
+they have one thing in common: they don’t work. 
+A perennially favorite variation is a vertical wheel 
+having curved internal spokes with balls, which can roll 
+between the hub and the rim. The designer—his name is 
+Legion—hopes to produce a constant out-of-balance con- 
+dition. Analysis of such a device typically shows that at a 
+crucial point in the cycle, each weight has to be “helped 
+over the hump” Once started, momentum does the job 
+SCHADEWALD GRAVITY ENGINE 
+The Schadewald 
+Gravity 
+Engine is based on a famous 
+conjecture by the late British 
+physicist P.A.M. Dirac that the 
+“universal 
+gravitation 
+con- 
+converted to potential energy, 
+and the wheel slows down. But 
+for every revolution, g, is less 
+then g,, so the wheel must gain 
+speed with each revolution. 
+stant” G is in fact slowly de- 
+creasing. If true, it follows from 
+high-school physics that g, the 
+acceleration due to gravity at a 
+given point on earth, is also 
+decreasing. 
+mass ™ 
+Consider then a 
+wheel of diameter h with a heavy 
+weight 
+m 
+attached 
+to 
+its 
+periphery. As the weight rotates 
+from top to bottom, potential 
+energy 
+equal 
+to 
+mg,h 
+is 
+converted to kinetic energy, and 
+the wheel speeds up. 
+As the 
+weight rotates back to the top, 
+kinetic energy equal to mg,h is 
+

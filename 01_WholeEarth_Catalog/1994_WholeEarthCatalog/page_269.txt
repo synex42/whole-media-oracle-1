@@ -1,0 +1,311 @@
+FTP ano ARCHIE 
+The file transfer protocol — ftp — 
+was developed to support the trans- 
+fer of datafiles from one computer to 
+another. Regular ftp requires that 
+you have accounts and passwords on 
+both systems. But you'll most likely 
+use anonymous ftp. Thousands of 
+Internet computers allow you to 
+login as anonymous (or ftp), speci- 
+fying your email address as a pass- 
+word. These computers (file servers) 
+allow software, documents, images, 
+and sound files to be picked up by 
+anyone with access to the Internet. 
+To use ftp you must be familiar with 
+directory navigation. The pwd, 
+cd, and dir commands allow you 
+to see where you are, change it, and 
+get a listing of what’s available. File 
+suffixes clue you in as to whether a 
+file should be transferred in ASCII 
+(ccxtraeeos) 
+mon binanye (era, 
+Zep eS Calms) modesto 
+transfer a non-text file, type bi- 
+nary before the get 
+or 
+mget 
+(multiple get) commands. 
+If you’re lucky enough to be using a 
+Macintosh that’s truly on the Internet, 
+you should install Fetch, an elegant 
+point-and-click replacement for ftp. 
+ftp://ftp.dartmouth.edu/ 
+pub/mac 
+If you’re not on the Internet, but 
+have email, you can use ftpmail. 
+To receive instructions on how to 
+use ftp mail, check with your system 
+administrator about limits on the 
+size of incoming mail, then send the 
+message help to: 
+ftpmail@decwrl.dec.com 
+Not long ago, the only way you’d 
+know that resources were available 
+via anonymous ftp was to read about 
+them on Usenet or mailing lists. 
+Some sites had reputations for car- 
+rying certain types of files, but until 
+Alan Emtage, Bill Heelan, and Peter 
+Deutsch turned a hobby into an ser- 
+vice, there was no way to determine 
+where a particular file was archived. 
+archie, anickname derived from 
+“archive,” 
+scoots around the 
+Internet building a database from 
+directory listings at thousands of 
+anonymous ftp sites. Using telnet to 
+connect 
+to anarchie server and using 
+its £ind command, you can search 
+for the location of a file or directory 
+name if you know part of the name. 
+You'll be given a listing of Internet 
+sites and directory paths to what's 
+found. For example, if | was looking 
+for Pretty Good Privacy encryption 
+tools, I’d telnet: 
+archie.rutgers.edu 
+loginarchie, and find pgp. 
+I'd get a vast listing, a fragment of 
+which says: 
+Host ftp.uga.edu (128.192.1.9) 
+Last updated 08:03 
+13 May 1994 
+Location: /pub/msdos/mir- 
+ror/windows3 
+FILE -r-—r—r— 456860 bytes 06:40 
+7 Apr 1994 winpgp|0.zip 
+I'd quit archie, ftp ftp.uga.edu, 
+and login anonymous with pass- 
+word verve@cyberwerks.com 
+(my email address). I’d charge direc- 
+tories (cd 
+/pub/msdos/mir- 
+ror/windows3), switch to binary 
+mode, and get winpgp10.zip; 
+the file transfers to my current direc- 
+tory on cyberwerks.com. 
+If you’re not on the Internet, but 
+have email, you can use an email 
+interface to archie. Send the message 
+help to: 
+archie@archie.rutgers.edu 
+Wipe-Area INFORMATION SERVERS 
+WAIS is unique among Internet ser- 
+vices. It gives you access to hundreds 
+of indexed collections of text files 
+spread across the Internet. Some of 
+these collections are archived dis- 
+cussions from Usenet or mailing lists 
+(alt.gopher, 
+BGRASS-L, 
+and 
+soc.culture.thai-1994). Others are 
+collections of abstracts (impeccable 
+offerings from Australian National 
+University or Indiana University Bi- 
+ology) or documents (e.g., White 
+House Papers), or single, massive 
+texts, such as the Bible, Quran, or 
+CIA World Factbook. 
+There are several WAIS clients that 
+you can telnet to, logging in as wais; 
+the one at wais.com 
+is the best 
+known. (telnet://wais@ 
+wais.com) When WAIS starts up, 
+you'll see a list of hundreds of in- 
+dexed sources, arranged alphabeti- 
+cally. A ? gives you a screenful of 
+information about how to navigate. 
+Browse to see what's there; if you’re 
+interested in a particular source, the 
+vy command will reveal a description 
+of its contents. 
+To search, tag the source under your 
+cursor by hitting the space bar. An 
+asterisk will appear to the left of the 
+entry. You can tag as many sources 
+as you like. Type w, followed by the 
+keywords you're searching for. 
+When WAIS returns the results of 
+its search, it attaches a score to each 
+item based on the frequency and mix 
+of the words in each document. To 
+deliver the item under the cursor to 
+your screen, hit the space bar again. 
+Other commands to note are m, 
+which emails retrieved documents 
+to any address you specify, and o, 
+which lets you tweak WAIS options 
+— especially the variable maxhits 
+that, by default, limits the number of 
+retrieved items to 40. 
+GoPHER AND VERONICA 
+In the early 1990s, a team at the 
+University of Minnesota was charged 
+with the task of developing an easy 
+interface to networked computers 
+across their campus. The result of 
+their work — gopher, named af- 
+ter the school mascot and its go-fer 
+capabilities — shielded users from 
+the complicated business of telnet, 
+ftp, finger, and WAIS. Since clients 
+were easy to use, servers were easy 
+Communications 
+INTERNET: HOW TO USE IT 
+What 
+will happen 
+to me 
+when 
+| 
+start 
+using 
+this 
+stuff? 
+See 
+p. 
+290. 
+to maintain, and the whole menu- 
+based gopher distribution was avail- 
+able via anonymous ftp (ftp: // 
+boombox.micro.umn.edu/ 
+pub/gopher), gopher spread like 
+wildfire across the Internet. 
+If you’re ona UNIX system, you start 
+by typing gopher. On a SLIP/PPP 
+or direct-connected Mac, you'd click 
+on TurboGopher. Typically, this puts 
+you at the mother ofall gophers. You 
+can explore U of MN resources while 
+you’re there, but your Internet 
+adventures begin when you select 
+“Other Gophers and Information 
+Servers.” You can 
+investigate 
+thousands of gophers, segregated by 
+continent, around the globe. 
+Gopher is capable of delivering files 
+to your screen, mailbox, home 
+directory, or printer. 
+It’s smart 
+enough to guess whether they 
+should be transferred as ASCII or 
+binary. It'll route you to institutional 
+phone books so you can search for 
+email and snailmail addresses, and it’s 
+capable of performing a variety of 
+search functions. And it will do virtu- 
+ally all of these things in response to 
+your cursor and <return> keys. 
+Type ? for help. 
+If there’s a specific gopher you want 
+to 
+connect 
+to 
+— 
+say, 
+the 
+Online Career Center — you'd type: 
+gopher garnet.msen.com 
+9062 
+Although it took years for someone 
+to create the archie search tool for 
+ftpspace, it took only a few months 
+for Steve Foster to develop one for 
+gopherspace. veronica — Very 
+Easy Rodent-Oriented Net-wide 
+Index to Computerized Archives 
+— harvests every menu from every 
+gopher into a single database that is 
+distributed 
+to sites around the 
+world. Look for menus marked 
+“Search titles in gopherspace using 
+veronica.” They'll connect you with a 
+veronica FAQ, a guide to composing 
+queries, and access to veronica servers. 
+If you’re not on the Internet, but 
+have access to email, you can use an 
+email interface to gopher. Send the 
+message help to: 
+gophermail@calvin.edu 
+The gopher/veronica combination 
+is the Internet service you should 
+try first, because it’s so easy. You'll 
+continue to use it because of its 
+power, speed, and the low load it 
+puts on the Internet. 
+THe Wor.po-Wipe Wes 
+The idea of global hypertext has 
+been around for decades. The 
+World-Wide Web is making it hap- 
+pen over the Internet. Thanks to the 
+initiative of Tim Berners-Lee and 
+CERN, a Swiss particle physics lab, 
+WWW traffic on the Internet is 
+growing at an unprecedented rate. 
+There are several World-Wide 
+Web browsers. The National 
+Center for Supercomputer Applica- 
+tions’ Mosaic is far and away the 
+most popular, but there are others. 
+Mosaic (Macintosh, Windows, X 
+Window) and Cello (Windows) re- 
+quire a SLIP/PPP or direct Internet 
+connection. The University of Kan- 
+sas’ lynx browser works with text- 
+only portions of the Web, and is 
+presently the only option for users of 
+dial-up terminals. 
+Eep: / /Lepenesa, 
+ure 
+.edu/Web 
+£Ep: // fep2 .ce ikans cd 
+pub/lynx 
+WWW documents contain embed- 
+ded links — URLs — to other re- 
+sources. Under Mosaic, these ap- 
+pear as blue, underlined text; under 
+lynx, as reverse-video text. Choos- 
+ing them —a 
+mouse click or press of 
+the <return> key — requests 
+whatever's 
+linked: another docu- 
+ment, a still or moving image, sound, 
+or any of the Internet services we've 
+covered, from telnet to gopher, lo- 
+cated anywhere on the Internet. To 
+open a specific URL using lynx, 
+choose the G) 0 option; under Mo- 
+saic or Cello, pull down the Open 
+URL menu item. 
+Before you get too excited about 
+Mosaic, remember that image and 
+sound files can be huge. If you’re 
+connecting over a phone line using 
+SLIP/PPP, the experience can be like 
+sipping jello through a straw. Mosaic 
+looks good at T! speed, which is 
+commonplace at CERN and NCSA. 
+From home, even 
+at 28,800 bps, 
+those hourly SLIP/PPP charges add 
+up, with most of your connect time 
+spent waiting for images to transfer. 
+The Web is, for better or worse, 
+people’s information space of choice 
+as we move into the second half of 
+the 1990s. But using it comfortably 
+requires high bandwidth connec- 
+tions that are currently beyond most 
+home users. —Eric S. Theise 
+, 
+265 
+

@@ -1,0 +1,275 @@
+wind, a small ind: electric system might pay, but 
+youd better figure it with a very sharp pencil before 
+you buy. Good home-builts are another matter. 
+The better ones have been among the very best, 
+but note that while they may be homemade, they 
+are designed to meet rigorous standards. (My 
+house, a 21-foot Airstream trailer, has been mostly 
+windpowered for the past 7 years by a 250 watt 
+Paris-Dunn on a 33-foot folding pole. | use two 
+190 amp-hour golf cart batteries. 
+They last about 
+three years. This works out to about $5.00/month.) 
+Another problem has been a tendency to concen- 
+trate on “making a windmill” while ignoring the 
+inefficiency of the intended end use. 
+It is folly, 
+for instance, to attempt to power a commercial 
+freezer with a wind-electric system. 
+The wind 
+system would have to be too big and the costs would 
+be ridiculous because the freezer was never designed 
+to be energy efficient. Complete wind systems 
+including end-use hardware are just now being 
+designed. 
+It’s going to be a while before they are 
+available, and you can bet they will be expensive 
+to buy, though not necessarily to operate. Water 
+pumpers are a much more developed breed. 
+Their 
+makers furnish reliable tables of pumping ability, 
+and the hardware is well proven and long-lived. 
+What | think will probably happen commercially is 
+that there will be a few reputable, tested systems 
+available soon and they will not be cheap. They 
+will be of a size (2- 10 KW*) that can be mass 
+Food From Windmills 
+produced in quantities sufficient to bring down 
+the current prices which are very high considering 
+what you get. (A typical smal/ wind machine costs 
+as much as a highly complex automobile and all its 
+thousands of high precision parts.) Machines of 
+this size can be ganged together to obtain higher 
+output without the necessity of developing very 
+expensive specially designed larger ones and the 
+required capital. 
+This strategy also has the effect 
+of increasing the sales of the more modest size 
+machine and further lowering its asking price. 
+Something else to consider is that the steady 
+reduction in the price of photovoltaics may make 
+small wind-electric systems uneconomical for most 
+users, particularly in mountain locations where 
+weather is harsh but sun is bright. 
+(It is easy to 
+make photovoltaics weather resistant.) In any case, 
+it should not be long before things are more clear. 
+The usual media such as Popular Science (p. 758) 
+will keep you informed on developments in huge 
+commercial wind electric enterprises, some of 
+which may prove to be economically and energet- 
+ically acceptable. 
+The following are sources of 
+general wind information and where to keep up 
+with developments. Bear in mind that depending 
+on wind for other than water pumping and sail- 
+boats is still very much a pioneer endeavor. 
+—J. Baldwin 
+*KW = Kilowatt = 1,000 watts. A kilowatt-hour (kwh) is 
+ten 100-watt bulbs burning an hour. 
+Wind and Windspinners 
+ITDG (Intermediate Technology Development Group) 
+has published an exciting book describing how a program 
+of simple sailwing windmill waterpumps has considerably 
+raised the food production of a bit of Ethiopia. Though 
+no actual dimensioned plans are given, enough details of 
+the laboriously evolved machines are given so that you 
+could make one that would work. Mr. Fraenkel claims 
+that their sailwings will greatly outpump a Savonius Rotor, 
+especially in low wind. Cost less too. 
+The machines look 
+pretty funky, but those of you that actually have made 
+windmills will appreciate the excellence of the work done 
+by Mr. Fraenkel and his associates. 
+/t is often more 
+difficult to develop a reliable simple machine than to do 
+it super-slick with an NSF grant. 
+And for the sailwing or other simple machinery, you can 
+make bearings from wood. 
+This is a skill well worth learn- 
+ing, as it enables you to make and service equipment that 
+would otherwise be entirely dependent upon the supply 
+of industrial bearings. 
+1 can think of circumstances 
+where this could be critical. How to do it is nicely 
+shown in the Feb. ‘76 issue of the |TDG quarterly 
+Appropriate Technology. 
+—J. Baldwin 
+Food From Windmills 
+Peter Fraenkel 
+Fig. 32 
+Double acting pump 
+conversion 
+1977; 75 pp. 
+$7.95 postpaid from: 
+Intermediate Technology 
+Development Group of 
+al 
+North America 
+Selivery 
+P.O. Box 337 
+Pivaved bucket 
+ai 
+fiee, 
+Croton-On-Hudson 
+New York, NY 10520 
+or 
+non-return valves 
+reversed lower 
+£3.25 postpaid 
+($7.50 approx.) from: 
+fare DAG: 
+9 King Street 
+London WCZE 8HN 
+England 
+suction line 
+foot valve removed 
+A 16-foot sailwing machine constructed by students at 
+Farallones Institute using ideas from this book. 
+This was one of the first books to show amateurs how to 
+make a working wind machine, and it remains one of the 
+best introductions to home-builts. Even if the featured 
+split oil drum Savonius type rotor doesn’t interest you, 
+the discussion of wiring, batteries, wind calculations and 
+—J. Baldwin 
+other general information is valuable. 
+Wind and 
+Windspinners 
+Michael Hackelman, et al. 
+1974; 140 pp. 
+$8.95 postpaid from: 
+Peace Press 
+3828 Willat Avenue 
+Culver City, CA 90034 
+or Whole Earth 
+Household Store 
+Guy wires should be tied (not just twisted); 
+falling S-rotors are rude awakeners. 
+Homebuilt Wind-Generated Electricity 
+The same people who brought us Wind and Windspinners 
+now offer this book to those considering restoration of an 
+old machine. 
+(The title is a bit misleading; there is little 
+about building your own.) The chapters on towers and 
+raising machines, electronics, and why, are extensive and 
+well illustrated with diagrams and good photos. The 
+chapter on finding that old machine will probably resu/t 
+in there not being any more findable machines. But the 
+book is marred by shallow research that shows up in the 
+sketchy restoration chapter and a lack of critical details 
+such as how to size tower fasteners. 
+The breezy conversa- 
+tional style makes the book easy to read but not easy to 
+peruse for quick facts when you need to know some- 
+thing. Nevertheless, itll do until somebody writes that 
+much-needed Compleat Manual of Antique Wind 
+Machines, and it should help many who are struggling 
+with the complexities of getting some power from wind. 
+—J. Baldwin 
+$7.95 postpaid from: 
+Peace Press, Inc. 
+3828 Willat Avenue 
+The Homebuilt Wind- 
+Generated Electricity 
+Handbook 
+Culver City, CA 90230 
+Michael A. Hackleman 
+1975; 195 pp. 
+or Whole Earth 
+Household Store 
+senie 21" = 
+GIN POLE IS 20 FT. HIGH 
+TOWER HEAT © 
+60 FL 
+YZ 
+20 FeeT 
+2 
+EN 
+EG 
+a 
+ae 
+a 
+SOFT TECHNOLOGY 
+WIND 
+Wind Power Digest 
+This quarterly just gets potter and better as time goes by. 
+It has acquired a good “professional” tone to its articles 
+without being out of reach of the newcomer. 
+The maga- 
+zine’s annual Wind Energy Directory is a model of what 
+such things should be and is certainly the best single 
+source of wind hardware information. 
+Performance 
+figures not available anywhere else are included in the 
+presentations. 
+The advertisements offer a good look 
+at what’s available too. Good job. 
+Wind Power Digest 
+Michael Evans, Editor 
+$8 /yr. (4 issues) from: 
+Wind Power Digest 
+109 E. Lexington 
+Elkhart, IN 46514 
+—J. Baldwin 
+Example 2: A 4 KW wind system costs $5,000. Elec- 
+tricity costs 5 cents/KWH. The system produces 6,000 
+KWH/yr, and will be bought with cash from a savings 
+account earning 6% annually. 
+Electricity costs rise 
+annually at 13%. What is the Payback? 
+Pete Y, 
+Enertech 1 500 atop 
+AV 
+= 
+SBtex BOCO KWH = $300/yr 
+Nees Sam peae ie 
+C 
+= 
+$5,000 
+iy = 
+15% from Table 1 
+it, 
+= 
+2% 
+apa! ce 
+. 35.000 acne 
+Years to Payback: 
+26 
+A 
+Again this year, as last, the editors of Wind Power Digest 
+have compiled the most comprehensive listing of wind 
+energy resources available anywhere. The 1980 Wind 
+Energy Directory is an all-in-one resource guide to wind 
+machine specifications, wind system components and 
+accessories, manufacturers, distributors, and researchers 
+in the wind energy field. 
+In an important departure from our previous Wind Access 
+Catalogs, we have independently analyzed each of the 
+nearly fifty commercially available wind machines and 
+provide a computer-generated graph for each machine 
+that estimates yearly power output (in kilowatt-hours) 
+plotted against average wind speeds. This comparative 
+analysis is designed to give the consumer a handy tool 
+with which to assess the relative value of different wind 
+machine designs. In all the over 100 pages of wind 
+energy information provide a comprehensive guide 
+to the wind-powered electrification of homes, business 
+and local communities ($4.95 postpaid). 
+eco eeneeeeees 
+ee eee eee eeeree ee eee eeees 
+NEIGHBORHOOD NEWSLETTER 
+a4 
+She was too old to care and probably never had 
+and she told anyone who asked and some who 
+didn’t, “I’ve had five husbands, left two, outlived 
+three and what I say is, have you ever seen them 
+put up a fence post? They get out there and dig 
+the hole and pound the post down in and ina 
+few years the post rots or rusts and they have to 
+go back and put another one in and they may 
+have to do that a dozen times, but the hole’s 
+always there, just as good as new.” 
+Kathy said anything you've done more times than 
+you can count on your fingers and toes, you 
+should stop counting. 
+

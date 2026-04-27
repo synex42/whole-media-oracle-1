@@ -1,0 +1,150 @@
+98 
+DESKTOP PUBLISHING 
+THIS DESKTOP 
+PUBLISHED BOOK 
+by Kevin Kelly 
+This page you are reading began as notes jotted into a 
+Macintosh word processor. Like the other pages in 
+Signal, they are writ in the heavy duty hand of Micro- 
+soft Word 3.01. We make use of Word’s nifty style 
+[Above] Richard Kadrey checks 
+proof sheets that churn out the 
+Laserwriter's exit tray. A depend- 
+able and quiet robot, it is essen- 
+tially a small copy machine 
+grafted onto the brain of a 
+personal computer. 
+sheets, which allow a 
+single code to activate a 
+particular text format. For 
+instance, the typeface, column width, line spacing, and 
+character size of this sentence are all invoked by the 
+single name we assigned on the Mac menu, “article 
+body.” That means that as we are writing we can see 
+what the text will look like on paper. The finished writ- 
+ing is spell-checked with Word’s built-in speller (handy, 
+but not infallible), and printed out for a second proof- 
+reading by one of our human proofers, either Lori 
+Woolpert or Hank Roberts. 
+At this stage the copy is in many small pieces, each 
+review in its own file, and often times on different 
+editor’s machines (Macintosh SE’s). The editor in 
+charge of a page will round up the files and gather them 
+into a second software program, the engine of desktop 
+publishing, PageMaker 3.0. The editor of this page was 
+Sarah Vandershaf. She loads the files onto her machine 
+then prints out a proof page on our sole Laserwriter, 
+which is at the apex of a bird’s nest of cables coming 
+into it from every Mac in the office. To conserve expen- 
+sive cartridges ($100 new) we feed it cheaper refilled 
+ones for proofs (about $50 per refill). 
+The oversize pages of Signal come out of the Laser- 
+writer in two half sideways pages (thanks to a trick 
+taught us by Jay Kinney), are taped together, and empty 
+spaces filled out with xeroxed illustrations. This proof 
+page, along with a floppy disk containing the file, are 
+sent over to art director Kathleen O’Neill’s desk. 
+Kathleen then lays out the pages on her Mac Plus using 
+PageMaker 3.0. It takes about one hour per page to 
+arrange the text and picture boxes to fit. The illustration 
+boxes can be enlarged or elongated very easily, and the 
+3.0 version of PageMaker allows Kathleen to run text 
+around an odd-shape illustration, so that the end of the 
+text snuggles up to a custom fit along the edge of the 
+illustration. This was a backbreaker on standard typeset- 
+ting equipment. 
+Don Ryan shoots the book covers with a4 x 5 view 
+camera loaded with Polaroid 52 black and white film. 
+The pics are later ganged for group half-toning. He uses 
+a Polaroid MP-4 industrial copy camera to shoot pic- 
+tures excerpted from books that have grey half-tones. 
+Any strictly black and white “line” drawings are merely 
+xeroxed using our fabulous Mita copy machine and a 
+special clay-coated paper to increase its already fine 
+resolution. The xerox will then be pasted down with 
+wax. 
+The completely designed layout pages are proofed a 
+second time, then sent back to the editors for correc- 
+[Left] Sarah Vandershaf pours 
+finished writing into the Page- 
+Maker template in her Mac SE. 
+Her screen displays the full 
+spread as two teeny pages. Even 
+from where she is sitting it's 
+impossible to read; the text 
+shows as flexible blocks of gray 
+— enough to get a rough idea of 
+placement. 
+[Above] Kathleen O'Neill parked 
+her Mac near a window overlook- 
+ing her courtyard flower garden. 
+Where papers used to cover her 
+desk, a spinning hard disk now 
+does. Kathleen’s sketching hand 
+finds the square stationary 
+pointing gadget (Felix) to be 
+superior to the usual mouse. It 
+takes up less desk space and in 
+marathon design sessions it's 
+less tiring on the forearm, pre- 
+venting “Macintosh elbow.” 
+[Above right] Don Ryan aims the Polaroid MP-4 at a book illustration to 
+transform it into the right sized half-tone for its new home in Signal 
+[Right] John Chan inspects a nearly completed paste-up, in this case 
+pages 32-33. Everything except the pictures comes already drawn 
+out on the raw pages. His chief task is to paste down the xerox illos 
+and photographs in the designated places. The job is made a bit 
+more challenging because things frequently don’t quite fit. 
+r 
+é 
+File 
+Edit 
+Options 
+Page 
+Type 
+Lines 
+Shades 
+= 
+== 
+Layout 98 99 
+E ee : Se 
+tat 
+‘ololola| 
+This is what a page looks like on the Mac screen after it’s been 
+designed. Compare this miniature image of pages 98-99 (Cinematog- 
+raphy & Animation) with the actual spread in this book. 
+tions, and finally printed out by production manager 
+Susan Erkel Ryan on clay-coated paper (Pro-Tech 
+94180) in the Laserwriter. Paster-uppers John Chan and 
+Laura Benne apply a thin coat of hot wax to the back of 
+the laserprinted pages and stick them down on poster- 
+board “flats.” There the additional gingerbread goodies 
+of photographs and xeroxed drawings are added. 
+A copy of the layout pages go to David Bumor, who 
+indexes each one on a Compaq computer (IBM compat- 
+ible) compiled in Smart Database. 
+By a true blessing we had no major equipment break- 
+downs and thus no chance to test our backup system, 
+which may or may not have been adequate. Although 
+we relied heavily on Macintoshes and PageMaker, the 
+real complexity of producing an illustrated book mocks 
+the casualness which “desktop published” conveys. It’s 
+not something you do while watching TV. Our usual 
+typesetter didn’t have anything to do, but the editors 
+typed far more, and while the paste-up folks had it 
+easier, Kathleen had twice the burden of both designing 
+and electronically pasting-up for them. We still don’t 
+know yet if this is a net gain. It certainly made every- 
+thing happen in a shorter time period, which is not 
+always a good thing. 
+PageMaker 3.0, $595 from 
+Aldus Corporation, 411 
+First Avenue South, Suite 
+200, Seattle, WA 98104; 
+- 206/628-2375 
+Pro-Tech Laser Ultra 
+94180 paper from James 
+River Corporation, P.O. 
+Box Z, Ludlow, MA 01056; 
+800/521-5035 
+

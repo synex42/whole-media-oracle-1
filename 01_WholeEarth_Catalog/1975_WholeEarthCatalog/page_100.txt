@@ -1,0 +1,304 @@
+t 
+be 
+Wiring Simplified 
+_ other than that this book is a most useful tool 
+pe 
+for the home electrician, the thing i like about 
+it is that it has a hole punched all the way through 
+it, for hanging over a nail. that is a kind of 
+practicality that all american publishers should learn. 
+everything you'll need to wire your home yourself. 
+—jd 
+} 
+; TRING 
+Wiring Simplified 
+> 
+rt 
+hs 
+H.P. Richter 
+Simplified 
+1968: 143pp. 
+by 
+HP 
+Ri 
+. AE CTS 
+$1 .39 postpaid 
+SS 
+= 
+from: 
+Park Publishing Company 
+Box 8527 
+Lake Street Station 
+Minneapolis, Minnesota 55408 
+or WHOLE EARTH CATALOG 
+SOLDERING 
+COPPER 
+Fig. 4-25. 
+In soldering, 
+do not drop hot solder 
+on cold wire. Heat the wire until it is hot enough 
+to melt solder. 
+SERVICE HEAD 
+THROUGH 
+BOLTS 
+In residential and farm wiring, one of the wires is always 
+grounded, that is, connected to a water pipe or driven ground 
+rod. The grounded wire is known as the neutral wire; all other 
+wires are known as “‘hot” wires. It is most important that you 
+remember the following four points: 
+1. The grounded neutral wire is always white in color: 
+_ 
+2. The grounded neutral wire must run direct to every 115-volt 
+device to be operated (never toa device operating only at 230 
+volts.) 
+3. The grounded neutral wire is never fused. 
+4. The grounded neutral wire is ever switched or interrupted 
+in any other way. 
+With one exception (which will be discussed later) white wire 
+, 
+may never be used except-as a grounded wire. Other wires are 
+i 
+usually black but may be some other color, but not white (with the 
+one exception just mentioned) or green. 
+The white wire must run to every 115-volt device other than a 
+switch; the other wire is usually black but may be some other 
+color, but not white or green. Examine a socket or similar device 
+carefully and you will find that one of its two terminals for wire is 
+a natural brass color, the other is a white color, usually nickel-plated 
+or tinned. The white wire must always run to the white terminal. |n 
+the case of sockets, the white terminal in turn is always connected 
+to the screw shell and never to the center contact of the socket. 
+Switches for controlling lights, etc., never have white terminals. 
+CONDUIT] 
+P INSULATOR 
+FOR SERVICE 
+IRES 
+Fig. 8-22. 
+How wires are connected 
+BOTTOM FITTING 
+Rerenthe 
+CENTRIC. 
+to the meter base or soc 
+THREADS 
+2 
+: 
+% 
+FOR I 
+ROTATE TO BRING 
+bare, 
+uninsulafed 
+wire 
+is 
+always 
+CONDUIT TO 
+WHE Be WITH METER 
+connected to the neutral center con- 
+Wood (Coal, Oil) Cook Stoves 
+Here’s a company that makes good, big, old-fashioned wood 
+burning kitchen ranges as well as pot-belly coal stoves in 
+five sizes, huge wood burning furnaces, Franklin stoves, 
+parlor stoves, ship stoves, and more stoves. 
+These appear to be really well made expensive major 
+appliances. Most are.convertible for using wood, coal, oil, 
+or gas as fuel. 
+The cook stoves offer water reservoirs or 
+coils for heating water, warming ovens, extra large ash pans 
+and all sorts of accessories. 
+[Reviewed by Fred Richardson 
+Suggested by Gordon Breckenridge] 
+Literature and stoves from: 
+‘ 
+Portland Stove Foundry Co. (They may have dealers in your area.) 
+Sales Office 
+Box 59 
+Sterling Junction, Massachusetts 01565 
+See Epilog, page 518 “"Waod Stoves’ 
+For Wood ONLY 
+Stove 
+W/Reservoir 
+Wholesale 
+$123.00 
+$172.20 
+Retail 
+205.00 
+287.00 
+F.O.B. Portland, Maine 
+PERE EPP 2 | 
+Wood Cook Stoves 
+When I found I could get a used, “pretty good” wood stove for 20 
+bucks I gave up the new ones. Maybe that’s what a lot of 
+folks do. 
+They're plentiful and cheap in used condition in northern Michigan. 
+Probably all over. Run an ad in a newspaper. 
+Peace, 
+Gordon Breckenridge 
+Alpine, Michigan 
+Stoves 
+Shelter 
+tact of the socket. 
+Wholesale 
+Retail 
+$ 75.00 
+125.00 
+Black 
+- 
+$364.80 
+608.00 
+(1971 
+Prices) 
+Superior Fireplace 
+Seems sensible. Get this metal fireplace, and let the fire 
+heat air in all directions, get warm air flow going in the room. 
+/t should be easy to lay masonry up around the metal shell. 
+—SB 
+ECONOFORM 
+Warm Air Circulating Fireplace Unit 
+\ 
+Write for information on the new 
+Heatform fireplace, which has 
+replaced the Econoform. 
+From: 
+Superior Fireplace Company 
+4325 Artesia Avenue 
+Fullerton, CA 92633 
+Not Available 
+For single-opening fireplaces 
+ane 
+y ate 
+a 
+i 
+-- 
+Z 
+> 
+ar? 
+<r aS 
+‘ 
+t 
+ee 
+National Electrical Code 1968 
+Guide to the 1968 National Electrical Code 
+Electrical Code for One- and Two-Family Dwellings 
+The Code is not law, except as adopted by local ordinances, 
+but-its requirements should certainly be met as a minimum 
+_inall wiring. Check with your local building department for 
+their code or revisions, and permit information if you want 
+your wiring to be legal. In any case, use the Code asa 
+minimum. 
+The regulations set up seem to me to be quite reasonable and 
+based mostly on safety. [t is somewhat hard to use as a 
+reference because it has a poorly organized index. The index 
+is very complete if you can get into its system.. 
+Following the Code strictly will produce a safe installation. 
+Producing one that is convenient, efficient, practical, and 
+allows plenty of room for expansion requires planning and 
+study of wiring books such as Sears and Wards electric 
+wiring books (50¢), or Wiring Simplified . 
+The Aude/ Guide to the 1968 National Electrical Code js 
+a non-official interpretation and clarification of the NEC. 
+/t is not intended to replace the NEC, but in most cases 
+it would be usable by itself.’ Its greatest handicap is that 
+it has no index. 
+: 
+Saat 
+For people working only in residences, the new Electrical 
+Code for One- and Two-Family Dwellings /s much easier 
+to use than the NE C, trom which it is excerpted. 
+Suggested and reviewed by Fred 
+National Electrical Code 1968 
+1968; 466 pp. Revised 1971, 1974. 
+$5.50 postpaid 
+x 
+Electrical Code for One- and 
+Two-Family Dwellings 
+1969; 133 pp. 
+$1 75 postpaid 
+both from: 
+National Fire Protection Association 
+60 Batterymarch Street 
+Boston, Mass. 02110 
+CENTER 
+OF THROAT 
+- 
+or WHOLE EARTH CATALOG 
+Guide to the 1968 National 
+Electrical Code 
+Robert E. Palmquist 
+1968; 461 pp. 
+$6.95 postpaid (cheaper from 
+Silvo or U. S. General) 
+from: 
+Bobbs-Merrill Company 
+4300 West 62nd Street 
+Indianapolis, Indiana 46206 
+ty 
+= 
+S 
+Q 
+= 
+3 
+Q 
+a 
+or WHOLE EARTH CATALOG 
+The Forgotten Art of Building a Good Fireplace 
+About a year ago | became interested in the mechanics and skills 
+necessary for the construction of super-functional living entities 
+and the reconstruction of colonial homes. 
+Recently, during a visit 
+to New England, | took a trip to the Vermont Country Store in 
+Weston, Vermont and happened upon a really funky book by the 
+store’s owner, Vrest Orton, on the art of building a good fireplace, 
+one that throws the heat out and does not smoke. The Forgotten 
+Art of Building a Good Fireplace is an earthy ‘treatise on the 
+dynamics of fireplace design. 
+An inquisitive inventor, Count Rumford of England, formulated 
+the basic and seemingly immutable principles of fireplace design 
+in 1795. These fundamentals have remained virtually unchanged 
+since that time——a span of 176 years. Rumford was a probing 
+fellow, having discerned convection currents and having invented 
+the photometer and a method of.boring cannon. He was the first to 
+understand the qualities of radiant heat and used Ben Franklin’s 
+observations on fireplaces, especially on the dissipation of smoke. 
+This quality paperback-joyously and simply tells how to design 
+a total, functional fireplace, much unlike today’s squat, low 
+abortion, which does not radiate heat properly. Rumford’s~ 
+fireplaces radiate heat warmly into a room’s atmosphere and assure 
+that the smoke is drawn upward with ease. Highly recommended 
+for anyone interested in fireplaces. 
+[Suggested and reviewed by 
+Stephen Lessels] 
+: 
+§ 
+The Forgotten Art of Building a Good Fireplace 
+‘Vrest Orton 
+te 
+1969; 60 pp. 
+$2.00 postpaid 
+from: 
+Yankee, Inc. 
+Dublin, New Hampshire 03444 
+Look at Diagram A. About twelve inches above the lower edge of 
+the lintel or arch (at point Y), on the back wall of the chimney or 
+throat, there must be constructed a small shelf, called the smoke- 
+shelf. This brick shelf, projecting from the slanting back of the 
+fireplace wall, out toward the front, is about three to four inches 
+wide, toward Point X. \t is laid horizontally, of course, completely 
+across the entire back wall. This is the air-mixer, the function of 
+which can easily be seen by the arrows in Diagram A, showing 
+movement of air. 
+This is one of the most important features of Rumford’s principles. 
+This three-to four-inch deep opening is standard and must not vary, 
+no matter how big the fireplace. 
+Se
+a 
+ety
+Sh
+ata
+a
+e
+Fe 
+nl 
+ea
+e
+et 
+yo
+

@@ -1,0 +1,195 @@
+354 
+Whole Earth 
+Software Catalog 
+(for 1986) 
+Stewart Brand, 
+Editor in Chief 
+1985; 224 pp. 
+$1 5 postpaid from: 
+Whole Earth Review 
+27 Gate Five Road 
+Sausalito, CA 94965 
+or Whole Earth Access 
+Hackers 
+Steven Levy 
+1984; 448 pp. 
+$4.50 
+($5.25 postpaid) from: 
+Dell Books 
+P. O. Box 1000 
+Pinebrook, NJ 07058-1000 
+or Whole Earth Access 
+How to Get 
+Free Software 
+Alfred Glossbrenner 
+1984; 432 pp. 
+$14.95 
+($15.20 postpaid) from: 
+St. Martin’s Press 
+Cash Sales 
+175 Fifth Avenue 
+New York, NY 10010 
+or Whole Earth Access 
+COMMUNICATIONS 
+SOFTWARE 
+Whole Earth Soft —== 
+For presentation graphics . . . 
+Catalog 
+Tells what to buy. Software, computers, 
+books, magazines — all beloved. 
+Comparative, informal reviews. Cur- 
+rent in September ‘85 — about 20 
+percent outdated now. Our choices 
+since then appear in the Whole Earth 
+Review (see inside front cover). We 
+made this book; you'd expect us to 
+review it at the expense of its compe- 
+tition. However, there isn’t any. We 
+have a number of industry acquain- 
+tances who would immediately, glee- 
+fully inform us if there were other 
+software review compendiums — 
+worthy or unworthy — with our range 
+and currency. So far, there are none. 
+Reviewing software is hard. This 
+catalog makes your job easier. 
+—Art Kleiner 
+EXECUVISION 
+international symbols. 
+IBM PC/XT/AT (256); copy-protected; $395 (street 
+price $259); IBM color card and Enhanced 
+: 
+Graphics Adapter, Tecmar Graphics Master. Input: 
+Pee 
+keyboard only. Output to Epson and IBM graphics 
+Sk Setter 
+dot matrix printers; Polaroid Palette; Lang 
+Videoslide. With E Z Capture Plus option ($125): 
+Output to most dot matrix printers; IBM color 
+printer; Diablo Inkjet C-150 and other color 
+printers; HP 7475A plotter. VCN, 238 Main St., 
+Cambridge, MA 02142; 617/497-4000. 
+RIK JADRNICEK: EXECUVISION steps beyond 
+the world of basic business graphics with a 
+fantastic set of tools for preparing presenta- 
+tion graphics. You can freely edit the images 
+you create and include them in slideshows. 
+You can cut small sections out of an image, 
+save them in a library on disk and then paste 
+them into other images you create later. 
+The creators of EXECUVISION sell libraries 
+of graphic shapes you can use, including 
+decorative borders, initials and decorative 
+designs, faces and figures, and maps and 
+The documentation is very thorough and 
+extensively illustrated (even showing the IBM 
+BRE CKPILESL. 
+IMCRS TRANS 
+UAL 
+Dempster a 
+Remaer af Lomtentes Piaames 
+< 
+See eee a 
+& 
+i 
+r 
+% 
+3 
+8 
+% 
+This graph didn’t pop up automatically from data. 
+it's entirely hand-drawn, with numbers typed 
+onscreen, using EXECUVISION. With the E Z 
+Capture Plus option, EXECUVISION can use data 
+imported from 1-2-3 (p. 68), SYMPHONY (p. 111), 
+FRAMEWORK (p. 110), or any screen in 320 x 200 
+resolution. 
+and its keyboard every step of the way). Let 
+the pictures speak for themselves . 
+. 
+. 
+Hackers 
+Steven Levy is to computer history what Barbara Tuchman 
+is to the 14th Century. He tells how programming 
+changes people, how programmers created a subculture, 
+and how that subculture changed the whole culture. 
+—Art Kleiner 
+6 
+Something new was coalescing around the TX-0: a new 
+way of life, with a philosophy, an ethic, and a dream. 
+The Hacker Ethic: 
+Access to computers — and anything which might teach 
+you something about the way the world works — should 
+be unlimited and total. Always yield to the Hands-On 
+Imperative! 
+Hackers believe that essential lessons can be learned 
+about the systems — about the world — from taking 
+things apart, seeing how they work, and using this 
+knowledge to create new and even more interesting 
+things. They resent any person, physical barrier, or law 
+that tries to keep them from doing this. 
+All information should be free. 
+Mistrust Authority — Promote Decentralization. 
+The best way to promote this free exchange of information 
+is to have an open system, something which presents no 
+boundaries between a hacker and a piece of informa- 
+tion or an item of equipment that he needs in his quest 
+for knowledge, improvement, and time on-line. The last 
+thing you need is a bureaucracy. 
+Hackers should be judged by their hacking, not bogus 
+criteria such as degrees, age, race, or position. 
+You can create art and beauty on a computer. 
+Computers can change your life for the better. 
+How to Get Free Software 
+No one we know has a more comprehensive knowledge 
+of software then Alfred Glossbrenner. His new book, How 
+to Get Free Software, has chapter and verse on the subject. 
+The major problem with public domain programs is finding 
+out about them and finding where to get them. He takes 
+care of both. (The minor problems are dealing with the 
+sheer volume of choices and working without manuals.) 
+—Stewart Brand 
+@ 
+Once you get ‘‘plugged in,’’ you'll discover that there is 
+an informal network of users groups across the conti- 
+nent. Many groups regularly exchange newsletters and 
+information, and many share their member-contributed 
+free software. 
+In almost all users groups there will be a ‘’software 
+librarian’’ who has taken the responsibility for organiz- 
+ing, building, and maintaining the group’s free software 
+collection. Frequently, the librarian and assisting 
+members will bring the entire library to the group’s 
+monthly meeting. And either before, after, or during the 
+meeting, members will be free to pick up any programs 
+they want. If you bring your own blank disks, there will 
+usually be a copying charge of about $1 to help main- 
+tain the library. But often a club will be able to provide 
+you with a disk at a discounted price. (If you do bring 
+your own floppies, try to format them beforehand.) 
+Indeed, if you are interested in programming, free soft- 
+ware can provide a wonderful learning experience. 
+Unlike most commercial software, the vast majority of 
+public domain programs are “‘listable.’’ That means you 
+can print out and review the program itself and see how 
+its author accomplished (or failed to accomplish) a par- 
+ticular goal. This can alert you to interesting techniques 
+or save you from making similar mistakes. And in some 
+cases it can teach you more about BASIC, Pascal, assem- 
+bler, and other languages than many textbooks can. 
+Software by Mail 
+Substantial deals here. 800-SOFTWARE offers free help 
+after the sale — sometimes better than what you get from 
+the software manufacturer. They have a crack team of ad- 
+visors, and a really good newsletter. You pay a little more 
+money for this. LOGIC-SOFT discounts deeply — they of- 
+fer to beat any cheaper price you find by $10. | and 
+others have had good luck with them. They ship every 
+order over $100 by Purolator Courier, free. COMPUTER 
+MAIL ORDER has the widest range. At reasonable prices, 
+they sell software for just about any type of computer. 
+—Saul Feldman 
+800-SOFTWARE: (800) 225-9273 
+LOGIC-SOFT: (800) 645-3491 
+COMPUTER MAIL ORDER: (800) 233-8950 
+

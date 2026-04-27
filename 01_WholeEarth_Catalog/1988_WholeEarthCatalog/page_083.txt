@@ -1,0 +1,160 @@
+VOICE MAIL 
+79 
+The Practical Guide 
+to Voice Mail 
+Martin F. Parker 
+1987; 306 pp. 
+$24.95 postpaid from: 
+McGraw Hill Books 
+Princeton Road 
+Hightstown, NJ 08520 
+609/426-5254 
+4 
+or Whole Earth Access 
+Voice mail originated in answering machines. The 
+message you hear on your everyday machine is, in 
+a sense, a “voice letter” sent to a particular phone 
+address. The “letter box” for this audio mail quickly 
+developed into the interactive recording you get 
+when you call hot-lines: “If you would like more 
+information, dial a 2, if you would like....” Your 
+voice is “mailed” to the right department. 
+Voice mail is now exemplified by the marriage of 
+keyboard to phone. In one kind of system, you'll 
+see the titles of messages left for you displayed on 
+Pagers 
+by Blair Newman 
+Over 6 million pagers (aka “beepers”) are now in use, 
+because they’re the cheapest and most convenient way 
+of “keeping in touch.” 
+There are 4 different kinds of pagers, but all share a 
+common characteristic: every pager is linked by radio to 
+a unique telephone number. 
+Tone Only: These pagers simply beep or vibrate when 
+someone dials their phone number. To get the message 
+you have to call your office, answering service, or 
+answering machine. 
+Digital: When a digital pager’s phone number is dialed 
+a computer answers with a beep, and waits for the caller 
+to touch tone dial a phone number, which then appears 
+on the digital pager’s LCD display. Digital pagers are 
+the most popular type, and typically rent for $17 to $24 
+a month. 
+Voice: When you call a voice pager’s number the 
+computer answers with a beep and then records a 7 to 
+10 second voice message. A few 
+moments later the voice pager 
+beeps and plays the voice 
+message. Voice pager rentals run 
+from $25 to $32 a month. 
+Alphanumeric: Alphanumeric 
+pagers, the newest technology, are 
+The Metagram pager forwards messages 
+to you via a 24 character LCD display. It 
+has a total memory of 1,500 characters, 
+and remembers messages until you erase 
+them. 
+a screen which you select visually, and then hear 
+audibly. In another you can make a copy of your 
+phone message to forward onto a colleague, or 
+save ina 
+file, or command that acknowledgement 
+of receipt be announced next time the sender calls. 
+The sender also has the choice of hearing his 
+message to edit it before it is “sealed” and sent. 
+In the future, all forms interbreed and hybridize. 
+Currently voice mail is seen primarily in 
+elephantine systems. This book expertly tracks the 
+rapid evolution of voice mail toward rodent-like 
+ubiquitousness, compactness, and domestication. 
+— 
+Kevin Kelly 
+5 
+Some Voice Mail users check their messages at regular, 
+convenient times; others prefer to have Voice Mail notify 
+them whenever one or more new messages have been 
+sent to their Voice Mail mailbox. In either case, the first 
+step in doing your mail will be to enter your personal 
+password from the touch-tone keys of your telephone. 
+(You can change this password at any time, so that you 
+will always be sure your messages are confidential.) You 
+like digital pagers except their display shows both 
+letters and numbers — so you get the entire message 
+instantly. They’re priced at $35 to $40 a month, but 
+calling the alphanumeric pager’s number requires a 
+modem equipped computer to communicate the text 
+message. 
+The most advanced pager service (the one I use) is 
+provided by Metagram Corp. They’ve combined a 24 
+hour answering service with full text paging. Put your 
+phone on call forwarding to your Metagram number and 
+a live operator answers in your name, keyboards the 
+message, and it shows up instantly on your pager. The 
+Metagram pager has a 1,500 character capacity, and 
+remembers messages until you explicitly erase them — 
+it’s the electronic equivalent of a stack of pink “While 
+You Were Out” slips. Metagram is now available in 
+many major cities, and they’re rapidly expanding 
+nationwide. Pricing is $60 a month, which is less than 
+the combination of an answering service and digital 
+(number only) paging. 
+For more information check under Paging in your 
+Yellow Pages. To find out if Metagram is available in 
+your area, call (800) 262-6382. 
+Voice Mail Says: 
+User Does or Says: 
+1 
+4) (To enter password) 
+“Please enter mailbox number.” 
+“Please enter password.” 
+“You have three new messages. 
+Press 2 to receive your messages.” 
+“Hi, Fred, this is George...” 
+(at end of message) 
+“Press 4 to save this message; press 
+9 to delete it.” 
+“Deleted.” 
+“Next message.” 
+and so on. 
+Figure 5-4. 
+“Doing” your Voice Mail 
+Listening to your voice mail. From The Practical Guide to Voice 
+Mail. 
+can then listen to your Voice Mail messages and handle 
+them much as you handle letters in an in-basket. One at 
+a time, you listen to a message, review it if necessary, 
+and then decided what action to take. You can throw the 
+message away; answer it; send it to someone else for 
+action or information; or save it for future action, 
+reference, or reminder. If you are looking for a certain 
+message, you can scan through your Voice Mail without 
+completely listening to each message. 
+¢ 
+A Voice Mail service bureau makes it possible to have a 
+Voice Mail mailbox without buying a Voice Mail system 
+or installing the system in your company's facilities. A 
+Voice Mail service bureau is a service company that 
+installs a medium-to-large-sized Voice Mail system with 
+the capacity to provide many mailboxes and then rents 
+these mailboxes to subscribers for a monthly fee. 
+Watson 
+Version 6.2; $199. From: Natural Microsystems 
+8 Erie Drive, Natick, MA 01760; 617/655-0700 
+Watson is a board that fits into your IBM PC or PC- 
+compatible computer and turns it into a flexible 
+voice mail center. Watson’s basic function is to 
+answer calls and record messages, but you can 
+also program it to give messages to specific callers 
+when they enter an ID code. If you want to deliver 
+a series of messages to callers (for instance, a list 
+of possible extensions they can dial) Watson can 
+do it, and even change the sequence of messages 
+in response to touch-tone signals from the caller. 
+Watson also has the ability to make stock calls for 
+you, dialing a pre-programmed series of numbers, 
+delivering the message, and recording a voice or 
+touch-tone response. If anumber is busy, Watson 
+will automatically call back later. Sort of like having 
+a tiny phone operator in a box. 
+— Richard Kadrey 
+

@@ -1,0 +1,181 @@
+IDS AND COMPUTERS take 
+naturally to each other. Unlike 
+other electronic babysitters, a 
+well-crafted software package, 
+“educational” or “game,” engages and 
+challenges the people who use it. Kids test 
+themselves against the machine, and come 
+away with: 
+A new skill. Typing Tutor IIT, for instance 
+teaches the most fundamental computer 
+skill, maybe better than a person could. It 
+automatically rewards your progress by 
+giving you new challenges, and patiently 
+repeats the typing combinations that give 
+you the most trouble. There’s no other 
+typing program better, even for adults; 
+New knowledge. Robot Odyssey I teaches 
+the physics of electronics by plunging you 
+into an imaginary city-full of workshops, 
+where you can design and operate your 
+own working “robots”; 
+Participation in an impossible world. 
+Hitchhiker’s Guide to the Galaxy retells 
+the well-known Douglas Adams story, 
+complete with wry aliens and misanthropic 
+robots — but you play the main character. 
+Make the wrong move and you end the 
+game prematurely; 
+Participation in a hard-to-experience part 
+of the real world. Balance of Power makes 
+you United States President in a tense, 
+sobering simulation of the Cold War. 
+Make the wrong move and you end the 
+game for everybody; 
+Or all of the above. Flight Simulator IT of- 
+fers the knowledgeable, skillful experience 
+of steering an airplane through a simulated 
+landscape. More than just an amazingly 
+visual game, this will actually drill you in 
+flying techniques. 
+Flight Simulator II 
+Most of the best learning and playing soft- 
+ware runs on the Apple IIe and IIc com- 
+puters — computers which we do not 
+recommend you buy unless your main 
+need is educational. More and more games 
+are becoming available for the computers 
+we recommend on pp. 352-353 — the Mac- 
+(iit 
+Countries 
+USA 
+USSR 
+Make Policies 
+Events 
+Briefing 
+Dz BackChannel Discussion 3 wicgraqua 
+The Soviet government 
+deplores this policy 
+Niceraquén junta leader 
+accuses LISA of supporting 
+fighters in the Contre 
+Cordial 
+Bi cou 
+Reject 
+Back Down| 
+restige at Risk 
+Bi 
+rostie 
+USA Interest. 
+Insignificant 
+i 
+i 
+i 
+i 
+i 
+USSR Interest: 
+Insignificent 
+Diplomatic Relationships With USA 
+USA Score 
+0 
+USSR Score: 
+0 
+—Balance of Power. 
+intosh, IBM PC/compatibles, and Atari 
+1040ST. Kids will find some of the best 
+software on their own. Word of mouth 
+on this subject is reliable. 
+—Art Kleiner 
+Typing Tutor Ill: $40-$60 from Simon and Schuster, 
+Electronic Publishing Group, 800-624-0023. 
+Robot Odyssey |: $50 from The Learning Com- 
+pany, 415-328-5410. 
+Hitchhiker's Guide to the Galaxy: $35-$40 from 
+Infocom, 617-492-6000. 
+Balance of Power: $50 from Menu International, 
+303-482-5000. 
+Flight Simulator Il: $34-$50 from SubLOGIC 
+Corp., 217-359-8482. 
+Publications 
+We also trust five printed sources: The 
+Educational Software Preview Guide ($10, 
+annual, from San Mateo County Office of 
+Education, 333 Main Street, Redwood 
+City, CA 94063). Twenty computer savvy 
+educators meet once a year to decide what 
+programs to recommend to teachers and 
+parents. They put the resulting comments 
+in this book. 
+Family Guide to Educational Software free 
+from Garvinghouse, P. O. Box 1717, Middle- 
+town, CT 06457). A complete (80 pages), 
+illustrated, informative, wholesome, up-to- 
+date mail order catalog for games and 
+learning programs. Updated quarterly. 
+Family Computing (Claudia Cohn, Editor. 
+$19.97/year (12 issues) from Family Com- 
+puting, P. O. Box 2886, Boulder, CO 803272.) 
+The best general computers-for-learning 
+magazine. The tiredest question in the bus- 
+iness is, “What use do computers have in 
+the home?” Every month this magazine 
+comes up with 50 pages of answers. 
+Games Magazine (p. 362) and the Whole 
+Earth Software Catalog (p. 354) both 
+review and evaluate game software. 
+—Art Kleiner, Kevin Kelly, Stewart Brand, 
+Steven Levy, Robert Scarola, Gerri Sinclair 
+LEARNING 
+COMPUTERS 37] 
+Logo 
+I remember my vivid fascination with 
+math as a teenager. Not school math, but 
+my own dreamy reveries of, say, patterns of 
+interlocking hexagons. This quiet, playful 
+fascination gradually helped me understand 
+the patterns of my own puzzle-solving 
+thoughts. Playing with Logo years later, I 
+recognized the same feeling. 
+Logo is a computer programming language 
+deliberately designed to spark creativity 
+and self-awareness. As its MIT inventor 
+Seymour Papert says: “Logo is not pro- 
+grammed learning; it’s for learning how to 
+program in learning.” At first, you use 
+Logo to define relationships between 
+shapes on a computer screen. Then you 
+invent your own commands and rules for 
+executing commands: Make a box. Move 
+the “turtle” on the screen (the fancy name 
+for Logo’s graphic cursor). Take a list of 
+words and sort it. You build fancy com- 
+mands from simple commands. You make 
+programmed patterns that must wait for 
+cues from your friends at the screen before 
+the patterns can spin themselves out. 
+There’s a whole tribe of Logo variations 
+on the market. We recommend Logo 
+Writer for an Apple Ile computer with 80 
+column card, and plain Apple Logo for 
+earlier Apple IIs. The choice for IBM 
+users is PC Logo, which does best with a 
+color graphics card. You can also get Atari 
+Logo, Amiga TLC Logo, and Macintosh 
+(Mac Logo) versions. For new Logo pro- 
+ducts see The Educational Software 
+Preview Guide (above). 
+|—Art Kleiner 
+Salt crystals, grown in Apple Logo. 
+Logo Writer: $395 from Logo Computer Systems, 
+Inc., 213-258-1559. 
+Apple Logo: $100 from Apple Computer, 
+408-996-1010. 
+PC Logo: $149.95 from Harvard Associates, 
+617-492-0660. 
+Atari Logo: $50 from Atari, 408-745-2367. 
+Amiga TLC Logo: $100 from Commodore Business 
+Machines, 1200 Wilson Drive, West Chester, 
+PA 19380. 
+Mac Logo: $124.95 from Microsoft Corp., 
+206-828-8080. 
+

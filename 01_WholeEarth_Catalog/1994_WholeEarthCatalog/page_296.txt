@@ -1,0 +1,215 @@
+292 
+Political Tools 
+GOVERNMENT ONLINE 
+CITIZEN ON-LINE ACCESS 10 Gt 
+66 
+ACH HOUSE SHALL KEEP A JOURNAL of its 
+proceedings, and from time to time publish the same, 
+excepting such parts as may in their judgment require 
+secrecy; and the yeas and nays of the members of either 
+house on any questions shall, at the desire of one-fifth of 
+those present, be entered on the journal.” —Article 
+|, 
+Section 5 of the U.S. Constitution 
+Most state constitutions and local government charters 
+have a similar provision. However, actually accessing the journal 
+can be a challenge. In theory, you can ask your elected representative to 
+supply you with the text of bills and votes on them. This process assumes: |) 
+you know what to ask for; 2) you have time to wait for it. 
+Several states and many cities now have computer dial-in services. Most are 
+BBSs. The legislature of the state of California is now on the Internet. So is the 
+town of Colorado Springs. The U.S. Congress is lagging, although they have laid 
+the foundations. If your congressional representatives are not on this list, ask 
+them why. —Michael Marotta 
+Congressional Representatives Online 
+Sam Coppersmith, Arizona: samaz0|@bhr.house.gov 
+Jay Dickey, Arkansas: jdickey@hr.house.gov 
+George Miller, California: georgem@hr.house.gov 
+Pete Stark, California: petemail@hr.house.gov 
+Sam Gejdenson, Connecticut: bozrah@hr.house.gov 
+Newt Gingrich, Georgia: georgia6@hr.house.gov 
+Dennis Hastert, Illinois: dhastert@hr.house.gov 
+Dave Camp, Michigan: davecamp@hr.house.gov 
+John Conyers, Jr., Michigan: jconyers@hr.house.gov 
+Vernon Ehlers, Michigan: congehlIr@hr.house.gov 
+Charlie Rose, North Carolina: crose@hr.house.gov 
+Mel Watt, North Carolina: melmail@hr.house.gov 
+Martin Hoke, Ohio: hokemail@hr.house.gov 
+Elizabeth Furse, Oregon: furseor!@hr.house.gov 
+Karen Shepherd, Utah: shepherd@hr.house.gov 
+Maria Cantwell, Washington: cantwell@hr.house.gov 
+So far only two House committees are accessible by email: 
+Committee on Natural Resources: natres@hr.house.gov 
+Committee on Science, Space, and Technology: housesst@hr.house.gov 
+You can encourage Congress via: comments@hr.house.gov 
+There are also private sellers of this information. StateNet and LegiTech of 
+California track the federal legislature and provide online access. Unlike public 
+sellers, these organizations are customer-driven to remain competitive. 
+During the 1993 battle to bring California online, StateNet and LegiTech both 
+lined up on the side of open access. 
+StateNet: 1900 14th Street, Sacramento, California 95814-9830. 
+LegiTech: 1029 | Street, Suite 450, Sacramento, California 95814. 
+The new kid on the block is the Washington Post’s LEGI-SLATE (800/733- 
+1131). LEGI-SLATE sells an impressive array of information for “$1900 to 
+$50,000 or more, depending on what services you need.” Databases include 
+bill text and tracking, the Congressional Record, committee and subcommit- 
+tee reports, the U.S. Code, and the Congressional Quarterly. 
+Mail Co the Chief 
+Now you 
+can 
+send 
+email 
+to: president@whitehouse.gov 
+and 
+vice.president@whitehouse.gov 
+The Entrenched Bureaucracy 
+Of course, the 500-plus people in the House and Senate, the prexy and veep, 
+are but a small fraction of the REAL government. Insulated from commercial 
+demands and protected by civil service, many offices have let their techies run 
+loose with this democracy stuff. Here are a few of the active dial-ups: 
+Coast Guard: Global 
+Positioning System BBS: 9600 baud: 703/866-3894; 
+2400 baud: 703/866-3890. 
+Environmental 
+Protection 
+Agency: 
+Research and Development BBS: 2400 
+baud: 513/569-7610. 
+Environmental Protection Agency: Office 
+of Wetlands, Oceans, and Watersheds: 
+2400 baud: 301/589-0205. 
+Federal Aviation Administration: FAA 
+Safety Exchange: 2400 baud: 800/426-3814. 
+Federal Communications Commission: 
+Public Access Link: |200 baud: 301/725-1072. 
+Library of Congress: Automated Library Infor- 
+mation Xchange: 2400 baud: 202/707-4888. 
+NASA Marshall Space Flight Center: NASA 
+Spacelink: 2400 baud: 205/895-0028. 
+National Institute of Standards and Tech- 
+nology: Data Management Institute: 1200 
+baud: 301/948-2048. 
+National Institute of Standards and Tech- 
+nology: North American ISDN Users 
+Forum: 2400 baud: 301/869-7281. 
+Office of Personnel Management: Washing- 
+ton Area Service Center BBS: 2400 baud: 
+202/606-1113. 
+Office of Personnel Management/Detroit: Mid- 
+west Federal Jobs: 2400 baud: 313/226-4423. 
+Small Business Administration: 2400 baud: 
+202/205-6269. 
+Justice for Some 
+The U.S. Supreme Court has made 
+its records available through several 
+outlets. The Rotunda News Service 
+run by Hannah Information Systems 
+of Ohio carries them, as does the 
+Cleveland 
+Freenet. However, 
+it 
+seems that West Publishing owns a 
+fair bit of the cumulative judicial 
+records in the United States. Ralph 
+Nader’s Taxpayer Assets Project 
+(TAP) runs a “Crown Jewels Cam- 
+paign” to get these documents back 
+into the public domain where they 
+belong. 
+The 
+campaign 
+is 
+a 
+grassroots effort to open 
+up access to JURIS, as well 
+the SEC’s EDGAR sys- 
+tem, the House of Repre- 
+sentatives LEGIS system, 
+the CIA Foreign Broad- 
+cast Information Service 
+(FBIS), the Patent and 
+Trademark Automated 
+Patent System (APS), and 
+others. The Crown Jew- 
+els Campaign is a joint ef- 
+fort between Essential In- 
+formation and TAP. TAP 
+information policy notes, 
+including all Crown Jewels Campaign 
+memorandums, are disseminated 
+through tap-info, a low-volume list 
+(not a discussion group). 
+Taxpayer Assets Project: PO Box 
+19367, Washington, DC 20036; 
+phone202/387-8030 fax 202/234- 
+5176. 
+internet: tap@essential.org 
+INFO 
+TIN 
+tap-info postings are archived at 
+cspr.org 
+ftp: ftp.cpsr.org 
+gopher: gopher.cpsr.org 
+wais: wais.cspr.org 
+Send subscription requests to: 
+tap-info-request@essential.org 
+The State of the States 
+Most states now have electronic 
+access. Even so, only Wisconsin, Ha- 
+waii, and California provide free ac- 
+cess to the general public. In most 
+states, access is expensive: $100 per 
+year in libertarian New Hampshire 
+and in Alaska and up to $10,000 per 
+year in authoritarian New York. And 
+these are the prices charged by the 
+government. Private providers tend 
+to charge more and deliver more. 
+For instance, in Michigan, the state’s 
+own Legislative Service Bureau sells 
+access for about $100 per year but 
+its databases do not include the ac- 
+tual text of bills. Their competitor, 
+Hannah Information Systems, does 
+provide this. Hannah also provides 
+a slew of databases that the state 
+does not. 
+The 
+annual 
+State 
+Legislative 
+Sourcebook (about $150) is a com- 
+plete overview of government at the 
+state level that includes all providers 
+of legislative reporting, public and 
+private. 
+Government Research Service: 701 
+Jackson Avenue, Topeka, Kansas 
+66603. 
+Get a listing of public and private 
+legislative systems in each state from 
+the National Conference of State 
+Legislatures: 1560 Broadway, Suite 
+700, Denver, Colorado 80820 
+303/830-2200. 
+Orner Great Resources 
+The InfoCalifornia 
+pilot kiosk located in 
+the main library of 
+California State 
+University in Sacra- 
+mento gives access 
+to information on 
+government services. 
+Making Government Work: Electronic 
+Delivery of Federal Services: U.S. Congress, 
+Office of Technology Assessment, OTA-TCT- 
+578, 1993. Online citizen access to government 
+information far beyond the realm of legislative 
+records is not just good for the health of demo- 
+cratic institutions — it has high potential for 
+economic benefits as well, to both citizens and 
+government. This definitive study shows why and 
+how to implement this foundational building 
+block of electronic democracy. 
+

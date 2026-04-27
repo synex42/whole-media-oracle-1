@@ -1,0 +1,227 @@
+“a by Victor Papanek and George Seeger at North Carolina State College. 
+The Design of Design 
+/t’s superficially a book for design engineers, but should 
+be useful to anyone engaged in the design of physical objects 
+or strategies. Simple and basic. More advanced treatment 
+of design techniques gets you into computers.and very 
+_ sophisticated decision making theory. The main trip Is 
+concentrated on getting your head straight so that design 
+decisions of any sort can be made intelligently. .There’s a 
+good bit of practical advice concealed in a slurry of 
+English Humour. 
+The only book of its type that we know 
+of. Among the better points: 
+Concentration and then relaxation is the common pattern behind 
+most creative thinking. 
+Beware of intrinsic impossibilities. 
+Beware of pseudo-technical words. 
+[He means words like ‘‘sturdy,” 
+big’, beautiful’, etc.] 
+Define problems in figures or configurations. 
+Aim at continuity of energy. 
+5 
+{ 
+He really gets to the center of the modern-technology-versus- 
+New-Mexico-Funk argument: 
+If the design of a particular machine or production line is based on 
+the way the process was originally done by hand, it is unlikely to 
+be the final form. The feeding forward by mechanizing a style 
+that was handy when only hands were available is doomed, in the 
+long run, to be superceded by the feeding back of ideas and materials 
+from the physical sciences. 
+Beware of well-dressed arts and crafts. 
+[Reviewed by J. Baldwin] 
+Structure, Form and Movement 
+The usual procedure is that R&D comes up 
+with a new process, it’s implemented for 
+several years, and then some biologist says 
+Hey did you know porpoises did that? (or 
+snakes did that, or bees or elm seeds). And 
+everybody says My, my, ain’t Nature smart. 
+Herr Hertel and colleagues are trying to reverse 
+the order, learn from nature first, save time 
+and stay humble. 
+(This approach now has a 
+name, “bionics”; a book by that title that’s 
+around is terrible.) 
+This book may be too expensive for its direct 
+usefulness, but it thoroughly displays the 
+approach that research may take to bugs, birds, 
+fish, etc. for yield in navigation, flight, stream- 
+lining, etc. 
+=SR 
+Structure, Form and Movement 
+Heinrich Hertel 
+1963, 1966; 251 pp. 
+$19.95 postpaid 
+from: 
+Van Nostrand Reinhold Co. 
+450 W. 33rd St. 
+New York, N.Y. 10001 
+Design for the Real World 
+/ndustrial design is in deservedly bad odor lately, and this 
+book will give you many of the reasons——most of them 
+having to do with pandering. to self-exaggerating marketplace 
+fashion, the disposable environment. 
+Victor Papanek is a Bush Designer. He prefers to hang out 
+in Third-World places, where the problems are physical and 
+serious, and where native design genius can be learned and 
+applied to them using industrial materials. 
+This book works 
+on distinguishing between real and phoney design problems, 
+‘and their solutions. 
+—SB 
+Design for the Real World 
+Victor Papanek 
+71971 
+$2.25 postpaid 
+from: 
+Bantam Books Inc. 
+666 Fifth Ave. 
+New York, N.Y. 10019 
+or WHOLE EARTH CATALOG 
+"Nomadic Furn iture’* 
+An ambulance can cost as much as $28,500. Where are well designed, 
+low cost inserts that would convert any.station wagon to ambulance 
+use during a national emergency? With the number and prices of 
+ambulances now, this particular national emergency began about 20 
+years ago! 
+Radio receiver designed for Third World usage. 
+It is made of a used 
+juice can, and uses paraffin wax and a wick as power source. The 
+- 
+rising heat is converted into enough energy to power this non- 
+selective receiver. Once the wax is gone, it can be replaced by more 
+wax, paper, dried cow dung, or anything else that will burn. 
+Manufacturing costs, on a cottage industry basis: 8 cents. Designed 
+The Design 
+of Design 
+Gordon LPGlesg 
+° 
+1969; 93 pp. 
+$7.95 postpaid 
+from: 
+Cambridge University Press 
+32 East 57th Street 
+New York, N. Y. 10022 
+or WHOLE EARTH CATALOG 
+Invention 
+Inventor 
+Safety razor 
+‘Vraveller in corks 
+Kodachrome films 
+Musician 
+Ballpoint pen 
+Sculptor 
+5 
+Automatic telephone — Undertaker 
+Parking meter 
+Journalist 
+See 
+log, page 840 
+“The Seance of Design’ 
+Pneumatic tyre 
+Long-playing record 
+Veterinary surgeon 
+‘Television engineer 
+You are taken out to lunch and everyone is anxious to hear 
+you tell them how a “few adjustments” or possibly ““some 
+electronics’ will solve all the difficulties. You have to break 
+it to them that everything is wrong in principle. 
+Fig. 52 Beginning of take-off = wing stroke 
+eu 
+forward and down 
+ee) 
+Incident flow - downwash - forces. 
+————j» 
+PR 
+Below: stagnation point; flow around the 
+Sv 
+leading edge. 
+Artificial burrs, 40cm long, made of bio-degradable plastic and 
+coated with plant seeds and a growth-boosting solution. To reverse 
+errosiort cycles in arid regions. Student designed by James Herold 
+and Jolan Truan, Purdue University. 
+The Forth bridge 
+the Severn bridge 
+Suspension bridge designers thought at first that the major 
+problem would be the load, and learned by spectacular 
+experience that it was really the stability. 
+Chord 
+chord 
+cL raagerasmimart re 
+The hand remiges of birds are masterfully 
+perfected to obviate flutter: 
+—The hollow cross section of the supporting 
+frame consisting of the feather quill is 
+continuous over the entire lenth and 
+approximates a cylinder, which resists 
+torsion well. This cross section also 
+improves resistance to bending. 
+—The vitralight construction of the vanes 
+ensures minimum moment of mass about 
+the quill axis. 
+‘ 
+—Variations in aerodynamic forces during 
+oscillation affect 25% of the profile depth. 
+Consequently, the form of the remiges, with 
+Narrower anterior vane sections and broader 
+posterior vane sections, is appropriate for 
+aeroelastic reasons. 
+In the primary feather 
+shown in figure 65, the resultant of aero— 
+dynamic forces lies behind the shaft. 
+For a long time, | don’t remember how long, but it was years, 
+literally years, | could not get all the parts of speech together. 
+Or if | could get them together, | could not get them together in 
+the proper sequence. One week | could speak sentences that had 
+everything in place except the verbs. | just could not remember 
+verbs. 
+| couldn’t say, ’! am going to town.” “| am town,” was 
+the best that | could do, and it was maddening. The next week it 
+would be nouns, or adjectives, just . . 
+. missing, that was all. Like 
+not having enough tools or parts to finish putting something to- 
+gether with. And so | would. just not say anything to anybody. 
+| wandered lonely through the world muttering ‘’Cheeseburger” 
+now and then, or “Where?” or “When?” or “Why?” Of course 
+my silence was not true silence. 
+In my mind there was utter 
+chaos. My mind never stopped. Day and night it went on and on 
+and on, remembering everything that ever happened, every con- 
+versation | had ever heard, playing them over and over, with new 
+embellishments and adornments each new time. 
+The year it was at its worst | lived in San Francisco. There 
+was supposed to be an earthquake that year. All the talk was of 
+earthquakes, earthquakes. 
+| was into earthquakes in this really 
+heavy way. Earthquakes and Edgar Cayce. | was convinced there 
+was going to be an earthquake, that California was going to tumble 
+into the sea. And my trip was, | wanted it to happen. 
+| wanted 
+California to fall into the sea, and | wanted to fall in with it, to 
+be swallowed up by a thing so big, so huge, so utterly enormous 
+that | would disappear into absolute nothingness. | wanted to see 
+heave and slide and fall with the greatest roar and rumble the 
+world had ever known. And | wanted to go down with it because 
+then | wouldn’t have to think about the parts of things. If the 
+parts would not come together and function for me, then let them 
+fly apart, scatter and be gone weightless through the universe. 
+Let freedom reign! 
+Let nothing matter! That was my belief. 
+Well, of course, as we all know, there was no earthquake, 
+California didn’t fall into the sea. | was disappointed but sobered 
+a good deal by the months | spent in anticipation of it. My head. 
+felt clearer. 
+1 began to speak simple sentences again. | got inter- 
+ested in art. | got interested in the possibility of Atlantis rising 
+again, and | wondered what | ought to do about it. | even sat 
+down one day and wrote a little pamphlet called, “What To Do 
+If Atlantis Rises,” and had a few hundred copies printed up. 
+1 tried to sell the copies, and when no one would buy them | 
+started giving them away to people passing on the street. 
+(continued) 
+Desi 
+Raney 1 1 
+=119 
+

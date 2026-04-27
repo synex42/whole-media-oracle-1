@@ -1,0 +1,158 @@
+288 
+Political Tools 
+ELECTRONIC DEMOCRACY 
+“A popular government without popular information, or the 
+means of acquiring it, is but a prologue to a farce or a tragedy, or 
+perhaps both. Knowledge will forever govern ignorance, and a 
+people who mean to be their own governors mustarm themselves 
+with the power which knowledge gives.” —James Madison 
+killfully used, new communication media can amplify the power of 
+grassroots groups to gather critical information, organize political action, 
+sway public opinion and guide policymaking. You can learn about the 
+tools themselves, from modems to BBS software, in Communications (pp. 
+242-281). On the following pages, you can learn how to use these communi- 
+cations devices as political tools. 
+Most processes for 
+guiding public policy 
+or influencing elec- 
+toral politics involve 
+communication: 
+meeting people, de- 
+veloping ideas and 
+arguments, 
+per- 
+suading people to 
+adopt your views, 
+enlisting support, 
+negotiating com- 
+promises, organiz- 
+ing actions. Each of 
+these spheres of ac- 
+tion 
+can 
+be en- 
+hanced through the 
+use of computer- 
+mediated commu- 
+nications. Here are 
+a few examples: 
+Se we 
+Matt Wuerker 
+When the Colorado Springs, Colorado city council proposed a law that would 
+effectively prohibit telecommuting, Dave Hughes, a retired West Point 
+instructor and combat veteran of Korea and Vietnam, made his first foray into 
+electronic democracy. 
+“| was the only person to stand up in front of the planning commission and 
+testify against the ordinance; the planners tabled the matter for thirty days. | 
+brought the text of the ordinance home with me and put it on my computer 
+bulletin board system,” Hughes recalls. Hughes sent letters to two local 
+papers, inviting people to dial into his BBS and read the ordinance. At the next 
+city council meeting, more than 175 citizens showed up to protest the 
+ordinance. It was defeated. Hughes points out that “ordinarily, the effort 
+needed to get involved with local politics is enormous. But the economy of 
+effort that computers provided made it possible for me to mobilize opinion 
+and action.” 
+Ask Jim Warren what a computer database has to do with electoral politics, 
+and he'll look at you like you just asked him why an aquarium needs water. A 
+computer programmer and one of the original advocates of “computers for 
+people,” Warren volunteered to help a candidate in a local Congressional race 
+because he was outraged at the tactics of an incumbent. When Warren 
+volunteered his services to the challenger, he realized that the political 
+organization could gain a bonanza because he knew how to use publicly 
+accessible computer data. Knowing exactly where your candidate’s support- 
+ers are located, how they responded to recent communications from your 
+campaign office, and how to contact them in geographic order, is information 
+with high value on election day. (See “How to Use GIS in Electoral Campaigns,” 
+p. 293.) 
+Environmental activists (see Ecoactivism, p.!09) have demonstrated that it is 
+possible to build global networks even if you don’t have the financial resources 
+of a multinational corporation. Earthtrust is a worldwide nonprofit organiza- 
+tion dedicated to resolving transnational environmental problems that are not 
+addressed by local environmental movements. Earthtrust’s director, Don 
+White, has organized a global network on a shoestring, equipping volunteers 
+in remote areas with inexpensive computers, modems, and electronic mail 
+accounts. The well-planned use of electronic mail enables him to knit together 
+a geographically dispersed organization highly effectively. “Our organization 
+has accomplished goals over the last two years that rival the achievements of 
+organizations with twenty times Earthtrust’s annual budget,” he claims. 
+Nonprofits and NGOs (nongovernmental organizations) do the people- 
+feeding, prisoner-liberating, house-building, wilderness-saving, humanitarian 
+and environmental work that falls between the cracks of government and for- 
+profit organizations. The Red Cross, CARE, Amnesty International, Rainforest 
+Action Network, Greenpeace, the Sierra Club, and a proliferation of increas- 
+ingly international NGOs are forming what Howard Frederick of Econet/ 
+Peacenet calls “Global Civil Society.” Traditionally, such organizations are 
+overworked and underfunded. Even though they might gain power and save 
+money by computerizing, the staff of many such organizations don’t know 
+where to start. Now, first wave technology-knowledgeable activists are 
+providing expertise and training to others. 
+A nonprofit itself, CompuMentor matches volunteer technical advisers with 
+nonprofits; mentors help organizations choose and purchase the right equip- 
+ment at minimal price, then set up databases, publish newsletters, organize 
+electronic mailing lists. The Association of Progressive Communications 
+(APC) brings affordable electronic mail and conferencing to hundreds of 
+NGOs and nonprofits worldwide; APC’s Econet, Peacenet, and Conflictnet 
+furnish activists with all the benefits of worldwide networking. 
+Others who are working to improve the quality of civic life have been 
+experimenting with an application of many-to-many communications known 
+as civic networking. 
+COMPASS, funded by the Oregon Lottery, offers statewide access to BBSs, 
+electronic mail, computer conferencing, and the Internet. School House, an 
+item in the COMPASS main menu, is “‘a place for K-12 teachers, students, and 
+parents to meet.” Other menu options are government information, state 
+university libraries, health and wellness information, community calendars, 
+“teleports” to other locations in the Internet, and a “Public Square.” 
+Since 1988, Montana’s Big Sky Telegraph has linked one-room schoolhouses 
+with Internet tutors and connected nonprofit organizations such as the 
+Women’s Resource Center with sources of information and support. Rural 
+schools, public libraries, rural economic development offices, organizations 
+for employing the disabled, rural hospitals, were connected using inexpensive 
+telecommunication technology that was in turn plugged into the vast network 
+of networks known as the Internet. 
+It’s happening in Hawaii and the Heartland; in Taos, New Mexico; Blacksburg, 
+Virginia; and Bloomsberg, Pennsylvania. There is LatinoNet, PeaceNet, and 
+EcoNet. NativeNet and INDIANnet connect not only cities and states, but 
+tribes. 
+Net technology makes possible a more democratic medium of 
+expression than 
+did previous communication technologies. A BBS-like public conversation is 
+open to anyone who wants to join the discussion; it is not a “few-to-many” 
+medium like television, talk radio, newspapers or magazines, but a “many-to- 
+many” medium that gives large numbers of people access to large numbers of 
+people. The power to persuade and educate — to influence people’s beliefs 
+and perceptions — is radically decentralized when people can communicate 
+in this way: control is spread throughout the network. 
+In Bucharest and Moscow, crucial recent battles were not fought over 
+armories: instead, television broadcast stations were the battlegrounds — 
+because mass-communication nerve centers are strategic chokepoints in the 
+flow of words, images, and ideas. The power to transmit information, in old- 
+style mass media, is concentrated 
+in a small number of locations and 
+institutions. Networks are radically different: technically, any node on a high- 
+capacity computer communications network can send, as well as receive, 
+words, sounds, images, computer software, video, to any other node. Plugged 
+into an ordinary telephone, a personal computer becomes a printing press, a 
+broadcasting station, a town hall meeting. 
+Conferencing systems structure discussions according to topic, making it 
+easier for people to find others who share their interests, and to request and 
+offer specific information about problems. A person concerned about ecology 
+can go to an ecology discussion area and browse the list of discussions, 
+selecting from topics devoted to local water resources or national air quality. 
+With information organized this way, networks of people can serveas informal 
+support systems for each other; a conferencing system that includes a broad 
+base of members with a wide variety of expertise is a “living database” in which 
+everyone can serve asa 
+librarian and consultant for everyone else. (see Virtual 
+Communities, p. 262.) 
+Geographic Information Systems (see p. 14) combine maps and computer 
+databases, creating another tool for political activists. Again, the falling price 
+of computing power makes a tool that was once practical only for elite use now 
+available to citizens; for instance, GIS can be used to track the use or misuse 
+of natural resources, or to detect illegal redlining in cities. 
+No tool in itself can be an answer to a human problem. Clear goals based 
+on some variety of moral groundedness, provide the all-important context: 
+do you know what you want to build or destroy when you pick up a tool? 
+Can you use the means at hand to enhance the welfare of your community? 
+Much depends on how — and why — we use the tools that are now becom- 
+ing available. —HLR 
+

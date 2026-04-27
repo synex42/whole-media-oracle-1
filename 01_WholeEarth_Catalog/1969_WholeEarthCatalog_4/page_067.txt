@@ -1,0 +1,237 @@
+he 
+2 
+thematics /S history and 
+tious multi-faceted 
+jes—pure, applied, 
+fine and complete 
+| seen from outside. 
+5 Content, Methods, 
+ath from inside. A 
+7 technical run-down of 
+cern in mathematics 
+ig 
+4 
+..AS our mental eye penetrates into smaller 
+and smaller distances and shorter and shorter 
+times, we find nature behaving so entirely 
+| 
+differently from what we observe in visible and 
+palpable bodies of our surrounding that no model 
+shaped after our large-scale experiences can ever 
+be ‘true’. A completely satisfactory model of 
+H 
+this type is not only practically inaccessible, 
+but not even thinkable. Or, to be precise, we 
+i 
+can, of course, think it, but however we think it, 
+ja 
+it is wrong; not perhaps quite as meaningless 
+as a ‘triangular circle,’ but much more so than 
+a ‘winged lion.’ 
+ook has 597 Pages 
+Author of this Book is 
+ICUS 
+: 
+e 
+statements Numbered 
+ond 3-are all False 
+th points of the plane are inside this polygon? 
+TCHING 
+. 
+ion work in mathematics, 
+ange from ‘the tyranny of 
+q 
+titching. It seems to haye 
+meryell, entitled A Rhyth- 
+ublished in 1906, The idea 
+merica and in this country. 
+ng straight-line envelopes 
+through a pattern of holes 
+i 
+IOI 
+IIH IIIA II III IIE 
+lof 
+self-education math books, From them you can learn delight 
+The Graphic Work of M. C. 
+Escher is geometry set at its 
+own throat via the images of 
+dreams. The subjective frontier. 
+The New Mathematics 
+Dictionary and Handbook is 
+the handiest of handy reference 
+books. 
+11000000000000090000000000000 00000000 
+[Suggested by Lloyd Kahn] 
+aK 
+aK 
+2K 
+K 
+K 
+aK 
+K 
+*K 
+aK 
+aK 
+K 
+3K 
+aK 
+K 
+2K 
+% 
+aK 
+mK 
+aK 
+*% 
+7K 
+aK 
+x 
+i? 
+The Graphic Work of M. C. Escher 
+M.C. Escher 
+1960,68; 76 plates 
+$7.95 postpaid 
+Mathematics: Its Content, Methods, and Meaning 
+A. D. Aleksandrov, A. N. Volmogorov, R. A, Lavrentev 
+1956, 1963; 1144 pp.; 3 vols. 
+$10.00 postpaid 
+from: 
+The M. |. T. Press 
+Cambridge, Mass.02142 
+or WHOLE EARTH CATALOG 
+il. There exists neither a point nor a line in the 
+plane that is carried into itself under all the 
+transformations of the group. Groups of this 
+type are called_plane Fedorov groups, They 
+are the symmetry groups of infinite plane 
+ornaments. There are altogether 17 of them: 
+five consist of motions of the first kind only, 
+and twelve of motions of the first and second 
+kind. 
+In Table 3 we have given examples of ornaments 
+corresponding to each of the seventeen plane 
+Fedorov groups; every group consists of precisely 
+those motions that carry an arbitrary flag drawn 
+in the diagram into any other flag of the same 
+diagram. 
+It is interesting to note that the masters of the 
+art of ornamentation have in practice discovered 
+ornaments with all possible symmetry groups; 
+it fell to the theory of groups to prove that other 
+forms do not exist. 
+Crystallographic groups. 
+In 1890 the eminent 
+Russian crystallographer and geometer E.S. Fedorov 
+solved by group-theoretical methods one of the 
+fundamental problems of crystallography: 
+to classify the regular systems of points in space. 
+This was the first example of a direct application 
+of the theory of groups to the solution of an 
+important problem in natural science and made 
+a substantial impact on the development of the 
+theory of groups. 
+MM.M MATHEMATICS 
+fa 
+and Handbook 
+3 by Revce 
+Wo 
+tae 
+WOOHOO 
+SSSI 
+VIII 
+HO 
+from: 
+Meredith Press 
+1716 Locust St. 
+Des Moines, lowa 50303 
+or 
+WHOLE EARTH CATALOG 
+YROOOCOOOOOOOOOOOOOOOOON 
+x S 
+The New 
+Mathematics 
+Dictionary 
+and Handbook 
+Robert W. Marks 
+1964; 186 pp. 
+$.95 postpaid 
+Mathematics 
+Dictionary 
+Wack 
+from: 
+Bantam Books, Inc. 
+271 Madison Ave. 
+New York, N.Y. 
+10016 
+or WHOLE EARTH 
+CATALOG 
+VENN DIAGRAMS. Diagrams using over- 
+lapping circles to show relationships 
+between sets; developed by John Venn 
+(1834—1923), English logician, Each 
+circle represents one set. Two or more 
+may be overlapped. The areas of overlap 
+(lens-shaped areas) indicate subsets 
+which may contain elements common to 
+both or all of the indicated sets. 
+Some authors shade or cross-hatch the 
+areas that contain members of a set; 
+other authors use shading or cross- 
+hatching to indicate emptiness. 
+In the 
+diagram below, shading indicates 
+content. 
+LEI ERS ARIE 
+RVAM DER 
+REETOR 
+# 
+57, DOUBLE PLANETOID, wood-engraving , 
+printed from 4 blocks, 1949, diameter 37.5 cm 
+Two regular tetrahedrons, piercing each other, 
+float through space as a planetoid. The light- 
+fa, each other. 
+SET INTERSECTION 
+The shaded 
+area represents 
+that set of all elements that are 
+both elements of A and elements 
+of B. 
+Example: If A is the set of all 
+students 
+who take chemistry, 
+and B is the set of all students 
+taking physics, the shaded area 
+is the set of all students taking 
+both chemistry and physics. 
+coloured one is inhabited by human beings who 
+have completely transformed their region into 
+a complex of houses, bridges and roads, The 
+darker tetrahedron has remained in its natural 
+state, with rocks, on which plants and prehistoric 
+animals live. The.two bodies fit together to 
+make a whole but they have no knowledge of 
+FOOSOIOOOOOOVOOPOOTOOVOOSOOPOIIOSSSI 
+SSSI IIIA 
+Aes 
+Ge SSE 
+LTE 
+UNION OF SETS 
+The shaded area in the second 
+diagram represents 
+the set of 
+all elements that are in A, orin B, 
+or in both A and B. 
+Example: If A is the set of all 
+men who own boats, and if B is 
+the 
+set 
+of all fishermen, 
+the 
+shaded area indicates the set of 
+all men who are boatowners or 
+fishermen, 
+or 
+who 
+are 
+boat- 
+owning "6 5 
+

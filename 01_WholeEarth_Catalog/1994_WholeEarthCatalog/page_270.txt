@@ -1,0 +1,310 @@
+POISE 
+ORE 
+Re 
+PE 
+RN 
+RENTS 
+_area or developing 
+i 
+CCZSS LO Ube 
+_ 
+struggling nonprofit, 
+id. 
+mance Systems 
+$ 
+"International offer ‘Internet connec- 
+tivity to. individuals in 
+é _medium-to-large cities. The com 
+nity networking movement aim 
+Dink 
+provide free or low-cost access 
+to. 
+"network services on a regional basis. 
+And the efforts of proselytes i 
+_ 
+academia and activist organizations 
+around the world (The Internet Soci- 
+puter requires up- or downloading. A 
+“ety, Association for Progressive 
+Communications) are bringing con- 
+-nectivity to previously unthinkable 
+areas through strategic alliances with 
+strange bedfellows. 
+There are four general classes of 
+access: 
+Terminal. i ——— affiliated with a 
+business, government agency, uni- 
+_ versity, community college, or for- 
+_ward-thinking K-12 school, you may 
+have access to the Internet, BITNET, 
+_or UUCP via terminals located in 
+_ your computer lab, library, or office. 
+_ The terminals —a minimal combina- 
+_ tion of keyboard and monitor with- 
+_ 
+out disk drives or on-board smarts 
+'— are wired directly to your com- 
+puter center or management infor- 
+mation systems department. You 
+_may need to request 
+an account, or 
+_ you may automatically get one with 
+your job or through a 
+class you've 
+: enrolled in. _Ask around. 
+Terminals are adequate for elec- 
+_ tronic mail, Usenet news, and the full 
+_ range of text-based services. They’re 
+_ inadequate for graphics or for trans- 
+_ ferring information between a per- 
+_ sonal computer and the central com- 
+puter. Getting a printout often 
+requires a hike down the hall or — 
+across campus. 
+Dialup terminal. You'll probably 
+access network services by connect- 
+ing over a telephone line using your 
+— 
+personal ‘computer, modem, and 
+_ telecommunications software. This 
+_ isan elegant solution for people who 
+_ already have access to a computer 
+_ since the additional outlay can be as 
+little as $20 for a 2400 bps modem. 
+_ Minimal terminal software will be 
+"included with the modem, and is a_ 
+_ standard accessory under Windows. 
+Increased capabilities come with 
+ees modems (under $150 for 
+ROOT TE 
+eo tte 
+bp s with fax) and eg 
+telecom ee 
+f 
+ESiup terminal access lets you con- 
+“nect_t 
+to bulletin boas (FidoNet, 
+REE Caer 
+erica 
+OnLine, 
+ew York’s Echo, 
+PeaceNet/EcoNet, 
+~WELL). You may 
+tribe to an email pro- 
+ail), public Internet 
+om has set the price at $17.50 
+zens of local providers across 
+UUCP 
+services 
+hould also be able to 
+dial in using a school or work ac- 
+~~ count. 
+To make full use of the 
+‘computer needs to be 
+y' 
+onthe Internet, speaking its proto- 
+s, occupying an address. As a 
+dialup terminal, our. computer isn’t 
+on the Internet, though your pro- 
+- vider may be. When you use network 
+services, the bits and bytes underly- 
+ing those transactions shuffle around 
+r’s 
+computer, not 
+. Te move 
+them to your com- 
+new generation of Internet tools is 
+emerging. They’re closer to what you 
+expect to see on your desktop, in- 
+~corporating ideas from Macintosh 
+and Windows environments. For 
+now, most of them work only if your 
+desktop is on the Internet. 
+“SLIP (Serial Line Internet Protocol) 
+and PPP (Point-to-Point Protocol) 
+are functionally equivalent methods 
+for attaching your computer to the 
+Internet over a regular telephone 
+line. Although the real cost of provid- 
+ing this service is as cheap as provid- 
+ing dialup terminal access, the ben- 
+efits are significantly greater. And so 
+the charges are higher. Providers 
+that charge a flat monthly rate for 
+terminal access charge hourly con- 
+nect fees ($1-$3) for SLIP/PPP, al- 
+though. we're. beginning to see flat 
+monthly rates ($30). Expect fluctua- 
+tion in SLIP/PPP pricing in the near 
+future. 
+Dedicated.» Network. Even if the 
+latest modem standard, V.FAST, be- 
+comes widespread, dialup and SLIP/ 
+PPP connections will be limited to a 
+transfer rate of 28,800 bps. While 
+this is overkill for text-based applica- 
+tions, it’s still not enough for com- 
+~ fortably accessing image and sound 
+files, or for organizations supporting 
+multiple users on multiple comput- 
+ers. ISDN, and 56Kbps and TI (1.5 
+~ Mbps) leased digital lines are three of 
+the options for organizations requir- 
+ing higher bandwidth connections. 
+Even in areas where connectivity is 
+bountiful, these typically cost hun- 
+dreds or thousands of dollars per 
+month, in addition to specialized 
+hardware and high installation fees. 
+Prices are coming down — some 
+services couldn’t be purchased at all 
+a few years ago — but dedicated 
+network connections remain beyond 
+_the means of most individuals and 
+small businesses. University students 
+are often fortunate to have this level 
+of connectivity on well-networked 
+campuses. 
+—Eric Theise 
+Internet Books and Kits 
+The Intemet is more like a jungle than a 
+freeway: nobody planned it, it just grew. 
+Getting the big picture means considerable 
+stretching of your sense of the possible; 
+leaming how to navigate the Net seems 
+hopelessly bewildering at first, and now, 
+because people have been hungry for in- 
+formation, the market for Intemet books 
+has become a jungle, too. There are a mil- 
+lion new Intemet users every month, and a 
+dozen new titles. There's going to be a 
+shakeout soon, when the overflowing aisles 
+of 
+the Intemet section in today's technical 
+bookstores will shrink to a shelf 
+or two, The 
+books that survive will have to be those 
+whose authors update annually, because a 
+beginner's guide to last year's Internet is 
+often frustratingly behind the times. 
+| bet that the first break-away bestseller of 
+Internet bookdom, Ed Krol's The Whole 
+Internet User’s Guide and Catalog, will be 
+among the evergreens. Already in its sec- 
+ond edition, the book pays homage to the 
+Whole Earth style of text-graphic collage. 
+Krol introduces the reader to the Internet 
+and its resources with a light touch, and 
+the resource guide is rich material for new 
+Intemauts with the itch to explore. The 
+book's publisher, O'Reilly Associates, was 
+catapulted from a small successful pub- 
+lisher of highly technical books to a slightly 
+larger, very successful publisher of the first 
+Intemet bestseller. When O'Reilly went 
+online to the World Wide Web with their 
+multimedia Intemet magazine, Global 
+Network Explorer, they began providing 
+Internet access to updated editions. 
+The richness of the Net is in its resources 
+of people, information, and now pictures 
+and sounds and even software, so the key 
+to every netguide is in its contents. With 
+the condensed set of 
+instructions on page 
+264 of this catalog and a good resource 
+book, you can be your own tour guide, The 
+way to learn the Net is to surf it yourself. 
+An excellent resource guide, rich, deep, 
+over eight hundred pages thick and well 
+eee is The Internet Complete 
+Reference by Harley Hahn and Rick Stout; 
+an earlier effort by the same authors, The 
+Internet Yellow Pages, created a whole 
+new genre of Internet guides, 
+To explore the Net, you need more than a 
+book. You need special software and an 
+account with an Intemet provider, such as 
+the ones listed on p. 267. An emerging 
+trend is “Internet In A Box,” which is actu- 
+ally the name of a product in production 
+but not yet published by O'Reilly Associ- 
+ates, A similar product from another well- 
+known publisher, Ventana, is Internet 
+Membership Kit, which provides Windows 
+and Macintosh versions of useful mail, file- 
+transfer, and Internet interface software, 
+an excellent Mac Internet Tour Guide or 
+PC Internet Tour Guide book, a copy of 
+The Internet Yellow Pages, and a member- 
+ship in an Internet service (CERFnet). The 
+kit approach offers easier access for the 
+vast majority of the population, which 
+doesn't want to learn special technical 
+gobbledygook in order to get their minds 
+around intellectual resources and human 
+discourse, —HLR 
+The Whole Internet User’s Guide & 
+Catalog: Ed Krol. 1992; 400 pp. 
+ISBN 1-56592-025-2. $24.95 ($27.95 post- 
+paid). O'Reilly & Associates, 103A Morris 
+Street, Sebastopol, CA 95472; 
+800/998-9938, fax 707/829-0104. 
+Internet: The Complete Reference: 
+Harley Hahn. 1993; ISBN 0-07-881 90-6. 
+$29.95 ($33.95 postpaid). 
+The Internet Yellow Pages: Harley 
+Hahn & Rick Stout. 1994; 447 pp. ISBN 0- 
+07-882023-5. $27.95 ($31.95 postpaid). 
+Both from Osborne McGraw-Hill, 2600 10th 
+Street, Berkeley, CA 94710; 800/722-4726. 
+The Internet Membership Kit: $69.95 
+($74.45 postpaid). Macintosh & Windows 
+versions available. 9600 baud or faster 
+modem recommended. Ventana Press, 
+PO Box 2468, Chapel Hill, NC 27515; 
+919/942-0220. 
+as Online Resources 
+FAQ: International E-mail Accessibility 
+Olivier M. J. Crepin-Leblond 
+Updated every two weeks, this online document 
+provides a thumbnail of every country’s net- 
+working capabilities. Wondering if it's possible to 
+send e-mail to Senegal? Look here first. To get a 
+copy, send the e-mail message “send usenet/ 
+news.answers/mail/country-codes” to mail- 
+server@rtfm.mit.edu 
+The Public Dialup Internet Access List 
+(PDIAL) Peter Kaminski 
+This frequently-updated online document is the 
+closest thing we have to a definitive list of pro- 
+viders around the world offering dialup terminal 
+access to the Internet. To get a copy, send the e- 
+mail message “send pdial” to info-deli- 
+server@netcom.com 
+Internet Access Provider List: Dedicated 
+Lines (DLIST) Susan Estrada 
+Newer than PDIAL, this online document lists 
+providers offering dedicated lines to the Internet. 
+To get a copy, send any e-mail message to 
+dlist@ora.com 
+BITNET Node List 
+An online list of organizations having addresses 
+on BITNET. Useful if you’re searching for con- 
+nectivity. To get a copy, send the e-mail message 
+“get bitnet sites” to listserv@pucc.princeton.edu 
+FidoNet Node List 
+Updated every two weeks, this is an exhaustive 
+list of all FidoNet BBSs in the world. The list only — 
+goes to FidoNet system operators, but a WAIS- 
+searchable version is on the Internet as fido- 
+_ 
+nodelist.src (telnet://wais@wais.com). Fido 
+News is posted to the USENET newsgro' 
+comp.org.fidonet, and other FidoNet 
+is archived at gopher://gopher.fidon 
+Far from comprehensive, 
+UNIX) list is still useful fo 
+sive UUCP sites around t 
+copy, send the e-mail m 
+

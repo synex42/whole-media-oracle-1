@@ -1,0 +1,185 @@
+HACKERS 
+Programmers at Work 
+Susan Lammers 
+1986; 385 pp. 
+$14.95 
+($16.95 postpaid) from: 
+Microsoft Press 
+Attn.: Consumer Sales 
+16011 NE 36th Way, 
+Box 97017 
+Redmond, WA 98073-9717 
+206/882-8080 
+or Whole Earth Access 
+One of the most impressive 
+things about computer hackers 
+is that, in their drive to get more 
+out of their hardware, they 
+exploit fresh ways of viewing 
+problems. This outlook is fre- 
+quently enlightening on sub- 
+jects that have nothing to do 
+with computers. So in a sense, 
+each of the 19 interviews that 
+Susan Lammers has conducted 
+with some of the major pioneers 
+in microcomputing is more than 
+just a story of how code-hack- 
+ers actually program. Each is 
+like a kind of Crackerjack box 
+— the Utterly Disarming, Fre- 
+quently Astonishing Insight is 
+the prize. There’s also a fasci- 
+nating appendix where we see 
+actual code, worksheets, etc. of 
+these wizards. 
+— Steven Levy 
+Sd 
+Interviewer: What do you perceive as aesthetically 
+beautiful or pleasing in either the listing or the structure 
+of the algorithms when you look at a particular program? 
+Hackers 
+Steven Levy 
+1984; 448 pp. 
+$4.50 
+($5.25 postpaid) from: 
+Dell Books 
+P. O. Box 1000 
+Pinebrook, NJ 07058-01000 
+800/932-0070 
+or Whole Earth Access 
+Steven Levy is to computer history what Barbara 
+Tuchman is to the 14th Century. He tells how pro- 
+gramming changes people, how programmers 
+created a subculture, and how that subculture 
+changed the whole culture. 
+— Art Kleiner 
+Sd 
+Something new was coalescing around the TX-0: a new 
+way of life, with a philosophy, an ethic, and a dream. 
+The Hacker Ethic: 
+Access to computers — and anything which might teach 
+you something about the way the world works — should 
+Brickdin’s onginal command diagram for VisiCalc from 
+(LAGE 
+| 
+Simonyi: | think the listing gives the same pleasure that 
+you get from a clean home. You can just tell with a 
+glance if things are messy — if garbage and unwashed 
+dishes are lying about — or if things are really clean. It 
+may not mean much. Just because a house is clean, it 
+might still be a den of iniquity! But it is an important first 
+impression and does say something about the program. 
+I'll bet you that from ten feet away | can tell if a program 
+is bad. | might not guarantee that it is good, but if it looks 
+bad from ten feet, | can guarantee that it wasn’t written 
+with care. And if it wasn’t written with care, it’s probably 
+not beautiful in the logical sense. 
+{ 
+a 
+So te 
+me tee 
+led toe 5 EON 
+ne ROOT 
+Zim 
+—_— 
+ene 
+oe ———— 
+weep, reper frm ol ih Meyel 
+91978, 1786 Dorel S. 
+Bricicen 
+Bricklin’s original command diagram for VisiCalc (the original elec- 
+tronic spreadsheet) from November, 1978. The diagram was written 
+on a piece of spreadsheet paper (hence the grid in the program) that 
+Bricklin used in business school. 
+be unlimited and total. Always yield to the Hands-on 
+Imperative! 
+Hackers believe that essential lessons can be learned 
+about the systems — about the world — from taking 
+things apart, seeing how they work, and using this 
+knowledge to create new and even more interesting 
+things. They resent any person, physical barrier, or law 
+that tries to keep them from doing this. 
+All information should be free. 
+Mistrust Authority — Promote Decentralization. 
+The best way to promote this free exchange of informa- 
+tion is to have an open system, something which pre- 
+sents no boundaries between a hacker and a piece of 
+information or an item of equipment that he needs in his 
+quest for knowledge, improvement, and time on-line. 
+The last thing you need is a bureaucracy. 
+Hackers should be judged by their hacking, not bogus 
+criteria such as degrees, age, race, or position. 
+You can create art and beauty on a computer. 
+Computers can change your life for the better. 
+fee 2A? OMAN IP evens 
+od 
+Interviewer: What did you intend the character of Pac 
+Man to be like? 
+Itwani: Pac Man’s character is difficult to explain even to 
+the Japanese — he is an innocent character. He hasn’t 
+been educated to discern between good and evil. He 
+acts more like a small child than a grown-up person. 
+Think of him as a child learning in the course of his daily 
+activities. If someone tells him guns are evil, he would be 
+the type to rush out and eat guns, even the pistols of 
+policemen who need them. He’s indiscriminate because 
+he’s naive. But he learns from experience that some 
+people, like policemen, should have 
+pistols and he can't eat just any 
+pistols in sight. 
+. 
+“ 
+Interviewer: What goals and work rules 
+did you set when you were working on 
+Framework? 
+Carr: One piece of advice | had been 
+given was to hold off programming for as 
+long as possible. Once you've got a 
+corpus of code building up, it’s hard to 
+change direction. It sets like concrete. 
+So | held off for as long as | could, but | 
+couldn't hold the design in my head 
+forever. 
+a 
+, \ 
+ Frankston:. .. If you cannot explain a 
+program to yourself, the chance of a 
+eh ./ 
+computer getting it right is pretty small. 
+qs 
+= 
+Simonyi: The first step in programming is 
+imagining. Just making it crystal clear in 
+my own mind what is going to happen. In 
+this initial stage, | use paper and pencil. | 
+just doodle, | don’t write code. | might draw a few boxes 
+or a few arrows, but it’s just mostly doodles, because the 
+real picture is in my mind. | like to imagine the structures 
+that represent the reality | want to code. 
+Once | have the structure fairly firm and clear in my 
+mind, then | write the code. | sit down at my terminal — 
+or with a piece of paper in the old days — and write it. 
+Sd 
+Interviewer: You seem to scorn complexity. When you 
+design a system, do you strive for simplicity? 
+Lampson: Right. Right everything should be made as 
+simple as possible. But to do that you have to master 
+complexity. 
+Interviewer: In practical terms, how do you achieve that? 
+Lampson: There are some basic techniques to control 
+complexity. Fundamentally, | divide and conquer, break 
+things down, and try to write.reasonably precise descrip- 
+tions of what each piece is supposed to do. That be- 
+comes a sketch of how to proceed. When you can’t 
+figure out how to write a spec, it's because you don't 
+understand what's going on. Then you have two choices: 
+Either back off to some other program you do under- 
+stand, or think harder. 
+Also, the description of the system shouldn't be too big. 
+You may have to think about a big system in smaller 
+pieces. It's somewhat like solving problems in mathe- 
+matics: You can write books that are full of useful hints, 
+but you can’t give an algorithm. 
+23 
+

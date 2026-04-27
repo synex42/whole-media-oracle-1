@@ -1,0 +1,298 @@
+wr. 
+¥ 
+We 9900 EoT wED nayret 
+Weather information on PLATO 
+NSA won’t be able to break. People on message systems 
+tend to flow through the holes in a rigid hierarchy, 
+forming new loyalties to other departments and com- 
+panies. Managers who depend on rank for their authority 
+tend to lose it on computer networks to those who really 
+do the work. Even carefully controlled networks can’t 
+entirely avoid this tendency. 
+“PLANET has a control feature where the managers can 
+inhibit private communication,” Suniga said. “They can 
+prevent staff members from sending private messages and 
+force them to put everything in the group conference. 
+When they do that, though, the length of the conference 
+entries increases dramatically. People sneak their private 
+messages in between the lines.” 
+Networks take employees out of the physical office and 
+will probably make commuting unnecessary more than 
+once or twice a week. Many people work for groups 
+around the country without leaving home — like 
+Elaine Kerr, who counsels people worldwide from her 
+kitchen table in Worthington, Ohio. 
+“Sometimes I do miss the ‘coffee breaks’ that would be a 
+part of a normal office working environment,” she said. 
+“Because, yes, sometimes working this way IS lonely. 
+The tradeoff, however, is well worth it. My work liter- 
+ally spills over into the rest of my life. Here | am now, 
+for instance, very much at home and very much working; 
+with my newspaper on my lap for when the network is 
+slow, the dog sleeping on the couch just a few feet away, 
+and my son about to come home from school in an hour 
+to me rather than a babysitter. Most people, including 
+some of my friends, don’t understand. To me, this is a 
+far saner way of living than I’ve ever had before.” = 
+a aE 
+ACCESS TO COMPUTER NETWORKS 
+The most technically advanced computer networks are 
+closed to the public. For instance the Arpanet (named 
+after the Advanced Research Projects Agency) is limited 
+to people who work on projects sponsored by the Depart- 
+ments of Defense and Energy. 
+It’s a free-form linked 
+universe of varied computer subnetworks and the arena 
+where most of the technology for computer networks 
+was first developed. 
+(The method for splitting computer 
+messages into packets, sending across different routes 
+simultaneously and recombining them at the other end 
+was originally developed for the Arpanet — to keep 
+computer signals safe from nuclear attack. Now it’s the 
+most efficient way of keeping any single link in a trans- 
+mission system from getting overloaded.) Many of the 
+most exciting technical and social breakthroughs happen 
+on closed corporate systems, such as those of Citibank 
+in New York or Xerox in Palo Alto. 
+However, there are a number of networks which you can 
+join if you have a terminal or an adapted computer. 
+The 
+most interesting are these: 
+The Source, Telecomputing Corporation of America, 
+1616 Anderson Road, McLean, VA 22101. $2.75/hour 
+(evenings and weekends) plus $100 entry fee. Informa- 
+tion free. The first home terminal consumer information 
+and mail network in America, and certainly the most 
+ambitiously promoted. People with terminals or personal 
+computers can call up versions of the UPI news wire or 
+the bibliographic New York Times information bank. 
+The Source also offers electronic mail and bulletin boards, 
+Programs which analyze statistics off the Wall Street stock 
+index, and a clientele (mostly computer hobbyists and 
+small businessmen) which is hungry to communicate 
+with each other. 
+According to many users, some of the Source’s most 
+Promised features — such as airline reservation guides 
+or on-line discussions of different topics — have been 
+slow to materialize or haven‘t lived up to expectations. 
+The network is also plagued by slow response time and 
+frequent breakdowns. However, the Source deserves 
+credit for bringing the idea of a home-based computer 
+network with open-ended options out into the open. 
+Its managers recently signed a contract with a national 
+library network (OCLC of Columbus, Ohio) to link 
+terminals in public libraries around the country. 
+Micronet, Personal Computing Division, CompuServe, 
+5000 Arlington Center Blvd., Columbus, OH 43220. 
+$5/hour ($7/hour in some-smaller cities) plus $9 entry 
+fee. Information free. This home terminal network 
+Piggybacks on the CompuServe Timesharing system; 
+during evening hours when their industrial computers 
+ap et 
+ee 
+_—— 
+are empty, consumers can use them. Micronet is younger 
+than the Source and concentrates on business programs, 
+file editing and electronic mail. 
+Its fledging newswire is 
+pulled from a Columbus newspaper and Associated Press. 
+Micronet’s commands are more technically complex than 
+those on the Source, but the system operates more 
+quickly and is more satisfying once you learn how to use 
+it. Their clientele is slightly more technically oriented, 
+but that will probably change on both networks. 
+Electronic Information Exchange System (EIES), New 
+Jersey Institute of Technology Computer Conferencing 
+and Communications Center, 323 High Street, Newark, 
+NJ 07102. $3.75/hour plus $66/month. Information 
+free. EJES is a community of about 900 cross-continental 
+members and is hoping to expand now into a series of 
+such communities, each on a separate computer linked 
+to the others. Most 
+E/ES members enter as part of groups 
+working toward specific purposes, such as sharing news 
+about technology for the handicapped or setting up 
+national projects. But members are encouraged by the 
+system to communicate with as many others as they have 
+time and interest for, and to participate in on-line con- 
+ferences. 
+E/ES’ mix of participants — from corporations, 
+government, nonprofit groups, the arts, and computer- 
+dom is unique among computer networks. 
+It’s also the 
+site of specially designed experimental programs for 
+weaving interactive stories, for filtering through masses 
+of technical information quickly, and for corresponding 
+anonymously or under pen names. 
+EIES’ founders, 
+Murray Turoff and Roxanne Hiltz, wrote The Network 
+Nation (1978; $17.50 postpaid from Addison-Wesley 
+Publishing Company, Jacob Way, Reading, MA 01867), 
+which is still the only book to give a true feeling of what 
+it’s like to be on a computer network. 
+CBBS — The simplest networks for personal computers to 
+use through the telephone are Community Bulletin Board 
+Systems. Most of the Bulletin Boards carry want ads, 
+greetings, and general graffiti, although some have 
+branched out to concentrate on specific subjects, such 
+as genealogy. Anyone with a terminal can dial in and 
+read anything there. 
+They're financed by contributions 
+and out of the owners’ pockets. 
+The operators of CBB Systems have an informal network 
+to keep track of the new systems and ideas. 
+The list of 
+phone numbers to reach CBBS‘s constantly changes. 
+CBBS lists are available for $1 each from Peripherals 
+Unlimited (3450 East Spring Street, Suite 206, Long 
+Beach, CA 90806), People’s Computer Company 
+(P.O. Box E, Menlo Park, CA 94025) or AMRAD (524 
+Springvale Avenue, McLean, VA 22101). The three /ists 
+are updated independently and probably overlap but 
+aren‘t exactly the same. 
+PCNet, PCNet Committee, People’s Computer Company, 
+P.O. Box E, Menlo Park, CA 94025. Information free. 
+A committee of volunteers, founded by David Caulkins 
+of Los Altos, California, has developed an electronic 
+mail system for Commodore PET personal computers 
+which operates over telephone lines. 
+Users start with 
+“PCNet PAN” programs which dial the other person’s 
+phone number to send and receive messages. A more 
+sophisticated program called “PCNet”’ is needed to trans- 
+fer files and programs without losing characters. 
+Users 
+can arrange for their computer to send the mail late at 
+night when they’re asleep and the phone rates are lower. 
+“Easy-Mover’’ is a similar program for Apple Computers, 
+developed by a private software company (\nformation 
+Unlimited, 730 Vicente Avenue, Berkeley, CA 94707. 
+Information free). Others are also being developed 
+— all presumably with different protocols, thus unable 
+to send messages to any but the same type of computer 
+with the same program running. 
+Too bad — like having 
+a hundred different types of incompatible telephones. 
+The PCNet Committee is making some effort to set 
+standards so that doesn’t happen. 
+PLATO, Control Data Corporation, HOAO1A, P.O. 
+Box 0, Minneapolis, MN 55440. Information free. 
+Originally developed for computer-assisted instruction 
+systems at the University of I/linois, PLATO produces 
+its “lessons” one page at a time in brightly colored 
+letters and line drawings that compose themselves as 
+if someone were twiddling a full color etch-a-sketch 
+behind the screen. PLATO pages are interactive — the 
+page asks a question, the user replies, and the answer 
+determines what page is shown next. A specially designed 
+(and expensive) terminal is required, and these days 
+PLATO is only available at “earning centers” in cities 
+around the country. While taking a lesson users can send 
+messages to other people who are also on-line. Up to five 
+conversations can scoot across the bottom of the screen 
+at any one time. Control Data, the parent company, 
+is noted for its benevolence (PLATO terminals in prisons) 
+and its despotism (PLATO centers in rural areas near 
+Contro/ Data owned land, where CDC is accused of trying 
+to contro/ the farm commodity price markets through 
+the network and to sell the information that the farmers 
+share to third-world countries). 
+COMMUNICATIONS 
+COMPUTER NETWORKING 535 
+_ 
+A music synthesizer linked to a PLATO terminal provides 
+drill and practice so class time can be spent on concept 
+development. 
+Some interesting proposals for computer networks which 
+don’t exist yet: 
+Datacast, Wireless Digital, 345 Swett Road, Woodside, 
+CA 94062. Newsletter $5/year (12 issues). Starting in 
+San Francisco sometime in 1980, Datacast will transmit 
+| 
+words and pictures over Subcarrier Authorization chan- 
+nels, which are unused FM frequencies linked to existing 
+radio stations. Datacast will be a steady stream of wire 
+service news, financial data, real estate listings, classified 
+| 
+ads, weather and library resources. 
+To receive it, users 
+will need a modified personal computer with a radio 
+receiver ($400 or less above the cost of the computer). 
+The computer will pull out only those items which 
+it has been programmed to catch. 
+Until it gets going, 
+| 
+| 
+Datacast will be covered in its own newsletter, edited 
+| 
+by Jim Warren, who organizes the West Coast 
+Computer Faire (p. 531). 
+Project Xanadu, P.O. Box 128, Swarthmore, PA 19081. 
+Information $1. Ted Nelson, who published the mile- 
+stone book Computer Lib/Dream Machines (p. 536) 
+i" 
+in 1972, described there his plan for a computer network 
+system in which people would edit alternate versions of 
+text, jump back and forth between the versions, and make 
+royalties based on how many people would call for their 
+writing. 
+His current plans call for such a system to begin 
+running by the end of this year, possibly through locally 
+franchised “Information Centers.’’ Xanadu will be used 
+for conferencing, writing, editing, and reading. Rather 
+than a single index to everything on the system, users 
+will be encouraged to create their own indexes to what 
+interests them and publish them for others. 
+ZL ay 
++ 
+While the user of a customary editing or word processing 
+system may scroll through an individual document, the 
+Xanadu-System user may scroll in time as well as space, 
+watching the changes in a given passage as the system 
+enacts its successive modifications. —Xanadu Prospectus 
+Nelson said they are looking at hourly costs of $2 and $5 
+depending on the rate of transmission. 
+Xanadu may use 
+a transmission system like Telenet or Tymenet; or the 
+Xanadu systems may only operate locally. 
+The Community Memory Project, 916 Parker Street, 
+Berkeley, CA 94710. Information $1. Convinced that 
+computer networks should be decentralized, open to 
+everyone and service oriented, Community Memory put 
+interconnected terminals in Berkeley public places 
+between 1973 and 1975. People used the system as an 
+electronic bulletin board for news, messages, classified 
+ads, and poetry. Others used the terminals to pull out 
+information with the appropriate key-words, or to add 
+CONTINUED ON NEXT PAGE 
+a te wales (e's 0) 6 Seen dele eos oe 
+6.6. 6 16 (6). is) aie (sa 6) os 
+THE RISING SUN 
+NEIGHBORHOOD NEWSLETTER 
+ae 
+Stewart’s brother-in-law flew in airplanes regularly 
+for several years before he ever landed. He was a 
+parachutist in the Army and he was poor, so the 
+Army would take him up and he would jump out 
+but he never traveled by air off duty. When he 
+finally did take a civilian airplane he was really 
+worried about landing — ground coming up fast 
+in a different way and him in a huge metal 
+container that was clearly too heavy and didn’t 
+have a parachute. 
+Pecarea 
+es 
+Sade 
+te 
+o 
+8s) 
+©) 
+Pe. 
+Te 
+wes, 
+8.0) 
+0,8) 
+et 
+© Ors 
+

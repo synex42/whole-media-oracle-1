@@ -1,0 +1,133 @@
+When we cut a cylinder by a plane, we get an ellipse. 
+Mathematical Snapshots 
+The most graphically insightful math book in print. Most 
+math feeds proof; this lovely stuff feeds understanding, 
+and is no less rigorous. If someone were going to see only 
+one mathematics book in their life, this would be the best. 
+—Stewart Brand 
+To determine the centroid of a stick, we place it horizon- 
+tally on the edges of our palms and then we bring our 
+gravity. The stick never loses its equilibrium because 
+when the centroid, which is initially between the palms, 
+approaches one of them, the pressure on the nearer 
+palm becomes many times greater than the pressure on 
+the other palm; its product by the coefficient of friction 
+must finally surpass the analogous product for the other 
+palm; when this happens, the relative movement of the 
+first palm ceases and the relative movement of the other 
+one starts. This play continues alternately until both 
+palms meet; the centroid is always between them and it 
+is there at the final stage. The trick is done automatically 
+without any conscious effort. 
+How to Solve it 
+This is the best book | know of for lining up a problem for 
+a logical solution. The emphasis is on math, but it is sim- 
+ple logic and can easily be applied to all forms of problem 
+identification and analysis. Better yet is that the methods 
+shown really work even on personal decision-making 
+binds. Essentially it’s a head-straightener. 
+—JB 
+UNDERSTANDING THE PROBLEM 
+What is the unknown? What are the data? What 
+is the condition? 
+Is it possible to satisfy the condition? Is the condition sufficient 
+to 
+determine 
+the unknown? Or 
+is it insufficient? Or redundant? 
+Or 
+contradictory? 
+Draw a figure. Introduce suitable notation. 
+Separate the various parts of the condition. Can you write them down? 
+DEVISING A PLAN 
+Have you seen it before? Or have you seen the same problem in a 
+slightly different form? 
+Do you know a related problem? Do you know a theorem that could 
+be useful? 
+Look at the unknown! And try to think of a familiar problem having 
+the same or a similar unknown. 
+Here is a problem related to yours and solved before. Could you use it? 
+Could you use its result? Could: you use its method? Should you intro- 
+duce some auxiliary element in order to make its use possible? 
+Could you restate the problem? Could you restate it still differently? 
+Go back to definitions. 
+If yov cannot solve the proposed problem try to solve first some related 
+problem. Could you imagine a more accessible related problem? A 
+more general problem? A more special problem? An analogous problem? 
+Could you solve a part of the problem? Keep only a part of the condi- 
+tion, drop the other part; how far is the unknown then determined, 
+how can it vary? Could you derive something useful from the data? 
+Could you think of other data appropriate to determine the unknown? 
+Could you change the unknown or the data, or both if necessary, so 
+that the new unknown and the new data are nearer to each other? 
+Did you use all the data? Did you use the whole condition? Have you 
+taken into account all essential notions involved in the problem? 
+CARRYING OUT THE PLAN 
+Carrying out your plan of the solution, check each step. Can you see 
+clearly that the step is correct? Can you prove that it is correct? 
+LOOKING BACK 
+Can you check the result? Can you check the argument? 
+Can you derive the result differently? Can you see it at a glance? 
+Can you use the result, or the method, for some other problem? 
+¢ Lots of folks think learning math is a hopeless task. There 
+are some books on p. 389 that can help you grasp math, 
+calculus, and geometry. 
+How to Lie with Statistics 
+In these days of polls and “‘proof’’ furnished by testing by 
+“independent laboratories, ’’ it might be well to bear in 
+mind the lessons given by this simple book. It’s been 
+around a long time, but it’s still deadly. 
+—JB 
+[Suggested by Roger Knights] 
+=e 
+>TO 
+Billion 
+Dollara 
+Simply change the proportion between the ordinate and 
+the abscissa. There’s no rule against it, and it does give 
+your graph a prettier shape. All you have to do is let 
+each mark up the side stand for only one-tenth as many 
+dollars as before. That is impressive, isn’t it? Anyone 
+looking at it can just feel prosperity throbbing in the 
+arteries of the country. It is a subtler equivalent of 
+editing ‘National income rose ten per cent”’ into “’. . 
+. 
+climbed a whopping ten per cent.”’ It is vastly more ef- 
+fective, however, because it contains no adjectives or 
+adverbs to spoil the illusion of objectivity. There’s nothing 
+anyone can pin on you. 
+22.0 
+Billion 
+Dollars 
+= p 
+WHOLE SYSTEMS 
+MATH 25 
+eeeeapn 
+Mathematical 
+Snapshots 
+Hugo Steinhaus 
+1969; 311 pp. 
+$8.95 postpaid from: 
+Oxford University Press 
+16-00 Pollitt Drive 
+Fair Lawn, NJ 07410 
+or Whole Earth Access 
+How to Solve It 
+Gyorgy Polya 
+1973; 253 pp. 
+$6.95 
+($8.05 postpaid) from: 
+Princeton University Press 
+3175 Princeton Pike 
+Lawrenceville, NJ 08648 
+or Whole Earth Access 
+How fo Lie 
+with Statistics 
+Darrell Huff 
+1954; 142 pp. 
+$2.95 postpaid from: 
+W. W. Norton 
+500 Fifth Avenue 
+New York, NY 10110 
+or Whole Earth Access 
+

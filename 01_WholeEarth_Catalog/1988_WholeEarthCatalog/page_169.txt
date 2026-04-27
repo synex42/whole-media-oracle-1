@@ -1,0 +1,166 @@
+Traffic 4 
+BMUG Disk Hyper 9 freeware $3 postpaid from 
+BMUG, Inc., 1442A Walnut Street #62, Berkeley, 
+CA 94709 
+Neat graphics in an embryonic hypertext 
+comic strip. As the brief strip grows in length 
+and complexity (the author is sharing his work 
+as he proceeds), multiple branchings will 
+weave the story into an appropriately bizarre 
+science fiction tale. For information on further 
+versions, send SASE to John Laney, Desktop 
+Graphics, 85 South Washington #308, Se- 
+attle, WA 98104. 
+—RSB 
+HyperMacinTalk 
+BMUG Disk Hyper 5.2 freeware $3 postpaid from 
+BMUG, Inc., 1442A Walnut Street #62, Berkeley, 
+CA 94709 or The WELL in the library of the 
+Macintosh Conference 
+Want to drive your relatives crazy? Teach 
+your Mac to recite in English whatever you 
+type in as a message. Sounding like a robot 
+from the 21st Century, this utility provides 
+everything you need to give voice to your 
+HyperCard stacks. You can improve its pro- 
+nunciation by incrementally tweaking the 
+phonetic translation for each message. It is 
+powered by the MacinTalk speech engine, 
+which must be placed in your system folder. 
+—RSB 
+Focal Point 
+$99.95 postpaid from HyperWare Direct, Activision, 
+P.O. Box T, Gilroy, CA 95021-2249 
+Perhaps the most useful HyperCard product 
+to date. Pulls together many functions you 
+might find in small, incompatible HyperCard 
+utilities, such as a phone rolodex that is linked 
+to a daily datebook. | prefer to pin paper notes 
+on my wall, but this program gives you a hap- 
+pily compatible core of organizational aids 
+with which you can build your own computer- 
+ized termite mound. One fine trick it does is to 
+carry over the undone items on your today To 
+Do list to tomorrow. Those who use their 
+computer to schedule (or bill) their work will be 
+in hog heaven. 
+—RSB 
+AmandaStories 
+Catalog free from AmandaStories, 1025 Martin Road, 
+Santa Cruz, CA 95060-9721; 408/423-0565 
+“Inigo Gets Out,” a story halfway between an inter- 
+active cartoon and an adventure game, was one of 
+the first HyperCard stacks created. It lights up the 
+most “Ah, isn’t that neat!” comments from an audi- 
+ence. Those who remember Alicia Bay Laurel’s 
+laid-back drawings of life in the sixties and who 
+find The Little Prince charming will enjoy Amanda 
+Goodenough’s childlike animations of the adven- 
+tures of Inigo the Cat and Your Faithful Camel. 
+—RSB 
+“Inigo Takes a Bath” from AmandaStories. 
+=e 
+ARTIFAX, this 
+F 
+is Coldstar. 
+Request 
+permission to 
+dock 
+Laldster. 
+o 
+Standby to 
+download your 
+yy 
+manifest. . 
+—Traffic 4 
+Stackware is what you make with HyperCard. For a vague 
+idea, imagine a stack of cards pertaining to one topic, every 
+card interlinked in many directions. Stackware offered 
+everyone an easy way to make neat custom-tailored pro- 
+grams, or an easy way to make complicated junk. Within 
+months of HyperCard’s release, there was an avalanche of 
+programs that no one other than the maker would ever want 
+to look at. Ramén Sender Barayén volunteered for the toilet- 
+cleaning job of sifting through this widening tidepool of 
+flimsy programs to find a few worth writing home about. 
+Here’s his selection, as of spring 1988. 
+—Kevin Kelly 
+@ 
+File 
+Edit 
+Go 
+Tools 
+Objects 
+Transmitter 
+Synaptic 
+ap 
+lonic Passages 
+Receptors 
+—NeuroTour 
+— The AIDS Stack 
+Ho SORE 
+URIS SOR 
+-——. 
+———— 
+STACKWARE 165 
+Port Authority 1.0 
+$25 postpaid from Heizer Software, 1941 Oak Park 
+Boulevard, Suite 30, Pleasant Hill, CA 94523; 415/ 
+943-7667 or (outside CA) 800/225-6755 
+An elementary, but essential, servant. It 
+moves information from HyperCard into an 
+ordinary database or word processor file, or 
+vice versa. Uses the well-known Font/DA 
+Mover dashboard. 
+—RSB 
+HyperCard Developer’s Toolkit 
+APDA membership $20/year from APDA, 290 SW 
+43rd Street, Renton, WA 98055; 206/251-6548 
+For the upper-end, technically oriented script 
+writer. Consists of the HyperCard Script Lan- 
+guage Guide ($18.50) and The HyperCard 
+Developer's Toolkit, which contains The De- 
+sign Guidelines ($10). To purchase these you 
+need to be a member of APDA (Apple 
+Programmer's and Developer's Association). 
+You also receive a quarterly newsletter. 
+—RSB 
+NeuroTour 
+BMUG Disk Hyper 6 freeware $3 postpaid from 
+BMUG, Inc., 1442A Walnut Street #62, Berkeley, 
+CA 94709 or The WELL in the library of the 
+Macintosh Conference 
+A voyage similar to the Powers of Ten jour- 
+ney, descending into the structure of the brain 
+by successive leaps downward in scale. Noth- 
+ing more than an inspirational sketch of what 
+might be accomplished with serious scientific 
+illustrations. 
+—RSB 
+The AIDS Stack 
+Shareware $20 postpaid from Michael Tidmus, 
+Being Alive, P.O. Box 69532, West Hollywood, CA 
+90069 
+More inviting than a sheaf of papers for some- 
+one searching for AIDS information. Very 
+artistic introduction shows some of the imagi- 
+native use of visual effects. Ideal way to keep 
+a lot of quick-changing information updated 
+and organized. 
+—RSB 
+Developer Stack 1.1 
+BMUG Disk Hyper 29 freeware $3 postpaid from 
+BMUG, Inc., 1442A Walnut Street #62, Berkeley, 
+CA 94709 or The WELL in the library of the 
+Macintosh Conference 
+A handy collection of tools that allows a 
+HyperCard builder to employ short programs 
+written in other computer languages. These 
+utilities allow you to call a routine constructed 
+outside of HyperCard, execute its function, 
+and return its result into HyperCard. For in- 
+stance, if you want to have a menu “pop up” 
+when a word is selected, use the Pop Up 
+Menu XCMD. 
+—RSB 
+

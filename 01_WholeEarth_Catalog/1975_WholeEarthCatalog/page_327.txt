@@ -1,0 +1,240 @@
+Basic Graphics 
+“Comprehensi ve treatment of design graphics——tools, 
+| geometry, projection, graphs etc.——with good updating 
+on use of computer graphics. 
+—SB 
+| Basic Graphics 
+| 
+Warren J. Luzadder 
+1957, 1962, 1968; 641 pp. 
+| $14.50 postpaid 
+) 
+from: 
+| 
+Prentice Hall, Inc. 
+Englewood Cliffs, N. J. 07632 
+5 
+4 
+3 
+A 
+/ 
+8 
+or WHOLE EARTH CATALOG 
+ ||BASIC 
+_.. 
+~ || GRAPHICS 
+One can not.ignore the fact that graphics now serves as a language 
+for communication between man and computer. 
+ING 
+TRIANGLE 
+Design and Planning 2 
+| Incredible: you actually got your hands on a computer 
+| powerful enough to generate rich graphics, and you have an 
+Table 3—EXAMPLES OF PROPERTIES GIVEN TO GLYPHS 
+employer/patron rich enough to buy you some play time 
+: 
+cigar ia nie 
+eed 
+a8 
+ae i 
+tel 
+att 
+on the computer. In order not to waste his money too idly 
+PAN. ZOOM-MOOZ 
+Sects yanalsvon 
+. 
+. 
+. 
+. 
+PERSPECTIVE-PROJECTIVE 
+Geometric transtormations 
+splashing around in your new pool, you might check this 
+s 
+STEREO 
+2-views 
+- 
+. 
+. 
+. 
+INK 
+Attention direction 
+book for a beginning inventory of some of the things you 
+SHADE 
+Optica) engityvanatlonss taxeiing 
+| 
+5 
+- 
+COLOR 
+Associate 
+a color with the image 
+(pa 
+and your computer can accomplish together. It’s far the 
+Pwr 
+Takslapictirs 
+a 
+- 
+¥ 
+z 
+"1 
+Take 
+a 
+sequence ot picture: 
+| most practical book we’ve seen on the subject, and the 
+NAME 
+Associa Paria 
+wie tne 
+hmage(a} 
+. 
+* 
+* 
+loin line segments 
+subject is what wizards are about. 
+—SB 
+f 
+CONNECT 
+Special glyphvlinking 
+| 
+\ 
+DRAW \ 
+Follow the light pen 
+. 
+SMOOTH 
+a relaxation 
+ator 
+e 
+data 
+[Suggested by Eric Renner] 
+MODIFY 
+Someciupelidia dipayliets se 
+DIMENSION 
+Assign lengths (areas, volumes, masses) 
+ERASE 
+Remove the image (parts) 
+WRITE 
+Prepare for text 
+Design and Planning 
+2 
+Martin Krampen and 
+Peter Seitz, eds. 
+1967; 177 pp. 
+OUT OF PRINT 
+OPS 
+ONO 
+gOng 
+O: 1 OC TP OMmO 
+ras) 
+OOOOOOOOSO@ ° 
+: 
+COOOOOOOO 0 » 
+OOCOOOO 
+C0 - 
+OOO0O0O°C 
+oo > 
+OOOQOQ0000 > 
+OOQOOQOOQeo0o0> 
+OOQOQOOo o 
+OOOOOQOQOQO oe 
+7 
+— 
+000000000 
+’ 
+one) 
+@ 
+& 
+apes 
+. Hastings House, Inc. 
+10 East 40th Street 
+| New York, N. Y. 10016 
+ie) 
+fe} 
+| The Architecture Machine 
+A book of beginning efforts to domesticate computers. Good 
+intro to life with dumb-fuck genius machines. 
+> 
+ee 
+—SB 
+| The Architecture Machine 
+|| Nicholas Negroponte 
+1970; 153 pp. 
+$2.95 
+from: 
+MIT Press 
+_ 28 Carleton Street 
+_ Cambridge, Mass. 02142 - 
+| or WHOLE EARTH CATALOG 
+ow 
+| There are three possible ways in which machines can assist the design. 
+Process: 
+(1) current procedures can be automated, thus speeding 
+up and reducing the cost of existing practices; (2) existing methods 
+| 
+can be altered to fit within the specifications and constitution of 
+/ 
+amachine, where only those issues are considered that are supposedly 
+i 
+: 
+machine-compatible; (3) the design process, considered as evolutionary, 
+can be presented to a machine, also considered as evolutionary, anda 
+mutual training, resilience, and growth can be developed. 
+But there is just the silence of the old decaying room at early 
+morning, no motion and no swirl. Just still and cool, the old uncle 
+sitting on one bed, the young nephew lying in the other, craving 
+something to drink now, feeling the pulse begin to quicken as he 
+comes again into the world. 
+: 
+¢ 
+. 
+‘ 
+i 
+xi 
+e 
+acup 
+of that tea, Uncle Emmit. 
+| shall consider only the third alternative and shall treat the problem 
+He says, | believe I'll have me 
+a 
+cup 
+e 
+| 
+as the intimate association of two-dissimilar species (man and 
+machine), two dissimilar processes (design and computation), and 
+two intelligent systems (the architect and the architecture machine). 
+And Emmit says this just hot water I’m drinking. 
+I'll go fix you 
+By virtue of ascribing intelligence to an artifact or the artificial, 
+some tea. 
+the partnership is not one of master and slave but rather of two 
+e 
+associates that have a potential nad a desire for self-improvement. 
+. 
+. 
+I can 
+Professor: What time is it? 
+‘ 
+Computer: 
+| did not catch the last word. Or was it two words? 
+| can do it. 
+Professor: What is the time? 
+2 
+Computer: The dime is a copper coin worth one-tenth of a dollar. 
+But Emmit is up 
+The word derives from the Latin decem, meaning... 
+. 
+A 
+Professor: No. No. What is the time? The time? 
+Computer: 
+It is 8:30 p.m., Thursday, December 5, 1985. We have 
+been having some trouble with your linguals recently. Sometimes | 
+can't tell your d’s from your t’s. Let's practice them. Watch the 
+He’s already up and gone to the kitchen to stir the fire and put 
+the water on while he dies. 
+display screen for the intonation pattern, and repeat after me: 
+5 
+Teddy's daddy toted two dead toads to Detroit. 
+Computer Design 
+: 
+J 
+Communications 
+Professor: Teddy’s daddy toted... 
+. 
+

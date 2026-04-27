@@ -1,0 +1,98 @@
+i 
+rey 
+re 
+od 
+2 
+In our Corporation, Zomeworks, we needed a product that 
+was easy to build, required little tooling costs, and exhibited 
+the geometries we are investigating. H. S. Coxeter remarks 
+on page 143 of Mathematical Recreations and Essays that 
+zonahedra can be dissected into multitudes of six-sided cells. 
+(Footnote: Where the zonahedra has n zones then there will 
+be 1/6 n(n-1) (n-2) or one cell for every combination of three 
+different zones.) This sounded like a promising shape for a 
+new kind of jungle gym. We built a thirty-sided triacontahedron 
+with its interior subdivided into 1/6 (6) (6-1) (6-2) = 20 cells. 
+For the joints we used 1”’ washers welded together in a 
+dodecahedron with %” pipes poking through the holes in the 
+washers. 
+As soon as we finished with one of these | became obsessed 
+with the notion of building the larger enneacontahedron—90 
+sides, 10 zones and therefore 1/6 (10) (10-1) (10-2) = 120 
+component cells. Buck Dant built the outer enneacontahedron 
+snell and then began the attempt to divide it into itst 120 
+component cells. But how were we to position these new 
+84 joints and 280 edges so that this perfect packing of 120 
+cells into this round-shaped enneacontahedron would take 
+place? It was clear that all the joints dividing the enneacon- 
+tahedron into cells, the joints connecting the 280 internal 
+edge members were all icosohedral, the edges forming the 
+internal cells are always parallel to edges on the outside of 
+the enneacontahedron so they are connected by the same 
+kinds of joints oriented in exactly the same way, like a school 
+of fish all looking in the same direction. 
+| saw how to subdivide the enneacontahedron into its 
+component cells when | saw that the complete figure was 
+the result of successive caps of layers of cells and each cap 
+is created by the existing figure sprouting a new zone, each 
+joint on one side of itself producing a new edge length all of 
+them pointing in the same direction. 
+26 
+Q 
+Once this is clear you can work backwards from the finished 
+figure. From one side of the figure you drop an edge length 
+into the figure, and reproduce the surface it dropped away 
+from on the inside of the enneacontahedron. You then have 
+a cap covering a lense-shaped polyhedron; the two of them 
+together making up an enneacontahedron. 
+After looking at this cap inside the enneacontahedron for a 
+couple of days | realized that we had made a truss. In its 
+first form it wasn’t a rigid truss because it had no triangles 
+in it. If you are working strictly within a zonal system 
+triangles are impossible since they kill zones—there is no 
+parallel side across the polygon for the zone to continue. 
+But we need to triangulate the structure in order for it to be 
+rigid—this means that we must introduce members which are 
+not part of the zone system. 
+This is a shame. The system proves so simple and flexible, 
+being able to make different shapes of different sizes and even 
+being able to produce a cap of cells anywhere on its surface— 
+something temptingly close to a truss system. But it is all 
+worthless if there is not some simple way to make it stiff. 
+The answer is very simple—every side of every figure made 
+within this system is a diamond and there are only two kinds 
+of diamonds present. 
+The three acute angles formed between 
+any particular direction (the tall rod) 
+and the adjacent rods (one away). , 
+This angle is 419 48’ 
+Screwball Connector 
+If something is simple it is usually disposed of by 
+asimple 
+short explanation, but something strange often happens when 
+we are presented with something that is both simple and 
+extensive—a new powerful system. You get a feeling like 
+vertigo, it causes your mind to clamp down and move from 
+one consequence to the next very slowly. This laboriously 
+slow progress from one simple and obvious conclusion to the 
+next set beside the short explanation which leaps from one 
+step to the next is discouraging. 
+Why is it simple? Why are there only two kinds of diamonds 
+possible? To make a variety of different diamonds we need 
+a number of different angles to use at the corners of the 
+diamonds, to send the edges off in new different directions. 
+There are twenty ways to leave an icosohedral joint so it 
+would seem there would be many angles to choose from. 
+A random arrangement of twenty directions leaving one pt.— 
+for instance a clay ball with twenty sticks stuck in it—will 
+make a total of 20x 19 _ 499 different angles. Because of 
+2x1 
+multiple symmetries instead of there being 190 different 
+angles there are only five, one of which is 180 degrees. 
+Since there are only two kinds of diamonds any structure 
+made with this system can be triangulated with two different 
+. 
+lengths of diagonals. One which crosses the 70°32’ — 109928’ 
+diamond and one which crosses the 41°48’ and 138912" 
+diamond. 
+

@@ -1,0 +1,161 @@
+92 LOW-POWER BROADCAST 
+Non-commercial 
+FM and Low-power 
+Television 
+by Lorenzo W. Milam 
+The most inexpensive way to become a broadcaster is to 
+put anoncommercial FM station on the air. This will only 
+work if you are out in the boondocks (at least 150 miles 
+from the nearest major city). It might cost you $10,000 to 
+begin broadcasting, but it will be less if you are smart, 
+careful, patient, wily, and know how tosteal FM transmit- 
+ters under cover of darkness. Make contact with the 
+National Federation of Community Broadcasters at 1314 
+14th Street NW, Washington, D.C. 20005; 202/797-8911. 
+They will give you a step-by-step on how to apply for such 
+a station. You will need an engineer, a nonprofit corpora- 
+tion, a transmitter site, a frequency, and lots of time. 
+In 1980, the FCC opened the door for “low power” 
+television station (LPTV) applications. The rules permit- 
+ted new television stations inmost markets. The Commis- 
+sion was deluged with applications, and has only recently 
+cleared away most of them. Periodically, they open doors 
+— called, naturally, “windows” — for further applica- 
+tions. These are announced in the trade magazines like 
+Broadcasting (whichis too expensive to subscribe to, but 
+which you can find at your local public or university 
+library). 
+Channel 2-13 (VHF) LPTV 
+is really low power (ten watts 
+maximum, which might not carry more than half a mile). 
+For UHF (Channels 14-69), you are allowed transmitter 
+output power up to 1,000 watts. With a clever antenna 
+system, and multiple transmitters, you might be able to 
+cover a fairly major service area. 
+The VHS stations are cheap, but the UHF transmitters can 
+cost at least $25,000, and the antennas another $10,000. 
+The rules on the programming and operation are quite lax 
+— the FCC gives you enormous latitude on what you can 
+program. 
+(We thought of getting an LPTV station on the air, running 
+continuous slides of the kid’s birthday party from last 
+summer, footage from NASA [all space shots are public 
+domain], and home movies collected from all the neigh- 
+bors. We’d play some bizarre and wonderful music on the 
+sound channel— gagaku from Japan, Balkan folk singing, 
+songs of Henry Purcell, Blind Lemon Jefferson. What a 
+way to spend an evening, no? Launching into space with 
+the Monkey Chant, landing on the moon to “Sound of the 
+Trumpets,” walking on the Mare Incognito with “The A- 
+to-Z Blues.” Under the LPTV programming rules of the 
+FCC, it’s all legal.) 
+WhatI have told you about Low Power Television is worth 
+amere pickle. The real kicker is how you can get close to 
+going on the air with little or no effort on your part: 
+Because of the first application rush, the FCC was forced 
+to setup alottery system so they could process them all. In 
+the last three years, the Commission has made over 4,000 
+grants of LPTY stations all over the country, including 
+Hr Gaw Awrenw 
+Naaeow 
+Bean Ous 
+Mucu 
+OF Cc 
+Lo-Power 
+Community TV 
+Harlan L. Jacobsen, Editor 
+$50/year 
+(12 issues) from: 
+Lo-Power Community 
+Television Publishing 
+7432 West Diamond 
+Scottsdale, AZ 85257 
+602/945-6746 
+Editor Harlan Jacobsen appears to be a sort of 
+populist hero in low-power TV circles. His no-frills 
+magazine is a good source of detailed, practical 
+advice on running a low-power TV station. Sample 
+copies are $5. 
+—Sarah Vandershaf 
+Alaska, Hawaii, Puerto Rico, the Virgin Islands, Guam, 
+and Micronesia. However, many of the people who got 
+permits aren’t building. There areno more than 250 LPT V 
+stations on the air right now. 
+The commission doesn’t take kindly to grantees who hold 
+onto the permits and never build. Unless they have very 
+good excuses, they are forced to surrender them a year 
+from the date of the grant. This can be a bonanza for you. 
+What you have to do is to find out what permits have been 
+granted for your area, or the city or cities you’re interested 
+in. From this information, you can make contact with the 
+permit holders. If they have lost their permit, you can 
+perhaps pick up the transmitter site option, and file your 
+own application, using some of the information from their 
+(successful) application. If they still have the permit, but 
+are running into difficulties building the station, youmight 
+be able to negotiate with them. In retum for your helping 
+to get the station on the air, you might be able to share the 
+ownership. At worst, youcan leam a great deal by talking 
+with the people involved, and reading over the applica- 
+tions that have been filed, gone onto lottery, and been 
+granted. Even those that have lost out will teach you what 
+is available in the way of equipment and sites. This is basic 
+FCC form school; how to put an application in the hopper 
+and (perhaps) how to win. 
+(To doall this, youneed a copying service in Washington, 
+D.C. that specializes in FCC Releases. A good one is 
+Berry’s Best, 1705 DeSales Street NW, Washington, D.C. 
+20036; 202/293-4964. You can hire them to dig up any 
+RsHooTs 
+ITY Porut ATION 
+Low Gain 
+AwTENNA 
+Wioer Bean Wore 
+Purs More SIGNAL Into 
+NearBy Ground 
+AREA 
+¢ 
+Recently | read an article in a TV engineering magazine 
+about a full power UHF station that increased their 
+number of viewers and improved their rating 
+considerably by going to a low gain antenna from a high 
+gain antenna. 
+They noted that the theoretical power in the fringes 
+would be way lower, but noted they lost very few viewers 
+in the outlying areas. 
+The theory behind this is that the high gain antenna has 
+such a narrow beam width that the 80% of their viewers, 
+who were nearby in town, were being overshot in order 
+to put a higher power signal out in the country. With the 
+low gain antenna and wider beam width, they were 
+putting more of the signal in the ground nearby. 
+The LPTV Report 
+Jacquelyn Biel, Editor 
+$25/year 
+(12 issues) from: 
+LPTV Report 
+P.O. Box 25510 
+Milwaukee, WI 53225-0510 
+414/781-0188 
+Slicker than Lo-Power Community TV, this 
+magazine, “the official information channel of the 
+Community Broadcasters Association,” will give 
+you the legal and business angles on low-power 
+TV, as well as some technical insights. 
+—Sarah Vandershaf 
+¢ 
+In the rush to apply for LPTV permits, some early 
+applications were not engineered very well, the thought 
+being that they could be easily modified after grant. Also, 
+sites that were available four years ago may no longer 
+be available. Thus, some new CP holders are finding 
+that they need to locate a new antenna site. ... The new 
+site must be very close to the old one, and the new 
+proposal must not serve any people that the old one 
+didn’t. This usually means that you'll need a new site 
+that is less than a mile away from the old one. 
+filing at the FCC that you might want to see. I would ask 
+for copies of the winners’ names from the last two years’ 
+worth of lotteries.) 
+|
+

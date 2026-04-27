@@ -1,0 +1,203 @@
+Dr. Dobb’s Journal 
+(of Software Tools for the 
+Professional Programmer) 
+$25/year 
+(12 issues) from: 
+Dr. Dobb’s Journal 
+P. O. Box 27809 
+San Diego, CA 92128 
+415/424-0600 
+Where InfoWorld is my meat and potatoes, | find 
+Dr. Dobb’s Journal is my monthly visit to a trade 
+show “hospitality suite.” Some months it is chips 
+and dip and a Coke while other months it is 
+cracked crab, caviar, and champagne. 
+MacTutor 
+David E. Smith, Editor 
+$30/year 
+(12 issues) from: 
+MacTutor 
+P. O. Box 400 
+Placentia, CA 92670 
+714/630-3730 
+This journal is recommended for programmers 
+interested in learning how to program for the 
+Macintosh. It’s better than pretty good, especially 
+for the intermediate programmer. As a professional 
+Mac programmer, | still pick up some tips here. | 
+enjoy the rumors and gossip that the magazine 
+picks up from their bulletin board. For the best in 
+Mac programming tips, get their Complete MacTu- 
+tor, Volume II, which was published at the peak of 
+their being the center for Macintosh information. 
+— Mike Coffey 
+e 
+[Suggested by Bob Murphy] 
+As most of you know, the Mac II has six expansion slots. 
+Lather; 
+Rinse; 
+(repeat) 
+Lather; 
+Rinse; 
+(repeat) 
+Lather; 
+Harold applies algorithmic logic 
+to everyday situations 
+tion boards, and other stuff like that. 
+But, if you don’t have a video card and 
+monitor plugged in, you won't be able 
+to see what's going on. | ought to 
+know. My monitor took about a month 
+longer to arrive than my CPU did. The 
+Mac made a nice sound when | turned 
+it on, but that really got boring after 
+the first couple of hundred times. 
+Anyway, with six slots available, en- 
+terprising (and loaded) people can 
+plug in six video cards to use with 
+many monitors of various shapes 
+and sizes 
+So, with lots of screens putting quite a 
+load on your table, what would you 
+expect to see? Several identical 
+copies of your desktop? Sounds 
+interesting, but not very practical. 
+Quickdraw treats all the video de- 
+vices collectively as a single, possibly 
+irregular, display. Windows may be 
+placed anywhere on the desktop, and 
+! will probably never trash-can my Dr. Dobb’s back issues, 
+because they make excellent reference materials. Being that 
+| am a programmer (software engineer?) by trade, | find back 
+issues invaluable for finding tricks-of-the-trade subroutines. 
+PROGRAMMING TOOLS 
+21 
+Dr. Dobb’s is very much a “hacker's” magazine and makes 
+no bones about it. Until recently contributors were not paid 
+for their efforts. Even now submitted articles and programs 
+are placed into the public domain. 
+Dr. Dobb’s seems to have its finger on the pulse of the prole- 
+tariat of the computer world. This steady-handed approach in 
+a computer magazine is welcome relief from the blowin’-in- 
+the-wind feeling | get from most other mags every time a 
+new computer comes onto the market. 
+—Thomas Spence 
+bit 
+* rowBytes 
+Reference Point 
+Tif BRE ESE RBIS tees eT 
+tH Ht 
+wid fa 
+CEB im ak 
+cit 
+| 
+Ht ma \" c) 
+gaa 
+fh Bid 
+wot 
+want we 
+ian 
+He BI 
+1H BBE NY 
+epee 
+| sy 
+uit 
+Nicks HOR 
+OH BoB 
+om 
+RH 
+# 
+Reference Point 
+Sets ee freer 
+irs 
+Figure No. 3 - Bitmaps: Before And After 
+one is color and the other b/w. This spectacular feat is 
+accomplished through careful management of graphics 
+devices. 
+as a result a single window can extend over several 
+monitors. The effect is especially impressive when 
+adjacent monitors have different color environments, or 
+Each of these slots can have something really neat 
+plugged into it, like additional processors, data acquisi- 
+Numerical Recipes 
+(The Art of Scientific Computing) 
+William Press et al. 
+1986; 700 pp. 
+$44.50 postpaid from: 
+Cambridge University Press 
+510 North Avenue 
+New Rochelle, NY 10801 
+800/872-7423 
+or Whole Earth Access 
+Numerical algorithms are the tools used for “num- 
+ber-crunching.” Unfortunately, they’re under-util- 
+ized because they have an aura of magic to 
+many programmers. 
+Numerical Recipes is a cookbook for when you 
+want to get a job done, not wade through abstract 
+discussions. When you need to find out how to do 
+a Fast Fourier Transform for the job due yesterday, 
+you'll get a basic grounding in the topic, discussion 
+of the alternative techniques, and best of all, tested 
+source code you can adapt for your own use. The 
+authors’ frequent opinions on when and where to 
+use each technique are mostly right on the mark. 
+The original Numerical Recipes had examples in 
+Fortran and Pascal, and thanks to demand, there’s now 
+a C version as well. You can also buy all the example 
+code on IBM PC or Macintosh-compatible disks. 
+— Bob Murphy 
+[Suggested by James Guilbeau] 
+5 
+Hamming’s motto, “the purpose of computing is insight, not 
+numbers,” is particularly apt in the area of finding roots. You 
+should say this motto aloud whenever your program con- 
+verges, with ten digit accuracy, to the wrong root of a prob- 
+lem, or whenever it fails to converge because there is actually 
+no root, or because there is a root but your initial estimate 
+was not sufficiently close to it. 
+0 
+Where would any book on numerical analysis be without Mr. 
+Simpson and his “rule”? The classical formulas for integrating 
+a function whose value is known at equally-spaced steps 
+have a certain elegance about them, and they are redolent 
+with historical association. Through them, the modern numeri- 
+cal analyst communes with the spirits of his or her predeces- 
+sors back across the centuries, as far as the time 
+of Newton, if not farther. Alas, times do change; 
+with the exception of two of the most modest for- 
+mulas. 
+. 
+. the classical formulas are almost en- 
+tirely useless. They are museum pieces, but 
+beautiful ones. 
+[io.9 Combinatorial Minimization: Method of Siuulated Annealing] 329 ] 
+rep reery 
+we 
+| 
+| 
+| 
+| 
+| 
+se FALTER tpt rs Byker er re) Temes WroerAY Upwear rl 
+Eg ese 
+1 
+= 
+3 
+4 
+6 
+6 
+7 
+6 
+9 
+| 
+Figure 10.9.1. 
+Traveling salesman problem solved by shuulated anncaliug. 
+The (nearly) 
+shortest path among 100 randomly positioned citics Is shown In (a). The dotted line is a 
+river, but there ls no penalty Jn crossing. 
+In (b) the river-crossing penalty is made largo, 
+and the solution restricts itself to the minimum number of crossings, two. In (c) the penalty 
+bas been made negative: the salesinan ia actually a srnuggler who ¢rossea the river on the 
+fiimsiest excuse! 
+

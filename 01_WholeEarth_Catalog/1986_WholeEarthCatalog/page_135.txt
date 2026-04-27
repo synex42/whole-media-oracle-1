@@ -1,0 +1,158 @@
+—Practical Photovoltaics 
+HOTOVOLTAIC (PV) PANELS make electricity when the sun shines on them. They do it quietly, 
+simply, reliably (at last!), and if not cheaply, at least for less money than last year. They’re already 
+competitive with all other nonutility sources of electricity. The price has been steadily dropping, a 
+you take inflation into consideration, and will drop further as production rises, which it is. 
+= _ Watch a billion dollar industry. being born, folks — PV is coming on line fast. 
+—J. Baldwin 
+Photovoltaics (PV) 
+Practical Photovoltaics presents the theory and practice 
+of photovoltaics in a nontechnical manner; read it and 
+you'll have good reason to claim you know what you're 
+doing. There are complete instructions for assembling 
+your own panels from individual cells (which are often 
+available at a discount) — a great way to save money. 
+The New Solar Electric Home is an update of one of our 
+favorite PV books. The new version concentrates on the 
+design of complete household PV systems, especially the 
+equipment that “‘inverts’’ the low voltage DC power into 
+the 110-volt AC power you and your appliances are used 
+to. (The author recommends the Heart Interface, a device 
+available from most of the suppliers shown on this page.) 
+Recent developments make photovoltaic homes truly 
+practical for the first time. 
+RVers’ Guide to Solar Battery Charging is a finely detailed 
+guide to installing PV systems in your motorhome, trailer, 
+boat, or cabin. I’ve lived PV-powered for six years now 
+and can vouch that this book is what you need to know. 
+Wish I’d had it in 1980. 
+—JB 
+The Sun Frost refrigerator/freezer, very popular with 
+homeowners, has now been discovered by RVers because 
+of innovations which achieve exceptionally low power 
+consumption. The Sun Frost is superinsulated with 3-4 
+inches of polyurethane foam. A top-mounted, herme- 
+tically sealed compressor runs cool and prevents heat 
+from entering the cabinet. A high level of efficiency is 
+developed in a “‘low differential’ evaporator coil. . 
+. 
+. 
+Photovoltaic Suppliers 
+There are now many competent suppliers of trustable 
+equipment. These are a few that | or friends have found 
+to be pleasant to work with. Prices vary; you should 
+shop around. 
+Independent Power Company. Now one of many Photocomm 
+dealers, they hawk their wares in this comprehensive and 
+educational catalog. They offer complete packaged sys- 
+tems for residential power and water pumping, among 
+other things. 
+Wm. Lamb « Solar Electric Specialties. Send Wm. Lamb 
+a letter outlining your needs anywhere in the world, and 
+they‘ll make recommendations based on their free engi- 
+neering service. No catalog, but they’ll supply what 
+they recommend. 
+Solar Electric Specialties offers a similar service. 
+Solar Electric Systems. Specializes in PV for recreational 
+vehicles. Prices are good. They wrote a book too: RVer’s 
+Guide to Solar Battery Charging (above). 
+PS RE 
+BD 
+ET SLT EE DE 
+¢ Fredson’s RV Supply (p. 271) and the marine supply 
+catalogs (p. 289) stock many devices that run on 12-volt DC 
+— just what you need in a simple photovoltaic electric setup. 
+Its superinsulation allows 24-hour shut-off without 
+spoilage. 
+Technically, this unit could run on the output of only two 
+standard PV panels; however, this would not allow any 
+reserve for bad weather. We allow three panels full 
+output just for refrigeration. 
+—RVers’ Guide to Solar Battery Charging 
+A cell can be permanently damaged if a large reverse 
+voltage is applied to the electrodes. There is one circum- 
+stance under which this reverse voltage condition can 
+occur: when one cell is shaded while the rest of the cells 
+in a series string are in sunlight. The current through the 
+string immediately stops, and the sum of all the open- 
+circuit voltages of all the other cells shows up across the 
+shaded cell. The resistance heating effect of the current 
+can make a cell hot enough to melt the solder connections. 
+—Practical Photovoltaics 
+Installing a photovoltaic module. 
+TSO 
+TTT 
+EI IE EE LS 
+ES 
+WindLight Workshop. One of the most experienced 
+supplier/experimenters. Windy Dankoff offers this anno- 
+tated catalog of PV electricity, making and using hardware. 
+Talmage Energy Systems. One of the first Eastern sup- 
+pliers. Has lots of experience with New England weather 
+conditions. 
+—JB 
+Independent Power Company: Catalog $5.95 from Catalog 
+and Mail Order Center, P. O. Box 649, No. San Juan, 
+CA 95960 
+Wm. Lamb Corp.: Information free from Wm. Lamb Corp., 
+10615 Chandler Blvd., North Hollywood, CA 91601 
+Solar Electric Specialities Co.: Information free from Solar 
+Electric Specialties Co., P. O. Box 537, Willits, CA 95490 
+Solar Electric Systems: Catalog free from Solar Electric 
+Systems, P. O. Box 1562, Cave Creek, AZ 8533] 
+WindLight Workshop: Catalog $4 from WindLight 
+Workshop, P. O. Box 548, Santa Cruz, NM 87567 
+Talmage Energy Systems: Catalog $3 from Talmage Energy 
+Systems, P. O. Box 497A, Beachwood Road, Kennebunkport, 
+ME 04046 
+A 
+A 
+ES 
+The PV Network News 
+This quarterly newsletter continues to serve as a clearing- 
+house for PV knowhow developed by folks using photo- 
+voltaics in their daily lives. The product reviews and field- 
+proven tips are often way ahead of more formal publica- 
+tions not so intimately involved with reality. A feature, 
+“Solar Works,”’ is an up-to-date bibliography and source 
+list — itself worth the price of the subscription. 
+—JB 
+PHOTOVOLTAICS 
+HOUSEHOLD 
+133 
+—RVer’s Guide to Solar 
+Battery Charging 
+Practical 
+Photovoltaics 
+Richard J. Komp 
+1984; 196 pp. 
+$16.95 
+($18.45 postpaid) 
+The New Solar 
+Electric Home 
+Joel Davidson 
+1986; 220 pp. 
+$14.95 
+($16.45 postpaid) 
+RVers’ Guide to 
+Solar Battery 
+Charging 
+Noel and Barbara Kirkby 
+1986; 200 pp. 
+$11.95 
+($13.45 postpaid) 
+All from: 
+AATEC Publications 
+P. O. Box 7119 
+Ann Arbor, MI 48107 
+or Whole Earth Access 
+The PV 
+Network News 
+A.D. Paul Wilkins, Editor 
+$1 5/year, 
+includes membership 
+(4 issues) from: 
+The PV Network News 
+Route 2, P. O. Box 274 
+Santa Fe, NM 87505 
+

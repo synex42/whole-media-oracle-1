@@ -1,0 +1,282 @@
+Nene 
+ee 
+Eee 
+ane 
+————eEeEeeeEeEeEeEeEeEeEeEeEeEeEeEeEeEeEeEeEeEeEeEeEeeE—EeEeEE——ee————eeeee 
+¢. res 
+~ COMMUNICATIONS 
+538 COMPUTER AGE 
+Computer Power and Human Reason 
+This book is a center of controversy amongst computerists, 
+especially those working in the field of artificial intelli- 
+gence. 
+It has received extensive praise and criticism, stim- 
+ulated a heated and often bitter debate in the technical 
+journals and generally raised a ruckus. 
+It accomplished all 
+this by raising serious moral and ethical questions regard- 
+ing the use and social impact of computers. 
+My own attitude about this work is mixed — | feel the 
+topic is important but the treatment is lacking. However 
+it is unquestionably significant, if only because of its 
+effects on the information processing community. 
+—Marc Le Brun 
+This was one of the first books | ever read on the subject 
+of computing. 
+Though | agree that its argument isn’t 
+completely convincing, | can’t think of a better introduc- 
+tion to the psycho-social issues in computer programming 
+and artificial intelligence. 
+—Art Kleiner 
+Computer Power and 
+Human Reason 
+(From Judgement 
+to Calculation) 
+Joseph Weizenbaum 
+1976; 300 pp. 
+$7.95 postpaid from: 
+W.H. Freeman and Co. 
+660 Market Street 
+San Francisco, CA 94104 
+or Whole Earth 
+Household Store 
+° 
+For my first experiment, | gave ELIZA a script designed 
+to permit it to play (I should really say parody) the role 
+of a Rogerian psychotherapist engaged in an initial 
+interview with a patient. The Rogerian psychotherapist 
+is relatively easy to imitate because much of his technique 
+consists of drawing his patient out by reflecting the 
+patient's statements back to him. The following conversa- 
+tion between a young lady and ELIZA playing doctor 
+illustrates both the Rogerian technique of encouraging a 
+Patient to keep talking and the operation of the computer 
+Program ELIZA. The first to ‘‘speak’’ is the young lady. 
+The computer's responses are printed entirely in capitals. 
+Men are all alike. 
+IN WHAT WAY 
+They're always bugging us about something or the other. 
+CAN YOU THINK OF A SPECIFIC EXAMPLE 
+Well, my boyfriend made me come here. 
+YOUR BOYFRIEND MADE YOU COME HERE 
+He says I’m depressed much of the time. 
+| AM SORRY TO HEAR YOU ARE DEPRESSED 
+It’s true. 
+| am unhappy. 
+DO YOU THINK COMING HERE WILL HELP YOU 
+NOT TO BE UNHAPPY 
+Principles of Interactive Computer Graphics 
+The Bible of Computer Grafix. 
+This is the second edition, 
+and it’s really up-to-date with state of the art stuff. 
+—Christopher Kent 
+Principles of 
+Interactive 
+Computer Graphics 
+William M. Newman 
+and Robert F. Sproul! 
+1973, 1979; 541 pp. 
+$26.95 postpaid from: 
+McGraw-Hill Book Co. 
+Princeton Road 
+Hightstown, NJ 08520 
+or Whole Earth 
+Household Store 
+€— Use of a menu of colors 
+for painting 
+A computer-generated 
+image of a teapot with 
+simulated specular reflec- 
+tions of light entering 
+through a window 
+ty 
+Design and Memory 
+A wise book about how civilization will adapt to comput- 
+ing and vice versa. 
+The authors are among the first to 
+notice in print that the styles and practices of program- 
+ming are already influencing the rest of the culture. 
+The 
+book looks forward to a shared intelligence between 
+humans and computers, on the order of (but more inter- 
+wovenly complex than) this dialog: Computer: “A 
+and B have 4 similarities and 1,317 dissimilarities.” 
+Person: “Yes, but the differences arent important, “ 
+Peter Huyck and Nellie 
+Kremenak are programmers who 
+write English wittily and literately even by New Yorker 
+standards. 
+There’s a gem of insight into the human- 
+machine relationship on practically every page of 
+their book. 
+—Art Kleiner 
+Design and Memory 
+(Computer Programming 
+in the 20th Century) 
+Peter H. Huyck and 
+Nellie W. Kremenak 
+1980; 152 pp. 
+$1 1.95 postpaid from: 
+McGraw-Hill Book Company 
+Princeton Road 
+Hightstown, NJ 08520 
+or Whole Earth 
+Household Store 
+e 
+Exercise for students 
+We have some code which allows the banks to know more 
+about us, but where is the code which allows us to know 
+more about the banks? Write this code. 
+Lewis Mumford described the clock as the ‘‘key-machine” 
+of the modern industrial age and considered its invention 
+more significant than that of the steam engine. 
+“The clock, moreover, is a piece of power-machinery whose 
+‘product’ is seconds and minutes: by its essential nature 
+it dissociated time from human events and helped create 
+the belief in an independent world of mathematically 
+measurable sequences: the special world of science.” 
+In the case of human/television interaction, the human 
+is the more adaptive partner, and so there is a tendency 
+for the human to adapt to the TV (watch whatever is on) 
+rather than for the TV to adapt to the human (program- 
+ming changes), which involves a long and complex feed- 
+back loop. The same problem arises in a human/program- 
+in-computing-machine partnership. The human can adapt 
+quickly, but the feedback for the machine to adapt 
+(particularly if the human is not a programmer) is long 
+and complex. 
+What is on television is due largely to accidents of history 
+and the subsequent skewing of evolution by considera- 
+tions of the marketplace. Current human/machine 
+systems are also early accidents, and the systems of the 
+future will evolve from them. We should tamper with 
+existing systems in the direction of incorporating more 
+sophisticated assumptions than are found in the average 
+bit of FORTRAN so that the systems of the future will 
+have evolved from happier accidents. As a minimum step 
+toward this goal, the feedback loop for machine adapta- 
+tion must be shortened so that machines will be at least 
+as adaptable as humans —a 
+tall order. Otherwise, the 
+machines will win out as we adapt to them. 
+It will not be 
+an exotic win of the sci-fi type, but a win of drudgery, 
+inconsequence, boredom, and stacks of output. 
+| need some help, that much seems certain. 
+WHAT WOULD IT MEAN TO YOU IF YOU GOT 
+SOME HELP 
+Perhaps | could learn to get along with my mother. 
+TELL ME MORE ABOUT YOUR FAMILY 
+My mother takes care of me. 
+WHO ELSE IN YOUR FAMILY TAKES CARE OF YOU 
+My father. 
+YOUR FATHER 
+You are like my father in some ways. 
+WHAT RESEMBLANCE DO YOU SEE 
+You are not very aggressive but | think you don't want 
+me to notice that. 
+WHAT MAKES YOU THINK | AM NOT 
+VERY AGGRESSIVE 
+You don't argue with me. 
+WHY DO YOU THINK |! DON’T ARGUE WITH YOU 
+You are afraid of me. 
+DOES IT PLEASE YOU TO BELIEVE | AM AFRAID 
+OF YOU 
+My father is afraid of everybody. 
+WHAT ELSE COMES TO MIND WHEN YOU THINK 
+OF YOUR FATHER 
+COMPUTER PARANOIA 
+CUTS BOTH WAYS 
+by Dirk Hanson 
+A report compiled for the business community by 
+Stanford Research Institute’s Business Intelligence 
+Program has this to say: ‘““The reason (distributed 
+processing) computer networks will not be avail- 
+able to the general public at an earlier date is 
+primarily one of security. At present, fraudulent 
+input or access to a data base management system 
+cannot be prevented.”’ (Italics mine.) 
+This is a vital piece of information that the industry 
+does not want you to know. There’s this security 
+problem. Large, flexible time-shared computer 
+systems are swiss cheese. Ask a programmer. 
+Computer crime is a growth industry. Computer 
+security is a myth. For every new data encryption 
+system, there’s a programmer out there somewhere 
+who can crack it. A program that sneaks you into 
+an operating system is called a Trojan Horse. At 
+most computer centers, the Trojan Horse is 
+already inside the gates. 
+Some grim worst-case scenarios might just be 
+floating through corporate corridors these days. 
+Striking British civil servants recently turned off 
+key government computer systems, and the result 
+was chaos. Some of the information and assets 
+probably will not be recoverable. The strikers 
+simply pulled the plugs. Crude, but effective. 
+Bullies. 
+DOES THAT HAVE ANYTHING TO DO WITH THE 
+FACT THAT YOUR BOYFRIEND MADE YOU 
+COME HERE... 
+The shocks | experienced as DOCTOR became widely 
+known and “‘played”’ were due principally to three 
+distinct events. 
+1. A number of practicing psychiatrists seriously believed 
+the DOCTOR computer program could grow into a 
+nearly completely automatic form of psychotherapy 
+. 
+2. | was startled to see how quickly and how very deeply 
+people conversing with DOCTOR became emotionally 
+involved with the computer and how unequivocally they 
+anthropomorphized it. Once my secretary, who had 
+watched me work on the program for many months and 
+therefore surely knew it to be merely a computer program, 
+started conversing with it... 
+. 
+3. Another widespread, and to me surprising, reaction to 
+the ELIZA program was the spread of a belief that it 
+demonstrated a general solution to the problem of com- 
+puter understanding or natural language. 
+In my paper, 
+| had tried to say that no general solution to that problem 
+was possible, i.e., that language is understood only in 
+contextual frameworks, that even these can be shared by 
+people to only a limited extent, and that consequently 
+even people are not embodiments of any such 
+general solution. 
+[Note: the ELIZA program is available. See p. 532.] 
+But what about the likelihood of more sophis- 
+ticated guerilla tactics, as computer know-how 
+spreads throughout the populace? 
+Quite a quandary for industry people: They want 
+you as a customer, but can they trust you? They 
+need to sell you computers and teach you the 
+mechanics of programming, but they don’t want 
+to let you too far into the distributed processing 
+loop. They need your business, but they’re 
+scared of you. No kidding. As time goes by, you 
+could become too smart for their own good. 
+Computer paranoia cuts both ways. The industry 
+may be nervous about widespread consumer 
+participation in future networks, but it seems 
+much less concerned about consumer privacy 
+abuses in current systems. 
+It’s common knowledge 
+— at least it should be — that information which 
+goes into such systems, information about you, 
+your habits and activities, information from which 
+your preferences can be deduced, is accessible to 
+almost anyone. Credit records, criminal records, 
+medical records, driving records, financial data — 
+the whole gamut. Right now, most of it is 
+fair game. 
+It’s a muddy affair. Who decides who gets access 
+to what? There’s reason to be wary of controls 
+and limitations on access to digitized information, 
+and equal reason to worry about what will happen 
+if there are no such controls. The deciding in 
+theory will be a sociopolitical matter; the accessing 
+in truth will be by those who know how. And the 
+what being accessed will be almost everything. 
+= 
+

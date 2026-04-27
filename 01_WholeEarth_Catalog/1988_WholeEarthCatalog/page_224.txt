@@ -1,0 +1,276 @@
+220 
+AB — 
+CHEAP 
+INDEX 
+Book and software items are indi- 
+cated by italics. Articles and surveys 
+are in “quotes.” 
+AB Bookman’s Weekly, 43 
+AB Inform, 51 
+ABC of Reading, 42 
+Access Reports/FYI, 196 
+A*C*E, 89 
+Act of Creation, 214 
+Acting, 106-107 
+Acupuncture, III 
+Advanced Electronic Applications, Inc., 85 
+Advances, 204 
+Advertising, 186, 189-190 
+“Advertising Doesn't Work”’, 190 
+Advertising Pure and Simple, 190 
+Advertising, The Uneasy Persuasion, 190 
+Aerial photographs, 137 
+see also Cartography 
+AFM, 40 
+African Rhythm and African Sensibility, 135 
+Al Expert, 203 
+AIDS Stack, 165 
+Album of Fluid Motion, 10 
+Alcazar, 124 
+Alchemy, 126 
+Alchemy of Finance, 84 
+Aldus FreeHand, 147 
+Algorithmic Image, |48 
+Algorithms, 21 
+All Night Media Inc., 64 
+Almanacs, 47 
+Alphapacer, 206 
+Alpha Stim, 206 
+Alternative Printing Handbook, 64 
+Alternative news sources, 53 
+Alto, 69 
+AmandaStories, 165 
+American Audio Prose Library, 122 
+American Cinematographer, 98 
+American Culture: A Deaf Perspective, 36 
+American Demographics, 186 
+American Radio Relay League, 85 
+American Splendor, 152 
+American Technology Resources, 93 
+Amiga 500, 149, 167 
+Amygdala, 
+|| 
+An Actor Prepares, 106 
+ANARC (Association of North American 
+Radio Clubs), 88 
+Andy's Front Hall, 124 
+Angels Fear, 205 
+Animals 
+behavior, I10 
+interspecies communication, 133 
+Animation, 99 
+Animator's Workbook, 99 
+Answering machines, 78 
+Anthropology, 154 
+Apple Programmers and Developers Association, 168 
+Apple computers 
+Apple lle, 167 
+Macintosh, 166-68 
+Archetypes, 4, 212 
+Arrival, 41 
+ARRL (American Radio Relay League), 85 
+Art 
+animation, 99 
+body language, 110 
+drawing, 146 
+experimental, 144 
+performing arts, 105-107, 109, 112-15 
+and philosophy, 5 
+printmaking, 65 
+reference, 156 
+supplies, 145, 147 
+symbols in, 4 
+see also Computer graphics, Design, Software 
+Art & Camouflage, 136 
+Art Com Electronic Network, 112 
+Art Forms in Nature, |5 
+Art Hardware, |45 
+Art Matrix, II 
+Art of Asking Questions, 120 
+INDEX 
+Compiled by David Burnor 
+Art of Noises, 135 
+“Art of the Interview”’, 117 
+Artificial intelligence, 202-203 
+Artificial Intelligence Using C, 203 
+Artificial life, 8, 13 
+“Artificial Life 4-H Show’’, 13 
+Artist’s Silkscreen Manual, 65 
+Assembly Language Primer for the IBM PC & XT, 20 
+Assembly language programming, 20 
+Association of North American 
+Radio Clubs (ANARC), 88 
+Associations, Encyclopedia of, 47 
+AT Clones, 167 
+At a Journal Workshop, 37 
+Atari SE Virus, 19 
+Audio-Forum, 35 
+Audio recordings, 121-24 
+Audition, 106 
+AutoCAD, 150 
+Automatic Subject Citation Alert, 52 
+Avonlea Books, 43 
+Ballast, 213 
+Banned books, 194 
+Bartlett's Familiar Quotations, 47 
+BASIC, programming in, 20 
+Basic Concepts in Music, |31 
+Basic Course in American Sign Language, 36 
+BASIC: Getting Started, 20 
+BASIC Handbook, 20 
+Basic Robotic Concepts, 178 
+Bear's Guide to Nontraditional College Degrees, 46 
+Beauty of Fractals, || 
+Before You Buy a Used Computer, 173 
+Beginner's BASIC, 20 
+Bell Labs Virus, 19 
+Berkeley Macintosh User Group (BMUG), 169 
+Berlitz Video for Travellers, 35 
+Best of Maledicta, 27 
+Bettmann Archive, 157 
+Bibliography on Soviet Intelligence and Security 
+Services, 197 
+Big SiSter, 196 
+Bioelectricity, II] 
+Biofeedback, 206 
+Biographies, 47 
+Biomorphs, 8, 13 
+BIX (Byte Information Exchange), 75 
+Bizzaro, Inc., 64 
+Blind Watchmaker, 8 
+[Left] Sifting through early drafts 
+of these pages to squeeze out 
+an index. David Burnor set up a 
+Compaq Plus (IBM compatible) 
+using the intergrated database, 
+Smart, which has been custom 
+programmed to collate this 
+book's index. He was unexpect- 
+edly invited to join the Indexer's 
+Association on the strength of 
+his indices for Whole Earth 
+Review, which one of their 
+members had spotted. 
+pages intact as they travel 
+around the offices. A bucket 
+ferries the items, as well as the 
+writing, for each spread. Lori 
+hustles up some empties. 
+BMUG, 169 
+Body Electric, \\\ 
+Body language, 110 
+Boeing Graph, 140 
+BOMB, 41 
+Book, Catalog, and Magazine Printers, 
+Directory of, 62 
+Book Marketing Made Easier, 63 
+Book Marketing Opportunities Database, 63 
+Book Marketing Update, 63 
+Book of Meeting Checklists, 101 
+Bookbinding, 59, 60 
+Books on Tape, 122 
+Books 
+banned, 194 
+marketing, 63 
+out-of-print, 43 
+production of, 58-60, 64 
+publishing, 57, 61-62 
+reading, 42, 118 
+recorded, 122 
+Boston Computer Society, 169 
+Box of Water, 67 
+Brain, 202, 206, 208-12 
+Brain/Mind Bulletin, 204 
+Brewer's Dictionary of Phrase and Fable, 47 
+Broadcasting, 92 
+Buckley-Little Book Catalogue, 43 
+Build Your Own IBM Compatible, 172 
+Bulletin board systems, 73-76 
+“Bulletin Board Proletariat’, 76 
+Bureaucracy, 72 
+Burrelle’s Press Clippings, 52 
+Business 
+advertising & marketing, 186-90 
+conferences, 81, 100, 103 
+home office, 174 
+see also Economics 
+“Busking — Or How to Make Music on the 
+Sidewalk’’, 113 
+Buy Books Where, Sell Books Where, 43 
+“Bypassing the Phone Companies’, 85 
+Byte Information Exchange (BIX), 75 
+(C) Brain Virus, 19 
+C Programming Language, 20 
+CA (Cellular Automata), 8-9 
+Cable News Network, 96 
+CAD (Computer Aided Design), 150 
+[Right] Buckets keep each pair of 
+CAD/CAM Journal, 150 
+CADENCE, 150 
+Caedmon, 122 
+Calculators, 24 
+Calligrapher’s Handbook, 33 
+Calligraphy, 33 
+Calumet, 158 
+Cameras 
+still, 158 
+video, 96 
+Camouflage, 136 
+Campaigns & Elections, 184 
+Camé6 Board, 9 
+Canon Cat, 167 
+Canon Fax 110, 162 
+Canon PC 20 Personal Copier, 66 
+Canvas, 147 
+Cap Scan, 206 
+Cartography, 138-39 
+Cartoon Colour Co., 99 
+; 
+Cartoon Guide to Genetics, |4 
+‘ 
+Cartoons, 153 
+; 
+Casio CZ-| Synthesizer, 127 
+Casio FZ-| and F-ZI0M Digital Samplers, 126 
+“Cassette Conspiracy”’, 121 
+Cassette Mythos, 121 
+Cassettes 
+audio, 121-24 
+video, 94-95 
+CB Simulator, 75 
+CBS “Audio File’ Sound Effects Library, 134 
+CCS Communication Control, Inc., 199 
+CD-ROM, 139, 163, 169 
+j 
+CD-ROM: The New Papyrus (Vol. 1), 163 
+; 
+CD-ROM: Optical Publishing (Vol. 2), 163 
+; 
+CD-ROM: Interactive Multimedia (Vol. 3), 163 
+CD-ROM Review, 163 
+re 
+Cell Systems, 9 
+Cellular Automata, 8-9 
+Cellular Automata Machines, 9 
+Cellular Mobile Telephone Guide, 87 
+Cellular Telephones, 87 
+. 
+CENDATA, 186 
+j 
+Censorship, 194 
+Censorship News, |94 
+Census Catalog and Guide, |86 
+Center for Investigative Reporting, 45 
+CG. Jung: Word and Image, 212 
+Chaos, 10 
+Chaos and Graphics, Journal of, 10 
+Chariot, 75 
+Charrette, 145 
+Charts, graphs, 140 
+“Cheap IBM Clones’’, 172 
+“Cheap(er) Desktop Publishing 
+on the IBM”’, 59 
+tld 
+lead 
+ae 
+

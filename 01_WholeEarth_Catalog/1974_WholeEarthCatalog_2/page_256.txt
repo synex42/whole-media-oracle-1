@@ -1,0 +1,260 @@
+People’s Computer Company 
+This page was assembled by PCC. See their excellent 
+be 
+newsletter, Pg. 724. For a depiction of the computer life, 
+; 
+see Two Cybernetic Frontiers, Pg. 455. 
+—SB 
+— 
+-_ 
+Cybernetics for the Modern Mind 
+Finally an excellent general introduction to computer science. 
+Here are the principles by which information flows in our 
+c 
+Western world these days. For creativity or self-protection 
+= 
+we‘d best comprehend them. 
+Cybernetics for the 
+Modern Mind 
+Walter R. Fuchs 
+1968, 1971;357pp. 
+$6.95 Postpaid 
+from: 
+Macmillan Pub. Co., Inc. 
+Order Dept. 
+Front and Brown Sts. 
+Riverside, NJ 08075 
+or Whole Earth 
+Two water taps A and B in parallel, only prevent an 
+> 
+indicator wheel (on right) from turning when they are 
+; 
+both closed (bottom). In order to make water flow only 
+5 
+one of the taps needs to be opened. This connection is 
+known as an ‘Or-connection’. 
+t 
+les 
+TTL Cookbook 
+“TTL” means transistor-transistor logic—— the new 
+integrated circuit raw material for cheap homebuilt logic 
+machines. The book assumes you know basic electronics 
+and takes you the rest of the way from there—— it’s a 
+major breakthrough for the tinkerer. 
+"Nate 
+ele 
+—SB 
+TIL Cookbook 
+Donald’E. Lancaster 
+1974; 335pp. 
+$8.95 postpaid 
+from: 
+Howard W. Sams & Co., Inc. 
+4300 W. 62nd St. 
+Indianapolis, IN 46268 
+or Whole Earth 
+ARITHMETIC UNIT (CPU) 
+AHR 
+BH 
+HF 
+oer 
+me 
+fo fi R 
+This is a versotile arithmetic 
+element. It may be used to odd, sub- 
+tract, or shift two 4-bit words, make magnitude comparisons, perform 
+numerous other arithmetic operations, and generote logic functions. 
+it is normally used os the central processing 
+unit for a 
+computer. As 
+cascaded. 
+aM 
+A Computer Perspective 
+An Eames exhibit on the development of the computer 
+rendered into book form. Finely wrought. This brief field 
+has an instantly long and rich history. 
+A Computer Perspective _ from: 
+By the office of Charles & 
+Harvard University Press 
+Ray Eames 
+79 Garden St. 
+1973; 174pp. 
+Cambridge, MA 02138 
+$15.00 postpaid 
+or Whole Earth 
+Fry £ 
+9000000000090000° 
+a 
+990000000000 
+90900000000 
+990060000000000000 
+9900000000 
+990000000 
+Patent for Hollerith electric tabulating machine. Following 
+a suggestion made by Dr. John Shaw Billings, the medical 
+statistician, Hollerith applied to statistics the punch card 
+information principle of the Jacquard loom. 
+Utopias now appear much more realizable than one used to 
+think. We are now faced with a very different new worry: 
+How to prevent their realization? 
+—Nicolas Berdiaeff 
+Cybernetics of Cybernetics 
+The field of conceptual cybernetics is a howling wilderness 
+just now, inviting a tough breed of brainy hunters-and- 
+gatherers into its mysteries. 
+This creamy selection of 
+papers and motley tangle of ideas mustered by Heinz 
+Von Foerster and his students at the University of I/linois 
+is both treasure map and thick dark woods. 
+Labyrinths 
+of self-reference and meta-self-reference; babels of technical 
+terminology basically alchemical; a new gnosticism. 
+Watch out. 
+—SB 
+[Until the editors find a publisher, inquire to “Cybernetics » 
+of Cybernetics” 2716 E.E.R.L., University of Illinois, 
+Urbana fl 61801.] 
+: 
+Q What is Cybernetics? 
+A | would like to call Cybernetics an offer. 
+Q What does Cybernetics offer? 
+A Cybernetics offers access to and interaction with 
+complex systems in order that they may appear 
+simple; to and with apparently simple systems in 
+order that their complexity may be revealed. 
+Resource One Newsletter 
+Resource One is a dozen people confronted with complete 
+control and total responsibility for fifty feet of grey boxes 
+called an XDS-940 time-sharing computer. The milieu is 
+anti-profit and directed towards social change with decisions 
+made by consensus at weekly staff meetings. The basic 
+tensions of the situation center around the problems of a 
+politically diverse, self-managed working group with heavy 
+commitments and considerable resources, and they center 
+at the fundamental tension between person and machine. 
+Resource One 
+from: 
+yours for contribution 
+1380 Howard St. 
+i 
+San Francisco, CA 94103 
+——_>P———$s 
+i 
+pha 
+For too long have computers been the center of a mystique 
+and nowhere has this been more evident than in the 
+languages with strange names, ALGOL, COBOL, FORTRA 
+which frighten off those whose interest is not sufficient to 
+sustain them through months of study, page after miserable 
+page of boring and incomprehensible jargon and math. Basic’ 
+was developed so that “people” could use computers easily. 
+So useful has it proved, that it can be said that before Basic, 
+computers were for math majors and after Basic computers 
+were fun. 
+rf 
+Computers which run in Basic are small, cheap and beginnin 
+to be produced by the tens of thousands. Shared time is 
+— 
+likewise cheap in most metropolitan areas. This self teaching 
+book is for fun too —— but is no lightweight, for few college 
+courses cover more in two semesters, and long before the 
+book is finished the reader is quite able to confidently use 
+the computer as a too/—— or a toy. Even if there isno 
+immediate access to a computer (it is not needed to learn 
+from the book) by the end of the book the principles of 
+— 
+programming are thoroughly understood and the principles 
+are equally applicable to any computer or language which 
+may be later studied. 
+ie 
+Critics complain that there is little that Basic does that 
+cannot be done better by other high level languages—— and 
+this is true, but it is equally valid to reply that there is little 
+that the same languages do that Basic. cannot do nearly as 
+well—— but with one fourth the cost and one tenth the 
+effort! 
+~ 
+—Keith Britton 
+Basic 
+Robert L. Albrecht, 
+LeRoy Finkel, Jerald 
+R. Brown 
+1973; 325pp. 
+$3.95 postpaid By 
+from: 
+a 
+John Wiley & Sons, Inc. 
+One Wiley Drive 
+Somerset, NJ 08873. 
+Western Dist. Center 
+1530 S. Redwood Rd. 
+Salt Lake City, UT 84104 
+or Whole Earth 
+20. 
+Here is one version of a population growth program. 
+100 REMARK PROGRAM T@ CALCULATE POPULATION GROWTH 
+110 PRINT “INITIAL POPULATION" 
+120 INPUT P 
+130 PRINT “RATE @F GROWTH") 
+140 INPUT R 
+150 PRINT “NUMBER @F YEARS" 
+160 INPUT N 
+170 LET O=P#(1+R/1002¢N 
+180 PRINT 
+190 PRINT “POPULATION AFTER"SNS"YEARS. IS"3@ 
+999 END 
+RUN 
+INITIAL P@PULATI@ON?1000 
+RATE @F GROWTH?1 
+NUMBER OF YEARS?720 
+POPULATION AFTER 20 YEARS 
+IS 1220.19 
+WINS 
+We'll call it 1220 people 
+Fundamental Algorithms 
+; 
+3 
+Fundamental Algorithms is the definitive text on computer 
+programming techniques: Since its publication in 1968, few 
+computer bibliographies and reference lists have failed 
+to 
+mention it. This is understandable, as it stands unchallenge 
+in its thorough and authoritative treatment of a simple, 
+important subject previously rarely approached, let alone 
+in such an entertaining and engaging style: the organization 
+-and management of the fundamental data structures of (all) 
+programming; and the mathematical methods useful for the 
+analysis of program behavior. 
+5 
+This book is invaluable to computer specialists of all kinds. 
+It is a marvelous textbook as well as an indispensable 
+reference. 
+But even people whose use of computers is 
+incidental to their work will find this. text very informative. 
+It not only provides a better understanding of computer 
+programs, but the understanding needed to better your 
+programs. 
+" 
+| 
+Knuth’s style is informal and informative. 
+The reader quick 
+affirms that the book is indeed filled with “facts rather than 
+vague, general commentary.” Part of the delight in reading 
+Fundamental Algorithms is in witnessing the superb 
+/ 
+quantification of simple programming principles you 
+_ 
+thought you knew. 
+There are hundreds of excellent 
+— 
+exercises, rated (by the author) from trivial to “research — 
+problem,” most of which are solved in the last 140 pages. 
+Interesting historical sections and a complete (and usable!) 
+index round out this fine production which is remarkably 
+free of typographical, graphical and contextual errors. 
+[With the publication of the Second Edition, Knuth has 
+_ 
+raised the bounty for first-discovery of an error from $1 to 
+$2. (You won't get rich that way.)] 
+: 
+

@@ -1,0 +1,334 @@
+ne 
+i 
+_ He took an electric typewriter and colored tne 
+a. 
+ht. 
+The Radio Amateur’s Handbook 
+10 
+The Radio Amateur's Handbook 
+10a 
+This has been the pracitcal 
+guide for radio amateurs for 43 
+years, 
+It begins with the 
+fundamentals of electric circuits and 
+follows a simple development of the 
+radio theory necessary to understand 
+communications. 
+There is brief 
+section on laws governing amateurs 
+and references 
+to other books that 
+are valuable aids in obtaining a 
+license, 
+10b 
+Throughout the book actual 
+circuits are shown, always with 
+enough information to build then, 
+Later sections cover complete 
+construction details for various 
+transmitters and receivers but don't 
+be misled by their apparant 
+simplicity. 
+It takes a lot of time 
+and know-how to make these things 
+work and unless circuit building is 
+_ your thing you are better off to buy 
+commercial equipment or kits. 
+(Heathkit is one of the best sources 
+for ham gear.) 
+[Reviewed by Bill English. Suggested by Arthur Brand] 
+The above review was prepared and printed ona 
+computer by Bill English -- as you can see, the 
+fluidity of computer interaction makes spelling 
+more casual than with direct hard print. 
+A FEATHERWEIGHT PORTABLE STATION FOR 50 
+Fig. 19-6—The 
+50-Mc. 
+tran- 
+sistor 
+station, complete with 
+microphone, battery and an- 
+MOBILE 
+MANUAL 
+tenna 
+system, 
+weighs 
+in at 
+under 3 pounds. The antenna 
+coupler built in a small plas- 
+tic 
+parts 
+box 
+is used 
+with 
+random “long wires.’ Coax- 
+fed antennas connect direct- 
+ly to the BNC fitting on the 
+top of the case. 
+The important thing in beginning to study code 
+is to think of it as a language of sound, never 
+as combinations of dots and dashes. It is easy to 
+“speak” code equivalents 
+by using “dit” and 
+“dah,” so that A would be “didah” 
+The 
+The Radio Amateur’s Handbook may be of interest 
+to the communities and enclaves who‘ve been 
+fantasizing an underground radio net, Like a night 
+of the week or month when all the world’s long-hairs 
+are on the air, vibing to each other and the stars. 
+The Radio Amateur’s Handbook 
+American Radio Relay League 
+1925...1969; 611 pp 
+$4.00 postpaid; $4.50 Canada; $5.50 elsewhere 
+‘from 
+The American Radio Relay League 
+Newington, Conn. 06111 
+Radio Amateur’ 
+Handbook 
+TRANSMITTER 
+0 = 
+cay’ 
+*) _ 
+MODULATOR 
+| 
+"| 
+lk 
+ALTERNATE CIRCUIT 
+ne 
+FOR TRANSMITTER 
+vs 
+Fig. 
+19-8 
+Schematic 
+diagrom 
+and 
+ports 
+information 
+for the complete 
+50-Mc. 
+station. 
+Resistors 
+are 
+com- 
+position, '2-watt or less unless specified. 
+Copocitors C, through C: are dipped silver-mica. 
+Others are ceramic 
+unless indicated. Decimal values are in ub; others 
+MC. 
+UNDERSTANDING AMATEUR RADIO = 
+Written for the beginner, it explains in simple 
+language the elementary principles of electronic and radio circuits, tells how transmitters, 
+receivers and antennas work, and includes complete how-to-build-it information on low- 
+cost gear—receivers, phone and code transmitters up to 150 watts, v.h.f., measurements, 
+and easy to build antenna systems. A “must” guide for the newcomer in setting up and 
+operating his station. $2.50 U.S.A., $3.00 Elsewhere. 
+HOW TO BECOME A RADIO AMATEUR 
+The standard elementary guide for the 
+Prospective amateur. Tells what amateur radio is, and how to get started. Special atten- 
+tion is given the needs of the Novice class licensee. It features equipment which is simple 
+in construction, yet with a high degree of flexibility; this permits the various units to fit 
+Ps the more elaborate station layouts, which inevitably result as the amateur progresses. 
+1.00. 
+THE RADIO AMATEUR’S LICENSE MANUAL 
+Tells how to get your amateur radio 
+license. In addition to a large amount of general information, it contains typical questions 
+and answers such as are asked in the government examinations. If you know the answers 
+to the questions in this book, you can pass the examinations without trouble. $1.00. 
+in pf. unless indicated. 
+UNDERSTANDING 
+QRG 
+Will you tell me my exact frequency (or that 
+(<) aR )? Your exact frequency 
+(or that 
+BECOME 
+OL tite sak DiSiatere aes ke. 
+A RADIC 
+LICENSE 
+QRH 
+ie my frequency vary? Your frequency var- 
+AMATEUR 
+MANUAL 
+QRI 
+How is the tone of my transmission? The tone of 
+: 
+your transmission is..... (1. Good; 2. Vari- 
+able; 3. Bad). 
+QRJ 
+Are you receiving me badly? Are my signals 
+weak? I cannot receive you. Your signals are 
+too weak. 
+QRK 
+What is the intelligibility of my signals (or those 
+of...)? 
+The 
+intelligibility 
+of your 
+signals 
+(or those of...) is..(1. bad; 2. poor; 3. fair; 
+4. good; 5. excellent. 
+ELECTRIC AND MAGNETIC FIELDS 
+PURLISHER BY THE AMESICAS RAKIO RELBY 
+When something occurs at one point in space 
+TMW 
+Tomorrow 
+because 
+something 
+else happened 
+at another 
+HNN SS 
+one 
+point, with no visible means by which the “cause” 
+TU 
+Thank you 
+can be related to the “effect,” we say the two 
+Ae 
+AS 
+se seriereuee 
+events are connected by a field. In radio work, the 
+UR-URS 
+Your; you’re; yours 
+fields with which we are concerned are the elec- 
+Veo 
+Vo 
+ee er ae 
+tric and magnetic, and the combination of the 
+Wa 
+Word aiior 
+two called the electromagnetic field. 
+WD-WDS 
+Word: words 
+A field has two important properties, intensity 
+WKD-WKG 
+Worked; working 
+(magnitude) 
+and direction. The field exerts a 
+Seg 
+be og 
+force on an object immersed 
+in it; this force 
+wx 
+Weather 
+represents potential (ready-to-be-used) 
+energy, 
+aa CEX) aes 
+so the potential of the field is a measure of the 
+Wife 
+KYL (YF) 
+L 
+field intensity. The direction of the field is the 
+pe 
+Bones deers 
+direction in which the object on which the force 
+88 
+Love and kisses 
+is exerted will tend to move. 
+SSS SSS 
+SS 
+cp 
+Education 
+Automation 
+This book is listed under “Communication” rather than 
+“Learning” because Fuller is mainly concerned with access 
+in this book: designing ready access to comprehensive and 
+replicable information and designing mobility as the basis 
+of education. 
+You don’t need a detailed drawing; we do not 
+make that kind of communication to a craftsman 
+anymore; but all the schools go on teaching 
+that we do. The data no longer goes to the craftsman; 
+it goes to the tools. The idea of drafting measured 
+details is going to become obsolete. 
+We don’t want 
+He developed a hypothetical working assumption 
+Education Automation 
+that there was a drive of the new life to demonstrate 
+R. Buckminster Fuller 
+competence, and began working with his own 
+1962; 88 pp. 
+child when she was two and one-half years old. 
+keys to correspond with the touch system. He 
+then colored his child’s fingernails to correspond 
+with the keys each finger should operate.. 
+He had a 
+hidden electric key, and when she 
+didn’t match the correct finger to the typewriter 
+key the circuit was not closed. When she put 
+the correctly colored finger on it the key worked, 
+-and quickly she learned to match her fingers to 
+the proper keys. Every time she touched a key 
+with the proper finger, no only did it print on 
+the paper, but a big letter also came up ina 
+window. By the time the child was three she was 
+from: 
+_ typing swiftly with the touch system the stories 
+that were generated in her imagination. She 
+seemed to find it just as easy to communicate 
+this way as by talking. 
+|-would say, then, that you are faced with a future in which education 
+is going to be number one amongst the great world industries, within 
+which will flourish an educational machine technology that will provide 
+tools such as the individually selected and articulated two-way TV and 
+an intercontinentally net-worked, documentaries call-up system, 
+operative over any home two-way TV set. 
+national affairs, and you know what is happening today. 
+environment. 
+Southern Illinois University Press 
+600 West Grand 
+Carbondale, I!linois 62903 
+or 
+WHOLE EARTH CATALOG 
+1 would counsel you in your deliberation regarding getting campuses 
+ready now to get general comprehensive environmental controls that 
+are suitable to all-purposes like a circus. A circus is a transformable 
+$1.95 
+postpaid 
+any more measured detail drafting. What we 
+want is the man who gets the fundamental 
+concept, the information significance and can do 
+some comprehensive thinking regarding that 
+information. He will put the data into the information 
+we have had in schools. 
+Education 
+Automation 
+Freeing the scholar 
+to return to his studies 
+R. Buckminster Fuller 
+machines, and it will be processed by automation 
+into physical realization of his effective thinking. 
+We don’t need many of the myriad of “things” 
+The point is that we — both as individuals and 
+as society -- are quite rapidly uprooting ourselves, 
+We never were trees and never had roots, but 
+due to shortsightedness we believed blindly and 
+behaved as though we did. Today we are extra- 
+ordinarily mobile, 
+In this last election, 10 per 
+cent of the national electorate were unable to vote 
+because they hadn’t been in their new places 
+long enough. The accelerating mobility curve 
+that | just gave you indicates that by the next election 25 
+per cent of America will not be able to vote due 
+to recentness of moving, and in the following 
+election possibly less than the majority will be 
+able to vote. We are simply going to have to 
+change our political basis. We are now at the point 
+where the concept of our geographically-basec 
+representation — which assumes that it realistically 
+represents the human beings — is no longer valid. 
+The political machine alone will continue to stay local, 
+It sees the people as statically local. So those 
+who are politically ambitious just stay put while 
+society moves on, and, therefore, the static 
+politicians become invisible to the swiftly moving 
+body oolitic, which cannot keep track of their 
+static machinations since society does not stay 
+long enough in any one place to be effective 
+in reviewing the local political initiations, The 
+political machines soon will have no one to 
+challenge realistically their existence validity 
+except the local newspapers, whose purely local 
+political news becomes progressively of less 
+interest to a world-mobilizing society. 
+

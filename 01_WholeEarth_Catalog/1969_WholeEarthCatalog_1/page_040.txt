@@ -1,0 +1,283 @@
+Foam Experiments 
+Plastic foams are entering the building industry. Shot from 
+guns, poured into molds, or vacuum formed, foam is produced 
+by mixing two liquids which expand to form the cellular 
+structure. 
+Recent technological advances with urethane foams in 
+application, fabrication, and product contro/ have led to 
+the current wave of experimentation. Designers such as 
+Douglas Deeds and Felix Drury are working on structural 
+applications of foam, hoping to achieve free-form buildings. 
+Equipment for spraying is expensive: a foam rig is $1,500- 
+7,000, and foam itself runs about 10 ¢ per board foot (1” x 
+12”, one inch thick) if you’re doing your own application, 
+and buying bulk materials, 
+Its biggest applications now are 
+in roofing and as insulation. 
+This book describes a government sponsored project to 
+determine the potential use of foam for housing in under- 
+developed areas. 
+It may well be that building codes, unions, 
+lumber lobby interests, etc., will hold up foam development 
+in the U.S., and that the real advances will be made in other 
+countries, Details are given here on several years of testing 
+various structural applications of polystyrene and polyure- 
+thane foams. There are pictures, construction details, draw- 
+ings, graphs and charts on test results. Since this work 
+was 
+done several years ago, recent improvements in foams may 
+have superceded some of the conclusions. 
+{Suggested by Ron Brooks & Ron Swenson] 
+Although techniques have played a major role in the research program, 
+this report is intended to be primarily a discussion of ideas rather than 
+techniques. 
+e 
+It is clearly to the interest of the plastic industry in the United States 
+to enter the housing field on such a global scale. 
+As the section on 
+marketing aspects brings out, the industry is caught in a squeeze be- 
+tween steadily increasing surplus production capacities and a falling 
+price curve for the basic chemicals. Housing looms as a most 
+attractive mass market—chemicals would be bought by the ton, not 
+just by the pound—but attempts to penetrate the housing field in the 
+United States have been frustrated because of local building code 
+restrictions and the opposition of established interests in the conven- 
+tional way of building. In entering the housing field, the plastics 
+producers will find better opportunities for success if initially they 
+turn to the emerging countries where the building codes are less 
+restrictive (if indeed any exist at all) and where there is consequently 
+more freedom to develop a new kind of building industry. 
+Foam inflation: 
+a double walled bag, tailored in such a way that 
+when foam components are placed in the bag they expand and inflate 
+the structures. These bags can be made from polypropelene and milar 
+films, tightly woven nylon fabrics, vinyl-impregnated fabrics... 
+All the shells were coated with ii Gia elastomer before being exposed 
+to the weather. Two approaches were used. One was the use of the 
+two-coat system, neoprene and Hypalon, and the other the use of two 
+coats of Hypalon. 
+; 
+The shells were moved to the site by rolling each one like a giant 
+wheel. 
+The shell was suspended and loaded with 20 |b sand bags to simulate 
+uniform loading. 
+@ 
+Petroleum is becoming increasingly the raw material for plastics 
+intermediates. 
+ARCHITECTURAL 
+RISEARCIT 
+LABORATORY. 
+THE UNIVERSUTY OF MICHIGAN, ANN ARBOR 
+architectural research on 
+STRUCTURAL POTENTIAL OF FOAM PLASTICS FOR HOUSING IN UNDERDEVELOPED AREAS 
+Architectural Research on Structural Potential 
+of Foam Plastics for Housing in 
+Underdeveloped Areas 
+Architectural Research Lab. 
+1966; 224 pp. 
+$5.00 plus postage 
+SYSTEM 
+from 
+AS A PRIMARY 
+STRUCTURAL MATERIAL 
+STRUCTURAL MATERIAL 
+Office room transformed into grotto by designer Douglas Deeds, 
+San Diego. Deeds built foam up in layers, as coils of clay are 
+used to form a pot. 
+4 
+Closed cell foam plastics offer excellent thermal insulation (with K- 
+factors usually varying from 0.12 to 0.30) low water absorption and 
+low moisture permeabilitv. 
+® 
+Plastic materials, particularly the foam plastics, unquestionably have 
+a high potential for housing use in the developing areas of the world. 
+Spray techniques have good possibilities for the construction of total 
+structures using either air-inflated structures or lightweight 
+armatures 
+as form work; the present crude appearance of sprayed foam products 
+can be overcome by mechanizing the spray gun or by using extremely 
+skilled operators. 
+Vacuum forming: ABS foam, marketed by U.S. Rubber Co. under 
+the name ‘Expanded Royalite’...in sheet form is clamped in a statior 
+ary frame, heated, and then drawn into a female mold by vacuum.... 
+The fewer the joints, the fewer are the problems the structure will 
+have to face...lightness in structures can lead to some special problems 
+of anchorage. 
+The cellular plastics admittedly have certain technical limitations. 
+For instance, they have a low moduli of elasticity and high creep 
+characteristics. These properties definitely restrict the way they can 
+_be formed or shaped, if they are to be used as independent structural 
+materials. 
+5: 
+FOAM Puastics 
+AS. A CONTRIBUTING 
+STRUCTURAL MATERVAL 
+AS A SECONDARY | 
+SHELL 
+FOLDED PLATE 
+SHELL 
+STRUCTURES 
+STRUCTURES 
+| STRUCTURES 
+| 
+Eq 
+| 
+SPRAY 
+POLYURETHANE 
+SYSTEM 
+SANDWICH 
+PANEL SYSTEM 
+RIGIDIZEO 
+FLEXIBLE SYSTEM 
+FILAMENT 
+WINDING SYSTEM 
+r 
+Publication Distribution Service 
+University of Michigan 
+615 East University 
+Ann Arbor, Michigan 48106 
+| Color may be added if desired. (h) Sand and finish final surface. 
+Figure F-2. 
+INITIAL TEST STRUCTURES UTILIZING PAPER- LAMINATED 
+POLYURETHANE FOAM BOARD 
+NOTE 
+PAPER-LAMINATED FOAM BOARD IS 2.5 LB/ FT3 (40 kg/m 
+NOMINAL CORE DENSITY: 
+69LB KRAFT FIBER 
+LINER BOARD SKINS 
+3) 
+4'-0" (122 m) 
+——_+ 
+,-PAPER-LAMINATED URETHANE FOAM BOARD 
+‘ 
+(1/4" THICK, 635 cm.) 
+POLYESTER IMPREGNATED 
+ALL SURFACES. 
+CONTINUOUS URETHANE 
+* FOAM SEPARATOR. 
+— EDGE SCORED AND FOLDED 
+CONTINUOUS FOAM BOARD SPLICE 
+BONDED 
+TO TOP AND BOTTOM MEMBRANES 
+2" 
+—— 3+0"+ (915 m) ——4 
+E 
+"= PAPER LAMINATED URETHANE FOAM BOARD 
+f 
+(1/4" THICK, 635 cm) 
+POLYESTER IMPREGNATED 
+FOR INSIDE SURFACE ONLY. 
+FOAM BOARD DIAPHRAGMS 
+3'-0"(915 m) ON CENTER 
+/ 
+15": 
+-EDGE SCORED AND FOLDED 
+/ BOLTED TO TOP MEMBRANE. 
+OUTSIDE SURFACES, TOP AND BOTTOM 
+POLYETHYLENE COATED. 
+5'-0" (1.52 m) ———_ 
++ 
+y-~ PAPER LAMINATED URETHANE FOAM BOARD 
+(3/8" THICK, 95cm.) POLYESTER IMPREGNATED 
+SURFACES AND BONDED JOINTS 
+6" WIDE (15.25cm) 
+GLASS TAPE TOP AND 
+BOTTOM OF SLIDE 
+131" 
+6" WIDE GLASS TAPE, OUTSIDE SURFACE 
+OF SPLICE ONLY 
+Sunset Light-Curing Fiberglass Patches 
+A new product by 3-M: glass fiber cloth saturated with resin 
+that hardens when exposed to sunlight, or ultraviolet. Use 
+on wood, metal, glass, plastic. Flexible when applied, forms 
+— 
+hard fiberglass surface when cured. Expensive, but useful for 
+— 
+emergency 
+repairs. 
+3 
+; 
+: 
+$28.00 for kit with 12 4” x 4” pads and application squeegee. 
+Brochure with further information from: 
+3-M Company 
+New Business Ventures Division 
+3-M Center, Bldg. 219-1 
+St. Paul, Minn. 55101 
+: 
+. Attn: J. J. Mueller 
+; 
+SS 
+Foam Kit 
+: 
+A foam kit for experimentation is offered here, and instruc- 
+tions on how to make a mold and apply fiberglass. Used for 
+filling voids in boat hulls, making surf riders, or other mold-— 
+shaped items. 
+: 
+2 
+The general steps required to make an item of this nature are as follow 
+(a) Prepare a mold that is approximately the shape of the end produ 
+(b) Prepare enough foam mixture to fill the mold to the desired height. 
+It is best to prepare 25% to 30% extra foam to cover foaming varia- 
+tions and to provide some extra material for removal to bring the item 
+to its final shape and size, (c) Pour the foam mixture in the mold. 
+(d) Remove the foam from the mold. (e) Shape the foam. This 
+material lends itself to easy freehand shaping. (f) Apply fiber glass 
+cloth using polyester resin. 
+(g) Apply finish coats of polyester resin. 
+GENERAL 
+When ordering and working with materials advertised herin the 
+s 
+following considerations should be kept in mind: 
+- 
+= 
+(1) Polyurethane foam can be poured into any cavity, but too muc h 
+can cause warping or breaking of the cavity walls if proper venting of 
+excess material is not provided. 
+(2) Polyurethane foam will adhere strongly to nearly any surface 
+unless the surface is prepared for release. 
+; 
+(3) Polyurethane foam adheres to itself. As a consequence it can be 
+poured and cured in several increments if needed. This should be 
+considered when filling voids of unknown size. 
+(4) Large parts can be made using polyurethane foam but proper 
+filling of the molds is difficult in home conditions. 
+(5) It is recommended that small projects be planned first so the 
+user/can become familiar with the materials and their characteristics, 
+Larger projects can be undertaken when confidence and skill have been 
+built up. 
+‘ 
+‘ 
+(6) The user is encouraged to plan each project carefully and order 
+material as needed for that project. 
+: 
+: 
+(7) When ordering polyurethane foam order enough material to 
+include that lost by final shaping. 
+3 
+(8). Some of the materials are considered hazardous. Be prepared to 
+_ 
+follow precautions. These precautions include restricting use to well 
+ventilated areas, and avoiding exposure to skin and eyes. 
+5 
+(9) Because of variations that we cannot control, no guarantees are 
+made by C. Ross for the success of any project; however we will 
+—_ 
+guarantee that the polyurethane foam ingredients supplied will make 
+foam when properly prepared. 
+- 
+ruby: 
+(10) Never use polyester resin on styrofoam. 
+(11) Instructions for use of materials are supplied with the order. 
+(12) Both styrofoam and low density polyurethane foam require 
+reinforcement through the application of fiber glass cloth if they are 
+~ to be used where stresses will be applied. 
+$5.00 for small kit—3% Ibs foam (1% cu, ft. foam) 
+$10.00 for large kit—8 Ibs foam (4 cu. ft.) 
+Brochure with further information from 
+C.Ross 
+~- 
+Box 133 
+Sugar Grove, VA 24375 
+

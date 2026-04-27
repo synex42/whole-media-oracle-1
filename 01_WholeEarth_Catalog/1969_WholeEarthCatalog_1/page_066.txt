@@ -1,0 +1,190 @@
+The patterns we observe on the shore 
+of ariver when the mud has been 
+dried up by the sun (98) seem to be 
+quite irregular; nevertheless as a 
+rule they show right angles. This 
+can be explained by assuming the 
+cracking to be an effect of contraction; 
+the line appearing as a fissure has, 
+by a principle of mechanics, to make 
+the work of disjunction as small as 
+possible, The work is proportional 
+to the areas of the sections and the 
+lines must have a course such as to 
+minimize the surfaces laid open by 
+the fissure. This procedure gives 
+right angles if the clay is homogeneous; 
+the varying thickness of the layer 
+accounts for the curvature of the lines. 
+This remark supplies in many cases 
+a means of deciding which line appeared 
+earlier and which later: 
+the older of 
+the two splits passes right through the 
+point of junction. Thus we can 
+foliow the genealogy of splits and 
+eventually find the ancestors of 
+the whole system. 
+Suppose the pattern was composed initially of 
+two regions, A. and B. A new line appears, 
+joining two points of two already existing 
+arcs and giving rise to a new region C (100); 
+since the new line breaks up two arcs into two 
+Parts each, the number of arcs increases by. 
+three. After 7? steps we have 
+more regions 
+and 37 more arcs. Since there were initially 
+two regions and three arcs, we now have +2 
+regions and 3/1 + 3 arcs. 
+OVB0000E0900000000000000000O IOI 
+Mathematical Models 
+H. Martyn Cundy & A.P. Rollett 
+1961; 286 pp. 
+Pin: 
+$6.50 postpaid 
+from 
+Oxford University Press 
+200 Madison Ave. 
+New York, N.Y. 10016 
+or WHOLE EARTH CATALOG 
+POLYHEDRA 
+3.9.4. Great stellated triacontahedron. 
+V(3. 
+Fra. 153 
+ror 
+~— 
+H. Steinhaus 
+From 
+Mathematical Snapshots 
+1950,69; 311 pp. 
+$7.50 postpaid 
+Oxford University Press 
+16-00 Pollitt Drive 
+Fair Lawn, N.J. 07140 
+4 
+or 
+WHOLE EARTH CATALOG 
+Mathematics 
+From 
+these 
+four 
+small 
+boards 
+(1) we 
+can 
+compose a square or an equilateral triangle, 
+according as we turn the handle up or down. 
+The proof is given by sketch (2). 
+Obviously, for any model which is to be at all 
+permanent, cardboard will be used. 
+The card should be white with a good surface, and 
+fairly thin, about the thickness of a plain postcard. 
+Thick cardboard makes ugly corners, and allowance 
+ought to be made for its thickness in drawing the 
+net. 
+It is useful, however, to cut flat sheets of thick 
+card for internal strengthening in some of the 
+stellated and interpenetrating polyhedra. 
+POLY TET N 
+3.7.12. Great rhombicosidodecahedron (cont) 
+When the dimensions of the model have been decided 
+on, the net can be constructed on the cardboard. 
+In 
+the case of a complicated net this is facilitated by 
+pricking through vertices from a template drawn on 
+tracing paper, but it must be done very accu rately. 
+Tabs are then added to alternate outside edges, care 
+being taken to ensure that the angle at the shoulder 
+of the tab is small enough to admit of the tab’s 
+being cemented to its appropriate face. The net can 
+now be cut out with a razor-blade and the edges 
+scored half-through for bending. (Where edges have 
+to be scored on the back—in the stellated polyhedra— 
+this is indicated in the diagrams.) The face of the 
+net becomes the outside of the polyhedron. 
+For joining, a quick-drying cement, such as balsa- 
+wood cement as used for model aircraft, is essential. 
+After the cement has been applied to a tab, the 
+edges to be joined are brought together, and the tab 
+can be held down with a small wire paper-fastener 
+while the cement dries. This is particularly useful 
+in small models when the fingers cannot easily get 
+inside, and near the finish of any model when there 
+are several edges to be joined at once. A thin wire 
+probe is sometimes useful in getting the last face to 
+adhere. 
+it? 
+lower symmetry. 
+The exterior perimeter of a net of a polyhedron 
+which is all in one piece becomes a ‘tree’ of edges on 
+the solid. This tree may be branched, but every edge 
+is double and occurs twice on the perimeter of the 
+net. 
+It is evident that if these edges are numbered 
+consecutively roundthenet every even edge will be - 
+joined to an odd edge in the final solid. This means 
+that tabs need only be attached to the even edges, 
+In the nets which follow, tabs are not shown unless 
+there is special need to do so. _|n all other cases the 
+rule is: attach tabs to alternate edges round the net. 
+There is an exception in the case of the last face, 
+which is best left free of tabs. The missing tabs 
+_ must be added to the other edges, and are best 
+made large, so that a platform can be built up to 
+which the last face can be stuck. 
+: 
+education math books. From them you can learn deli: 
+as well as method in the universal language. 
+Mathematical Snapshots operates by visibility. What's 
+going on mathematically is plain as day in the diagrams 
+and illustrations. 
+It’s like learning history by anecdote! 
+3K 
+a As far as we’re concerned, these are the pick of self- 
+: 
+2K 
+2K 
+3K 
+3K 
+Problem 36 of the papyrus begins: “Go down | 
+times 3, 1/3 of me, 1/5 of me is added to me; 
+ia 
+return |, filled am |. What is the Guantity saying 
+| 
+Here (Figure 45 ) is a page from Haeckel’s 
+Challenger Monograph showing the skeletons 
+of several Radiolarians, Numbers 2,3, and 5 
+are octahedron, icosahedron, and dodecahedron in 
+astonishingly regular form; 4 seems to have a 
+The World of 
+Mathematics 
+ames R. Newman! 
+5 
+Mathematical Models is a classic of 4-D technique. Th\ 
+whole purpose of the book is enabling you to make yc 
+own geometric forms in the world. Like learning hista 
+by psychodrama. 
+~ (Suggested by Sim Van Der Ryn] 
+- 
+10101000000000100000000001001000004 
+World of Math 
+James Newman 
+- 1956; 2469 PP; <p
+$12.95 postp|
+from 
+Simon & Schuste| 
+630 Fifth Ave. 
+7 
+New York, N.Y. |}
+e or 
+~~ WHOLE EARTH 
+i
+One very old method of 
+and one which affords a we) 
+oe 
+originated in a book by Mrs. 
+mic Approach to Mi athematic 
+has recently been revived bi 
+Basically it consists of ¢ 
+by stitching with coloure: 
+

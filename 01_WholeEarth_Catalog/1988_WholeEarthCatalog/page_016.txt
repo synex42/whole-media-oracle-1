@@ -1,0 +1,140 @@
+12 
+FRACTALS 
+The Fractal 
+Geometry of Nature 
+Benoit Mandelbrot 
+1982; 468 pp. 
+$34.95 
+($38.45 postpaid) from: 
+W.H. Freeman & Co. 
+4419 West 1980 South 
+Salt Lake City, UT 84104 
+801/973-4660 
+or Whole Earth Access 
+Fractals, and other members of a growing family of 
+mathematical works of art, are quite well known by 
+now; Lucasfilm employs them for special effects 
+and videogames, and the Mandelbrot set has 
+made the cover of Scientific American. But | 
+remember the first time | saw a fractal, a hand- 
+drawn snowflake curve somebody had left around 
+our common workspace. Later, the concepts of 
+self-similarity and recursion would help unlock the 
+secrets of what mathematicians of the last century 
+used to call “monsters”; but back then, | had a hard 
+time wrapping my mind around this simple, com- 
+plex picture/idea. A fractal is something like a 
+snapshot of a never-ending procedure, an instruc- 
+tion which calls itself over and over; computer 
+graphics are used to reveal the complex beauty of 
+these creations. 
+Mandelbrot’s book can be experienced at many 
+levels. The illustrations are breathtaking, from the 
+Growth 
+Morphogenesis 
+Yoichiro Kawaguchi 
+1985; 212 pp. 
+$29.95 
+($32.95 postpaid) from: 
+JICC USA 
+3540 Wilshire Boulevard 
+Suite 406 
+Los Angeles, CA 90010 
+Yoichiro Kawaguchi’s work makes use of fractals, 
+but he’s not just a finder of fruitful equations, he’s a 
+brilliant inventor of visual worlds. Colorfully pat- 
+terned biomorphs, resembling sea creatures from 
+another planet, grow, writhe, float and evolve in his 
+video animations, while the surroundings, the 
+observer's viewpoint and the light source all move. 
+The dynamism of these forms is partly captured in 
+sequences of stills in this amply illustrated book, 
+with texts in Japanese and English. Some of the 
+chapters seem to be transcribed lectures by Ka- 
+waguchi; the hallucinogenic flavor of his thinking is 
+somewhat heightened by the difficulty of transla- 
+tion. 
+Other chapters are descriptions of method and 
+purpose by some of his collaborators, interspersed 
+with short testimonials from his fans. The computer 
+system (64 minis linked in parallel) and the pro- 
+gramming concepts he uses are described in the 
+appendix. This is some of the most exciting com- 
+puter-graphic work I’ve ever seen. 
+—Robert Horvitz 
+maze-like black and white plots which show how 
+fractals are “grown,” to color-enhanced computer 
+images of dreamscapes and planets that never 
+were. The details of the mathematics are all here, 
+too, and are interwoven with Mandelbrot’s very 
+human stories about the mathematicians and sci- 
+entists (and even the computer programs) who 
+contributed to the growth of the field. | find these 
+works as inspiring as any cathedral’s stained 
+glass, and Mandelbrot’s book will offer its treasures 
+to me for a long time to come. 
+—Laurie Edwards 
+a 
+In Koch recursion, every straight 
+interval in a finite approximation is 
+eventually broken up into shorter 
+pieces. In many applications, it is 
+useful to generalize this procedure 
+by allowing certain intervals to be 
+"infertile," so that in later stages 
+they remain untouched. 
+Here, this generalized procedure is 
+used to grow a "tree." One starts 
+with a trunk having barren sides 
+and a fertile “bud.” The bud gener- 
+ates two "branches," on which 
+again only two terminal "buds" are 
+fertile. And so on ad infinitum. The 
+growth is asymmetric to insure that 
+the tree fills a roughly rectangular 
+portion of the plane with no gap 
+and no overlap. However, asymp- 
+totic self-contact is not avoided, 
+and indeed every point on the "bark" line can also be 
+obtained as a limit branch tip. 
+The “subtrees” constructed starting with the main lead- 
+ers are similar to the whole tree in two different similarity 
+ratios, r1 and r2. ... This composite Figure results from 
+a Koch tree construction in which the generator is 
+changed at each stage, so that the ratio of width to 
+length decreases to 0. On the left side of the compostie 
+Figure, this ratio decreases even faster than on the right 
+side. The result is that the branch tips are no longer self- 
+similar. 
+Self-terminating hereditary information takes a completely autono- 
+mous shape as the spiral covering the outer skin — the ascending 
+and descending spiral completely covers the outer skin with a 
+firm 
+husk. Thatis, futhermore, like the properties of a highly acid creature. 
+¢ 
+The original character which is dispatched and harmo- 
+nized — the cell-like trait, which grows while sent out in 
+liquid-state from a husk closed within a kernel, self- 
+materializes a definitely hereditary character within a 
+movement combining a semiorganic ionized colloid 
+personality with the arbitrariness of the living body. 
+¢ 
+Topological paradise — a resonance with intricacy and 
+confrontation between influence and assertion fuse, so 
+that an emotional perspective appears. This is the emer- 
+gence of a world of words polished through living body 
+rhythms and the weaving of brocade. This is 
+probably reflected screen in the human mental 
+world. It forms a celestial image surpassing 
+the pain of existence bespoken by colors and 
+common sayings. 
+This may well be the most sublime image that 
+computer graphics can achieve now. 
+The mimesis in the level of transparency — the mimesis 
+which has melted invisibly within the light, seems to be 
+an art of seclusion within the bounds of human visibility. 
+The living body is purified, and its transparency is 
+gauged at the point at which it can no longer hold 
+impurities inside the body cavity even by using all its 
+might 
+

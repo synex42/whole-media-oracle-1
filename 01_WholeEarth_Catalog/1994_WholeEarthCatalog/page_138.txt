@@ -1,0 +1,178 @@
+134 Community 
+PRIVACY 
+OWERFUL TOOLS CAN CUT BOTH WAYS. Information processing and communications technolo- 
+gies, many of which empower us in other ways, have rendered us vulnerable to commercial or state- 
+sponsored snooping. Credit cards, bar codes, databases, pattern-recognition algorithms, voiceprints, 
+satellite sensors, email, videocams, personal computers, embedded computers, and supercomputers 
+have caught us all in an electronic net of our own convenience, unknowingly exposing our most intimate 
+secrets when we buy groceries or subscribe to a magazine. 
+Privacy — the boundary between individual and community — is the site of the next conflict between the rights 
+of citizens and the power of the state. Fortunately, there are ways for citizens to redefine their perimeter. 
+Here they are. — HLR 
+ii) 
+PRIVACY INTHE 
+| , 
+MILLENNIUM 
+a 
+by Gary T. Marx 
+The head of a computer database company providing reports on 
+potential tenants to landlords says, “The more you know about 
+somebody else, the better off everybody is.” That highly question- 
+able observation ignores the strategic, aesthetic, diplomatic, and 
+self-definitional aspects of personal information. Yet it is increasingly easy 
+to know “more” about others without their knowledge or consent. Whole 
+new industries have emerged, selling surveillance technology and personal 
+information to marketers, employers, insurers, landlords, government, 
+and individuals. The United States, unlike European countries, treats 
+most personal information as if it were just another commodity to be 
+bought and sold like toothpaste. 
+What new challenges to privacy will the next decade bring? Eight 
+technologies for surveillance are now being developed or advocated: 
+¢ DNA screening and monitoring. Beyond identifying persons 
+likely to develop serious illnesses or to have children at risk of ill- 
+ness, this may lead to claims to identify tendencies to alcoholism, 
+homosexuality, and poor work habits . . 
+. 
+¢ A national health insurance system could merge all individual 
+medical data onto a single smart card. Beneficiaries would be required to 
+have the card as a condition of enrollment. (Of course you won't have to enroll 
+—so this can be defined as voluntary.) 
+¢ Vehicle and personal tracking systems could collect tolls or determine location. 
+¢ Spy satellites, capable of producing images of objects as small as a baseball, 
+may become commercially available. 
+* Smart image-recognition systems could permit computer scanning of faces in 
+large crowds to locate persons of interest. 
+¢ Wireless portable personal communication devices would lend themselves to 
+interception, and to place and time tracking — for billing purposes. 
+¢ Smart homes in which data (electricity, communications, temperature) flows into 
+and out of the home could be part of an integrated system available to monitors. 
+* Electronic highways could integrate commercial, entertainment, and commu- 
+nications transactions. Even if much of this is protected by an encryption system 
+provided by government, one must ask whether the government can be trusted 
+to invade privacy only with an appropriate court order. If the conclusion is no, 
+then government-sponsored encryption, offered as a privacy protection device, 
+becomes a threat to privacy. 
+Apart from incursions by new technologies, we are likely to see the continued 
+blurring and crossing of the line between public and private places and between 
+work, travel, and home. These have traditionally helped to maintain privacy. 
+“Public” places such as shopping malls, theme parks, university campuses, large 
+apartment and housing complexes, and industrial parks are increasingly legally 
+defined as private places permitting whatever surveillance their owners deem 
+appropriate. Fast-track employees who are given car phones, beepers, and home 
+fax machines and computers by the company are always on the job — evenings, 
+weekends, and vacations — and their communications and location are acces- 
+sible to their employer. 
+Finally: if we think of privacy invasion as not only taking something from the in- 
+dividual, but covertly intruding upon the individual, our attention should also 
+be focused on evolving technologies for subliminal communication through ra- 
+dio, television, and computer screens; aromatic engineering that attempts to af- 
+fect behavior; dietary engineering, which attempts to affect behavior through 
+food combinations and chemical additives; and microwave harassment and 
+mind-control efforts. 
+not the rule. 
+A PRIVACY 
+TOOLKIT 
+i 
+“Privacy is the most comprehensive ofall rights ... the right 
+to one’s personality,” wrote Louis Brandeis for the 
+Harvard Law Review in the 1890s. But Judge Thomas 
+Cooley, an obscure contemporary of Brandeis, prob- 
+ably put it better: “Privacy is the right to be let alone.” 
+Unfortunately, our founding fathers neglected to 
+mention privacy specifically in either the Constitu- 
+tion or the Bill of Rights. The Fourth Amendment 
+does protect you from “unreasonable searches 
+and seizures,” but it doesn’t prevent your boss 
+from bugging the company bathroom, a federal 
+employer from demanding a urine sample, or 
+your nosy neighbor from monitoring your 
+cordless phone conversations with a police 
+scanner. In sum, your safeguards against 
+government, corporate, and freelance 
+snoopers are pretty slim, dependent on a 
+handful of narrow federal and state laws and 
+scattered court precedents. California and a few 
+other states embed broad privacy protections right 
+up front in their constitutions, but this is an exception, 
+If you want to protect your credit rating, prevent your boss 
+from rifling your email, or keep the government out of your 
+bladder, peruse this compendium of vital privacy resources. There’s 
+something here for everyone, from the casual reader to the privacy buff. 
+—Robert Luhn 
+Privacy for Sale 
+What happens to that “confidential” credit 
+form you fill out? To that worker's-compen- 
+sation claim? Business Week reporter Jef- 
+frey Rothfeder knows, and it isn’t pretty. 
+Rothfeder's book exposes the information 
+underground — the marketplace where 
+credit agencies, the IRS, private investiga- 
+tors, direct marketers, and other “data 
+cowboys” legally and illegally acquire and 
+sell sensitive personal information. To dem- 
+onstrate the laxity of existing safeguards, 
+the author easily nabs copies of both Dan 
+Quayle's and Dan Rather's credit reports. 
+This wry book is a cautionary tale of how 
+private and goverment databases 
+threaten personal privacy, the economy, 
+and more. —RL 
+Privacy for Sale 
+(How Computerization Has Made 
+Everyone’s Life an Open Secret) 
+Jeffrey Rothfeder. 1992; 224 pp. 
+ISBN 0-67 1-73492-X 
+$22 postpaid from Simon & Schuster/Order 
+Dept., 200 Old Tappan Road, Old Tappan, 
+NJ 07675; 800/223-2336 
+Your Right to Privacy 
+This omnibus pocket guide from the ACLU 
+covers just about every privacy issue under 
+the sun: what an employer may disclose 
+from your personnel records, confidentiality 
+of AIDS tests, who may ask for your Social 
+Secunty number, how to correct government 
+records, and how to deal with sneaky pri- 
+vate investigators. “If there's enough money, 
+you can get anything,” boasts one anony- 
+mous PI in the book. “You have to find the 
+weak link in the chain and go for it.” The 
+book gives advice in an accessible ques- 
+tion-and-answer format, and includes just 
+enough history to give you the proper 
+context. If you buy only one book on 
+the subject, buy this one. — RL 
+Your Right to Privacy 
+(A Basic Guide to Legal Rights 
+in an Information Society) 
+Evan Hendricks, Trudy Hayden 
+& Jack D. Novik. 1990; 208 pp. 
+ISBN 0-8093-1632-3 
+$7.95 ($9.95 postpaid) from Southern 
+Illinois University Press, PO Box 3697, 
+Carbondale, IL 62902; 618/453-6619 
+Our Vanishing Privacy 
+Big Brother isn’t a dictator on a huge 
+screen, but a million grocery clerks with 
+bar-code readers. Robert Ellis Smith, 
+publisher of Privacy Journal (p. | 36), has 
+wnitten a short primer on the threats to 
+privacy in the 1990s and means of de- 
+fense available to citizens — the technical 
+and legal aspects of drug testing, the 
+abuse of Social Security numbers, genetic 
+finger-printing, “Caller ID” telephone ser- 
+vices, computerized data-collecting, and 
+other new technologies that help people 
+peek into our personal lives. Medical 
+records, credit histories, even the records of 
+grocery purchases, are fodder for those 
+who would invade our privacy not to con- 
+trol us politically, but to sell us products: 
+read the excerpt below and tell me you'll 
+ever be completely comfortable with a 
+bowl of oatmeal again. —HLR 
+e 
+Have you heard about “target marketing”? 
+Some call it “database marketing”; others 
+

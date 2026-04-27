@@ -1,0 +1,261 @@
+Crutchfield 
+Car stereo equipment by mail. 
+Their catalog is very 
+informative and straightforward with useful comments 
+on each item. The selection is good, and the prices beat 
+most downtown stores even including the postage. 
+| have 
+personally found their service to be fast and crap-free. 
+—J, Baldwin 
+Crutchfield 
+: 
+free from: 
+Car Stereo Buyer's Guide 
+Crutchfield 
+1 Crutchfield Park 
+P.O. Caller 1 
+Charlottesville, VA 22906 
+Pioneer KP-575 (Cassette Only) — If you park your car 
+ina high crime district, 
+a KP-575 mounted in the glove 
+box is a sure way to enjoy quality car stereo while you 
+thwart would-be thieves. 
+© mini size 
+© auto reverse 
+Major specifications — power output: 4.4 watts per 
+channel; best tape frequency response: 40-14,000 Hz; 
+best tape signal to noise ratio: 52 dB; wow and flutter: 
+-15%. 
+List price: $159. Our price: $125. 
+Popular Electronics 
+PE offered the Altair microcomputer as a construction 
+project in January, 1975, and ignited the microcomputer 
+boom. Really neat construction projects like laser and 
+microwave communication links, computer interfaces. 
+Major construction articles usually include source of parts 
+kits. Good tutorial articles on basic electronics and 
+design. Audio equipment reviews, some TV, radio tech- 
+nology, and hobbies. 
+—Dan Dugan 
+Popular Electronics 
+Arthur Salsberg, Editor 
+$14 /year (12 issues) 
+from: 
+Popular Electronics 
+P.O. Box 2774 
+Boulder, CO 80302 
+A low-cost analog audio 
+delay line. 
+Full-size 
+etching and drilling guide 
+for the main printed- 
+circuit board. 
+e 
+With so many readily available, low-cost surplus trans- 
+mitters around for sale, it doesn’t take much money at all 
+to set up for this illegal venture, which is usually low 
+powered. The undergrounders don’t follow the program 
+pattern set by legal stations. 
+For example, they often 
+play forefront music on obscure records. 
+It’s claimed that 
+new-wave rock and even disco were introduced on illegal 
+radio before the FCC-licensed stations picked them up. 
+Weekends and holidays are reported to be prime under- 
+ground broadcast times because FCC agents are inactive 
+then. Telephone “loops” are employed, too, for inter- 
+active programs. 
+This makes it difficult for the FCC to 
+trace calls. 
+There are also some TV undergrounders around. The 
+article noted that some engineering students at Syracuse 
+U. followed a “Saturday Night Live’ program when the 
+local station switched off for the night, with a three-hour 
+porno movie under the banner of “Lucky 7.” 
+According to an article in Electronic Mail & Message 
+Systems (EMMS), a newsletter, electronically transmitted 
+pornographic material is appearing over Viewdata and 
+similar home information services. The British Post 
+Office, too, has been embarrassed by an offer over the 
+British Prestel viewdata service of a ‘Dirty Books Guide.”” 
+EMMS points out that MicroNet, a computer timesharing 
+service, has a Pornotrap that detects obscenities used by 
+computerist game players. Players are immediately 
+cautioned on this when detected, and a reprimand is 
+addressed to them on the service's electronic bulletin 
+board. 
+(If you'd like a free copy of its analysis of 
+“Teleporn on Home Information Systems,” write EMMS 
+at 30 High Street, Norwalk, CT 06851.) 
+~COMMUNICATIONS 
+ELECTRONICS 
+Modern Recording and Music 
+This one hits the nail on the head in opening up what 
+goes on in making records from the engineering side 
+and it does it in plain language. 
+Interviews with recording 
+stars, producers, engineers. Equipment reports, record 
+reviews. Beginners, don’t miss this. See “Music Business 
+for Musicians” 
+p. 483. 
+—Dan Dugan 
+Modern Recording 
+and Music 
+H.G. La Torre, Editor 
+$14 /year (12 issues) 
+from: 
+Cowan Publishing 
+Corporation 
+14 Vanderventer Avenue 
+Port Washington, 
+NY 11050 
+Ay. 
+AK 
+Ay i re 
+w 
+Schaffer 
+a 
+BaT 
+Many professional users of wireless systems for “‘live’’ 
+performance applications consider the Schaffer-Vega 
+Diversity system to be the Cadillac of wireless systems, 
+but unfortunately the system also carries a Cadillactlike 
+price tag somewhere on the far side of $3400. The Ken 
+Schaffer Group recently announced the availability of a 
+new, lower-cost wireless system known as the Schaffer B&T. 
+Electronics 
+Fluke digital multimeter 
+Audio Amateur 
+The cream of the world of electronic manufacturing. 
+The latest techniques in analog, digital, and integrated 
+circuit components, systems design and manufacturing 
+methods. By and for professionals. World news and trade 
+gossip. New components and products. Advanced manu- 
+facturing machinery. Advanced networks. 
+Test and 
+measurement equipment and methods. 
+Inventions. 
+Very expensive color advertising. Economics of industry 
+and international trade. Respectful of women. 
+Six 
+handy circuit design quickies in each issue. Controlled 
+circulation (send your order on a letterhead or check 
+your library). 
+—Dan Dugan 
+Electronics 
+Samuel Weber, Editor 
+$18 /year (26 issues) 
+from: 
+Electronics 
+P.O. Box 514 
+Hightstown, NJ 08520 
+e 
+The bar codes that 
+leer incomprehensibly 
+at customers from 
+many packages if 
+today’s supermarkets 
+and department stores 
+might start to disappear 
+if a fast new optical- 
+character-recognition 
+scanner from West 
+Germany‘s Scantron GmbH catches on. Early next year 
+the small Frankfurt company will field-test 
+a number of 
+scanners capable of reading an alphanumeric price and 
+identification label whatever its position in relation to 
+the machine — upside down, skewed, or right way up. 
+TV-camera-like scanner uses 8-bit microcomputer to read 
+22-character label in less than a second. 
+The Fluke 8020A Digital Multimeter now seems to be the 
+industry standard for hand-held DMMs. 
+The forecast is 
+that the overload protection circuitry protects the device 
+from the inevitable connection of the resistance function 
+to the power line, which would reduce any other meter to 
+a spaceman’s breakfast. 
+The instrument can withstand up 
+to 500 volts on the resistance, 1000 volts dc and 750 volts 
+ac on the voltage ranges, 2 amps on the current ranges, 
+and transients of up to 6 kHz. A second important 
+feature is that the instrument measures two ranges of con- 
+ductance at 200 nS and 2mS, which allows testing of 
+leaky diodes, capacitors, insulators, and dialectrics as well 
+as measurement of transistor gain. Other features include 
+resistance measurement up to 10,000 Megohms, 0.1% 
+accuracy on basic dc, a diode test function, as well as 
+standard voltage and amperage ranges. 
+The package is 
+easy to use and virtually indestructible, with a 3% digit 
+easy to read display. 
+—Jim Stockford 
+Fluke Digital 
+free from: 
+Multimeter 
+Fray tan 
+E 
+anutacturing 
+ompany 
+Re. e0z04 
+P.O. Box 43210 
+$179 (approx.) 
+Mountlake Terrace, 
+WA 98043 
+Information and nearest 
+dealer location 
+Does 
+e5csc 
+ese 
+CO 
+Bee 
+eee 
+weet 
+wee 
+ewe 
+eeene 
+ee 
+eee 
+The hi-fi pioneers of the “50s (guys who built their houses 
+with the living room wall a giant exponential horn, the 
+speaker buried in a 55-gallon steel drum — 1953-4 Audio 
+magazines are a real treat) became the stereo component 
+manufacturers of the ‘60s, responsible for the full-color- 
+ad brochures that masqueraded as audio-hobby magazines 
+of the ‘70s. 
+In diametric opposition to this herd is Audio 
+Amateur, dedicated to enticing us to build rather than 
+consume, to experiment enjoy learn grow, to write 
+articles for the magazine (I’m in the middle of writing a 
+series on electronic music systems for live performance). 
+Maximum pleasure for minimum §$, to help us through 
+the 25-year depression. 
+—Larry Greisel 
+Audio Amateur 
+Edward T. Dell, Jr., Editor 
+$14 /year (4 issues) 
+from: 
+Audio Amateur 
+P.O. Box 576, 
+Department WE 
+Peterborough, NH 03458 
+Co a? 
+THE RISING SUN 
+NEIGHBORHOOD NEWSLETTER 
+yy 
+ac 
+Kathleen said she learned about making decisions 
+and changing things in her obligatory series of 
+shitty jobs like working for the State of Wiscon- 
+sin and in restaurants where the way things were 
+being done was so inefficient and backwards and 
+not right that she couldn’t stand it and she’d go 
+to the person in charge and make suggestions and 
+the next thing she knew she’d be sort of in charge 
+or very in charge of several people — deciding how 
+things should be done. Seems like some people 
+don’t want to decide because it’s all very compli- 
+cated but others have not realized that they can 
+decide, that everything is decided by someone and 
+why not them? 
+

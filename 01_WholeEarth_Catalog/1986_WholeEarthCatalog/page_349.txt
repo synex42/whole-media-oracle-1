@@ -1,0 +1,123 @@
+Electronic Buyers Club (EBC) 
+If over a year’s time you’re buying much in the way of 
+electronic supplies, this place is well worth knowing 
+about. EBC is the only supplier I’ve found that beats 
+Mouser’s prices. The catch is you have to buy a mem- 
+bership for $35. For that you get your own membership 
+number and a thick, very well laid-out catalog. The 
+catalog alone may be worth the membership cost for the 
+search time you can save (no specs, tho’). EBC’s selection 
+of active and passive components, tools, and supplies is 
+fairly broad, though limited to a few manufacturers, a 
+problem if exact replacement is an issue. Their digital IC 
+selection is very broad. I’m a member. —James Stockford 
+Mouser Electronics 
+Mouser Electronics is the best all-purpose supplier of 
+electronic components and supplies I’ve found. Of all the 
+standard mail order sources of electronic passive and ac- 
+tive devices, hardware, and tools, Mouser’s prices are 
+lowest, often by 20-30 percent. Their selection is very 
+broad, especially for switches, connectors, LEDs, and 
+capacitors. They even have a good selection of printed 
+circuit board supplies, grommets and stand-offs, com- 
+puter interface panels, and drafting aids. Perfect for hob- 
+byists, prototype designers, and electronic repair shops. 
+—James Stockford 
+McA 
+( SHIPPED ASSEMBLED ) 
+Xymox Membrane Switches 
+IEEE Spectrum 
+Here is the hard poop on the latest in electronic technology. 
+It has astonishing and bewildering tech reports for the 
+hard-core, but what distinguishes it is an emphasis on 
+social and political ramifications (a special issue on 
+technology in war and peace won a Pulitzer last year). 
+Other distinctions include crisp writing and intriguing ads. 
+Here | have read about new video-game techniques; 
+prospects for high-definition TV standards; ‘‘smart’’ credit 
+cards with built-in integrated circuits; New York’s new 
+fuel-cell power plant; issues in technology-transfer con- 
+trols; the first realistic discussion of who-knew-what-when 
+about the doomed jetliner KALO07. Every library should 
+get this magazine. 
+—Steve Upstill 
+> 
+The first all-fiber-optic gyro, with fiber-optic components 
+(directional couplers, a polarizer, phase modulator, and 
+polarization controllers) on an unbroken strand of single- 
+mode fiber, was built at Stanford University in 1981. Electronic 
+signal processing and sinusoidal optical-phase modulation 
+are used to achieve digital output and linear response. 
+Source contact 
+Gate 
+Drain contact 
+Source 
+Typical horizontal transistor (insulating-gate field-effect transistor) 
+COMMUNICATIONS 
+ELECTRONICS 347 
+| The solderless 
+breadboard: With 
+the lead spacing of 
+all sizes of DIPs. 
+Push them in; pull 
+them out. No solder. 
+No bent leads. No 
+damaged parts. No 
+special tools. 
+RED Position 
+[ ~ 
+FLAT KEY 
+INDICATOR 
+B POSITION 
+° Position Indicator 
+¢ Durable Nylon Housing 
+¢ Solder Terminals 
+¢ Complete With 2 Keys and Mounting Hardware 
+¢ Electrical Life: 15,000 Operations 
+¢ Mechanical Life: 30,000 Operations 
+¢ Rating: 1A, 125VAC 
+e Contact Res: 20 MilliOHMS 
+¢ Volt, Breakdown, 1000VAC 1 Min 
+¢ Insulation Resistance: 100 MegOHMS @ 500VDC 
+-Aring laser 
+gyroscope system 
+consists of three 
+=. individual gyros that 
+. measure rotation 
+* about three mutually 
+trol Systems, Wood- 
+land Hills, Calif., 
+is used in commer- 
+cial aircraft. 
+Electronic 
+Buyers Club 
+Membership $35 
+(includes catalog 
+and updates) from: 
+Electronic Buyers Club 
+P. O. Box 617 
+Columbia, MO 65205 
+Mouser Electronics 
+Catalog free from: 
+Mouser Electronics 
+P. O. Box 839 
+Mansfield, TX 76063 
+RADIAL LEADS X SERIES 
+PRICE EACH 
+37-20PK-1 | 25 
+30 
+7.95 
+37-20PR-1 | 50 
+30 
+8.50 
+<4 2 digit LED displays: 
+-600”’ pin row spacing. 
+IEEE Spectrum 
+Donald Christiansen, 
+Editor 
+$67/year 
+(12 issues) from: 
+IEEE Service Center 
+445 Hoes Lane 
+Piscataway, NJ 08854 
+

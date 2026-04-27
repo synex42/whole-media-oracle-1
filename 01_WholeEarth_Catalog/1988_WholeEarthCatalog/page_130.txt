@@ -1,0 +1,189 @@
+126 SAMPLERS 
+Digital Samplers 
+Information free from: Casio Corporation, 15 Gardner 
+Road, Fairfield, NJ 07006; 201/575-7400. 
+One of the most astonishing musical innovations in 
+decades is the digital sampler. A sampler records 
+any sound — say, a clang of pots, or a cough, or a 
+guitar strum on an old 78 — and lets you play that 
+sound across a keyboard in several octaves. You 
+probably wouldn't want to, but it’s possible to play 
+Bach on the cough. You can tweak the sound in 
+the usual ways synthesizers do, by adding har- 
+monics, distorting frequencies, until it’s hardly 
+recognizable. Anything — streetcars, insects, the 
+whish of wind — can become an instrument, so 
+that, in a sense, one can now play the whole Earth. 
+What's the best way to get into the fray? The 
+cheapest route is the Casio SK-1 for $99. It has an 
+adequate built-in microphone and tape input termi- 
+nal. You can walk around the house recording 
+found sounds, or tape stuff off TV commercials. It'll 
+capture a second and a half’s worth of noise at 
+about AM-radio quality. Then you play the mini- 
+ature keys up and down across two and a half oc- 
+taves, and it squeaks out the “notes” through built- 
+in speakers. 
+A more serious model like the Casio FZ-1 (about 
+$1,800) is a 16-bit sampler. It will digitize and store 
+up to 64 sounds on a built-in 3” floppy disk, and 
+play them back over five octaves on a full-scale 
+keyboard. Sound segments up to 14 seconds long 
+can be captured. Most importantly, it sends the 
+signals out in MIDI standard, which allows the 
+sound to be reproduced by any piece of profes- 
+sional electronic recording or music-processing 
+instrument. 
+Affordable music samplers like these are disman- 
+—Kevin Kelly 
+tling the boundaries of sound. 
+¢ 
+The FZ-1 fea- 
+tures an 8- 
+stage Loop 
+function 
+which allows 
+the insertion 
+of up to 8 
+loops in.the 
+sampled 
+sound. These 
+loops can be 
+inserted at 
+any point in 
+hessnebd 
+sound’s 
+Rilo St 
+ae Se ee 
+waveform, 
+‘LEVEL 
+using loop 
+| 
+“Start” and 
+“End” para- 
+meters. 
+‘START 
+LOOP 4 
+CROSS FADE TIME 
+od 
+LOOP’ 
+LOOP 
+START 
+START 
+LOOP 
+LOOP 
+END-START 
+END-START 
+In addition, a Cross Fade Time parameter allows smooth 
+transition from the end of one section into the beginning 
+of another. Trace and Skip parameters allow tracing 
+of one specified loop pattern or skipping to the next 
+specified loop. ... 
+| 
+hihi 
+The Sampling Book 
+Joe Scacciaferro 
+= 
+and Steve De Furia 
+1987; 150 pp. 
+$17.95 
+($19.95 postpaid) 
+Casio FZ-1 & 
+FZ-10M 
+Joe Scacciaferro 
+and Steve De Furia 
+1987; 143 pp. 
+$14.95 
+($16.95 postpaid) 
+Both from: 
+Hal Leonard Books 
+P.O. Box 13810 
+Milwaukee, WI 53213 
+or Whole Earth Access 
+before investing in an expensive sampling 
+keyboard. The Sampling Book acquaints 
+you with sampling techniques and demysti- 
+fies arcane terminology. If the manual that 
+comes with the sampler scares you, this 
+will ease your learning curve. It helped me 
+do some things | wanted to but couldn't 
+figure out from the manual. A final chapter 
+on test driving a sampler could be useful 
+when you are ready to make a purchase. 
+If your sampler (to be) is a Casio FZ-1 or 
+Alchemy 
+TrueSquore 
+You should consider buying one of these books 
+For most of the experiments in this book, all you 
+need is your FZ, a mic, and an amp (or head- 
+phones). A tape recorder will also come in handy if 
+you have one. 
+FZ-10M (the rack-mount version of the FZ-1), then 
+the second book has specific exercises for those 
+machines. Both books explain how to splice 
+sounds, loop sounds and mix them together. Pro- 
+ducing your own studio-quality samples will always 
+be a time-consuming, trial-and-error process, but 
+the authors succeed in coaxing the determined 
+user to keep trying. It took me about an hour to set 
+levels, record a few takes and then play a cloned 
+chorus of my voice on the keys. (These books 
+need an index.) 
+— Ramon Sender Barayon 
+Here’s what you would hear with the Loop Time settings shown in 
+this example. When a key is pressed, Loops 1 through 4 will each 
+repeat three times. Next, Loop 5 (the Sustain Loop) will repeat for as 
+long as the key is held. After the key is released, Loops 6 and 7 will 
+each repeat three times. Finally, Loop 8 (the End Loop) will repeat 
+continuously until the sound fades away. The portion of the sample 
+after the end Loop will not be heard. (A Loop Time value of one 
+causes a loop to repeat three times.) 
+MOF 
+Cj 
+=e Key Held Down. ———>| =e 
+S 
+LOOP 1 LOOP2 LOOP3 LOOP 4 LOOP5 LOOP6 LOOP7 LOOPS 
+Alchemy allows your sampler to cut, copy, paste, insert, reverse, and mix samples and 
+sample fragments, and its looping feature is more powerful and easier to use than any 
+other piece of software I’ve worked with. Alchemy also allows you to edit waveforms by 
+reducing samples to their harmonic components. Or you can start from scratch and syn- 
+thesize a whole new sound by creating your own harmonic series. If you have more than 
+one sampler, Alchemy can act as a central library for samples and allow you to play all of 
+your sounds on all of the supported samplers. Another nice feature of this program is the 
+ability to create stereo sound files, which may consist of either actual stereo sampled 
+@ 
+file 
+Edit 
+Process 
+Network 
+Windows 
+speciut 
+pra Ie Sa 
+ete 
+Tl 
+Copy-protected; Macintosh 512K, Plus, SE. $495 from: Blank Software, 1477 Folsom St., San 
+Francisco, CA 94103; 415/863-9224 
+sounds, or hand-built 
+stereo images. 
+Alchemy’s power, com- 
+bined with its fast and 
+easy-to-use resynthesis 
+features, makes it almost 
+TrueSine 
+LOOP 
+LOO | 
+END-START 
+END-ST 
+i 
+Harmonic Spectrum: TtuesqQaee SF 
+essential for anyone with 
+a sampler and a Macin- 
+tosh! 
+ae Nace 
+— Paul Blankinship 
+An Alchemy screen used to 
+analyze and “re-synthesize” 
+sounds. This way, you can create 
+anew sound by editing an 
+a = -existing waveform. 
+

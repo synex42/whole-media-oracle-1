@@ -1,0 +1,153 @@
+344 
+AudioCraft 
+Randy Thom 
+1982; 183 pp. 
+$15 
+($17 postpaid) from: 
+National Federation of 
+Community Broadcasters 
+1314 14th Street NW 
+Washington, DC 20005 
+or Whole Earth Access 
+The Craft 
+of Interviewing 
+John Brady 
+1976; 244 pp. 
+$5.95 
+($6.95 postpaid) from: 
+Random House 
+Order Dept. 
+400 Hahn Road 
+Westminster, MD 21157 
+or Whole Earth Access 
+The ARRL 
+1986 Handbook 
+Mark Wilson, Editor 
+1985; 1,170 pp. 
+$1 8 postpaid from: 
+American Radio 
+Relay League 
+225 Main Street 
+Newington, CT 06111 
+or Whole Earth Access 
+COMMUNICATIONS 
+RADIO 
+AudioCraft 
+Last winter | began producing occasional news features 
+for Radio Netherlands’ Media Network program. This 
+book has been a tremendous help. Clearly written and 
+presuming no technical expertise, it gives good basic 
+advice on how to do broadcast-quality audio production 
+on a limited budget, without putting a lot of you-can’t- 
+do-that cramps on your creativity. Covers situations relevant 
+to newsgathering, concert “‘remotes,’’ radio dramas, in- 
+terviews, documentaries, recording sessions, promotional 
+“spots, ’’ etc. Intended primarily for community radio sta- 
+tions and sound artists, it should also benefit film- and 
+video-makers (author Thom won an Oscar for his sound 
+work on The Right Stuff). 
+—Robert Horvitz 
+Whenever possible, monitor the ‘’PLAYBACK”’ (‘’REPRO- 
+DUCE’) signal while recording, instead of the ‘’INPUT”’ 
+(““SOURCE”’) signal. Remember that with the meter-and- 
+output switch in the ‘’PLAYBACK”’ position you will hear 
+the actual signal that has been put on the tape, so that 
+you can hear any technical problems, such as dropout, 
+improperly threaded tape, or electronic problems as they 
+occur, rather than later (when it may be too late)... . 
+During recording, the technician should occasionally 
+JI2@UM 
+4JOF 
+3aTAH 
+1 
+D12UM 
+\ 4JOF\ 3TAH 
+| 
+\ 
+iY 
+Since most tape record- 
+oe be - = 
+iy 
+rom 
+left 
+to right, 
+this is 
+DIUM 
+3TAH 
+| 
+actually the way the 
+sounds get put on the 
+tape itself. Think about 
+it. Most tape editing is 
+= 
+simply a matter of 
+physically cutting out 
+unwanted words or phrases, and joining the remaining 
+pieces with adhesive tape. 
+switch back and forth between the “INPUT” and ’‘RE- 
+PRODUCE” positions. If the ‘“REPRODUCE” signal 
+sounds significantly different from the ‘“INPUT”’ signal, 
+something is wrong. 
+A problem occurs when two microphones are positioned 
+so that a single sound causes the element of one mike to 
+vibrate out of phase with the element of the other. For 
+this reason, it is a good idea to mix into one channel the 
+outputs of all the mikes in a multi-mike setup (sum the 
+mikes) one by one and listen for a drop in level or 
+change in frequency response (tone quality) as each 
+mike is added. If such a change occurs, you know that 
+the last mike is significantly out of phase with at least 
+one of the others. 
+The Craft of Interviewing 
+Not a brilliant book, but plenty competent enough to 
+vastly improve the level of most dumb-question-dumb- 
+answer published conversation. It also helps if interviewers 
+have studied and done a bit of field anthropology. 
+If you find yourself being an interviewee, these skills are 
+even more important, since it’s your ass on the line. 
+—Stewart Brand 
+“| think it is very important for a person to do his home- 
+work,’’ explains Manchester. ‘‘There’s nothing more 
+insulting than to ask a man, like a President of the 
+United States, a question that he’s answered many times 
+before. Then he’s quite likely to dismiss you. So what you 
+want to ask are the questions he’s never been asked 
+before, questions that show that you have a great famil- 
+iarity with his life. And then he’s likely to respect you and 
+be interested in the exchange, the colloquy.’’ In preparing 
+for his initial interview, Manchester went through a list of 
+the appointments that President Kennedy had made with 
+special assistants and cabinet advisers. He found that 
+over 80 percent of them were within a few years of the 
+President’s age. So he asked Kennedy if he were a “‘gen- 
+eration chauvinist.’’ ‘Now, he’d never thought of this, ’’ 
+says Manchester, ‘‘but he liked the idea and he played 
+with it, and it was entertaining for him. A really first-rate 
+interview with an articulate man can be fascinating for 
+him. And if he is fascinated, then it will go on and you 
+will learn more from him. It all depends on how much 
+time you spend in advance.” 
+The ARRL 1986 Handbook 
+The largest and oldest national organization of ham radio 
+operators, the American Radio Relay League, publishes a 
+wide variety of excellent books, learning aids, and how-to 
+guides, designed to serve absolute beginners as well as 
+advanced experimenters. Their annual Handbook is a 
+comprehensive reference, finely honed over the years to 
+explain radio theory and practice in the clearest, most ac- 
+curate, hands-on terms. Includes many construction pro- 
+jects. Don’t order it without asking about their other 
+goodies. 
+—Robert Horvitz 
+Parts-placement guide for the CW-receiver PC board. The 
+component side is shown with an X-ray view of the foil. This 
+guide shows the VXO layout. 
+Bill Christian, K41KR (left) and Tim Dionne, KB4BDG, operate 
+in the 1983 Field Day. During this annual, two-day event, 
+thousands of radio amateurs around the U.S. set up and 
+operate portable, emergency-powered stations. 
+¢ For the passionate radio amateur. 
+QST: Paul L. Rinaldo, Editor. $25/year (12 issues) from 
+American Radio Relay League, 225 Main Street, Newington, 
+CT 06111. 
+

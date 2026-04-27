@@ -1,0 +1,322 @@
+WHY, HOW AND WHERE 
+TO BECOME A RADIO AMATEUR 
+by Wes Plouff 
+1. Why become a radio amateur? Ham radio is a means of 
+communications proven cheap, reliable and effective. 
+During and after an emergency, ham radio has time and 
+time again been often the best and just as often the only 
+link with the outside world. With a 200-watt transceiver 
+and a modest antenna you can make friends all over the 
+world. On the other side of the coin, amateur repeater 
+stations {about 600 in the US) will let you use walkie- 
+talkies and other low-power equipment to talk over 20-50 
+mile ranges. 
+_ Ham radio is full of fascinating sidelines. Hams are 
+__ working in high-speed cw (Morse code), very low power 
+transmitters, radioteletype, moonbounce, and all types of 
+experimentation from long- to microwaves. You can send 
+fast-scan (ordinary) tv to the horizon or slow scan tv around 
+the world. The Amateur Satellite Corp. has put up Oscar 
+6, the world’s only open-access communications satellite. 
+Limited by power available to operating three days a week, 
+since November 1972 Oscar 6 has passed conversations 
+between thousands of hams around the world. Oscar 7,an 
+- 
+internationally designed and built sister ship, will go up 
+in 1974. 
+All American radio amateurs get their licenses from the 
+Federal Communications Commission. 
+Novice, or beginner's 
+licenses are free and good for two years. To get one you 
+must pass a pair of exams before another ham to prove 
+you can send and receive Morse code at five words per 
+minute and know elementary radio theory and FCC regu- 
+lations. Higher classes of licenses cost $9 for five years 
+and can be gotten only at FCC examining points. There 
+are 90 of these where FCC exams are held at least yearly, 
+including the 29 FCC offices where exams are often held 
+twice weekly. Most hams hold the General class license, 
+which requires 13 wpm code speed and intermediate theory. 
+Equipment need not be expensive. A good beginner's 
+Station costs $50- 150 with a little careful shopping. Most 
+hams would think twice about investing $1000 in ham 
+radio over ten years. Of course, home-built equipment is 
+the ham’s pride and joy, and costs as little as the builder is 
+a good parts scrounger. 
+Right now you're probably wondering, ‘‘Why all this 
+license and code hassle when | can get on the Citizens Band 
+so easily?”’ Well, a CB license takes only an application and 
+$20 fee, and most CBers don’t bother with that. But until 
+and unless the FCC cleans up the band, those 900,000 
+operators on 22 channels might best be described as 
+inhabitants of a radio zoo. 
+So, what is the price of all these ham radio goodies? Not too 
+many dollars, but a good bit of patience and dedication. You 
+might meet a few interesting people on and off the air, too. 
+1. How can you get started in amateur radio? The best way 
+is to meet a ham and talk to him. Finding your local radio 
+amateurs may not be easy. Some places to look and ask are: 
+the local newspaper, electronic wholesale stores, high school 
+radio clubs, and the Red Cross. If youcan findastore 
+_ 
+catering to hams, your problem is solved. Radio amateurs 
+often put on code and theory classes in conjunction with 
+the local school district, junior college or YMCA. If all this 
+fails, try writing to the American Radio Relay League, 
+Newington, Conn. 06111. 
+Once you've found your ham, explain to him your fascination 
+with radio communication and your willingness to devote 
+sufficient time to the hobby. The rest should take care of 
+itself. Two cautions are in order, though. First, politics 
+and religion are forbidden subjects for most amateurs; this 
+taboo has survived for good reason for several decades. 
+Second, any single woman trying to get a license will sooner 
+or later run into a widespread ‘‘this is too complicated for 
+you to understand” attitude in even the most well-intentioned 
+of hams. Beyond this, though, your ham friends will bend 
+over backward to help you. 
+Now that you’ve started on your way to earning a license, 
+get ready to buy the necessary equipment. First, get How to 
+Become a Radio Amateur, The Radio Amateur’s License 
+Manual (be sure to get a current edition), and Learning the 
+Radiotelegraph Code, three books by the ARRL. They 
+are packaged together as a “‘gateway package” which sells 
+for $2.50. Sooner or later you should buy the ARRL Radio 
+Amateur’s Handbook for $4.50. To learn the Morse code 
+you will need a good telegraph key and a code practice 
+oscillator (cpo), which may put you back another $10. 
+Headphones, which should not be the hi-fi type, will keep 
+your roommates happy for a few more dollars. 
+In order to listen to signals on the ham bands, you will need 
+a good receiver and antenna. The antenna need be nothing 
+more than a long wire strung between insulators, though for 
+best results when actually transmitting a tuned dipole 
+antenna fed in the center with coaxial cable is almost a must. 
+The receiver is half your station and the first large investment 
+you will make in amateur radio. You will want a good 
+communications receiver with a BFO or product detector. 
+Communications receivers come in four types: general 
+coverage in many small ranges, general coverage, general 
+coverage with calibrated bandspread on the ham bands, and 
+ham bands only coverage. The first kind is a deluxe receiver 
+selling for over $1000, the second undesirable because it is 
+hard to spread stations apart without bandspread. The last 
+kind is the best if you don’t care about short wave broadcasts, 
+but most good models cost considerably more than $150, 
+the price for an entire station. 
+We are left with the general coverage receiver with calibrated 
+bandspread. There are several older models which you can 
+buy used for rather little. Ask your ham friends for advice 
+and have one of them inspect any used receiver before you 
+buy. One other alternative is to build your own receiver or 
+build a kit. 
+Buying a transmitter and getting a station on the air are two 
+subjects best left to the hams helping you for explanation. 
+I1!. Where is the best place to get parts and information for 
+ham radio or electronics tinkering in general? That question 
+has no good, simple answer. In the past several years it has 
+become next to impossible to get everything you need in 
+one place, and some things are all but impossible for the 
+nonbusiness buyer to obtain. Below are some semi-random 
+thoughts on buying electronics books and parts. 
+Books: The American Radio Relay League wins this one 
+hands down. Some ARRL books are classics (the Handbook 
+and the ARRL Antenna Book) and all are guaranteed to be 
+comprehensive and cheap. Not all of them are clearly 
+written, though. Commercial book companies such as Sams 
+and TAB have an unfortunate tendency to be expensive in 
+terms of the real information they offer. Government 
+Publications (such as the Navy Radioman course) are likely 
+to be good but dated. 
+Magazines: The Big Four in amateur radio are, with 
+subscription prices: 
+QST, ARRL, Newington, Conn. 06111 ($7.50 as part of 
+ARRL dues) 
+73, Peterborough, N.H. 03458 ($7) 
+Ham Radio, Greenville, N.H. 03048 ($7) 
+CQ, Cowan Publ. Corp. 14 Vanderventer Ave., Port 
+Washington, L.1., NY 11050 ($6) 
+These magazines are often more informative than the books 
+available, and should probably be bought in the order listed. 
+Unfortunately, CQ, the worst of the four, is the only one 
+with wide newsstand distribution. Most of the popular 
+electronics magazines you find on the newsstand aren’t worth 
+a shit, so stay away from them. The only possible exception 
+to this is Radio Electronics, but that, too has been going 
+downhill. 
+Parts stores: Radio Shack and Lafayette Radio are okay for 
+Parts but considerably more expensive than most sources. 
+Your local small wholesaler may or may not sell to the 
+informed layman, but likely will sell to radio amateurs. 
+Larger wholesalers are less likely to sell to individuals, but 
+some will be very nice when you want to get hard-to-find 
+Parts. Some larger chains you might try are Newark, Allied 
+Industrial, Hamilton/Avnet and Semiconductor Specialists. 
+These stores may require a minimum amount if they have 
+to back-order for you. 
+: 
+Mail order parts: The biggies, of course, are: 
+Newark Electronics, 500 North Pulaski Road, Chicago, 
+Il. 60624 
+Allied Electronics, 2400 W. Washington Blvd., Chicago, 
+Il. 60612 
+Newark’s catalog is free, but there is a $15 minimum order. 
+Allied used to be the best catalog house before Tandy Corp. 
+(Radio Shack) took it over. Now it may become the best 
+supplier once again. Catalog $1, minimum order unknown 
+(probably $10). These two places often can supply.newer 
+Parts not listed in their catalogs. In addition, there are a 
+number of smaller outfits catering to the experimenter. Look 
+for their ads in the back of ham radio magazines. A good 
+source list appears in the construction practices chapter of 
+the ARRL Handbook, this taken from an excellent article 
+in the August (?) 1972 issue of QST. Most places have a 
+$5 minimum order. 
+Surplus parts: There are two kinds of electronic surplus 
+these days, military and industrial. The military kind is the 
+traditional outdated radio gear, built to last forever. 
+A good 
+source for this is 
+Fair Radio Sales Co., 1016 E. Eureka St., P.O. Box 1105, 
+Lima, Ohio 45802 
+‘ 
+Industrial surplus is mostly overruns and components not 
+quite up to specs. Most of it will work in noncritical 
+applications, but caveat emptor is the watchword. Look at 
+the ads for names and addresses. 
+Other sources for parts: about the cheapest source for 
+electronic parts is to get old gear and cannibalize it. Surplus 
+houses sell computer boards which are good sources for 
+digital 1Cs. Amateur radio conventions, hamventions, swap 
+and shops and flea markets can yield some bargains. 
+IV. Since 1970 | have wondered, at least once in print, why 
+Catalog and Epilog readers did not take advantage of this 
+powerful communications tool. It is more personal than 
+broadcast radio and cheaper than the telephone. The 
+technical parts of the hobby are really not too difficult. 
+Why not, then? Radiocommunication is no great mystery; 
+it is not reserved for the rich, the established or the 
+technically educated. In the Last Catalog, Stewart Brand 
+comments, “The Radio Amateur’s Handbook may be of 
+interest to the communities and enclaves who've been 
+fantasizing an underground radio net.’’ Why underground? 
+Why fantasize? 
+Wes Plouff WA8CBN 
+Port Huron, Mich. 
+March 29, 1974 
+| 
+- 
+Mail-order Electronics Firms. 
+; 
+Based mainly on the new IC (integrated circuit) silicon 
+— 
+technology, these mail-order companies are about the only 
+reliable source of ICs at reasonable prices in most parts of 
+the country, because 
+; 
+San 
+ame 
+1) The manufacturers will not sell small quantities. 
+A thousand pieces is the usual minimum they seem 
+to enjoy thinking about. 
+ees 
+2) The distributor networks for the manufacturers are 
+oriented towards high-budget labs and one-of-a-kind 
+| 
+industrial applications. They feature high prices and 
+very unreliable stocking—— the manufacturers are 
+unkind even to them. 
+The mail-order firms get around these problems by ‘tapping 
+the large nationwide experimenter market. Thus they can get 
+quantity discounts and fairly reliable delivery from the 
+manufacturers, and still maintain a profit margin on small 
+orders. 
+is 
+Specific Firms: (write for catalogs) 
+Poly Paks 
+im 
+P.O. Box 942 
+: 
+sone 
+South Lynnfield Mass 01940 
+3 
+; 
+‘ 
+(617) 245-3829 
+4 
+y 
+The largest. Smorgasbord of good components with lots 
+of junk mixed in. Somewhat disorganized. Some spec 
+sheets on request—— remember to ask. Reasonably clear 
+order form, except shipping charges explained very 
+poorly. Stay away from untested or unmarked parts. 
+_ 
+“Factory seconds” are almost always useless (except for 
+pectin ICs with separate gates, some of which may be 
+good). 
+Digi-Key Corporation 
+P.O. Box 126 
+Thief River Falls MN 56701 
+(218) 681-6674 
+¥ 
+Smaller selection than Poly Paks, but much better 
+organized and usually cheaper. Excellent combination 
+catalog and order form. No spec sheets. 
+Delta Electronics Co. 
+Box 1 
+Lynn, Mass. 01903 
+(617) 388-4705 
+Interesting catalog with some unusuai tems and a nice 
+talky format—— for those who like rea. ing catalogs. 
+Strong on transformers and used circuit voards. I’ve 
+never ordered from them, though. 
+Addenda: Spec sheets: Printed by the manufacturer, 
+these describe the product and its use. They are essential 
+to any work with semiconductors—— yet no good system 
+exists for getting them out to individuals. Again, large 
+customers have no problem here—— and the industry 
+exists for them. 
+: 
+Radio Shack: Another source of semiconductors at only 
+about triple the price you should pay. Fair variety, 
+4 
+unreliable supply. Good for emergencies, with occasional! 
+bargains. 
+; 
+Ralph Dratman 
+San Anselmo, CA 
+New Directions Radio 
+i 
+My battlefield at this moment is putting the communication 
+tool of amateur radio into the hands of people trying to 
+change themselves and the world for the better. While the 
+Project is only about 7 months along, things are going very 
+well—— due in large part to a column on Slow-Scan TV in 
+CQ, a straight-world ham magazine for the past two years, 
+and the scope of this column was recently broadened t 
+include these activities. 
+Points of contact for current information are: 
+: 
+_ 
+1. “New Directions Radio’’ column in The Mother Earth 
+News ($8.00/year, Box 70, Hendersonville, NC 
+28739) 
+é 
+2. “Cop’s Column”’ in CQ magazine ($6.00/year, 14 
+Vanderventer Ave., Port Washington, NY 11050) 
+3. Copthorne Macdonald, WO ORX, P.O. Box 483, 
+Rochester, MN 55901. 
+Hees 
+All good things, 
+Cop Macdonald 
+Australian Hams 
+wees 
+Roger Harrison reports that ‘we have just recently produced 
+a directory, covering Australia and New Zealand, for 
+- 
+Electronics and Communications freaks, radio amateurs, shot 
+wave listeners, inventors, etc.’’ Write to: 6 Up Magazine; 
+47 
+Bellast Point Rd., Birchgrove 2041 N.S.W. Australia. 
+: 
+

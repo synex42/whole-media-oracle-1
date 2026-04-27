@@ -1,0 +1,312 @@
+406 
+i 
+i 
+a 
+-_ “2 
+NOMADICS 
+CAR REPAIR 
+Basic Auto Repair Manual 
+This manual is intended to be an introduction to automo- 
+bile mechanics and the more fearsome professional shop 
+manuals. 
+It contains about all the amateur mechanic 
+needs to know in order to diagnose, repair, and maintain 
+domestic cars. 
+It is assumed that the mechanic has no 
+experience at all. All major assemblies are well illustrated 
+and explained both in principle and specifically, with 
+note made of quirks found in certain models. 
+There are 
+chapters or remarks on tools needed and how to use them 
+them, working safely, junk yard technique, on-the-road 
+repairs, and general money saving. 
+There is a very good 
+chapter on logical trouble shooting. 
+“If this is wrong, 
+try this first, this second, etc.” Included is most likely 
+diagnosis and prescription. Common repairs like 
+“putting in new points” are covered neatly. Major jobs 
+are presented so that the amateur mechanic can get 
+most of the work done before calling in expensive expert 
+help. 
+It is clearly stated when to give up, and what not 
+to attempt without expertise. 
+They even tell you how 
+much you will save, and how /ong it will take. 
+This is a 
+great book for that person trying to keep the oldie going 
+and/or who wants to understand cars in general. Well 
+worth the money. 
+—J. Baldwin 
+Basic Auto Repair 
+Manual 
+Spence Murray, Editor 
+1977; 384 pp. 
+8th Edition 
+$12.95 Postpaid from: 
+Peterson Publishing 
+Company 
+Attn: Book Fulfillment 
+6725 Sunset Boulevard 
+Los Angeles, CA 90028 
+To disassemble this Ford 
+starter, loosen and re- 
+move the brush cover 
+band, starter drive 
+Plunger lever cover and 
+the cork gasket under it. 
+BASIC BEGINNER’S TOOLS 
+1. Combination box- and open-end. wrenches, from %-in. 
+through 1 in. in increments of 1/16-in. 
+2. %-in.-drive socket set, with ratchet and breaker bar 
+3. %-in-drive spark plug socket and three extensions—a 
+short one, a long one and a flex-drive 
+4. Four screwdrivers—one short and one long of both the 
+Phillips type and the regular, flat-tip type 
+5. Pair of slip-joint pliers 
+6. Pair of needle-nose pliers 
+7. Adjustable wrench (Crescent type) 
+& Roll of mechanic's wire (cheap and very handy 
+at times) 
+9. Diagonal cutting pliers 
+10. Small stock of sundries, such as electrical tape, 
+WD-40 oil, engine degreaser, white-grease lube and 
+spray-can paints 
+11. Ball-peen hammer 
+12. Two jack stands 
+13. Scissors jack (better than bumper jack, but not as 
+expensive as a hydraulic jack) 
+i ee ee ee 
+Oe ee 
+| a 
+How to Keep Your Volkswagen Alive 
+In 1968 John Muir, a 50-year-old dropout NASA engineer 
+who‘d settled into a mixed career of science fiction 
+writing and car repair in the wide open spaces between 
+Mexico and Taos, was forced by the pressures of the 
+moment — his own wedding — into writing instructions 
+on how to do a valve job for a friend instead of helping 
+out in person as he usually did. Although the novice 
+mechanic caught her hair in the fan belt as the completed 
+engine was being tested (the book now advises a stocking 
+cap) the operation as a whole was a success. 
+The idea that 
+some kind of book might help out a lot of people who 
+had the desire to do it themselves, but lacked the exper- 
+ience, soon followed. 
+Publishers disagreed, saying there was no market for such 
+a book, so Muir sold his house to finance the publishing 
+of 2500 copies, and a new outfit in Berkeley called Book- 
+people did the distribution. 
+His book was reviewed in 
+another just-born publication, The Whole Earth Catalog. 
+That was December ‘69. Since then sales of the Idiot 
+Book, as it instantly became known, have reached 1.3 
+million, including the German and Spanish translations. 
+A 360-page 21st printing now covers all air-cooled 
+VWs through ‘79. 
+How does a simple, wire-bound book about fixing old cars 
+manage to generate a steady stream of /etters over the 
+years that read “. .. your book changed my life.“’? The 
+Idiot Book did two things well. 
+First it taught a specific 
+skill, one that had been reserved for “experts” who 
+believed in the mystification of their knowledge. 
+But 
+more importantly it opened a door in the mind as those 
+who took the risk were introduced to the rewards of 
+manual skills. When they found they could fix their 
+own car they began to go beyond other previous limita- 
+tions and take charge of their own lives. After the car 
+was fixed they took on the plumbing, the washing 
+machine, and finally built their own houses. 
+Which is 
+not to say that the Idiot Book is God’s Word delivered, 
+but reader feedback from 20 printings has reduced the 
+blemishes to almost nil, and only a small-minded nit- 
+picker could still debate such arcanums as whether 
+clogged heat risers really do produce burned rods. 
+Howard Palmer, who runs Rveeco (VW engine rebuilders 
+in Berkeley) and knows so much about VWs that Muir 
+went there to learn the fine points, brings up other 
+matters that are familiar to students of the marque, but 
+not emphasized in the book. 
+The Achilles’ heel of any 
+aircoaled engine is overheating, and as VW began to boost 
+hp their cooling systems failed to keep pace. For those 
+who seldom leave the city there’s no problem, but long 
+cruises in the summer can produce bad news in the engine 
+compartment, either the immediate grief of a thrown rod 
+or the slow debilitation that’s produced by a toasted valve. 
+Engine sealing is a good place to start in avoiding those 
+catastrophes, for that little bugger is sucking in 1300 
+cubic feet of air per minute, and if the rubber engine 
+compartment seal is shot, like most of them are, it’l/ pull 
+up air from down below that’s just passed over the 
+muffler and heater boxes and comes blazing in at 450°. 
+Recycled heat. Assuming you have an oil temp gauge and 
+are aware of the problem, a basic response is to drive 
+slower, but who’s got the self contro! when there’s still 
+200 miles between you and E/ Paso and the heat is 
+frying your brain? 
+More effective than self control is an outside oil cooler, 
+but emphasize outside, for if it’s inside the engine com- 
+partment it’s just more recycled heat, you want those 
+BTUs outside. Same with leaks in the fan shrouding 
+and the tin, the tighter the seal the more heat stays 
+off the engine. 
+So if you can keep it cool, and follow the book’s advice 
+on regular oil changes and tune-ups, your VW engine can 
+last indefinitely. Remember Muir's slogan: “Come to 
+kindly terms with your Ass for it bears you.” 
+—Dick Fugett 
+How to Keep Your 
+Volkswagen Alive 
+(A Manual of Step by 
+Step Procedures for 
+the Compleat Idiot) 
+John Muir 
+1969, 1979; 364 pp. 
+$10 postpaid from: 
+John Muir Publications 
+P.O. Box 613 
+Santa Fe, NM 87501 
+or Whole Earth 
+Household Store 
+aL 
+4 
+. 
+” 
+“ 
+7 
+ed 
+wa 
+s 
+In the VW engine,*the connecting rods splash about in 
+the oil sump and this oils the cylinder walls. While a car 
+sits all night the oil film between the pistons and cylinder 
+walls comes loose due to the action of gravity. 
+In 
+addition to this you always start the engine with a shot of 
+raw gas, either by pumping the accelerator pedal or by 
+choke action and raw gas has a tendency to wash the oil 
+off the cylinder walls. OK? All the super warm-up 
+equipment that VW hangs on their engines doesn’t change 
+this one whit. 
+| warm my engine up for the two or three 
+minutes it takes me to roll a cigarette, light it and get it 
+drawing well. | have disconnected my automatic choke 
+so | don’t have that worry, but | do pump the accelerator 
+a little to get some gas down there to start the cold 
+engine. 
+In those one-half to three minutes, depending 
+on the weather (the colder, the longer), the rods are doing 
+their thing in getting the oil on the cylinder walls, all the 
+way around; the raw gas that | pumped in has been used, 
+and there is enough of a film of oil protecting my cylinder 
+walls from being excessively worn by the passage of the 
+rings. Now when | put a load on the engine, it is the oil 
+that carries that load, not the metal. The morning warm- 
+up is the nicest thing you can possibly do for your engine. 
+Poor Richard’s Rabbit Book 
+Well, bugs and buses come, and someday they may go, 
+but there’s still 11 million of them on the road, which is 
+10 million more than there are Rabbits. But the Rabbits 
+are multiplying like mad whereas the “‘real’” VWs are no 
+longer sold in the U.S. 
+There are bugs being built in 
+Mexico and Brazil (has anyone tried bringing one in?) but 
+for most folks who want economical German machinery 
+the Rabbit is the obvious answer. 
+Muir was 60 now, and a folk hero to boot, but there was 
+this damned new VW coming out, an all new water-cooled 
+engine stuck up in front, black boxes and devious smog 
+devices everywhere, even a diesel option. A new book 
+was called for, a great challenge, but what a drag to start 
+from scratch again. However, the flow evidently aimed 
+at making the Rabbit book. Richard Sealey, a British 
+racing mechanic whom Muir had met on a trip to Europe, 
+wound up in Santa Fe, but as the Rabbit project got 
+under way in 1977 Muir died (attentively, at home, 
+with friends). 
+John Muir Publications bought the funkiest, rankest 
+Rabbit in town and Sealey crawled underneath to get 
+acquainted. 
+Three years and many Rabbits later he 
+emerged, a Perfected Master, and work on the book 
+began. So now there’s another big floppy volume out, 
+400 pages worth of Poor Richard’s Rabbit Book, a/ias 
+the new Idiot Book. 
+Precise, step by step instructions guide us in our struggle 
+with Technological Challenge, along with the wit, philo- 
+sophical commentary and great illustrations we’ve come 
+to expect from Muir publications. 
+/t’s a brand new book 
+and with shop rates.in the $25 - $30 an hour range it 
+can’t help but sell. For starters the JMP people have a 
+note from a Wisconsin VW dealer they'd shipped copies 
+to for resale. He wanted a second shipment fast since the 
+first batch had been bought out by his own mechanics. 
+So if youre moving forward (?) into the high tech era of 
+autos, you won’t find a better friend. A good number of 
+folks who first met the underside of a VW with Muir's 
+guidance went on, like myself, to careers as mechanics. 
+/t will probably happen again. Happy wrenching to 
+—Dick Fugett 
+one and all. 
+Poor Richard's 
+Rabbit Book 
+(How to Keep Your 
+Volkswagen Alive; Being 
+a Manual of Step-by- 
+Step Procedures for 
+the Compleat Idiot) 
+Richard Sealey 
+1980; 412 pp. 
+$13.50 postpaid from: 
+John Muir Publications 
+P.O. Box 613 
+Santa Fe, NM 87501 
+or Whole Earth 
+Household Store 
+| ea RETEIEE 
+Lj. 
+UR IDs 
+eT O 
+Re _ 
+| 
+9 
+Tot 
+Volkswagen Official Service Manuals 
+Resign yourself to the fact that no single manual ever 
+written will cover everything you want to know; it’s the 
+same as with cookbooks. 
+But if you’ve finished the /diot 
+Book and you still have fire in your eye then check out 
+the VW Service Manual, printed by Bentley. 
+Unlike Muir 
+the book assumes you know a little about what you‘re 
+doing, and there are plenty of good photos and diagrams 
+to help out. 
+Their dry, technical style makes us long for 
+Muir’s wit, but the great color wiring diagrams almost 
+let us forgive them. Good sections on body and frame, 
+front end work and transaxles. 
+They print numerous 
+manuals to cover models from 1966 through the Rabbits, 
+including Super Beetle, Beetle and Karmann Ghia 
+1970-79, Beetle and Karmann Ghia 1966-1969; Super 
+Beetle, Beetle and Karmann Ghia 1970-1974, Fastback 
+and Squareback 1968-1973; Rabbit/Scirocco Gasoline 
+Models 1975-1979, Station Wagon/Bus 1968-1979; 
+Rabbit Diesel 1977-1980; and Dasher 1974-1979. 
+—Dick Fugett 
+Volkswagen Official 
+As 
+Service Manual 
+$1 6.50 each from: 
+Robert Bentley, Inc. 
+872 Massachusetts Ave. 
+Cambridge, MA 02139 
+or your VW dealer 
+

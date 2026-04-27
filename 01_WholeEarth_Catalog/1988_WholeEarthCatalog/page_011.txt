@@ -1,0 +1,160 @@
+Understanding 
+Computers 
+and Cognition 
+Terry Winograd and 
+Fernando Flores 
+1987; 207 pp. 
+$12.95 postpaid from: 
+Addison-Wesley 
+Publishing Co. Inc. 
+1 Jacob Way 
+Redding, MA 01867 
+1-800-447-2226 
+What does it mean to understand something? 
+This books tries to understand understanding. 
+— Kevin Kelly 
+[Suggested by Joel Trachtenberg] 
+4 
+Living systems are cognitive systems, and living, as a 
+process, is a process of cognition. This statement is 
+valid for all organisms, with and without a nervous 
+system. 
+a 
+If we turn to computer systems, we see that for different 
+people, engaged in different activities, the existence of 
+objects and properties emerges in different kinds of 
+breaking down. As | sit here typing a draft on a word 
+processor, | think of words and they appear on my 
+screen. There is a network of equipment that includes 
+my arms and hands, a keyboard, and many complex 
+devices that mediate between it and a screen. None of 
+this equipment is present for me except when there is a 
+breaking down. 
+® 
+Reflective thought is impossible without the kind of 
+abstraction that produces blindness. The program is 
+forever limited to working within the world determined by 
+the programmer’s explicit articulation of possible objects, 
+Continuing the Conversation 
+Greg and Pat Williams, Editors. $8/year (4 issues) from: 
+Hortideas, Route 1,Box 302, Gravel Switch, KY 40328 
+606/332-7606. 
+Continuing the conversation begun by the late 
+Gregory Bateson, biologist, anthropologist, 
+psychologist, epistemologist, and teacher. To him, 
+these thickets of knowledge were sub-circuits in a 
+larger loop which he helped identify—cybernetics. 
+His finished work is frozen in books (see p. 205); 
+his unfinished cybernetics is warmly pursued in this 
+chummy, and sometimes academic, newsletter. 
+— Kevin Kelly 
+5 
+DOLPHINS HAVE NO HANDS. Having no hands, they 
+have not been able to change the world around them, so 
+perhaps the effort that humans beings have put into 
+civilization and the “taming” of the natural world has 
+been put by dolphins into changing themselves. If 
+something is amiss the human urge has been to fix 
+something else, not oneself. This is a lot more difficult if 
+you have no hands to do the fixing, so when something 
+is amiss in the dolphin world . 
+. 
+. do dolphins “fix” 
+themselves instead? Might dolphin language provide a 
+contrasting mode of communication to set up against the 
+subject/predicate structure of human language? 
+—Janie Matrisciano 
+A: Declare 
+A: Request 
+A: Counter 
+B: Reject 
+A: Withdraw 
+A: Withdraw 
+A: Withdraw 
+/ 
+Figure 5.1: The basic conversation for action 
+os eject 
+B: Withdraw 
+properties, and relations among them. It therefore 
+embodies the blindness that goes with this articulation. 
+If we look at intelligence in a broader context, however, 
+the inadequacies of a program with built-in permanent 
+blindness begin to emerge. The essence of intelligence 
+is to act appropriately when there is no simple pre- 
+definition of the problem or the space of states in which 
+to search for a solution. 
+Systemantics 
+(The Underground Text 
+of Systems Lore: How Systems 
+Really Work and How They Fail) 
+John Gall 
+1986; 319 pp. 
+$14.95 postpaid from: 
+General Systemantics Press 
+3200 W. Liberty Road 
+Ann Arbor, MI 48103 
+or Whole Earth Access 
+SUSTEMANTICS 
+The pun in the title carries the important message 
+that systems have ‘antics’—they act up, misbe- 
+have, and have their own mind. The author is 
+having fun with a serious subject, deciding rightly 
+that a sense of humor and paradox are the only 
+means to approach large systems. His insights 
+come in the form of marvelously succinct rules of 
+thumb, in the spirit of Murphy’s Law and the Peter 
+Principle. This book made me 1) not worry about 
+WHEN BIG SYSTEMS FAIL, THE FAILURE IS OFTEN BIG. 
+WHOLE SYSTEMS 
+It should be no surprise, then, that the area in 
+which artificial intelligence has had the greatest 
+difficulty is in the programming of common 
+sense. It has long been recognized that it is 
+much easier to write a program to carry out 
+abstruse formal operations than to capture the 
+common sense of a dog. This is an obvious 
+consequence of Heidegger's realization that it 
+is precisely is our “ordinary everydayness” that 
+we are immersed in readiness-to-hand. A 
+methodology by which formally defined tasks 
+can be performed with carefully designed 
+representations (making things present-at- 
+hand) does not touch on the problem of 
+blindness. We accuse people of lacking 
+common sense precisely when some representation of 
+the situation has blinded them to a space of potentially 
+relevant actions. 
+a 
+A major goal of frame formalisms was to represent 
+‘defaults’: the way things are typically, but not always. 
+For example we might want to include the fact “Dogs 
+bark” without precluding the possibility of a mute dog. 
+understanding a colossal system—you can't, 2) 
+realize you CAN change a system—by starting a 
+new one, and 3) flee from starting new systems— 
+they don’t go away. 
+—Kevin Kelly 
+Loree 
+8 
+COMPLEX SYSTEMS EXHIBIT UNEXPECTED BEHAVIOR. 
+a 
+We begin at the beginning, with the Fundamental 
+Theorem: New systems mean new problems. 
+® 
+The system always kicks back—Systems get in the 
+way—or, in slightly more elegant language: Systems 
+tend to oppose their own proper functions. 
+Sd 
+Systems tend to malfunction conspicuously just after 
+their greatest triumph. Toynbee explains this effect by 
+pointing out the strong tendency to apply a previously 
+successful strategy to the new challenge. The army is 
+now fully prepared to fight the previous war. 
+® 
+A complex system that works is invariably found to have 
+evolved from a simple system that worked. The parallel 
+proposition also appears to be true: A complex system 
+designed from scratch never works and cannot be made 
+to work. You have to start over, beginning with a working 
+simple system. 
+
