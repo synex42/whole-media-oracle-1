@@ -555,17 +555,16 @@ function buildCollage(){
       d.className = 'text-fragment';
       d.textContent = sentence;
 
-      // try up to 30 random positions, pick first non-overlapping one
+      // try up to 50 random positions, pick first non-overlapping one
       let px = MARGIN, py = MARGIN;
-      for(let attempt=0; attempt<30; attempt++){
+      for(let attempt=0; attempt<50; attempt++){
         const tx = MARGIN + Math.random() * (CW - FRAG_W - MARGIN*2);
         const ty = MARGIN + Math.random() * (CH - FRAG_H - MARGIN*2);
-        const overlaps = placed.some(b=>
-          tx < b.x + b.w + MARGIN &&
-          tx + FRAG_W + MARGIN > b.x &&
-          ty < b.y + b.h + MARGIN &&
-          ty + FRAG_H + MARGIN > b.y
-        );
+        const overlaps = placed.some(b=>{
+          const overlapX = Math.min(tx+FRAG_W, b.x+b.w) - Math.max(tx, b.x);
+          const overlapY = Math.min(ty+FRAG_H, b.y+b.h) - Math.max(ty, b.y);
+          return overlapX > 0 && overlapY > 0;
+        });
         if(!overlaps){ px=tx; py=ty; break; }
       }
       placed.push({ x:px, y:py, w:FRAG_W, h:FRAG_H });
