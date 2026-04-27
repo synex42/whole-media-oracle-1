@@ -506,17 +506,38 @@ function buildCollage(){
     bgImg.classList.add('loaded');
   }
 
-  [['8%','4%'],['55%','15%'],['28%',null]].forEach(([top,left],i)=>{
-    const img=document.createElement('img');
-    img.className='small-img';
-    img.style.top=top;
-    if(left) img.style.left=left; else img.style.right='4%';
-    const colors=['#2d2d6b','#4a1942','#0d3d29'];
-    const rem=all.length>1?shuffle(all).slice(1,4):[];
+  // shuffle sizes so each reload assigns them randomly
+  const sizes = shuffle(['12.5vw', '18.75vw', '37.5vw']);
+
+  // generate 3 random non-overlapping positions
+  const CW = window.innerWidth, CH = window.innerHeight;
+  const placed = [];
+  const rem = all.length>1 ? shuffle(all).slice(1,4) : [];
+  const colors = ['#2d2d6b','#4a1942','#0d3d29'];
+
+  for(let i=0;i<3;i++){
+    const img = document.createElement('img');
+    img.className = 'small-img';
+    img.style.maxWidth = sizes[i];
+
+    // pick random position, avoid overlaps
+    let px=60, py=60;
+    for(let attempt=0; attempt<30; attempt++){
+      const tx = 60 + Math.random() * (CW - 200);
+      const ty = 100 + Math.random() * (CH - 300);
+      const overlaps = placed.some(b=>
+        Math.abs(tx-b.x)<200 && Math.abs(ty-b.y)<150
+      );
+      if(!overlaps){ px=tx; py=ty; break; }
+    }
+    placed.push({x:px, y:py});
+    img.style.left = px+'px';
+    img.style.top  = py+'px';
+
     if(rem[i]){ img.onload=()=>setTimeout(()=>img.classList.add('loaded'),200*i); img.src=rem[i]; }
     else { img.src=placeholder(240,160,colors[i]); setTimeout(()=>img.classList.add('loaded'),400+200*i); }
     collage.appendChild(img);
-  });
+  }
 
   // text fragments — search WEC files for prism word, pick 3, place without overlap
   fetchFragments(WEC_FILES, chosenPrism, 3).then(sentences=>{
