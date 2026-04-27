@@ -221,8 +221,11 @@ async function loadDataFiles(){
         .split('\n')
         .map(l=>l.trim())
         .filter(l=>l.length>0 && !l.startsWith('#'));
+      console.log('wec_files.txt loaded:', WEC_FILES.length, 'files. First:', WEC_FILES[0]);
+    } else {
+      console.warn('wec_files.txt not ok:', r4.status);
     }
-  } catch(e){ console.warn('wec_files.txt not found'); }
+  } catch(e){ console.warn('wec_files.txt error:', e); }
 
   try {
     const r5 = await fetch('images_index.txt');
